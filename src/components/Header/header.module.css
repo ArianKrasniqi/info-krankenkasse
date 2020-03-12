@@ -1,0 +1,18 @@
+.Header {
+  border-top: 6px solid #d81f27;
+  background: white;
+}
+
+.Header nav {
+  max-width: 1200px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Header ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}

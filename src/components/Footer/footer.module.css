@@ -1,0 +1,38 @@
+.Footer {
+  background: #eeeeee;
+  padding: 40px 0px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.Footer div {
+  max-width: 1200px;
+  margin: 0px auto;
+}
+
+.Footer nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.Footer li {
+  list-style-type: none;
+}
+
+.Link {
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.Copyright {
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 500;
+  padding-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 16px;
+}

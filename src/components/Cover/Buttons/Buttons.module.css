@@ -1,0 +1,38 @@
+.Buttons {
+  position: absolute;
+  width: 800px;
+  margin-left: 200px;
+  height: 60px;
+  border-radius: 50px;
+  margin-top: -30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.Buttons button:first-child {
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.Buttons button:last-child {
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.Buttons button:first-child:after,
+.Buttons button:last-child:after {
+  content: "";
+  height: 40px;
+  margin-top: 10px;
+  width: 1px;
+
+  position: absolute;
+  left: 33.3%;
+  top: 0;
+
+  background-color: #00000050;
+}
+
+.Buttons button:last-child:after {
+  left: 66.6%;
+}
