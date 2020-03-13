@@ -1,6 +1,6 @@
 import React from "react"
 
-import classes from "./languages.module.css"
+import classes from "./Languages.module.css"
 
 const languages = () => {
   return (

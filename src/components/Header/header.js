@@ -1,9 +1,9 @@
 import React from "react"
 
-import Navigation from "./Navigation/navigation"
-import Languages from "./Languages/languages"
+import Navigation from "./Navigation/Navigation"
+import Languages from "./Languages/Languages"
 
-import classes from "./header.module.css"
+import classes from "./Header.module.css"
 
 const header = () => {
   return (

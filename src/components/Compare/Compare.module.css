@@ -1,0 +1,40 @@
+.Compare {
+  border: 1px solid #ececec;
+  background: #f6f6f6;
+  width: 100%;
+  border-radius: 7px;
+  margin: 20px 0px;
+  padding: 0px 30px;
+  box-sizing: border-box;
+}
+
+.CompareForm {
+  border: 1px solid red;
+  background: white;
+  border-radius: 7px;
+  width: 60%;
+  margin: 40px auto;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.Steps {
+  border: 1px solid blue;
+  margin: 20px auto;
+  height: 70px;
+  width: 140px;
+}
+
+.FormInputs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.LargeSelect {
+  width: 100%;
+}
+.ShortSelect {
+  width: 30%;
+}

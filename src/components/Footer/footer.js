@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import classes from "./footer.module.css"
+import classes from "./Footer.module.css"
 
 const footer = () => {
   return (

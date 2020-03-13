@@ -1,0 +1,9 @@
+.SideForm {
+  border: 1px solid red;
+  width: 280px;
+  height: 1050px;
+  float: right;
+  border-radius: 7px;
+  margin-top: 20px;
+  margin-left: 60px;
+}

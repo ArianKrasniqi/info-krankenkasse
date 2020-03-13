@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import classes from "./navigation.module.css"
+import classes from "./Navigation.module.css"
 
 const header = () => {
   return (

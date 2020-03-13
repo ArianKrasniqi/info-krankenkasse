@@ -6,11 +6,14 @@ const button = props => {
   let button = ""
   switch (props.type) {
     case "cover":
-      button = <button className={classes.Button}>{props.title}</button>
+      button = <button className={classes.Button}>{props.children}</button>
+      break
+    case "compare":
+      button = <button className={classes.Compare}>{props.children}</button>
       break
 
     default:
-      button = <button className={classes.Button}>{props.title}</button>
+      button = <button>{props.children}</button>
   }
 
   return button

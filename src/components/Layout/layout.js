@@ -1,9 +1,9 @@
 import React from "react"
 
-import Header from "../Header/header"
-import Footer from "../Footer/footer"
+import Header from "../Header/Header"
+import Footer from "../Footer/Footer"
 
-import classes from "./layout.module.css"
+import classes from "./Layout.module.css"
 
 const layout = ({ children }) => {
   return (
