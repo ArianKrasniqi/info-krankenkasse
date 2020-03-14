@@ -21,6 +21,17 @@ const text = props => {
         </p>
       )
       break
+    case "sideformSubtitle":
+      text = (
+        <p
+          className={[classes.CompareSubtitle, classes.SideformSubtitle].join(
+            " "
+          )}
+        >
+          {props.children}
+        </p>
+      )
+      break
     case "paragraph":
       text = <p className={classes.Paragraph}>{props.children}</p>
       break

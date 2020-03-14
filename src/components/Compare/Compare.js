@@ -1,5 +1,10 @@
 import React from "react"
 
+import Insurance from "./Inputs/Insurance"
+import PostalCode from "./Inputs/PostalCode"
+import City from "./Inputs/City"
+import Age from "./Inputs/Age"
+
 import Text from "../../elements/Text/Text"
 import Button from "../../elements/Button/Button"
 
@@ -14,26 +19,15 @@ const compare = () => (
       Krankenkassen Wechsel
     </Text>
 
-    <div className={classes.CompareForm}>
+    <div className={classes.CompareForm} style={{ display: "block" }}>
       <div className={classes.Steps}></div>
       <Text type="formTitle">Krankenkassen Prämien 2020 vergleichen</Text>
       <div className={classes.FormInputs}>
-        <select className={classes.LargeSelect} name="" id="">
-          <option value=""></option>
-          <option value=""></option>
-          <option value=""></option>
-        </select>
-        <input type="text" />
-        <select className={classes.ShortSelect} name="" id="">
-          <option value=""></option>
-          <option value=""></option>
-          <option value=""></option>
-        </select>
-        <select className={classes.ShortSelect} name="" id="">
-          <option value=""></option>
-          <option value=""></option>
-          <option value=""></option>
-        </select>
+        <Insurance />
+        <PostalCode />
+        <City />
+        <Age />
+        <Button type="compareSubmit"> Jetzt Prämie vergleichen </Button>
       </div>
     </div>
   </div>

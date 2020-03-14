@@ -7,11 +7,12 @@ import Compare from "../components/Compare/Compare"
 import SideForm from "../components/SideForm/SideForm"
 import ContactInfo from "../components/ContactInfo/ContactInfo"
 
-import classes from "./test.module.css"
+// import classes from "./test.module.css"
 
 export default () => (
   <Layout>
     <Cover></Cover>
+
     <Text type="title">
       Aktuelle Krankenkassenprämien für 2020: Machen Sie jetzt den
       Krankenkassenvergleich
@@ -30,9 +31,11 @@ export default () => (
       Vergleichen Sie jetzt die Prämien Ihrer Krankenkasse und sparen Sie
       mehrere Hundert Schweizer Franken im Jahr.
     </Text>
+
     <Compare />
-    {/* <div className={classes.Compare}></div> */}
+
     <SideForm />
+
     <Text type="subtitle">
       Die obligatorische Grundversicherung in der Schweiz
     </Text>
@@ -98,6 +101,7 @@ export default () => (
       Krankenkassenvergleich und finden Sie eine Absicherung, die zu Ihnen
       passt.
     </Text>
+
     <ContactInfo />
   </Layout>
 )

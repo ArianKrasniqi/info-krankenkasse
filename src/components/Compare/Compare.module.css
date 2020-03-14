@@ -9,18 +9,19 @@
 }
 
 .CompareForm {
-  border: 1px solid red;
   background: white;
   border-radius: 7px;
   width: 60%;
   margin: 40px auto;
   padding: 40px;
   box-sizing: border-box;
+  box-shadow: 4px 4px 15px -9px rgba(0, 0, 0, 0.3);
 }
 
 .Steps {
   border: 1px solid blue;
   margin: 20px auto;
+  margin-top: 0px;
   height: 70px;
   width: 140px;
 }
@@ -30,11 +31,4 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-}
-
-.LargeSelect {
-  width: 100%;
-}
-.ShortSelect {
-  width: 30%;
 }

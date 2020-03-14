@@ -11,6 +11,11 @@ const button = props => {
     case "compare":
       button = <button className={classes.Compare}>{props.children}</button>
       break
+    case "compareSubmit":
+      button = (
+        <button className={classes.CompareSubmit}>{props.children}</button>
+      )
+      break
 
     default:
       button = <button>{props.children}</button>
