@@ -43,7 +43,9 @@ const footer = () => {
             </li>
           </ul>
         </nav>
-        <p class={classes.Copyright}>Copyright © 2020 krankenkassenadmin.ch</p>
+        <p className={classes.Copyright}>
+          Copyright © 2020 krankenkassenadmin.ch
+        </p>
       </div>
     </footer>
   )

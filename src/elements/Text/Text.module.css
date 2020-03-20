@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300, 400&display=swap");
+
 .Title {
   font-size: 28px;
   line-height: 38px;
@@ -13,6 +15,12 @@
   font-family: Montserrat, sans-serif;
   /* padding-right: 60px; */
   font-weight: 400;
+}
+
+.SmallParagraph {
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
 }
 
 .Subtitle {

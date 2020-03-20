@@ -1,11 +1,16 @@
 .SideForm {
-  border: 1px solid red;
-  width: 310px;
-  height: 1050px;
+  border: 1px solid #ececec;
+  background: #fff;
+  width: 320px;
+  height: auto;
   float: right;
   border-radius: 7px;
   margin-top: 20px;
   margin-left: 60px;
   padding: 20px;
   box-sizing: border-box;
+}
+
+.Inputs {
+  margin-top: 20px;
 }

@@ -8,12 +8,17 @@ const button = props => {
     case "cover":
       button = <button className={classes.Button}>{props.children}</button>
       break
-    case "compare":
-      button = <button className={classes.Compare}>{props.children}</button>
+    case "white":
+      button = <button className={classes.White}>{props.children}</button>
       break
-    case "compareSubmit":
+    case "red":
+      button = <button className={classes.Red}>{props.children}</button>
+      break
+    case "redFullWidth":
       button = (
-        <button className={classes.CompareSubmit}>{props.children}</button>
+        <button className={[classes.Red, classes.RedFullWidth].join(" ")}>
+          {props.children}
+        </button>
       )
       break
 
