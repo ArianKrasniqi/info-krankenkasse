@@ -1,9 +1,9 @@
 import React from "react"
 
-import Input from "../../../elements/Input/Input"
+import Input from "../../../../elements/Input/Input"
 
 const compareInputs = () => (
-  <div>
+  <React.Fragment>
     <Input
       type="inputFullWidth"
       id="age-compare"
@@ -73,7 +73,7 @@ const compareInputs = () => (
       helperText="Some important helper text"
       options={["0-18 Jahre", "19-25 Jahre", "ab 25 Jahre"]}
     />
-  </div>
+  </React.Fragment>
 )
 
 export default compareInputs

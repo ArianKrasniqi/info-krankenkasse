@@ -1,0 +1,23 @@
+.Links {
+  width: 280px;
+  height: 100%;
+  float: right;
+  margin: 0px 0px 0px 30px;
+  padding: 5px 0px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.WhiteLink {
+  background: #fff;
+  height: 64px;
+  text-decoration: none;
+  color: #5c5c5c;
+  font-weight: 700;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

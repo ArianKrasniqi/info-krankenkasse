@@ -3,7 +3,7 @@ import React from "react"
 import Input from "../../../elements/Input/Input"
 
 const sideFormInputs = () => (
-  <div>
+  <React.Fragment>
     <Input type="textInput" id="name-index" label="Vorname" helperText=" " />
     <Input
       type="textInput"
@@ -89,7 +89,7 @@ const sideFormInputs = () => (
         "Wädenswil",
       ]}
     />
-  </div>
+  </React.Fragment>
 )
 
 export default sideFormInputs

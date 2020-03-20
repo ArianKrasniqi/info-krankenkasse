@@ -11,6 +11,7 @@ import classes from "./Input.module.css"
 
 const input = props => {
   let input = ""
+  let options = ""
   switch (props.type) {
     case "textInput":
       input = (
@@ -24,7 +25,6 @@ const input = props => {
       )
       break
     case "inputFullWidth":
-      let options = ""
       if (props.options) {
         options = props.options.map(option => {
           return <MenuItem value={option}> {option}</MenuItem>
@@ -53,7 +53,6 @@ const input = props => {
       break
 
     case "selectInput":
-      options = ""
       if (props.options) {
         options = props.options.map(option => {
           return <MenuItem value={option}> {option}</MenuItem>
