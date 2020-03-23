@@ -14,6 +14,14 @@ const text = props => {
     case "paragraph":
       text = <p className={classes.Paragraph}>{props.children}</p>
       break
+    case "cardParagraph":
+      let children = props.children
+      if (children.length >= 280) {
+        children = children.slice(0, 270)
+        children = children + "..."
+      }
+      text = <p className={classes.CardParagraph}>{children}</p>
+      break
     case "smallParagraph":
       text = <p className={classes.SmallParagraph}>{props.children}</p>
       break

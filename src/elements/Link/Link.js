@@ -20,6 +20,13 @@ const link = props => {
         </Link>
       )
       break
+    case "cardLink":
+      link = (
+        <Link to={props.to} className={classes.CardLink}>
+          {props.children}
+        </Link>
+      )
+      break
 
     default:
       link = <Link to={props.to}>{props.children}</Link>

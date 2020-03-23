@@ -7,6 +7,7 @@
   margin-top: -30px;
   display: flex;
   flex-direction: row;
+  box-shadow: 3px 5px 16px -13px rgba(0, 0, 0, 0.75);
 }
 
 .Buttons button:first-child {
