@@ -1,5 +1,6 @@
 .Lists {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
+  max-height: -webkit-fill-available;
 }
