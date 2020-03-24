@@ -2,6 +2,9 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout/layout"
+import Text from "../elements/Text/Text"
+import Compare from "../components/Compare/Compare"
+import ContactForm from "../components/ContactForm/ContactForm"
 
 export const query = graphql`
   query($slug: String!) {
@@ -9,7 +12,10 @@ export const query = graphql`
       frontmatter {
         title
       }
-      html
+      headings {
+        value
+        depth
+      }
     }
   }
 `
@@ -17,10 +23,25 @@ export const query = graphql`
 const Information = props => {
   return (
     <Layout>
-      <h1>{props.data.markdownRemark.frontmatter.title}</h1>
-      <div
-        dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
-      ></div>
+      <Text type="title">{props.data.markdownRemark.frontmatter.title}</Text>
+
+      {props.data.markdownRemark.headings.map(line => {
+        if (line.depth === 6) {
+          return <Text>{line.value}</Text>
+        } else if (line.depth === 2) {
+          return <Text type="subtitle">{line.value}</Text>
+        } else if (line.depth === 3) {
+          return <li>{line.value}</li>
+        } else if (line.depth === 1) {
+          return line.value === "Form" ? (
+            <Compare />
+          ) : line.value === "Form2" ? (
+            <ContactForm />
+          ) : null
+        } else {
+          return null
+        }
+      })}
     </Layout>
   )
 }

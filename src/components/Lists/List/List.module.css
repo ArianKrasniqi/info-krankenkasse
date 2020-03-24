@@ -1,0 +1,29 @@
+.List {
+  width: 22%;
+  padding: 0px 0px;
+  padding-right: 3%;
+  display: flex;
+  flex-direction: column;
+  display: inline-block;
+}
+
+.List ul {
+  padding-left: 0px;
+}
+
+.List ul > * {
+  line-height: 1.9;
+  list-style-type: none;
+}
+
+.List ul li a {
+  text-decoration: none;
+  color: #d81f27;
+  font-weight: 300;
+}
+
+.Letter {
+  border-bottom: 1px solid black;
+  line-height: 3.5;
+  color: black;
+}

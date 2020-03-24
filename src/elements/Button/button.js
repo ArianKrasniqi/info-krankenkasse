@@ -12,7 +12,11 @@ const button = props => {
       button = <button className={classes.White}>{props.children}</button>
       break
     case "red":
-      button = <button className={classes.Red}>{props.children}</button>
+      button = (
+        <button className={classes.Red} style={props.style}>
+          {props.children}
+        </button>
+      )
       break
     case "redFullWidth":
       button = (

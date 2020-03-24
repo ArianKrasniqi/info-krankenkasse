@@ -24,7 +24,30 @@ const input = props => {
         />
       )
       break
-    case "inputFullWidth":
+    case "textInputHalf":
+      input = (
+        <TextField
+          className={[classes.inputText, classes.Half].join(" ")}
+          id={props.id}
+          label={props.label}
+          defaultValue=""
+          helperText={props.helperText}
+        />
+      )
+      break
+    case "textInputQuarter":
+      input = (
+        <TextField
+          className={[classes.inputText, classes.Quarter].join(" ")}
+          id={props.id}
+          label={props.label}
+          defaultValue=""
+          helperText={props.helperText}
+        />
+      )
+      break
+
+    case "selectInput":
       if (props.options) {
         options = props.options.map(option => {
           return <MenuItem value={option}> {option}</MenuItem>
@@ -32,7 +55,7 @@ const input = props => {
       }
 
       input = (
-        <FormControl style={{ width: "100%" }}>
+        <FormControl style={props.style}>
           <InputLabel id="demo-simple-select-helper-label">
             {props.label}
           </InputLabel>
@@ -51,8 +74,7 @@ const input = props => {
         </FormControl>
       )
       break
-
-    case "selectInput":
+    case "inputFullWidth":
       if (props.options) {
         options = props.options.map(option => {
           return <MenuItem value={option}> {option}</MenuItem>
@@ -60,7 +82,7 @@ const input = props => {
       }
 
       input = (
-        <FormControl>
+        <FormControl style={{ width: "100%" }}>
           <InputLabel id="demo-simple-select-helper-label">
             {props.label}
           </InputLabel>
