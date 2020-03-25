@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Avanex"
 shortName: "Avanex"
 location: "Helsana, Zürichstrasse 130, 8600 Dübendorf"
@@ -7,9 +8,8 @@ refundPeriod: " - "
 solvencyRate: "95%"
 administrativeExpenses: " - "
 color: "#9A0940"
+description: "Die Avanex Krankenkasse agiert unter dem Dach der Helsana Versicherungsgruppe. Im Jahr 2017 erfolgte die Zusammenlegung mit dem Mutterkonzern, um den Kunden auch weiterhin günstige Versicherungspremien bieten zu können. Das Angebot in der Grund- und Zusatzversicherung deckt sich daher mit der Helsana. Bei uns finden Sie das Versicherungsangebot der Avanex im Vergleich."
 ---
-
-###### Die Avanex Krankenkasse agiert unter dem Dach der Helsana Versicherungsgruppe. Im Jahr 2017 erfolgte die Zusammenlegung mit dem Mutterkonzern, um den Kunden auch weiterhin günstige Versicherungspremien bieten zu können. Das Angebot in der Grund- und Zusatzversicherung deckt sich daher mit der Helsana. Bei uns finden Sie das Versicherungsangebot der Avanex im Vergleich.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

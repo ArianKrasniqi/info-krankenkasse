@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Klug Krankenkasse"
 shortName: "Klug"
 location: "Gubelstrasse 22, 6300 Zug"

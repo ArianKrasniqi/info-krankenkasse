@@ -1,4 +1,5 @@
 ---
+type: "info"
 title: "Krankenkasse kündigen"
 ---
 

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Compact One"
 shortName: "Compact"
 location: "Postfach 256, 3000 Bern 5"

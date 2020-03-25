@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Kolping Krankenkasse"
 shortName: "Kolping"
 location: "Wallisellenstrasse 55, Postfach 198, 8600 Dübendorf"

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "SLKK Krankenkasse"
 shortName: "SLKK"
 location: "Hofwiesenstrasse 370, Postfach, 8050 Zürich"
@@ -7,7 +8,7 @@ refundPeriod: "19"
 solvencyRate: "219%"
 administrativeExpenses: "172"
 color: "#E41C3A"
-description: "Die SLKK ist aus der Schweizerische Lehrerkrankenkasse hervorgegangen. Das Unternehmen bewirbt sich selbst als "die vernünftige Krankenkasse" und möchte bedarfsgerechte Versicherungslösungen bieten. Der Hauptsitz der Krankenversicherung befindet sich in Zürich, im Jahr 2018 hatten rund 21'1000 Versicherungsnehmer eine Grundversicherung bei ihr abgeschlossen. Ob sich ein Wechsel zur Krankenkasse lohnt, zeigt unser Vergleich."
+description: "Die SLKK ist aus der Schweizerische Lehrerkrankenkasse hervorgegangen. Das Unternehmen bewirbt sich selbst als 'die vernünftige Krankenkasse' und möchte bedarfsgerechte Versicherungslösungen bieten. Der Hauptsitz der Krankenversicherung befindet sich in Zürich, im Jahr 2018 hatten rund 21'1000 Versicherungsnehmer eine Grundversicherung bei ihr abgeschlossen. Ob sich ein Wechsel zur Krankenkasse lohnt, zeigt unser Vergleich."
 ---
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:

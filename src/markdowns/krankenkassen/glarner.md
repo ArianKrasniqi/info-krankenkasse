@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Glarner Krankenkasse"
 shortName: "Glarner"
 location: "Sernftalstrasse 33, Postfach, 8762 Schwanden"

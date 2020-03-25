@@ -7,8 +7,10 @@ const Lists = props => {
   const keys = Object.keys(props.data)
   return (
     <div className={classes.Lists}>
-      {keys.map(key => {
-        return <List letter={key} data={props.data[key]} />
+      {keys.map((key, index) => {
+        return (
+          <List key={`${key}-${index}`} letter={key} data={props.data[key]} />
+        )
       })}
     </div>
   )

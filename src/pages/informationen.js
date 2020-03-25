@@ -13,6 +13,7 @@ export default ({ children }) => {
           edges {
             node {
               frontmatter {
+                type
                 title
               }
               fields {
@@ -32,7 +33,7 @@ export default ({ children }) => {
         if (index % 2 == 0) {
           side = "right"
         }
-        return (
+        return edge.node.frontmatter.type === "info" ? (
           <Card
             to={`/informationen/${edge.node.fields.slug}`}
             title={`${edge.node.frontmatter.title}`}
@@ -45,7 +46,7 @@ export default ({ children }) => {
             Kündigung ihrer Krankenkasse erwägen viele Versicherungsnehmer, wenn
             ihr Anbieter eine P...
           </Card>
-        )
+        ) : null
       })}
     </Layout>
   )

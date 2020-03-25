@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Concordia Krankenkasse"
 shortName: "Concordia"
 location: "Bundesplatz 15, 6002 Luzern"

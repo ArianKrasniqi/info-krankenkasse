@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Assura Krankenkasse"
 shortName: "Assura"
 location: "Avenue C.-F. Ramuz 70, 1009 Pully"
@@ -7,9 +8,8 @@ refundPeriod: "34"
 solvencyRate: "113%"
 administrativeExpenses: "132"
 color: "#0071AB"
+description: "Die Assura Krankenkasse hat ihren Sitz in Pully in der Westschweiz und zählt aktuell rund 1,1 Millionen Versicherungsnehmer. Gegründet wurde der Versicherer im Jahr 1978 in der Rechtsform der Stiftung. Das Kerngeschäft bilden die Grundversicherung nach dem Schweizer Krankenversicherungsgesetz sowie diverse Zusatzversicherungen inklusive Spitalversicherung und Zahnversicherung. Die Prämieneinnahmen betrugen im Jahr 2017 rund 3,4 Milliarden Schweizer Franken. Bei uns können Sie das Angebot der Assura Krankenkasse mit anderen Versicherungen vergleichen und bequem die passende Krankenversicherung auswählen."
 ---
-
-###### Die Assura Krankenkasse hat ihren Sitz in Pully in der Westschweiz und zählt aktuell rund 1,1 Millionen Versicherungsnehmer. Gegründet wurde der Versicherer im Jahr 1978 in der Rechtsform der Stiftung. Das Kerngeschäft bilden die Grundversicherung nach dem Schweizer Krankenversicherungsgesetz sowie diverse Zusatzversicherungen inklusive Spitalversicherung und Zahnversicherung. Die Prämieneinnahmen betrugen im Jahr 2017 rund 3,4 Milliarden Schweizer Franken. Bei uns können Sie das Angebot der Assura Krankenkasse mit anderen Versicherungen vergleichen und bequem die passende Krankenversicherung auswählen.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

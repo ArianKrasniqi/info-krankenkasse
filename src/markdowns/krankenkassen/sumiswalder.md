@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sumiswalder Krankenkasse"
 shortName: "Sumiswalder"
 location: "Spitalstrasse 47, 3454 Sumiswald"

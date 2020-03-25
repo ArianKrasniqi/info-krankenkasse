@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Innova Krankenkasse"
 shortName: "Innova"
 location: "Bahnhofstrasse 4, 3073 Gümligen"

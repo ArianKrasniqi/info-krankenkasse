@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Einsiedeln Krankenkasse"
 shortName: "Einsiedeln"
 location: "Hauptstrasse 61, Postfach 57, 8840 Einsiedeln"

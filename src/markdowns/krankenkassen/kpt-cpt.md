@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "KPT Krankenkasse"
 shortName: "KPT / CPT"
 location: "Postfach, 3001 Bern"

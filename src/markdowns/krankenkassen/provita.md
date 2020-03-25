@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Provita Krankenkasse"
 shortName: "Provita"
 location: "Römerstrasse 38, 8401 Winterthur"

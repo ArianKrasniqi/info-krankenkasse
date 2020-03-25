@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Supra Krankenkasse"
 shortName: "Supra"
 location: "Groupe Mutuel, Rue des Cèdres 5, 1920 Martigny"

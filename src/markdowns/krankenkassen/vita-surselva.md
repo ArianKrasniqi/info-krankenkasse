@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Vita Surselva"
 shortName: "Vita Surselva"
 location: "Bahnhofstrasse 33, CH-7130 Ilanz"

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sansan"
 shortName: "Sansan"
 location: "Helsana-Gruppe, Postfach, 8081 Zürich"

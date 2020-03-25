@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Intras"
 shortName: "Intras"
 location: "Service Center, Postfach 3020, 6002 Luzern"

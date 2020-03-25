@@ -16,7 +16,10 @@ module.exports.onCreateNode = ({ node, actions }) => {
 
 module.exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
+
   const informationTemplate = path.resolve("./src/templates/Information.js")
+  const companyTemplate = path.resolve("./src/templates/Company.js")
+
   const res = await graphql(`
     query {
       allMarkdownRemark {
@@ -25,6 +28,9 @@ module.exports.createPages = async ({ graphql, actions }) => {
             fields {
               slug
             }
+            frontmatter {
+              type
+            }
           }
         }
       }
@@ -32,9 +38,18 @@ module.exports.createPages = async ({ graphql, actions }) => {
   `)
 
   res.data.allMarkdownRemark.edges.forEach(edge => {
+    let path = ""
+    let component = ""
+    if (edge.node.frontmatter.type === "info") {
+      path = `informationen/${edge.node.fields.slug}`
+      component = informationTemplate
+    } else if (edge.node.frontmatter.type === "krankenkasse") {
+      path = `${edge.node.fields.slug}`
+      component = companyTemplate
+    }
     createPage({
-      component: informationTemplate,
-      path: `informationen/${edge.node.fields.slug}`,
+      component,
+      path,
       context: {
         slug: edge.node.fields.slug,
       },

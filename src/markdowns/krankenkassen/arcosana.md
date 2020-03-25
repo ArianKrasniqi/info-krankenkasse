@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Arcosana Krankenkasse"
 shortName: "Arcosana"
 location: "Postfach 2550, 6002 Luzern"
@@ -7,9 +8,8 @@ refundPeriod: "8"
 solvencyRate: "92%"
 administrativeExpenses: "146"
 color: "#1C1D6C"
+description: "Die Arcosana gehört zur grössten Krankenkasse der Schweiz, der CSS Luzern. Mehr als 200'000 Versicherungsnehmer haben sich für die obligatorische Krankenpflegeversicherung der Arcosana entschieden. Suchen Sie nach einer Krankenkasse mit einem guten Preis-/Leistungsverhältnis, machen Sie bei uns den Versicherungs-Vergleich."
 ---
-
-###### Die Arcosana gehört zur grössten Krankenkasse der Schweiz, der CSS Luzern. Mehr als 200'000 Versicherungsnehmer haben sich für die obligatorische Krankenpflegeversicherung der Arcosana entschieden. Suchen Sie nach einer Krankenkasse mit einem guten Preis-/Leistungsverhältnis, machen Sie bei uns den Versicherungs-Vergleich.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

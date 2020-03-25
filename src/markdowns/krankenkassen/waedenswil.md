@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Wädenswil Krankenkasse"
 shortName: "Wädenswil"
 location: "Schönenbergstrasse 28, 8820 Wädenswil"

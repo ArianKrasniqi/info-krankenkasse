@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Easy Sana Krankenkasse"
 shortName: "Easy Sana"
 location: "Groupe Mutuel, Rue des Cèdres 5, 1919 Martigny"

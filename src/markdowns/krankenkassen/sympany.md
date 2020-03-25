@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sympany Krankenkasse"
 shortName: "Sympany"
 location: "Peter Merian-Weg 4, 4002 Basel"

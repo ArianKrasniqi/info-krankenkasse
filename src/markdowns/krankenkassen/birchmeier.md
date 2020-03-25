@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Birchmeier"
 shortName: "Birchmeier"
 location: "Hauptstrasse 22, 5444 Künten"

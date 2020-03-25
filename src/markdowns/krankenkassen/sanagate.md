@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sanagate Krankenkasse"
 shortName: "Sanagate"
 location: "Postfach 3866, 6002 Luzern"

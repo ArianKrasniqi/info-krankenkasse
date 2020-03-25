@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sana24 Krankenkasse"
 shortName: "Sana24"
 location: "Weltpoststrasse 19, 3015 Bern"

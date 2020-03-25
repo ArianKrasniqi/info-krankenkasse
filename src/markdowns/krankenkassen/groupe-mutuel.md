@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Groupe Mutuel Krankenkasse"
 shortName: "Groupe Mutuel"
 location: "Rue des Cèdres 5, 1919 Martigny"

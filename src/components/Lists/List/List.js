@@ -8,9 +8,10 @@ export default props => (
     <p className={classes.Letter}>{props.letter}</p>
     <ul>
       {props.data.map(data => {
+        const link = data.toLowerCase().replace(" ", "-")
         return (
           <li>
-            <Link to="/">{data}</Link>
+            <Link to={`/${link}`}>{data}</Link>
           </li>
         )
       })}

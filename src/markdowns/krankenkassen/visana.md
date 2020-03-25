@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Visana Krankenkasse"
 shortName: "Visana"
 location: "Weltpoststrasse 17-21, 3000 Bern"

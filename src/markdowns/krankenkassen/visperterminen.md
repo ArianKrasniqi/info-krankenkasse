@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Visperterminen Krankenkasse"
 shortName: "Visperterminen"
 location: "DLZ, 3932 Visperterminen"

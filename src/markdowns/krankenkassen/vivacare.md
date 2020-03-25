@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Vivacare"
 shortName: "Vivacare"
 location: "Weltpoststrasse 19-21, Postfach 253, 3000 Bern 15"

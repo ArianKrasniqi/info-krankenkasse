@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Helsana Krankenkasse"
 shortName: "Helsana"
 location: "Zürichstrasse 130, 8600 Dübendorf"

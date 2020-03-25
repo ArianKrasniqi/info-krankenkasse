@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Rhenusana Krankenkasse"
 shortName: "Rhenusana"
 location: "Die Rheintaler Krankenkasse, Heinrich-Wild-Strasse 210, Postfach, 9435 Heerbrugg"

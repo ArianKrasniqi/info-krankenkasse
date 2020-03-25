@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Galenos Krankenkasse"
 shortName: "Galenos"
 location: "Militärstrasse 36, 8021 Zürich"

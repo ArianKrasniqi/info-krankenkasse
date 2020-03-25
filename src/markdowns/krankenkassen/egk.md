@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "EGK"
 shortName: "EGK"
 location: "Brislachstrasse 2, 4242 Laufen"

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "CSS Krankenkasse"
 shortName: "CSS"
 location: "Postfach 2550, 6002 Luzern"

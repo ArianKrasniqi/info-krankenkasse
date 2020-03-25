@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Steffisburg Krankenkasse"
 shortName: "Steffisburg"
 location: "Unterdorfstrasse 37, Postfach 138, CH-3612 Steffisburg"

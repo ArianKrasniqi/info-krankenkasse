@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "AMB Assurance"
 shortName: "AMB"
 location: "Fondation AMB, Route de Verbier 13, 1934 Le Châble"
@@ -7,9 +8,8 @@ refundPeriod: "9"
 solvencyRate: "189%"
 administrativeExpenses: "134"
 color: "#D4003C"
+description: "Die AMB Assurance existiert unter diesem Namen seit 1996. Gegründet wurde sie aber bereits im Jahr 1958 als Allianz Gewerkschaft. Heute gehört der Versicherer zu den Krankenkassen unter dem Dach der Groupe Mutuel und bietet sowohl in der obligatorischen Grundversicherung als auch in den Zusatzversicherungen die Pakete des Mutterkonzerns an. Mehr als 12.000 Versicherungsnehmer haben sich bereits für die AMB Versicherung entschieden."
 ---
-
-###### Die AMB Assurance existiert unter diesem Namen seit 1996. Gegründet wurde sie aber bereits im Jahr 1958 als Allianz Gewerkschaft. Heute gehört der Versicherer zu den Krankenkassen unter dem Dach der Groupe Mutuel und bietet sowohl in der obligatorischen Grundversicherung als auch in den Zusatzversicherungen die Pakete des Mutterkonzerns an. Mehr als 12.000 Versicherungsnehmer haben sich bereits für die AMB Versicherung entschieden.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

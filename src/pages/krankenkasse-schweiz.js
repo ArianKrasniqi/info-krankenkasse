@@ -1,4 +1,5 @@
 import React from "react"
+import { graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/Layout/Layout"
 import Compare from "../components/Compare/Compare"
@@ -6,45 +7,79 @@ import ContactInfo from "../components/ContactInfo/ContactInfo"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
 
-export default () => {
-  const listData = {
-    A: [
-      "AMB",
-      "Agrisano",
-      "Aquilana",
-      "Arcosana",
-      "Assura",
-      "Atupri",
-      "Avanex",
-      "Avenir",
-    ],
-    B: ["Birchmeier"],
-    C: ["CSS", "Compact", "Concordia"],
-    E: ["Concordia", "Easy Sana", "Einsiedeln"],
-    G: ["Galenos", "Glarner", "Groupe Mutuel"],
-    H: ["Helsana"],
-    I: ["Innova", "Intras"],
-    K: ["KPT / CPT", "Klug", "Kolping"],
-    L: ["Luzerner Hinterland"],
-    P: ["Philos", "Progrès", "Provita"],
-    R: ["Rhenusana"],
-    S: [
-      "SLKK",
-      "Sana24",
-      "Sanagate",
-      "Sanitas",
-      "Sansan",
-      "Sodalis",
-      "Steffisburg",
-      "Sumiswalder",
-      "Supra",
-      "Swica",
-      "Sympany",
-    ],
-    V: ["Visana", "Visperterminen", "Vita Surselva", "Vivacare"],
-    W: ["Wädenswil"],
-    Ö: ["ÖKK"],
-  }
+export default ({ children }) => {
+  const data = useStaticQuery(
+    graphql`
+      query {
+        allMarkdownRemark {
+          edges {
+            node {
+              frontmatter {
+                type
+                shortName
+              }
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }
+    `
+  )
+
+  const list = {}
+
+  data.allMarkdownRemark.edges.map((edge, index) => {
+    if (edge.node.frontmatter.type === "krankenkasse") {
+      let name = edge.node.frontmatter.shortName
+      let letter = name.charAt(0)
+      if (!(letter in list)) {
+        list[letter] = []
+      }
+      list[letter].push(name)
+    }
+  })
+
+  // const listData = {
+  //   A: [
+  //     "AMB",
+  //     "Agrisano",
+  //     "Aquilana",
+  //     "Arcosana",
+  //     "Assura",
+  //     "Atupri",
+  //     "Avanex",
+  //     "Avenir",
+  //   ],
+  //   B: ["Birchmeier"],
+  //   C: ["CSS", "Compact", "Concordia"],
+  //   E: ["Concordia", "Easy Sana", "Einsiedeln"],
+  //   G: ["Galenos", "Glarner", "Groupe Mutuel"],
+  //   H: ["Helsana"],
+  //   I: ["Innova", "Intras"],
+  //   K: ["KPT / CPT", "Klug", "Kolping"],
+  //   L: ["Luzerner Hinterland"],
+  //   P: ["Philos", "Progrès", "Provita"],
+  //   R: ["Rhenusana"],
+  //   S: [
+  //     "SLKK",
+  //     "Sana24",
+  //     "Sanagate",
+  //     "Sanitas",
+  //     "Sansan",
+  //     "Sodalis",
+  //     "Steffisburg",
+  //     "Sumiswalder",
+  //     "Supra",
+  //     "Swica",
+  //     "Sympany",
+  //   ],
+  //   V: ["Visana", "Visperterminen", "Vita Surselva", "Vivacare"],
+  //   W: ["Wädenswil"],
+  //   Ö: ["ÖKK"],
+  // }
+
   return (
     <Layout>
       <div>
@@ -63,7 +98,7 @@ export default () => {
         </Text>
         <Compare />
 
-        <Lists data={listData} />
+        <Lists data={list} />
 
         <Text type="paragraph">
           Wir machen Ihnen den Wechsel der Krankenkasse leicht. Mit unserem

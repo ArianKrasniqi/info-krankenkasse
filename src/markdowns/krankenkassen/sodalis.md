@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sodalis Krankenkasse"
 shortName: "Sodalis"
 location: "sodalis gesundheitsgruppe, Furkastrasse 18, 3900 Brig-Glis"

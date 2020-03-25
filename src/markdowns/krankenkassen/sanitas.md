@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Sanitas Krankenkasse"
 shortName: "Sanitas"
 location: "Jägergasse 3, Postfach 2010, 8021 Zürich"

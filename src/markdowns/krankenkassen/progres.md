@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Progrès Krankenkasse"
 shortName: "Progrès"
 location: "Helsana-Gruppe, Postfach, 8081 Zürich"

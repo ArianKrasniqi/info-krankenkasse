@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "ÖKK Krankenkasse"
 shortName: "ÖKK"
 location: "Bahnhofstrasse 13, 7302 Landquart"

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Avenir Krankenkasse"
 shortName: "Avenir"
 location: "Groupe Mutuel, Rue des Cèdres 5, 1919 Martigny"
@@ -7,9 +8,8 @@ refundPeriod: "11"
 solvencyRate: "87%"
 administrativeExpenses: "130"
 color: "#D4003C"
+description: "Die Avenir Krankenkasse gehört seit 1997 zur Groupe Mutuel. Etwa 229'643 Personen haben sich für eine obligatorische Grundversicherung des Versicherers entschieden. Darüber hinaus bietet die Krankenversicherung auch freiwillige Zusatzversicherungen an. Mit unserem Vergleich finden Sie heraus, wie gut die Krankenkasse zu Ihren Bedürfnissen passt."
 ---
-
-###### Die Avenir Krankenkasse gehört seit 1997 zur Groupe Mutuel. Etwa 229'643 Personen haben sich für eine obligatorische Grundversicherung des Versicherers entschieden. Darüber hinaus bietet die Krankenversicherung auch freiwillige Zusatzversicherungen an. Mit unserem Vergleich finden Sie heraus, wie gut die Krankenkasse zu Ihren Bedürfnissen passt.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Aquilana Krankenkasse"
 shortName: "Aquilana"
 location: "Bruggerstrasse 46, 5401 Baden"
@@ -7,9 +8,8 @@ refundPeriod: "4"
 solvencyRate: "162%"
 administrativeExpenses: "140"
 color: "#70CFC2"
+description: "Die Aquilana Versicherungen bestehen seit 1892. Der Hauptsitz der Krankenkasse befindet sich in Bern, das Tätigkeitsgebiet umfasst die gesamte Schweiz und acht EU-Länder. Insgesamt zählt die Krankenversicherung rund 44'000 Versicherungsnehmer, der Umsatz durch Prämieneinnahmen lag im Jahr 2014 bei 170,9 Millionen Schweizer Franken. Ob die Krankenversicherung zu Ihnen passt, zeigt unser Vergleich."
 ---
-
-###### Die Aquilana Versicherungen bestehen seit 1892. Der Hauptsitz der Krankenkasse befindet sich in Bern, das Tätigkeitsgebiet umfasst die gesamte Schweiz und acht EU-Länder. Insgesamt zählt die Krankenversicherung rund 44'000 Versicherungsnehmer, der Umsatz durch Prämieneinnahmen lag im Jahr 2014 bei 170,9 Millionen Schweizer Franken. Ob die Krankenversicherung zu Ihnen passt, zeigt unser Vergleich.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

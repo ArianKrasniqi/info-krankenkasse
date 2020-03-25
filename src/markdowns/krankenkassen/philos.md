@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Philos Krankenkasse"
 shortName: "Philos"
 location: "Groupe Mutuel, Rue des Cèdres 5, Postfach, 1919 Martigny"

@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Luzerner Hinterland Krankenkasse"
 shortName: "Luzerner Hinterland"
 location: "Luzernstrasse 19, 6144 Zell"

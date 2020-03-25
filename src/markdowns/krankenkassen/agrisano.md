@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Agrisano Krankenkasse"
 shortName: "Agrisano"
 location: "Laurstrasse 10, 5201 Brugg"
@@ -7,9 +8,8 @@ refundPeriod: "21"
 solvencyRate: "133%"
 administrativeExpenses: "135"
 color: "#9DA738"
+description: "Die Agrisano Krankenkasse AG ist eine von fünf Unternehmungen der Agrisano Stiftung. Der Schweizer Bauernverband gründete die Stiftung im Jahr 1992 und entwickelt Versicherungslösungen speziell für Schweizer Bauernfamilien und deren Angestellte. Im Bereich der Krankenversicherung gehören dazu die Grundversicherung, diverse Zusatzversicherungen inklusive Spitalversicherung, Tagegeldversicherung und Zahnversicherung, und die Unfallversicherung. Mehr als 143.000 Versicherungsnehmer haben eine Grundversicherung bei der Agrisano abgeschlossen, über 76.000 Versicherungsnehmer haben das Zusatzmodell AGRI-spezial gewählt. Die Prämieneinnahmen durch die obligatorische Krankenpflegeversicherung lagen im Jahr 2017 bei 400 Millionen Schweizer Franken."
 ---
-
-###### Die Agrisano Krankenkasse AG ist eine von fünf Unternehmungen der Agrisano Stiftung. Der Schweizer Bauernverband gründete die Stiftung im Jahr 1992 und entwickelt Versicherungslösungen speziell für Schweizer Bauernfamilien und deren Angestellte. Im Bereich der Krankenversicherung gehören dazu die Grundversicherung, diverse Zusatzversicherungen inklusive Spitalversicherung, Tagegeldversicherung und Zahnversicherung, und die Unfallversicherung. Mehr als 143.000 Versicherungsnehmer haben eine Grundversicherung bei der Agrisano abgeschlossen, über 76.000 Versicherungsnehmer haben das Zusatzmodell AGRI-spezial gewählt. Die Prämieneinnahmen durch die obligatorische Krankenpflegeversicherung lagen im Jahr 2017 bei 400 Millionen Schweizer Franken.
 
 ## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
 

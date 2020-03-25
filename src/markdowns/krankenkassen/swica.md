@@ -1,4 +1,5 @@
 ---
+type: "krankenkasse"
 name: "Swica Krankenkasse"
 shortName: "Swica"
 location: "Römerstrasse 38, 8400 Winterthur"
