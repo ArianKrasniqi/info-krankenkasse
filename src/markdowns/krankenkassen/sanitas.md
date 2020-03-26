@@ -11,10 +11,6 @@ color: "#6BB023"
 description: "Die Sanitas Krankenkasse mit Sitz in Zürich zählt zu den grössten Krankenversicherern der Schweiz. Zu Beginn des Jahres 2019 hatten rund 835'000 Versicherungsnehmer dort eine Krankenversicherung abgeschlossen. Die Prämieneinnahmen belaufen sich auf 2'899 Milliarden Schweizer Franken. Neben verschiedenen Modellen der Grundversicherung bietet die Sanitas auch diverse Zusatzversicherungen und eine Zahnversicherung an. Vergleichen Sie Leistungen und Prämien und finden Sie eine Krankenversicherung, die zu Ihren Bedürfnissen passt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die vier Modelle der Sanitas Grundversicherung
 
 ###### Sie haben die Auswahl aus vier Grundversicherungs-Modellen:

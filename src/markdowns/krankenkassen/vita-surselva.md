@@ -11,10 +11,6 @@ color: "#00539B"
 description: "Die Krankenkasse Vita Surselva hat ihren Sitz in der Stadt Ilanz in der Region Surselva, gelegen im Kanton Graubünden. Aktiv ist sie allerdings in der gesamten Schweiz. Entstanden ist der Krankenversicherer im Jahr 1991 durch eine Fusion der Krankenkasse Ruis und der ÖKK Group. Heute zählt das Unternehmen rund 5'000 Versicherungsnehmer und gehört damit zu den kleineren Krankenkassen in der Schweiz."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Das Versicherungsangebot in der Grundversicherung
 
 ###### Die Vita Surselva bietet zwei Modelle der obligatorischen Grundversicherung an. Im Modell Standard (freie Arztwahl) steht es Ihnen frei, welchen Arzt Sie im Krankheitsfall aufsuchen. Sie können sich an Ihren Hausarzt wenden, eine Gruppenpraxis (HMO) aufsuchen oder direkt einen Spezialisten konsultieren.

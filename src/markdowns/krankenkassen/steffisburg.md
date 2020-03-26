@@ -11,10 +11,6 @@ color: "#0071B9"
 description: "Die Krankenkasse Steffisburg, auch KKSt genannt, gibt es bereits seit 1861. Damit gehört sie zu den ältesten Krankenversicherern in der Schweiz. In der Krankenzusatzversicherung arbeitet die KKSt seit 1997 mit einem gesamtschweizerischen Krankenversicherer zusammen und bietet Produkte, die sich nach den individuellen Bedürfnissen ihrer Kunden richten sollen."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die verschiedenen Modelle der obligatorischen Grundversicherung
 
 ###### Der Leistungsumfang der obligatorischen Krankenpflegeversicherung ist gesetzlich vorgeschrieben. Im Basismodell dürfen Versicherungsnehmer frei wählen, ob sie zunächst ihren Hausarzt, einen Arzt in einer Gruppenpraxis (HMO) oder einen Spezialisten konsultieren. Krankenkassen können neben dem Modell Standard (freie Arztwahl) jedoch weitere Modelle anbieten. Die KKSt stellt vier solcher alternativen Modelle zur Wahl:

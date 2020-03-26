@@ -11,10 +11,6 @@ color: "#F6921E"
 description: "Die Sumiswalder Krankenkasse existiert bereits seit 1823 als Kranken- und Unfallversicherer. Die Krankenversicherung ist vor allem in der Deutschschweiz tätig, mit Fokus auf den Kanton Bern und die umliegenden Kantone. Das Unternehmen zählt mehr als 27'000 Versicherungsnehmer und möchte individuell auf die Kundenbedürfnisse abgestimmte Produkte anbieten. Ob sich ein Wechsel zur Sumiswalder lohnt, zeigt unser Versicherungs-Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die verschiedenen Modelle der obligatorischen Grundversicherung
 
 ###### In der obligatorischen Grundversicherung der Sumiswalder Krankenkasse stehen drei Modelle zur Wahl: Das Modell Standard (freie Arztwahl) ist das traditionelle Modell nach Krankenversicherungsgesetz (KVG). Im Krankheitsfall entscheiden Sie selbst, welchen Arzt Sie aufsuchen: Ihren Hausarzt, einen Spezialisten oder eine Gruppenpraxis (HMO). Schliessen Sie das Hausarztmodell ab, suchen Sie sich Ihren Hausarzt aus einer Ärzteliste aus. Dieser Hausarzt ist fortan Ihr erster Ansprechpartner. Ausnahmen gibt es bei Notfällen, gynäkologischen und augenärztlichen Untersuchungen. Entscheiden Sie sich für das Modell Sumis24 (Telmed), rufen Sie im Krankheitsfall zuerst bei der telemedizinische Beratungshotline Medi24 an. Die fachmedizinischen Mitarbeiter entscheiden über den weiteren Behandlungsweg.

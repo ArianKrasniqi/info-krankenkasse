@@ -11,10 +11,6 @@ color: "#D4003C"
 description: "Die AMB Assurance existiert unter diesem Namen seit 1996. Gegründet wurde sie aber bereits im Jahr 1958 als Allianz Gewerkschaft. Heute gehört der Versicherer zu den Krankenkassen unter dem Dach der Groupe Mutuel und bietet sowohl in der obligatorischen Grundversicherung als auch in den Zusatzversicherungen die Pakete des Mutterkonzerns an. Mehr als 12.000 Versicherungsnehmer haben sich bereits für die AMB Versicherung entschieden."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Leistungen in der Grundversicherung
 
 ###### Das Angebot der obligatorischen Krankenpflegeversicherung deckt sich mit dem der Groupe Mutuell. Neben dem Modell Standard (freie Arztwahl) gibt es mehrere alternative Tarife, welche die Wahl des ersten Ansprechpartners im Krankheitsfall einschränken. Dafür profitieren Versicherungsnehmer von geringeren Prämien.

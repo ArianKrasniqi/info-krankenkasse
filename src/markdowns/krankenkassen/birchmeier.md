@@ -11,10 +11,6 @@ color: "#527676"
 description: "Die Krankenkasse Birchmeier ist ein kleiner Krankenversicherer, der exklusiv im Kreis Aargau tätig ist. Der Versicherer wirbt mit einer kundenorientierten Betreuung direkt vor Ort. Wie bei grösseren Krankenkassen haben Kunden die Wahl zwischen verschiedenen Modellen der obligatorischen Grundversicherung und der Zusatzversicherung. Hier erhalten Sie eine Leistungsübersicht."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Zwei Modelle der Grundversicherung
 
 ###### Die Aargauer Krankenkasse Birchmeier bietet zwei Modelle der Grundversicherung an: Im Modell Standard (freie Arztwahl) erhalten Sie die gesetzlich vorgegebenen Leistungen der obligatorischen Krankenpflegeversicherung. In diesem Tarif können Sie frei wählen, ob Sie im Krankheitsfall zunächst Ihren Hausarzt, eine Gruppenpraxis (HMO) oder direkt einen Spezialisten aufsuchen.

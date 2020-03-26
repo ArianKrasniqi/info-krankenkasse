@@ -11,10 +11,6 @@ color: "#231F20"
 description: "Die Innova Krankenkasse unterscheidet sich ein wenig von anderen Schweizer Krankenversicherungen. Die Holding mit Hauptsitz in Gümlingen bietet Kranken- und Unfallversicherungen für Privatpersonen und Unternehmen. Dabei hat sich der 1999 gegründete Versicherer auf den Vertrieb von Zusatzversicherungen spezialisiert und versichert Leistungen, die über die obligatorische Grundversicherung hinausgehen. Bislang haben sich rund 69'925 Privatkunden für eine Zusatzversicherung der Innova entschieden. Die Prämieneinnahmen lagen im Jahr 2018 bei 91'285 Millionen Schweizer Franken. Besonders attraktive Konditionen bietet die Krankenversicherung für Nichtraucher an. Vergleichen Sie die Leistungen und Prämien der Innova und finden Sie heraus, ob die Krankenkasse zu Ihren Bedürfnissen passt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Innova Zusatzversicherungen
 
 ###### Haben Sie eine Grundversicherung bei einer Schweizer Krankenkasse abgeschlossen, können Sie sich frei für die Zusatzversicherung eines anderen Anbieters entscheiden. Die Innova Krankenversicherung bietet Ihnen zwei Produktlinien an: sanvita und activa.

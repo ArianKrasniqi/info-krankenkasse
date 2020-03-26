@@ -11,10 +11,6 @@ color: "#D8505C"
 description: "Die Galenos Krankenkasse gibt es seit 1908. Gegründet wurde der Versicherer von Mitgliedern des Schweizerischen Technischen Verbandes STV. Im Jahr 1995 erfolgte die Öffnung für alle Schweizer, seitdem kann jeder Eidgenosse Mitglied der Krankenkasse werden. Seit Oktober 2018 gehört das Unternehmen zur Visana-Gruppe. Derzeit haben rund 12'000 Personen eine Grundversicherung bei dem Krankenversicherer mit Hauptsitz in Zürich abgeschlossen, 7'000 Personen haben sich für eine Zusatzversicherung entschieden. Der Versicherer nimmt jährlich Prämien von rund 68 Millionen Schweizer Franken ein, davon entfallen 53 Millionen Franken auf die Grundversicherung. Verschaffen Sie sich hier einen Überblick über das Angebot der Galenos Krankenversicherung und vergleichen Sie Leistungen und Prämien."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Minica und Minica-Optica: Die Galenos Grundversicherung
 
 ###### Als eine von mehr als 65 Krankenkassen in der Schweiz bietet die Galenos die obligatorische Grundversicherung für die Krankenpflege an. Das Standard-Modell trägt den Namen Minica. Die Leistungen bei Krankheit, Unfall und Mutterschaft sind gesetzlich vorgeschrieben. In der Standard-Variante besteht freie Arztwahl. Die Höhe der Prämie richtet sich nach dem Lebensalter des Versicherungsnehmers, dem Kanton und der Region. Sie können die Prämienhöhe senken, wenn Sie eine höhere Franchise wählen, also im Behandlungsfall einen höheren Eigenanteil zahlen.

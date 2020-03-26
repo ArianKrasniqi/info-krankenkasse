@@ -11,10 +11,6 @@ color: "#12AE9C"
 description: "Die Provita Holding AG mit Hauptsitz in Winterthur wurde im Jahr 1845 noch unter dem Namen Sulzer-Krankenkasse gegründet. Mittlerweile ist der traditionsreiche Versicherer Teil der Swica Krankenversicherung AG. Das Leistungsspektrum ist deckungsgleich mit dem Angebot der Swica. Laut dem Bundesamt für Gesundheit haben sich 66'798 Personen für die obligatorische Grundversicherung der Provita entschieden, der Marktanteil lag im Jahr 2016 bei 0,8 Prozent. Neben der obligatorischen Krankenversicherung können Sie auch diverse Zusatzversicherungen abschliessen, darunter auch Spitalversicherungen und eine Zahnversicherung."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Verschiedene Modelle der Provita Grundversicherung
 
 ###### Wie beim Mutterkonzern Swica können Sie bei der Provita aus verschiedenen Modellen der obligatorischen Grundversicherung wählen. In der klassischen Variante Standard besteht freie Arztwahl. Beim Modell FAVORIT CASA ist Ihre erste Anlaufstelle im Krankheitsfall Ihr Hausarzt. Beim Modell FAVORIT MEDICA wählen Sie Ihren behandelnden Arzt aus einer Ärzteliste aus. Das Modell FAVORIT MEDPHARM sieht vor, dass Sie bei Behandlungsbedarf zunächst eine Swica Partnerapotheke aufsuchen. Entscheiden Sie sich für das Modell FAVORIT SANTE, wenden Sie sich zuerst an eine Gruppenpraxis (HMO) oder das Medbase Gesundheitszentrum. FAVORIT TELMED ist ein Telemedizin Modell. Wünschen Sie ärztliche Beratung, wenden Sie sich an die kostenlose Hotline von santé24.

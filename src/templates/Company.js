@@ -42,11 +42,19 @@ const Company = props => {
         location={frontmatter.location}
         insured={frontmatter.insured}
         refundPeriod={frontmatter.refundPeriod}
-        solvecyRate={frontmatter.solvecyRate}
+        solvencyRate={frontmatter.solvencyRate}
         administrativeExpenses={frontmatter.administrativeExpenses}
       />
 
-      {props.data.markdownRemark.headings.map(line => {})}
+      {props.data.markdownRemark.headings.map(line => {
+        if (line.depth === 6) {
+          return <Text>{line.value}</Text>
+        } else if (line.depth === 2) {
+          return <Text type="subtitle">{line.value}</Text>
+        } else if (line.depth === 3) {
+          return <li>{line.value}</li>
+        }
+      })}
     </Layout>
   )
 }

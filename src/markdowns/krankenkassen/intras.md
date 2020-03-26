@@ -11,10 +11,6 @@ color: "#0093DD"
 description: "Die Intras wurde 1964 in Genf durch die Versicherungsgesellschaften Genfer, La Suisse und Vaudoise gegründet. Ab 1995 war der Versicherer in der gesamten Schweiz aktiv. Im Jahr 2008 folgte die Aufnahme in die CSS Gruppe. In der obligatorischen Krankenpflegeversicherung fällt die Intras mit günstigen Versicherungsmodellen auf. Wir zeigen Ihnen das Leistungsspektrum der Krankenversicherung im Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Versicherungsmodelle in der obligatorischen Krankenpflegeversicherung
 
 ###### Neben den gesetzlich vorgeschriebenen Leistungen in der Grundversicherung erhalten Versicherungsnehmer der Intras den gleichen Service wie bei der CSS und Arcosana, zum Beispiel Zugriff auf das digitale Kundenportal. Zudem stehen mehrere Versicherungsmodelle zur Wahl:

@@ -25,6 +25,7 @@ export default ({ children }) => {
       }
     `
   )
+
   return (
     <Layout>
       <Text type="title">Informationen zum Thema Krankenversicherung</Text>

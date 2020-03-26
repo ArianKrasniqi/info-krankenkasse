@@ -11,10 +11,6 @@ color: "#D4003C"
 description: "Die Avenir Krankenkasse gehört seit 1997 zur Groupe Mutuel. Etwa 229'643 Personen haben sich für eine obligatorische Grundversicherung des Versicherers entschieden. Darüber hinaus bietet die Krankenversicherung auch freiwillige Zusatzversicherungen an. Mit unserem Vergleich finden Sie heraus, wie gut die Krankenkasse zu Ihren Bedürfnissen passt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form 3
-
 ## Grundversicherungs-Modelle
 
 ###### Genau wie die Groupe Mutuel bietet auch die Avenir Krankenkasse verschiedene Modelle der Grundversicherung an. Im Modell Standard (freie Arztwahl) können die Versicherungsnehmer frei entscheiden, welchen Arzt sie im Krankheitsfall aufsuchen. Wer Prämien sparen möchte, kann eines der alternativen Versicherungsmodelle in Anspruch nehmen:

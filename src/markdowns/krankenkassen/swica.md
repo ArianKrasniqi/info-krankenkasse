@@ -11,10 +11,6 @@ color: "#12AE9C"
 description: "Die Swica Holding ging im Jahr 1992 aus dem Zusammenschluss vier verschiedener Krankenkassen hervor. Das Unternehmen konzentriert sich auf die Bereiche Krankenversicherung und Unfallversicherung. Der Hauptsitz befindet sich in Winterthur. Zum Angebot gehören die obligatorische Grundversicherung sowie verschiedene Zusatzversicherungen, darunter eine Spitalversicherung, Zahnversicherung und Tagegeldversicherung. Mehr als 1,3 Millionen Privatpersonen haben eine Krankenversicherung bei der Swica abgeschlossen, die Prämieneinnahmen lagen im Jahr 2018 bei 4,6 Milliarden Schweizer Franken. Vergleichen Sie das Versicherungsangebot und finden Sie die Krankenkasse, die am besten zu Ihnen passt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Swica Grundversicherung
 
 ###### Bei der Swica Krankenkasse können Privatpersonen ihre obligatorische Krankenpflegeversicherung abschliessen. Die Swica Grundversicherung steht in zwei verschiedenen Tarifen zur Wahl: Beim Standard-Modell besteht für Versicherungsnehmer uneingeschränkt freie Arztwahl. Die Prämienhöhe richtet sich nach der Franchise.

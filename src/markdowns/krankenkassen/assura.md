@@ -11,10 +11,6 @@ color: "#0071AB"
 description: "Die Assura Krankenkasse hat ihren Sitz in Pully in der Westschweiz und zählt aktuell rund 1,1 Millionen Versicherungsnehmer. Gegründet wurde der Versicherer im Jahr 1978 in der Rechtsform der Stiftung. Das Kerngeschäft bilden die Grundversicherung nach dem Schweizer Krankenversicherungsgesetz sowie diverse Zusatzversicherungen inklusive Spitalversicherung und Zahnversicherung. Die Prämieneinnahmen betrugen im Jahr 2017 rund 3,4 Milliarden Schweizer Franken. Bei uns können Sie das Angebot der Assura Krankenkasse mit anderen Versicherungen vergleichen und bequem die passende Krankenversicherung auswählen."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Verschiedene Modelle der Assura Grundversicherung
 
 ###### Die Assura Krankenversicherung bietet verschiedene Modelle der obligatorischen Grundversicherung an. Im Basis Modell geniessen Sie freie Arztwahl und freie Wahl der Apotheke. Die Prämie orientiert sich an der Höhe der Franchise, also am Selbstbehalt, Rabatte gibt es in diesem Modell nicht. Möchten Sie Ihre Prämie senken, können Sie sich für eines der alternativen Versicherungsmodelle entscheiden.

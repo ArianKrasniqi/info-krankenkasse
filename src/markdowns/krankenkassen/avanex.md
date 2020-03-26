@@ -11,10 +11,6 @@ color: "#9A0940"
 description: "Die Avanex Krankenkasse agiert unter dem Dach der Helsana Versicherungsgruppe. Im Jahr 2017 erfolgte die Zusammenlegung mit dem Mutterkonzern, um den Kunden auch weiterhin günstige Versicherungspremien bieten zu können. Das Angebot in der Grund- und Zusatzversicherung deckt sich daher mit der Helsana. Bei uns finden Sie das Versicherungsangebot der Avanex im Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Verschiedene Modelle der Grundversicherung
 
 ###### Wie alle Schweizer Krankenkassen bietet auch die Avanex die obligatorische Grundversicherung nach KVG an. Der Leistungsumfang ist gesetzlich vorgeschrieben, die Versicherungen haben jedoch eine gewisse Freiheit bei der Gestaltung der Verträge. Neben dem Basismodell Standard (freie Arztwahl) stehen drei alternative Versicherungsmodelle zur Wahl. Sie schränken die Auswahl des ersten Ansprechpartners ein, belohnen dies aber mit geringeren Prämien.

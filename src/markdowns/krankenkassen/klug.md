@@ -11,10 +11,6 @@ color: "#00498F"
 description: "Die Klug Krankenkasse ist im Kanton Zug stark verankert, bietet ihre Krankenversicherung jedoch in der gesamten Schweiz an. Im Jahr 2017 zählte der Versicherer 6'504 Versicherungsnehmer in der Grundversicherung. Neben der obligatorischen Krankenpflegeversicherung können Sie auch eine Reihe von Zusatzversicherungen abschliessen. Unser Krankenversicherung-Vergleich zeigt Ihnen, ob der passende Tarif für Sie dabei ist."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der Klug Krankenkasse
 
 ###### In der Grundversicherung bietet die Klug Krankenkasse das Basis-Modell an. Dabei handelt es sich um das Modell Standard (freie Arztwahl) der obligatorischen Krankenpflegeversicherung. Die Leistungen umfassen unter anderem:

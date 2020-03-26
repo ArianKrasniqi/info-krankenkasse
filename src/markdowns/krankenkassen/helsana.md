@@ -11,10 +11,6 @@ color: "#BA0056"
 description: "Die Helsana Krankenkasse ging im Jahr 1996 aus der Fusion der Kranken- und Unfallversicherungen Helvetia und Artisana hervor. Mit mehr als 1,9 Millionen Versicherungsnehmern und Prämieneinnahmen von 6,5 Milliarden Schweizer Franken ist sie die grösste Krankenversicherung in der Schweiz. Vergleichen Sie die Angebote der Helsana Kranken- und Zusatzversicherung und finden Sie einen geeigneten Tarif."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Helsana Grundversicherung
 
 ###### Die Helsana Krankenkasse bietet sowohl die Grundversicherung als auch Zusatzversicherungen und eine Zahnversicherung an. Die Helsana Grundversicherung können Sie in der Standardvariante oder als alternatives Versicherungsmodell (AVM) abschliessen.

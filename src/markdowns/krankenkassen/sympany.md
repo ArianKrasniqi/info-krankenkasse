@@ -11,10 +11,6 @@ color: "#ED192E"
 description: "Die Sympany Krankenkasse existiert bereit seit 1914. Gegründet wurde der Versicherer unter dem Namen Öffentliche Krankenkasse (ÖKK) Basel. In Basel befindet sich auch der Hauptsitz. Heute besteht das Unternehmen aus fünf Versicherungsgesellschaften. Im Bereich der Krankenversicherung betreut der Versicherer 259'703 Privatkunden, allein 202'270 Personen haben eine Grundversicherung abgeschlossen. Im Jahr 2018 erzielte die Krankenkasse ein Prämienvolumen von 1'048 Millionen Schweizer Franken."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Sympany Grundversicherung
 
 ###### Die Sympany Krankenkasse bietet die obligatorische Schweizer Grundversicherung in verschiedenen Varianten an. Im Standard-Modell classic haben Sie freie Arztwahl in der gesamten Schweiz und erhalten alle gesetzlichen Pflichtleistungen. Die Grundversicherung classic schliesst zudem einige Behandlungsmethoden der Alternativmedizin sowie Notfall-Behandlungen im Ausland mit ein. Die Franchise beträgt mindestens 300 Schweizer Franken pro Jahr. Wählen Sie eine höhere Franchise, können Sie Ihre Versicherungsprämien senken.

@@ -11,10 +11,6 @@ color: "#007BBE"
 description: "Die Concordia Schweizerische Kranken- und Unfallversicherung hat ihren Sitz in Luzern. Das Unternehmen nahm seine Tätigkeit bereits im Jahr 1914 auf und konzentriert sich auf das Angebot von Krankenversicherungen und Unfallversicherungen. Rund 632'000 Privatpersonen haben eine Grundversicherung bei der Krankenversicherung abgeschlossen, der Umsatz lag im Jahr 2018 bei 2,8 Milliarden Schweizer Franken. Zusätzlich zur obligatorischen Grundversicherung bietet die Krankenkasse auch mehrere Zusatzversicherungen inklusive einer Zahnversicherung und einer Reise- und Fernversicherung an. Bei uns können Sie die Prämien vergleichen und direkt ein unverbindliches Angebot der Concordia anfordern."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Concordia Grundversicherung: Drei verschiedene Modelle
 
 ###### Die obligatorische Grundversicherung stellt den Versicherungsschutz bei Krankheit, Unfall und Mutterschaft sicher. Die Concordia Krankenkasse bietet neben dem traditionellen Modell noch zwei alternative Versicherungsmodelle an, mit denen Sie Ihre Prämie reduzieren können.

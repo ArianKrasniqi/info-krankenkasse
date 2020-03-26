@@ -11,10 +11,6 @@ color: "#F7323F"
 description: "Die Einsiedeln Krankenkasse geht auf eine Unterstützerkasse der Schneider und Weber aus dem Jahr 1825 zurück, die bis 1857 existierte. Im Jahr 1871 wurde der Versicherer schliesslich als Verein der Bäcker- und Metzgerzunft gegründet. Die Krankenversicherung zeichnet sich durch eine starke Verbundenheit zur Region und ein umfassendes Leistungsangebot aus."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form 3
-
 ## Das Leistungsspektrum in der Grundversicherung
 
 ###### Die Einsiedeln Krankenkasse bietet bietet in der Grundversicherung das Modell Standard (freie Arztwahl) an. Damit steht es Ihnen frei, an wen Sie sich im Krankheitsfall wenden: an Ihren Hausarzt, eine Gruppenpraxis (HMO) oder einen Spezialisten. Der Leistungsumfang ist gesetzlich vorgeschrieben und umfasst die ambulante und stationäre Grundversorgung. Auch Notfallbehandlungen im Ausland sowie einige alternativmedizinische Behandlungen werden übernommen.

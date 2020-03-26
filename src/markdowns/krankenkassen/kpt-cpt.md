@@ -11,10 +11,6 @@ color: "#D53932"
 description: "Die Geschichte der KPT Krankenkasse mit Sitz in Bern reicht bis ins Jahr 1890 zurück. Die Krankenversicherung zählt rund 428'000 Versicherungsnehmer und erzielte im Jahr 2018 Prämieneinnahmen in Höhe von 1,77 Milliarden Schweizer Franken. In unserem Vergleich erfahren Sie mehr zum Leistungsspektrum und den Prämien der Krankenkasse."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ##Die Grundversicherung der KPT
 
 ###### Die Leistungen der obligatorischen Grundversicherung sind per Krankenversicherungsgesetz (KVG) geregelt. Das Modell Standard (freie Arztwahl) lässt Sie Ihren Arzt frei wählen. Alternative Versicherungsmodelle schränken die Wahl des ersten Ansprechpartners ein, belohnen Sie jedoch mit günstigeren Prämien. Bei der KPT Krankenkasse haben Sie vier alternative Modelle zur Auswahl:

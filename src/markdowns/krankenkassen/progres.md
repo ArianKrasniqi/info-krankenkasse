@@ -11,10 +11,6 @@ color: "#BA0056"
 description: "Die im Jahr 1903 gegründete Progres Krankenversicherung mit Sitz in Dübendorf ist seit 1991 Teil der Helsana Versicherungsgruppe. Anfang 2018 gehörten der Krankenversicherung mehr als 408'000 Grundversicherte an. Ob sich ein Wechsel zur Progres Krankenkasse lohnt, zeigt unser Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Vier Modelle der Grundversicherung
 
 ###### Die obligatorische Krankenpflegeversicherung muss jeder Einwohner der Schweiz abschliessen. Die Leistungen sind gesetzlich vorgeschrieben und bei jeder Krankenversicherung gleich. Die Höhe der Prämien unterscheidet sich jedoch zum Teil enorm. Wer Prämien sparen möchte, kann ein alternatives Versicherungsmodell wählen. Die Progres Krankenversicherung bietet insgesamt vier Modelle der obligatorischen Grundversicherung an:

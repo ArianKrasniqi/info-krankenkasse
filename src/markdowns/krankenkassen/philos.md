@@ -11,10 +11,6 @@ color: "#D4003C"
 description: "Die Philos Krankenkasse gehört genau wie die Avenir und die Easy Sana zur Versicherungsgruppe Groupe Mutuel. Mit rund 260'000 Versicherungsnehmern ist die Philos nach der Mutuel selbst die zweitgrösste Krankenversicherung der Gruppe. Der Unternehmenssitz befindet sich in Martigny. Unser Vergleich gibt Ihnen den Überblick über Prämien und Leistungen."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die verschiedenen Modelle der Grundversicherung
 
 ###### Wie die Groupe Mutuel bietet auch die Philos Krankenkasse unterschiedliche Modelle der obligatorischen Grundversicherung an. Im traditionellen Modell Standard (freie Arztwahl) wenden Sie sich bei gesundheitlichen Problemen direkt an den Arzt Ihrer Wahl oder eine Gruppenpraxis (HMO). Im Modell PrimaCare (Hausarzt) ist Ihr erster Ansprechpartner der Hausarzt. Im Modell Sanatel (Telmed) rufen Sie im Krankheitsfall zunächst eine telemedizinische Beratungsstelle an. Das Modell PrimaTel kombiniert die Vorteile des Telmed-Modells mit der Betreuung durch Ihren Hausarzt. Im Modell Ärztenetz wählen Sie Ihren Hausarzt aus einem Ärztenetz aus. Abhängig vom Wohnkanton können Sie sich im Tarif BasicPlus, Pflegenetz Genf oder Optimed versichern lassen.

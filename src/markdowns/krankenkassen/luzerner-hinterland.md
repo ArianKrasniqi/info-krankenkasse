@@ -11,10 +11,6 @@ color: "#FAB700"
 description: "Die Krankenkasse Luzerner Hinterland hat ihren Sitz in Zell und zählt rund 20'000 Mitglieder. Wie der Name andeutet, ist die Krankenversicherung stark in der Luzerner Landschaft verankert, ist insgesamt aber in zehn Kantonen tätig. Gegründet wurde sie bereits im Jahr 1905. Mehr über Leistungen und Prämien der traditionsreichen Krankenkasse erfahren Sie in unserem Versicherungs-Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der Luzerner Hinterland
 
 ###### Die Grundversicherung ist für jeden Einwohner der Schweiz obligatorisch, der Leistungsumfang ist gesetzlich vorgegeben. Der Leistungsumfang des traditionellen Modells ist daher von Krankenkasse zu Krankenkasse gleich, jedoch unterscheidet sich die Höhe der Prämien zum Teil deutlich. Darüber hinaus bieten die Versicherer unterschiedliche alternative Modelle, für die sie lukrative Prämien-Rabatte gewähren.

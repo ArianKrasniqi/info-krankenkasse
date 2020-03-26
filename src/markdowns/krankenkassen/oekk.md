@@ -11,10 +11,6 @@ color: "#E0332B"
 description: "Die Geschichte der ÖKK reicht mehr als 100 Jahre zurück. Ums Jahr 1900 herum entstehen im Kanton Graubünden mehrere öffentliche Krankenkassen. Nach dem Zweiten Weltkrieg arbeitete die Kassen enger zusammen und gründeten 1996 eine gemeinsame Krankenversicherung. Der neu entstandenen Stiftung schlossen sich 2004 auch die ÖKK Winterthur und 2009 die Krankenversicherung Flachtaal an. Der heute Unternehmenssitz befindet sich in Landquart. Die Krankenkasse zählt rund 180'000 private Versicherungsnehmer und erzielte im Jahr 2016 etwa 800 Millionen Schweizer Franken an Prämieneinnahmen."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Basis: Die ÖKK Grundversicherung
 
 ###### Die ÖKK Grundversicherung trägt den Namen Basis und übernimmt alle gesetzlichen Pflichtleistungen. Die Besonderheit: Die Krankenkasse bietet zwei verschiedene Grundversicherungen an, die Tarife der ÖKK Kranken- und Unfallversicherungen AG und KVF Krankenversicherung AG. Die Leistungen unterscheiden sich nicht, allerdings die Prämienhöhe. Der Versicherer wählt den für Sie günstigeren Tarif aus.

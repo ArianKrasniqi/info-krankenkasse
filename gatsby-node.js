@@ -19,6 +19,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
 
   const informationTemplate = path.resolve("./src/templates/Information.js")
   const companyTemplate = path.resolve("./src/templates/Company.js")
+  const glossarTemplate = path.resolve("./src/templates/Glossar.js")
 
   const res = await graphql(`
     query {
@@ -42,6 +43,12 @@ module.exports.createPages = async ({ graphql, actions }) => {
     let component = ""
     if (edge.node.frontmatter.type === "info") {
       path = `informationen/${edge.node.fields.slug}`
+      component = informationTemplate
+      if (edge.node.fields.slug === "glossar") {
+        component = glossarTemplate
+      }
+    } else if (edge.node.frontmatter.type === "glossar") {
+      path = `${edge.node.fields.slug}`
       component = informationTemplate
     } else if (edge.node.frontmatter.type === "krankenkasse") {
       path = `${edge.node.fields.slug}`

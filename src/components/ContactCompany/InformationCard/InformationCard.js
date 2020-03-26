@@ -1,6 +1,12 @@
 import React from "react"
 
+import InfoRow from "./InfoRow/InfoRow"
 import BusinessIcon from "@material-ui/icons/Business"
+import PinDropIcon from "@material-ui/icons/PinDrop"
+import SupervisorAccountIcon from "@material-ui/icons/SupervisorAccount"
+import PaymentIcon from "@material-ui/icons/Payment"
+import TrendingUpIcon from "@material-ui/icons/TrendingUp"
+import LocalAtmIcon from "@material-ui/icons/LocalAtm"
 import classes from "./informationCard.module.css"
 
 const informationCard = props => {
@@ -10,19 +16,48 @@ const informationCard = props => {
     <div className={classes.Information}>
       <h3>{props.shortname} Kontakt & Adresse</h3>
 
-      <BusinessIcon />
-      <h5>{props.name}</h5>
-      {location.map(row => {
-        return <h6>{row}</h6>
-      })}
-      <h5>Versicherte</h5>
-      <h5>{props.insured} in der Grundversicherung</h5>
-      <h5>Rückerstattungsdauer</h5>
-      <h5>Ø {props.refundPeriod} Tage</h5>
-      <h5>Solvenzquote</h5>
-      <h5>Ø {props.solvecyRate} Tage</h5>
-      <h5>Verwaltungskosten</h5>
-      <h5>{props.administrativeExpenses} CHF pro Kunde</h5>
+      <InfoRow title={props.name}>
+        <BusinessIcon />
+      </InfoRow>
+
+      <InfoRow
+        title="Standort"
+        description={location.map(row => {
+          return (
+            <span>
+              {row}
+              <br />
+            </span>
+          )
+        })}
+      >
+        <PinDropIcon />
+      </InfoRow>
+
+      <InfoRow
+        title="Versicherte"
+        description={`${props.insured} in der Grundversicherung`}
+      >
+        <SupervisorAccountIcon />
+      </InfoRow>
+
+      <InfoRow
+        title="Rückerstattungsdauer"
+        description={`Ø ${props.refundPeriod} Tage`}
+      >
+        <PaymentIcon />
+      </InfoRow>
+
+      <InfoRow title="Solvenzquote" description={`${props.solvencyRate}`}>
+        <TrendingUpIcon />
+      </InfoRow>
+
+      <InfoRow
+        title="Verwaltungskosten"
+        description={`${props.administrativeExpenses} CHF pro Kunde`}
+      >
+        <LocalAtmIcon />
+      </InfoRow>
     </div>
   )
 }

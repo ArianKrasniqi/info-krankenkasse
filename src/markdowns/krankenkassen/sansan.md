@@ -11,10 +11,6 @@ color: "#BA0056"
 description: "Die Sansan Versicherungen AG aus Dübendorf wurde 2001als eigenständiges Tochterunternehmen der Helsana Versicherungsgruppe gegründet. Seit der Markenharmonisierung 2013 kommunizierte sie unter dem Auftritt des Mutterkonzerns. 2017 erfolgte die Zusammenlegung mit der Grundversicherungstochter Progrès. Das Kerngeschäft konzentriert sich auf die obligatorische Krankenpflegeversicherung. Daneben können Versicherungsnehmer auch diverse Zusatzversicherungen abschliessen."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die obligatorische Grundversicherung der Sansan
 
 ###### Die Sansan Krankenkasse bietet dieselben Versicherungsmodelle wie die Helsana an. Die obligatorische Grundversicherung können Sie als Modell Standard (freie Arztwahl) oder als eines von drei alternativen Versicherungsmodellen abschliessen:

@@ -11,10 +11,6 @@ color: ""
 description: "Die Krankenkasse Wädenswil hat sich nach ihrem Stammsitz benannt. Die noch recht junge Krankenversicherung besteht seit 2003 und zählte im Jahr 2017 über 10'900 Versicherungsnehmer in der Grundversicherung. Ihr Tätigkeitsgebiet konzentriert sich auf die Kantone Aargau, Schwyz, Zug und Zürich. Mit unserem Vergleich finden Sie heraus, ob sich für Sie ein Wechsel der Krankenkasse lohnt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der Wädenswil Krankenkasse
 
 ###### Die Wädenswil Krankenkasse bietet die obligatorische Grundversicherung in zwei Varianten an. Im Modell Standard (freie Arztwahl) entscheiden Sie selbst, welchen Arzt Sie im Krankheitsfall aufsuchen: Hausarzt, Gruppenpraxis (HMO) oder einen Spezialisten.

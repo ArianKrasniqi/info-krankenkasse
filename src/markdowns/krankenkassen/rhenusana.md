@@ -11,10 +11,6 @@ color: "#00519E"
 description: "Die Rhenusana Versicherung aus dem Rheintal existiert seit 1944 und wurde als Betriebskrankenkasse gegründet. Bis heute bietet sie Versicherungsschutz für Krankheit, Mutterschaft und Unfall. Neben der obligatorischen Grundversicherung können Versicherungsnehmer auch diverse Zusatzversicherungen abschliessen. Ob Sie durch einen Wechsel zur Rhenusana Krankenversicherung sparen, zeigt unser Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Drei Modelle der Grundversicherung
 
 ###### Die Rhenusana Krankenkasse bietet drei Modelle der obligatorischen Krankenpflegeversicherung an: Im Modell Standard (freie Arztwahl) können Sie im Krankheitsfall einen Arzt Ihres Vertrauens aufsuchen, entweder einen Hausarzt, einen Mediziner in einer Gruppenpraxis (HMO) oder einen Spezialisten. Das Rabattmodell Hausarztsystem sieht vor, dass Sie sich im Krankheitsfall zunächst an Ihren Hausarzt wenden. Im Rabattmodell sanmed24 (Telmed) rufen Sie zuerst eine telemedizinische Beratungshotline an, die über den weiteren Behandlungsweg entscheidet und Sie bei Bedarf zum Hausarzt oder ins Spital überweist.

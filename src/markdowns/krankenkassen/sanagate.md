@@ -11,10 +11,6 @@ color: "#1C1D6C"
 description: "Erst im Jahr 2009 entstanden, gehört Sanagate zu den jungen Krankenversicherern in der Schweiz. Die Krankenkasse aus Luzern setzt auf das Online-Geschäft und möchte vor allem jungen Versicherungsnehmern eine preisgünstige Grundversicherung und Zusatzversicherungen anbieten. Der Versicherer ist eine Tochtergesellschaft der CSS-Gruppe und zählt etwa 80'000 Versicherungsnehmer. Hier können Sie die Leistungen und Prämien der Krankenkasse vergleichen."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Sanagate Grundversicherung
 
 ###### Die Grundversicherung deckt gesetzliche Pflichtleistungen bei Krankheit, Unfall und Mutterschaft ab. Im Standardmodell haben Sie freie Arztwahl. Die Prämie berechnet sich abhängig von Ihrem Wohnort und Ihrem Einkommen. Erhöhen Sie die Franchise, können Sie bis zu 43 Prozent Prämie sparen.

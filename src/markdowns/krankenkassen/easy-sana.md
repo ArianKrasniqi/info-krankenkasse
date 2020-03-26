@@ -11,10 +11,6 @@ color: "#D4003C"
 description: "Die Easy Sana Krankenkasse ist Teil der Versicherungsgruppe Groupe Mutuel und gehört mit rund 200'000 Versicherungsnehmern zu den 15 grössten Krankenversicherern in der Schweiz. Abhängig von Kanton bietet die Krankenversicherung sehr günstige Tarife, vor allem die alternativen Modelle der Grundversicherung können durch geringe Prämien überzeugen. Bei uns können Sie die Krankenkasse im Vergleich mit anderen Anbietern genauer kennen lernen."
 ---
 
-###### Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-## Form3
-
 ## Die Grundversicherung der Easy Sana
 
 ###### Das Angebot in der Grundversicherung deckt sich mit dem Mutterkonzern Groupe Mutuel. Neben dem Modell Standard (freie Arztwahl), in dem Versicherungsnehmer ihren Arzt frei wählen können, gibt es diverse alternative Versicherungsmodelle: PrimaCare (Hausarzt), SanaTel (Telmed), PrimaTel, BasicPlus und Optimed grenzen die Auswahl des ersten Ansprechpartners im Krankheitswahl ein. Bei PrimaCare wenden Sie sich zunächst an Ihren Hausarzt. Bei den Telmed-Modellen ist Ihr erster Ansprechpartner eine telemedizinische Beratungshotline, bei PrimaTel legen Sie zudem einen Hausarzt als weiteren festen Ansprechpartner fest. Bei BasicPlus und Optimed wählen Sie Ihren Hausarzt oder eine Gruppenpraxis (HMO) aus einer Liste des Easy Sana-Partnernetzes aus.

@@ -11,10 +11,6 @@ color: "#E2001A"
 description: "Die Sana24 Krankenkasse gehört zur Visana, einer der führenden Krankenversicherungen der Schweiz. Im Jahr 2018 zählte das Unternehmen mit Sitz in Bern mehr als 63'400 Versicherungsnehmer in der Grundversicherung. Daneben bietet die Krankenversicherung auch freiwillige Zusatzversicherungen an. Profitieren Sie jetzt von einem Vergleich der Prämien der Sana24 und finden Sie eine günstige Krankenkasse."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Modelle der Grundversicherung
 
 ###### Die Leistungen der obligatorischen Grundversicherung sind vom Krankenversicherungsgesetz (KVG) vorgegeben und bei jeder Krankenkasse gleich. Abhängig von Krankenversicherung und Kanton unterscheiden sich jedoch die Prämien.

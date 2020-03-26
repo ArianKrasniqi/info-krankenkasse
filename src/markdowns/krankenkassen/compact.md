@@ -11,10 +11,6 @@ color: "#6AB023"
 description: "Die Compact Grundversicherungen AG gehört zur Sanitas. Der Hauptsitz des Versicherungsunternehmes befindet sich in Zürich, dem Bundesamt für Gesundheit zufolge haben rund 43'000 Personen eine Versicherung bei der Krankenkasse abgeschlossen. Neben Modellen der obligatorischen Grundversicherung bietet die Compact auch diverse Zusatzversicherungen an."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der Compact Krankenkasse
 
 ###### Die Compact Grundversicherungen AG ist mittlerweile komplett in die Sanitas Krankenkasse integriert. Daher bietet sie sowohl in der Grund- als auch in der Zusatzversicherung dieselben Modelle an. Folgende Tarife stehen in der obligatorischen Krankenpflegeversicherung zur Wahl:

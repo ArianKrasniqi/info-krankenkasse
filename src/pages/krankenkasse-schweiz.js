@@ -7,11 +7,13 @@ import ContactInfo from "../components/ContactInfo/ContactInfo"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
 
+const list = {}
+
 export default ({ children }) => {
   const data = useStaticQuery(
     graphql`
       query {
-        allMarkdownRemark {
+        allMarkdownRemark(sort: { fields: fields___slug }) {
           edges {
             node {
               frontmatter {
@@ -28,8 +30,6 @@ export default ({ children }) => {
     `
   )
 
-  const list = {}
-
   data.allMarkdownRemark.edges.map((edge, index) => {
     if (edge.node.frontmatter.type === "krankenkasse") {
       let name = edge.node.frontmatter.shortName
@@ -40,45 +40,6 @@ export default ({ children }) => {
       list[letter].push(name)
     }
   })
-
-  // const listData = {
-  //   A: [
-  //     "AMB",
-  //     "Agrisano",
-  //     "Aquilana",
-  //     "Arcosana",
-  //     "Assura",
-  //     "Atupri",
-  //     "Avanex",
-  //     "Avenir",
-  //   ],
-  //   B: ["Birchmeier"],
-  //   C: ["CSS", "Compact", "Concordia"],
-  //   E: ["Concordia", "Easy Sana", "Einsiedeln"],
-  //   G: ["Galenos", "Glarner", "Groupe Mutuel"],
-  //   H: ["Helsana"],
-  //   I: ["Innova", "Intras"],
-  //   K: ["KPT / CPT", "Klug", "Kolping"],
-  //   L: ["Luzerner Hinterland"],
-  //   P: ["Philos", "Progrès", "Provita"],
-  //   R: ["Rhenusana"],
-  //   S: [
-  //     "SLKK",
-  //     "Sana24",
-  //     "Sanagate",
-  //     "Sanitas",
-  //     "Sansan",
-  //     "Sodalis",
-  //     "Steffisburg",
-  //     "Sumiswalder",
-  //     "Supra",
-  //     "Swica",
-  //     "Sympany",
-  //   ],
-  //   V: ["Visana", "Visperterminen", "Vita Surselva", "Vivacare"],
-  //   W: ["Wädenswil"],
-  //   Ö: ["ÖKK"],
-  // }
 
   return (
     <Layout>

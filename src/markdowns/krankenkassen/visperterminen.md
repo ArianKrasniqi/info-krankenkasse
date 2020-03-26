@@ -11,10 +11,6 @@ color: "#005484"
 description: "Die Krankenkasse Visperterminen ist ein regionaler Krankenversicherer für private Kunden in der Region Oberwallis. Als relativ kleine Krankenversicherung setzt das Unternehmen auf eine persönliche Beratung und enge Verbundenheit zur Region. Zum Angebot gehören neben der obligatorischen Grundversicherung auch diverse Zusatzversicherungen, darunter eine Produktlinie speziell für Nichtraucher."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Drei Modelle der Grundversicherung
 
 ###### Die Krankenkasse Visperterminen bietet drei Modelle der obligatorischen Krankenversicherung. In jedem Modell erhalten Sie dieselben, gesetzlich vorgeschriebenen Leistungen. Der Unterschied besteht lediglich darin, an welchen Arzt Sie sich im Krankheitsfall wenden können.

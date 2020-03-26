@@ -34,11 +34,11 @@ const compare = props => {
       </div>
       <InformationCard
         name={props.name}
-        shortname={props.shortName}
+        shortname={props.shortname}
         location={props.location}
         insured={props.insured}
         refundPeriod={props.refundPeriod}
-        solvecyRate={props.solvecyRate}
+        solvencyRate={props.solvencyRate}
         administrativeExpenses={props.administrativeExpenses}
       />
     </div>

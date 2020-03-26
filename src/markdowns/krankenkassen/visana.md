@@ -11,10 +11,6 @@ color: "#E20119"
 description: "Die Visana Krankenversicherung mit Sitz in Bern ging im Jahr 1996 aus dem Zusammenschluss der Versicherer KKB, Grütli und Evidenzia hervor. Sie zählt aktuell 698'000 Versicherungsnehmer in der obligatorischen Grundversicherung, das entspricht einem Marktanteil von 7,3 Prozent. Der Prämienertrag beläuft sich auf rund 3,3 Milliarden Schweizer Franken. Neben der Grundversicherung bietet die Krankenkasse auch diverse freiwillige Zusatzversicherungen an."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Visana Grundversicherung
 
 ###### Mit einer durchschnittlichen Prämienhöhe von 504.90 Schweizer Franken gehört die Visana 2019 zu den teureren Krankenkassen in der Schweiz. Die Leistungen der Grundversicherung gehen dafür über die gesetzlichen Pflichtleistungen hinaus. Das Standard-Modell schliesst auch einen Gesundheitsrechtsschutz und eine kostenlose telemedizinische Beratung mit ein. Ausserdem haben Sie freie Arztwahl und können selbst entscheiden, ob Sie Ihren Hausarzt, einen Spezialisten oder ein Spital aufsuchen.

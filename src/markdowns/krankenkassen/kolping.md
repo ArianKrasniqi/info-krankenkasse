@@ -11,10 +11,6 @@ color: "#009BAB"
 description: "Die Kolping Krankenkasse ist seit 2016 Teil der Sympany Versicherungsgruppe. Gegründet wurde sie bereits 1885 und ist damit die älteste Krankenversicherung in der Schweiz. Der Firmensitz befindet sich in Basel. Allein in der obligatorischen Grundversicherung zählt der Mutterkonzern Sympany mehr als 202.000 Versicherungsnehmer. Ob die Kolping Krankenkasse zu Ihren Bedürfnissen passt, zeigt unser Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Modelle der obligatorischen Grundversicherung
 
 ###### Die Leistungen der obligatorischen Grundversicherung sind gesetzlich vorgegeben. Wer Prämien sparen möchte, kann sich für ein alternatives Versicherungsmodell entscheiden. Das schränkt die Auswahl des ersten Ansprechpartners im Krankheitsfall ein, dafür gewährt die Krankenversicherung Rabatte.

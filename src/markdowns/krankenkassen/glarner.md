@@ -11,10 +11,6 @@ color: "#84C341"
 description: "Die Glarner Krankenversicherung gehört zu den kleineren Krankenkassen in der Schweiz und zählt etwas über 7'700 Versicherungsnehmer. Ihren Sitz hat die Krankenkasse im Kanton Glarus. Ihren Kunden bietet die Krankenversicherung neben der obligatorischen Grundversicherung auch freiwillige Zusatzversicherungen an. Unser Vergleich zeigt Ihnen, wie gut die Krankenkasse im Vergleich aufgestellt ist."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-## Die Grundversicherung der Glarner Krankenversicherung
-
 ###### Die obligatorische Grundversicherung bietet die Krankenversicherung für die Kantone Glarus, Schwyz und St. Gallen an. Die Leistungen entsprechen dem Schweizer Krankenversicherungsgesetz (KVG) und decken die grundlegende medizinische Versorgung bei Krankheit oder Unfall ab. Die Krankenversicherung bietet lediglich das Modell Standard (freie Arztwahl), in dem Sie frei wählen können, welchen Arzt Sie im Krankheitsfall aufsuchen. Alternative Versicherungsmodelle wie ein Hausarzt-Modell, ein Gruppenpraxis (HMO)-Modell oder ein TelMed-Modell gibt es nicht.
 
 ## Zusatzversicherung für Familien

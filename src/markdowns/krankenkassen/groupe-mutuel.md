@@ -11,10 +11,6 @@ color: "#D4003C"
 description: "Mit rund 1,44 Millionen Versicherungsnehmern ist die Groupe Mutuel Krankenkasse der zweitgrösste Krankenversicherer der Schweiz. Zur Gruppe gehören vier Krankenkassen, die Philos AG, die Avenir AG, die Easy Sana AG und die AMB Asssurance. Der Umsatz im Bereich der Krankenversicherung liegt bei 3,7 Milliarden Schweizer Franken. Für Privatkunden bietet die Groupe Mutuel sowohl eine Grundversicherung als auch Zusatzversicherungen inklusive einer Zahnversicherung an. Vergleichen Sie die Tarife und finden Sie eine Krankenversicherung, die zu Ihnen passt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Groupe Mutuel Grundversicherung
 
 ###### In der Groupe Mutuel Grundversicherung haben Sie die Wahl zwischen verschiedenen Modellen. Die traditionelle Grundversicherung übernimmt die Kosten bei Krankheit, Schwangerschaft, Unfall und für kassenpflichtige Medikamente. Sie haben freie Arztwahl. Die Prämienhöhe richtet sich nach der Höhe der Franchise (Selbstbehalt).

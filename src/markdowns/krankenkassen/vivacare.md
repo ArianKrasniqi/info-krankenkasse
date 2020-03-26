@@ -11,10 +11,6 @@ color: "#E2001A"
 description: "Die Vivacare gehört zur Visana Versicherungsgruppe. Ihren Hauptsitz hat die AG in Bern. Allein in der Grundversicherung zählt sie mehr als 45'000 Versicherungsnehmer. Sowohl in der obligatorischen Krankenpflegeversicherung als auch in der Zusatzversicherung stützt sich die Krankenkasse auf das Leistungsangebot der Visana und bietet vor allem für Familien attraktive Produkte an."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Mehrere Modelle der Grundversicherung
 
 ###### Die Vivacare Krankenkasse bietet mehrere Modelle der obligatorischen Krankenpflegeversicherung. Im Modell Standard (freie Arztwahl) entscheiden Sie selbst über den Arzt Ihres Vertrauens. Daneben stehen verschiedene alternative Versicherungsmodelle zur Wahl:

@@ -11,10 +11,6 @@ color: "#803689"
 description: "Die Gesundheitsgruppe Sodalis ist im Oberwallis ansässig und betreut dort seit mehr als 50 Jahren einen wachsenden Kundenstamm. Im Jahr 2018 zählte die Krankenkasse rund 36'000 Versicherungsnehmer in der Grundversicherung. Neben der obligatorischen Krankenpflegeversicherung bietet das Unternehmen auch eine Reihe von Zusatzversicherungen an. Schauen Sie sich Leistungen und Prämien der Krankenversicherung im Vergleich an und finden Sie heraus, ob sich ein Wechsel lohnt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Drei Modelle der Grundversicherung
 
 ###### Die Sodalis Krankenkasse bietet drei Modelle der obligatorischen Grundversicherung an:

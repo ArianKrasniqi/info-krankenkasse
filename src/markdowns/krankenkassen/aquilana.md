@@ -11,10 +11,6 @@ color: "#70CFC2"
 description: "Die Aquilana Versicherungen bestehen seit 1892. Der Hauptsitz der Krankenkasse befindet sich in Bern, das Tätigkeitsgebiet umfasst die gesamte Schweiz und acht EU-Länder. Insgesamt zählt die Krankenversicherung rund 44'000 Versicherungsnehmer, der Umsatz durch Prämieneinnahmen lag im Jahr 2014 bei 170,9 Millionen Schweizer Franken. Ob die Krankenversicherung zu Ihnen passt, zeigt unser Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der Aquilana: Standard und Hausarzt-Modell CASAMED
 
 ###### Innerhalb der Grundversicherung stehen Ihnen zwei Tarifmodelle zur Wahl. Das Modell OKP Standard (freie Arztwahl) bietet die im Bundesgesetz über die Krankenversicherung (KVG) definierten Leistungen.

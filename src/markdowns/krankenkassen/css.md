@@ -11,10 +11,6 @@ color: "#1C1D6C"
 description: "Die CSS Krankenversicherung besteht bereits seit dem Jahr 1899. Die Abkürzung steht für Christlichsoziale Krankenkasse der Schweiz. Ihren Hauptsitz hat die Versicherung in Luzern. Rund 1,34 Millionen Versicherte sind Mitglied der obligatorischen Grundversicherung. Insgesamt zählt das Unternehmen 1,7 Millionen Kunden, das jährliche Prämienvolumen beträgt 6,17 Milliarden Schweizer Franken. Zur Versicherungsgruppe gehören auch die Arcosana, die Intras und die Sanagate Krankenkasse."
 ---
 
-###### Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-## Form3
-
 ## Vier Varianten der CSS Grundversicherung
 
 ###### Die CSS Grundversicherung erhalten Sie in vier verschiedenen Varianten. Das Standard-Modell ist die obligatorische Krankenversicherung mit freier Arztwahl. Wer die Versicherungsprämie reduzieren möchte, kann sich für eines von drei alternativen Versicherungsmodellen entscheiden:

@@ -11,10 +11,6 @@ color: "#ED1343"
 description: "Im Jahr 1846 wurde die Supra Caisse-maladie im Waadtland gegründet. Bis in die 1990er Jahre hinein war die in Lausanne ansässige Krankenkasse vor allem in der Westschweiz tätig. Heute gehört sie zur Groupe Mutuel und bietet die Grundversicherung sowie diverse Zusatzversicherungen in der gesamten Schweiz an. Unser Vergleich zeigt Ihnen, ob sich ein Wechsel zur Supra Krankenversicherung lohnt."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die diversen Modelle der Grundversicherung
 
 ###### Als Teil der Groupe Mutuel bietet die Supra Krankenkasse dieselbe Auswahl an Grundversicherungsmodellen an. Im Modell Standard (freie Arztwahl) wählen Versicherungsnehmer selbst, welchen Arzt sie im Krankheitsfall aufsuchen. Daneben stehen diverse alternative Versicherungsmodelle zur Wahl:

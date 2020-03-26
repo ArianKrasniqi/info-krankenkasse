@@ -11,10 +11,6 @@ color: "#324AB5"
 description: "Die Atupri Krankenkasse wurde 1910 gegründet, als Betriebskrankenkasse SBB. Ab 1995 begann die Neuausrichtung zur offenen Krankenkasse für alle Schweizer Versicherungsnehmer, 2002 folgte die Umbenennung. Heute gehört das Unternehmen zu den 15 grössten Krankenversicherern der Schweiz. Allein im Standard-Modell der obligatorischen Grundversicherung zählt die Krankenkasse rund 176'000 Mitglieder. Ob eine Atupri Krankenversicherung zu Ihnen passt, zeigt unser Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Fünf Modelle für die Grundversicherung
 
 ###### Die Atupri Krankenversicherung möchte ihren Mitgliedern einen möglichst individuellen Versicherungsschutz bieten. Für die Grundversicherung stehen daher gleich fünf verschiedene Modelle zur Wahl:

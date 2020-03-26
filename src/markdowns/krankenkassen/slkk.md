@@ -11,10 +11,6 @@ color: "#E41C3A"
 description: "Die SLKK ist aus der Schweizerische Lehrerkrankenkasse hervorgegangen. Das Unternehmen bewirbt sich selbst als 'die vernünftige Krankenkasse' und möchte bedarfsgerechte Versicherungslösungen bieten. Der Hauptsitz der Krankenversicherung befindet sich in Zürich, im Jahr 2018 hatten rund 21'1000 Versicherungsnehmer eine Grundversicherung bei ihr abgeschlossen. Ob sich ein Wechsel zur Krankenkasse lohnt, zeigt unser Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der SLKK
 
 ###### Die SLKK bietet Gesundheitsversicherungen nach dem Baukastenprinzip an. Das Fundament bildet die obligatorische Grundversicherung. Neben dem traditionellen Modell Standard (freie Arztwahl) stehen die alternativen Modelle TelCare (Telmed) und HomeCare (Hausarzt) zur Auswahl. Im traditionellen Modell wählen Sie selbst, welchen Arzt Sie im Krankheitsfall aufsuchen. Sie können auch die Ärzte einer Gruppenpraxis (HMO) in Anspruch nehmen. Im TelCare-Modell rufen Sie zunächst eine medizinische Beratungshotline an, im Modell HomeCare (Hausarzt) ist Ihr Hausarzt der erste Ansprechpartner.

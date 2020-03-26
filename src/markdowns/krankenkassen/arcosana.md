@@ -11,10 +11,6 @@ color: "#1C1D6C"
 description: "Die Arcosana gehört zur grössten Krankenkasse der Schweiz, der CSS Luzern. Mehr als 200'000 Versicherungsnehmer haben sich für die obligatorische Krankenpflegeversicherung der Arcosana entschieden. Suchen Sie nach einer Krankenkasse mit einem guten Preis-/Leistungsverhältnis, machen Sie bei uns den Versicherungs-Vergleich."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der Arcosana
 
 ###### Die Leistungen der Grundversicherung sind gesetzlich geregelt. Im Modell Standard (freie Arztwahl) können Sie frei wählen, welchen Arzt Sie im Krankheitsfall aufsuchen. Möchten Sie Prämien sparen, können Sie sich für ein alternatives Versicherungsmodell entscheiden. Das Hausarzt-Modell sieht vor, dass Sie sich im Krankheitsfall zunächst an Ihren Hausarzt wenden. Besteht weiterer Behandlungsbedarf, überweist der Hausarzt Sie an einen Spezialisten oder ins Spital. Entscheiden Sie sich für das Gruppenpraxis (HMO)-Modell, ist Ihr erster Ansprechpartner eine Gruppenpraxis oder ein Ärztenetz-Arzt. Im Telmed Modell lassen Sie sich zunächst von den medizinischen Experten der Medgate Hotline telefonisch beraten und erhalten falls nötig eine Überweisung. Frauenärzte und Augenärzte können Sie auch ohne Überweisung direkt aufsuchen.

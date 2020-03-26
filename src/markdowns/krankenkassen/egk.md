@@ -11,10 +11,6 @@ color: "#E5312A"
 description: "Die EGK-Gesundheitskasse besteht bereits seit dem Jahr 1919. Das Kürzel steht für Eidgenössische Gesundheitskasse, der Hauptsitz des Versicherers befindet sich in Laufen. Mehr als 98'400 Personen haben eine Grundversicherung des Unternehmens abgeschlossen. Neben der obligatorischen Krankenpflegeversicherung bietet die EGK auch diverse Zusatzversicherungen an."
 ---
 
-## Jetzt Information und Offerte für die passende Krankenversicherung bestellen:
-
-# Form3
-
 ## Die Grundversicherung der EGK-Gesundheitskasse
 
 ###### Die obligatorische Krankenpflegeversicherung ist der Grundversicherungsschutz der Krankenkasse, ihre Leistungen sind gesetzlich vorgeschrieben. Im Modell Standard (freie Arztwahl) steht es Ihnen frei, ob Sie im Krankheitsfall zunächst Ihren Hausarzt, eine Gruppenpraxis (HMO) oder einen Spezialisten aufsuchen. Daneben bietet die Krankenkasse noch zwei alternative Modelle an, mit denen Sie Prämien sparen können:
