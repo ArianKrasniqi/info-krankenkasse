@@ -1,0 +1,9 @@
+.Information {
+  border: 1px solid #979797;
+  background: #f6f6f6;
+  width: 30%;
+  height: auto;
+  border-radius: 8px;
+  padding: 30px 30px;
+  box-sizing: border-box;
+}

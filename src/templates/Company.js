@@ -2,9 +2,8 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/Layout/layout"
+import ContactCompany from "../components/ContactCompany/ContactCompany"
 import Text from "../elements/Text/Text"
-import Compare from "../components/Compare/Compare"
-import ContactForm from "../components/ContactForm/ContactForm"
 
 export const query = graphql`
   query($slug: String!) {
@@ -36,6 +35,16 @@ const Company = props => {
       <Text type="title">{frontmatter.name}</Text>
 
       <Text type="paragraph">{frontmatter.description}</Text>
+
+      <ContactCompany
+        name={frontmatter.name}
+        shortname={frontmatter.shortName}
+        location={frontmatter.location}
+        insured={frontmatter.insured}
+        refundPeriod={frontmatter.refundPeriod}
+        solvecyRate={frontmatter.solvecyRate}
+        administrativeExpenses={frontmatter.administrativeExpenses}
+      />
 
       {props.data.markdownRemark.headings.map(line => {})}
     </Layout>
