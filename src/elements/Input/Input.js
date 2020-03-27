@@ -18,6 +18,7 @@ const input = props => {
         <TextField
           className={classes.inputText}
           id={props.id}
+          key={props.id}
           label={props.label}
           defaultValue=""
           helperText={props.helperText}
@@ -29,6 +30,7 @@ const input = props => {
         <TextField
           className={[classes.inputText, classes.Half].join(" ")}
           id={props.id}
+          key={props.id}
           label={props.label}
           defaultValue=""
           helperText={props.helperText}
@@ -40,6 +42,7 @@ const input = props => {
         <TextField
           className={[classes.inputText, classes.Quarter].join(" ")}
           id={props.id}
+          key={props.id}
           label={props.label}
           defaultValue=""
           helperText={props.helperText}
@@ -49,8 +52,16 @@ const input = props => {
 
     case "selectInput":
       if (props.options) {
-        options = props.options.map(option => {
-          return <MenuItem value={option}> {option}</MenuItem>
+        options = props.options.map((option, index) => {
+          return (
+            <MenuItem
+              id={`${index}-${option}`}
+              key={`${index}-${option}`}
+              value={option}
+            >
+              {option}
+            </MenuItem>
+          )
         })
       }
 
@@ -62,10 +73,11 @@ const input = props => {
           <Select
             labelId="demo-simple-select-helper-label"
             id={props.id}
+            key={props.id}
             value={""}
             // onChange={handleChange}
           >
-            <MenuItem value="">
+            <MenuItem id="none" key="none" value="">
               <em>None</em>
             </MenuItem>
             {options}
@@ -76,8 +88,16 @@ const input = props => {
       break
     case "inputFullWidth":
       if (props.options) {
-        options = props.options.map(option => {
-          return <MenuItem value={option}> {option}</MenuItem>
+        options = props.options.map((option, index) => {
+          return (
+            <MenuItem
+              value={option}
+              id={`${index}-${option}`}
+              key={`${index}-${option}`}
+            >
+              {option}
+            </MenuItem>
+          )
         })
       }
 
@@ -89,10 +109,11 @@ const input = props => {
           <Select
             labelId="demo-simple-select-helper-label"
             id={props.id}
+            key={props.id}
             value={""}
             // onChange={handleChange}
           >
-            <MenuItem value="">
+            <MenuItem id="none" key="none" value="">
               <em>None</em>
             </MenuItem>
             {options}
@@ -105,7 +126,8 @@ const input = props => {
     default:
       input = (
         <TextField
-          id="standard-helperText"
+          id={props.id}
+          key={props.id}
           label={props.label}
           defaultValue=""
           helperText={props.helperText}

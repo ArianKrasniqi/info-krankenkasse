@@ -31,7 +31,7 @@ export default ({ children }) => {
       <Text type="title">Informationen zum Thema Krankenversicherung</Text>
       {data.allMarkdownRemark.edges.map((edge, index) => {
         let side = ""
-        if (index % 2 == 0) {
+        if (index % 2 === 0) {
           side = "right"
         }
         return edge.node.frontmatter.type === "info" ? (

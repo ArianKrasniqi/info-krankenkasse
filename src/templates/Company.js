@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/Layout/layout"
+import Layout from "../components/Layout/Layout"
 import ContactCompany from "../components/ContactCompany/ContactCompany"
 import Text from "../elements/Text/Text"
 
@@ -54,6 +54,7 @@ const Company = props => {
         } else if (line.depth === 3) {
           return <li>{line.value}</li>
         }
+        return null
       })}
     </Layout>
   )

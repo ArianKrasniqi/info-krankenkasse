@@ -1,8 +1,8 @@
 import React from "react"
 
-import classes from "./button.module.css"
+import classes from "./Button.module.css"
 
-const button = props => {
+const Button = props => {
   let button = ""
   switch (props.type) {
     case "cover":
@@ -33,4 +33,4 @@ const button = props => {
   return button
 }
 
-export default button
+export default Button

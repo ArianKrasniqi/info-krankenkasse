@@ -1,11 +1,9 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 
-import Layout from "../components/Layout/layout"
+import Layout from "../components/Layout/Layout"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
-
-const list = {}
 
 const Company = props => {
   const data = useStaticQuery(
@@ -28,7 +26,9 @@ const Company = props => {
     `
   )
 
-  data.allMarkdownRemark.edges.map(edge => {
+  const list = {}
+
+  for (let edge of data.allMarkdownRemark.edges) {
     if (edge.node.frontmatter.type === "glossar") {
       let name = edge.node.frontmatter.title
       let letter = name.charAt(0)
@@ -37,7 +37,7 @@ const Company = props => {
       }
       list[letter].push(name)
     }
-  })
+  }
 
   return (
     <Layout>

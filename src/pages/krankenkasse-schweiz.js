@@ -7,8 +7,6 @@ import ContactInfo from "../components/ContactInfo/ContactInfo"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
 
-const list = {}
-
 export default ({ children }) => {
   const data = useStaticQuery(
     graphql`
@@ -30,7 +28,9 @@ export default ({ children }) => {
     `
   )
 
-  data.allMarkdownRemark.edges.map((edge, index) => {
+  const list = {}
+
+  for (let edge of data.allMarkdownRemark.edges) {
     if (edge.node.frontmatter.type === "krankenkasse") {
       let name = edge.node.frontmatter.shortName
       let letter = name.charAt(0)
@@ -39,7 +39,7 @@ export default ({ children }) => {
       }
       list[letter].push(name)
     }
-  })
+  }
 
   return (
     <Layout>

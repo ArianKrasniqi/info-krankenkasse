@@ -13,11 +13,6 @@ const sideForm = () => (
       Hinterlassen Sie einfach Ihre Angaben und wir rufen Sie zurück.
     </Text>
 
-    <label for="male">Herr</label>
-    <input type="radio" name="gendre" id="male" />
-    <label for="female">Frau</label>
-    <input type="radio" name="gendre" id="female" />
-
     <div className={classes.Inputs}>
       <SideFormInputs />
       <Button type="redFullWidth">Jetzt Prämie vergleichen</Button>

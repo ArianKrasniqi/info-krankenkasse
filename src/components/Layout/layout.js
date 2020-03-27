@@ -5,7 +5,7 @@ import Footer from "../Footer/Footer"
 
 import classes from "./Layout.module.css"
 
-const layout = ({ children }) => {
+const Layout = ({ children }) => {
   return (
     <div className={classes.Layout}>
       <Header />
@@ -15,4 +15,4 @@ const layout = ({ children }) => {
   )
 }
 
-export default layout
+export default Layout

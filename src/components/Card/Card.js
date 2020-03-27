@@ -2,7 +2,7 @@ import React from "react"
 
 import Link from "../../elements/Link/Link"
 import Text from "../../elements/Text/Text"
-import Button from "../../elements/Button/button"
+import Button from "../../elements/Button/Button"
 
 import classes from "./Card.module.css"
 
@@ -13,7 +13,7 @@ const card = props => {
   }
   return (
     <div className={cardClass}>
-      <img className={classes.Image} src={props.src} />
+      <img className={classes.Image} src={props.src} alt=" " />
       <div className={classes.Content}>
         <Link to={props.to} type="cardLink">
           {props.title}

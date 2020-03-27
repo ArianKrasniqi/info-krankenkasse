@@ -33,13 +33,19 @@ const footer = () => {
 
           <ul>
             <li>
-              <a className={classes.Link}>Impressum</a>
+              <a className={classes.Link} href="/">
+                Impressum
+              </a>
             </li>
             <li>
-              <a className={classes.Link}>Datenschutz</a>
+              <a className={classes.Link} href="/">
+                Datenschutz
+              </a>
             </li>
             <li>
-              <a className={classes.Link}>Haftungsausschluss und Rechtliches</a>
+              <a className={classes.Link} href="/">
+                Haftungsausschluss und Rechtliches
+              </a>
             </li>
           </ul>
         </nav>

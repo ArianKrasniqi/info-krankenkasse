@@ -6,16 +6,16 @@ const languages = () => {
   return (
     <ul className={classes.Languages}>
       <li>
-        <a active>DE</a>
+        <a href="/">DE</a>
       </li>
       <li>
-        <a>FR</a>
+        <a href="/">FR</a>
       </li>
       <li>
-        <a>IT</a>
+        <a href="/">IT</a>
       </li>
       <li>
-        <a>EN</a>
+        <a href="/">EN</a>
       </li>
     </ul>
   )

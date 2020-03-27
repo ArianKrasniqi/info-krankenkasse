@@ -24,7 +24,7 @@ const informationCard = props => {
         title="Standort"
         description={location.map(row => {
           return (
-            <span>
+            <span key={row}>
               {row}
               <br />
             </span>

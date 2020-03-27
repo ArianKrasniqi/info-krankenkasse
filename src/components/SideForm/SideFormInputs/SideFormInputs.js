@@ -1,9 +1,19 @@
 import React from "react"
 
 import Input from "../../../elements/Input/Input"
+import FormControlLabel from "@material-ui/core/FormControlLabel"
+import Checkbox from "@material-ui/core/Checkbox"
 
 const sideFormInputs = () => (
   <React.Fragment>
+    <FormControlLabel
+      control={<Checkbox checked={true} name="Male" size="small" />}
+      label="Herr"
+    />
+    <FormControlLabel
+      control={<Checkbox checked={true} name="Female" size="small" />}
+      label="Frau"
+    />
     <Input type="textInput" id="name-index" label="Vorname" helperText=" " />
     <Input
       type="textInput"

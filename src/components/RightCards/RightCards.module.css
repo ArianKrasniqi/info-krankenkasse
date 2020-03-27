@@ -1,0 +1,5 @@
+.Container {
+  border: 1px solid red;
+  width: 25%;
+  float: right;
+}

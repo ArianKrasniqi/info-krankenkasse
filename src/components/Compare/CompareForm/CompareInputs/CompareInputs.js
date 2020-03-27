@@ -6,7 +6,7 @@ const compareInputs = () => (
   <React.Fragment>
     <Input
       type="inputFullWidth"
-      id="age-compare"
+      id="insurance-compare"
       label="Aktuelle Krankenkasse"
       helperText="Some important helper text"
       options={[
