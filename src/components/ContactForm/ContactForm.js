@@ -1,17 +1,25 @@
 import React from "react"
 
-import Inputs from "./Inputs/Inputs"
+import PregnancyInputs from "./PregnancyInputs/Inputs"
+import ContactInputs from "./ContactInputs/Inputs"
 import Button from "../../elements/Button/Button"
 import Text from "../../elements/Text/Text"
 
 import classes from "./ContactForm.module.css"
 
-const compare = () => (
-  <div className={classes.Form}>
-    <Inputs />
+const contactForm = props => (
+  <div
+    className={
+      props.type === "contact"
+        ? [classes.Form, classes.Full].join(" ")
+        : classes.Form
+    }
+    style={props.style}
+  >
+    {props.type === "contact" ? <ContactInputs /> : <PregnancyInputs />}
     <div className={classes.Bottom}>
       <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
-        OFFERTE ANFORDERN
+        {props.btnText ? props.btnText : "OFFERTE ANFORDERN"}
       </Button>
       <Text type="smallParagraph" style={{ width: "310px", fontSize: "0.6em" }}>
         Mit dem Abschicken des Formulars akzeptieren Sie die Nutzungsbedingungen
@@ -21,4 +29,4 @@ const compare = () => (
   </div>
 )
 
-export default compare
+export default contactForm

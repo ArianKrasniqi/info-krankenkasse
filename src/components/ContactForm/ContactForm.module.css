@@ -11,3 +11,8 @@
   flex-direction: column;
   align-items: flex-end;
 }
+
+.Full {
+  width: 100%;
+  height: auto;
+}

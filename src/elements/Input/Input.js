@@ -123,6 +123,21 @@ const input = props => {
       )
       break
 
+    case "textarea":
+      input = (
+        <TextField
+          style={props.style}
+          id={props.id}
+          key={props.id}
+          label={props.label}
+          defaultValue=""
+          helperText={props.helperText}
+          multiline
+          rows="4"
+        />
+      )
+      break
+
     default:
       input = (
         <TextField
