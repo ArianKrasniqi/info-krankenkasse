@@ -7,7 +7,7 @@ export default props => (
   <div className={classes.List}>
     <p className={classes.Letter}>{props.letter}</p>
     <ul>
-      {props.data.map(data => {
+      {props.data.map((data, index) => {
         const link = data
           .toLowerCase()
           .replace(" ", "-")
@@ -16,7 +16,7 @@ export default props => (
           .replace("(", "")
           .replace(")", "")
         return (
-          <li>
+          <li key={`${data}-${index}`}>
             <Link to={`/${link}`}>{data}</Link>
           </li>
         )

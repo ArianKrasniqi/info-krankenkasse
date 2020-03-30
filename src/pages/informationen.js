@@ -36,6 +36,7 @@ export default ({ children }) => {
         }
         return edge.node.frontmatter.type === "info" ? (
           <Card
+            key={edge.node.frontmatter.title}
             to={`/informationen/${edge.node.fields.slug}`}
             title={`${edge.node.frontmatter.title}`}
             side={side}

@@ -8,9 +8,7 @@ const Lists = props => {
   return (
     <div className={classes.Lists}>
       {keys.map((key, index) => {
-        return (
-          <List key={`${key}-${index}`} letter={key} data={props.data[key]} />
-        )
+        return <List key={key} letter={key} data={props.data[key]} />
       })}
     </div>
   )

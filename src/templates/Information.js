@@ -25,18 +25,28 @@ const Information = props => {
     <Layout>
       <Text type="title">{props.data.markdownRemark.frontmatter.title}</Text>
 
-      {props.data.markdownRemark.headings.map(line => {
+      {props.data.markdownRemark.headings.map((line, index) => {
         if (line.depth === 6) {
-          return <Text>{line.value}</Text>
+          return (
+            <Text key={`${line.value.slice(0, 10)}-${index}`}>
+              {line.value}
+            </Text>
+          )
         } else if (line.depth === 2) {
-          return <Text type="subtitle">{line.value}</Text>
+          return (
+            <Text key={`${line.value.slice(0, 10)}-${index}`} type="subtitle">
+              {line.value}
+            </Text>
+          )
         } else if (line.depth === 3) {
-          return <li>{line.value}</li>
+          return (
+            <li key={`${line.value.slice(0, 10)}-${index}`}>{line.value}</li>
+          )
         } else if (line.depth === 1) {
           return line.value === "Form" ? (
-            <Compare />
+            <Compare key={`${line.value}-${index}`} />
           ) : line.value === "Form2" ? (
-            <ContactForm />
+            <ContactForm key={`${line.value}-${index}`} />
           ) : null
         } else {
           return null
