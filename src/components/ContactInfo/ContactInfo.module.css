@@ -9,3 +9,17 @@
   border-radius: 7px;
   box-sizing: border-box;
 }
+
+@media (max-width: 1010px) {
+  .ContactInfo {
+    height: 310px;
+  }
+}
+
+@media (max-width: 900px) {
+  .ContactInfo {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+}

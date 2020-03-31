@@ -8,7 +8,7 @@ import classes from "./Compare.module.css"
 
 const compare = () => (
   <div className={classes.Compare}>
-    <div>
+    <div className={classes.Upper}>
       <Text type="compareSubtitle">Krankenkassenvergleich 2020</Text>
       <Button type="white">Jetzt vergleichen</Button>
       <Text type="paragraph">

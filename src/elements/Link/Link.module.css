@@ -29,3 +29,20 @@
 .CardLink:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 1010px) {
+  .BottomLink {
+    bottom: 10px;
+    max-width: 55%;
+  }
+}
+
+@media (max-width: 900px) {
+  .BottomLink {
+    max-width: 100%;
+    position: relative;
+  }
+  .WhiteLink {
+    margin: 5px 0px;
+  }
+}

@@ -36,3 +36,19 @@
   margin-top: 30px;
   margin-bottom: 16px;
 }
+
+@media (max-width: 1280px) {
+  .Footer div {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .Footer nav{
+    flex-direction: column;
+    text-align: center;
+  }
+  .Copyright{
+    text-align: center
+  }
+}

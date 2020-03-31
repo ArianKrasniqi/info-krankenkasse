@@ -4,3 +4,10 @@ body {
   font-family: "Roboto", sans-serif;
   margin: 0;
 }
+
+@media (max-width: 768px) {
+  .SideFormAndContent {
+    display: flex;
+    flex-direction: column;
+  }
+}
