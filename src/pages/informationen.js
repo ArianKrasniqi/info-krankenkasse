@@ -40,6 +40,7 @@ export default ({ children }) => {
             to={`/informationen/${edge.node.fields.slug}`}
             title={`${edge.node.frontmatter.title}`}
             side={side}
+            style={index === 0 ? { paddingTop: "10px" } : {}}
             src="https://brokeradmin.ch/api/upload/glossary/banner_1565097763610_416166990.jpeg"
           >
             Kündigung Krankenkasse: So kündigen Sie Ihre Grundversicherung Die

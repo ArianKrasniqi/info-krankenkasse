@@ -12,7 +12,7 @@ const card = props => {
     cardClass = [classes.Card, classes.Right].join(" ")
   }
   return (
-    <div className={cardClass} key={props.title}>
+    <div className={cardClass} key={props.title} style={props.style}>
       <img className={classes.Image} src={props.src} alt=" " />
       <div className={classes.Content}>
         <Link to={props.to} type="cardLink">
