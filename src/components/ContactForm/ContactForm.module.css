@@ -20,5 +20,6 @@
 @media (max-width: 768px) {
   .Form {
     width: 100% !important;
+    height: auto;
   }
 }

@@ -92,6 +92,7 @@ const formInputs = () => {
         <Input
           type="textInputHalf"
           id="contactform-lastname"
+          helperText=" "
           label="Nachname"
         />
         <Input
