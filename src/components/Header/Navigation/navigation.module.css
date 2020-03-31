@@ -8,3 +8,31 @@
 .Nav li:not(:first-child) {
   margin-left: 70px;
 }
+
+.HamMenu {
+  border: 1px solid red;
+  width: 30px;
+  height: 100%;
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .Nav li:not(:first-child) {
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 992px) {
+  .Nav li:not(:first-child) {
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 880px) {
+  .Nav {
+    display: none !important;
+  }
+  .HamMenu {
+    display: block;
+  }
+}

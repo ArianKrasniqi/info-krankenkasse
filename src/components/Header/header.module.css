@@ -12,7 +12,14 @@
 }
 
 .Header ul {
+  padding-left: 0px;
   display: flex;
   flex-direction: row;
   list-style-type: none;
+}
+
+@media (max-width: 1280px) {
+  .Header nav {
+    max-width: 90%;
+  }
 }

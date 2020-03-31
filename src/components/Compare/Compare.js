@@ -8,13 +8,14 @@ import classes from "./Compare.module.css"
 
 const compare = () => (
   <div className={classes.Compare}>
-    <Text type="compareSubtitle">Krankenkassenvergleich 2020</Text>
-    <Button type="white">Jetzt vergleichen</Button>
-    <Text type="paragraph">
-      Möchten Sie Prämien einsparen? Hier finden Sie alle Prämien für den
-      Krankenkassen Wechsel
-    </Text>
-
+    <div>
+      <Text type="compareSubtitle">Krankenkassenvergleich 2020</Text>
+      <Button type="white">Jetzt vergleichen</Button>
+      <Text type="paragraph">
+        Möchten Sie Prämien einsparen? Hier finden Sie alle Prämien für den
+        Krankenkassen Wechsel
+      </Text>
+    </div>
     <CompareForm />
   </div>
 )
