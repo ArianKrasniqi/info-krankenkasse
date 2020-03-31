@@ -3,4 +3,18 @@
   flex-direction: column;
   flex-wrap: wrap;
   max-height: -webkit-fill-available;
+  max-width: 100%;
+  min-height: 900px;
+}
+
+@media (max-width: 600px) {
+  .Lists {
+    max-height: 1200px;
+  }
+}
+
+@media (max-width: 450px) {
+  .Lists {
+    max-height: 1650px;
+  }
 }

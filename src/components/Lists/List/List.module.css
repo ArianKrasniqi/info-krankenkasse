@@ -27,3 +27,15 @@
   line-height: 3.5;
   color: black;
 }
+
+@media (max-width: 600px) {
+  .List {
+    width: 31%;
+  }
+}
+
+@media (max-width: 450px) {
+  .List {
+    width: 49%;
+  }
+}
