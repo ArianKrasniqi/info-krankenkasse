@@ -5,6 +5,30 @@ body {
   margin: 0;
 }
 
+.Contact {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ContactLeft {
+  width: 70%;
+}
+
+@media (max-width: 1200px) {
+  .ContactLeft {
+    width: 65%;
+  }
+}
+
+@media (max-width: 992px) {
+  .Contact {
+    flex-direction: column;
+  }
+  .ContactLeft {
+    width: 100%;
+  }
+}
+
 @media (max-width: 768px) {
   .SideFormAndContent {
     display: flex;

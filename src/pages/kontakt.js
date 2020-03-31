@@ -8,8 +8,8 @@ import RightCard from "../elements/RightCard/RightCard"
 
 export default () => (
   <Layout>
-    <div style={{ display: "flex", justifyContent: "space-between" }}>
-      <div style={{ width: "70%" }}>
+    <div className="Contact">
+      <div className="ContactLeft">
         <Text type="title">Kontakt</Text>
         <Text type="paragraph">
           Haben Sie noch Fragen zur Krankenversicherung? Wünschen Sie eine

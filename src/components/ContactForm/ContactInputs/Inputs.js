@@ -32,7 +32,12 @@ const formInputs = () => (
       helperText=" "
       label="Vorname"
     />
-    <Input type="textInputHalf" id="contactform-lastname" label="Nachname" />
+    <Input
+      type="textInputHalf"
+      id="contactform-lastname"
+      helperText=" "
+      label="Nachname"
+    />
     <Input
       type="textInputHalf"
       id="contactform-street"

@@ -10,3 +10,12 @@
 .Quarter {
   width: 22%;
 }
+
+@media (max-width: 600px) {
+  .inputText {
+    width: 100%;
+  }
+  .SelectInput {
+    width: 100% !important;
+  }
+}

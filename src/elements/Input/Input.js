@@ -66,7 +66,7 @@ const input = props => {
       }
 
       input = (
-        <FormControl style={props.style}>
+        <FormControl className={classes.SelectInput} style={props.style}>
           <InputLabel id="demo-simple-select-helper-label">
             {props.label}
           </InputLabel>

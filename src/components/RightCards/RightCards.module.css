@@ -1,5 +1,5 @@
 .Container {
-  width: 25%;
+  width: auto;
   height: 70vh;
   min-height: 600px;
   overflow: auto;
@@ -7,4 +7,12 @@
   position: sticky;
   top: 5%;
   padding-top: 50px;
+}
+
+@media (max-width: 992px) {
+  .Container {
+    position: relative;
+    height: auto;
+    min-height: auto;
+  }
 }
