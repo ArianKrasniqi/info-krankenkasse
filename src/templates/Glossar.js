@@ -27,15 +27,19 @@ const Company = props => {
   )
 
   const list = {}
+  const slugs = {}
 
   for (let edge of data.allMarkdownRemark.edges) {
     if (edge.node.frontmatter.type === "glossar") {
+      let slug = edge.node.fields.slug
       let name = edge.node.frontmatter.title
       let letter = name.charAt(0)
       if (!(letter in list)) {
         list[letter] = []
+        slugs[letter] = []
       }
       list[letter].push(name)
+      slugs[letter].push(slug)
     }
   }
 
@@ -46,7 +50,7 @@ const Company = props => {
         Im Glossar finden Sie Erklärungen zu den wichtigsten Begriffen zum Thema
         Krankenversicherung und dem Schweizer Gesundheitssystem.
       </Text>
-      <Lists data={list} />
+      <Lists data={list} slugs={slugs} />
     </Layout>
   )
 }
