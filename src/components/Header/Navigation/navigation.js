@@ -1,41 +1,15 @@
 import React from "react"
-import { Link } from "gatsby"
 
-import classes from "./Navigation.module.css"
+import MenuIcon from "../../Menu/MenuIcon/MenuIcon"
+import NavigationItems from "./NavigationItems/NavigationItems"
 
-const header = () => {
+const navigation = props => {
   return (
     <div>
-      <div className={classes.HamMenu}></div>
-      <ul className={classes.Nav}>
-        <li>
-          <Link to="/" className={classes.Link}>
-            Startseite
-          </Link>
-        </li>
-        <li>
-          <Link to="/informationen" className={classes.Link}>
-            Informationen
-          </Link>
-        </li>
-        <li>
-          <Link to="/krankenkasse-schweiz" className={classes.Link}>
-            Krankenkassen
-          </Link>
-        </li>
-        <li>
-          <Link to="/praemienrechner" className={classes.Link}>
-            Prämienrechner
-          </Link>
-        </li>
-        <li>
-          <Link to="/kontakt" className={classes.Link}>
-            Kontakt
-          </Link>
-        </li>
-      </ul>
+      <MenuIcon open={props.open} menuClicked={props.menuClicked} />
+      <NavigationItems />
     </div>
   )
 }
 
-export default header
+export default navigation

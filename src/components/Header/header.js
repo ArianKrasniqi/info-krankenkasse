@@ -5,11 +5,11 @@ import Languages from "./Languages/Languages"
 
 import classes from "./Header.module.css"
 
-const header = () => {
+const header = props => {
   return (
     <header className={classes.Header}>
       <nav>
-        <Navigation />
+        <Navigation open={props.open} menuClicked={props.menuClicked} />
         <Languages />
       </nav>
     </header>

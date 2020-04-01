@@ -46,13 +46,23 @@ const Company = props => {
         administrativeExpenses={frontmatter.administrativeExpenses}
       />
 
-      {props.data.markdownRemark.headings.map(line => {
+      {props.data.markdownRemark.headings.map((line, index) => {
         if (line.depth === 6) {
-          return <Text>{line.value}</Text>
+          return (
+            <Text key={`${line.value.slice(0, 10)}-${index}`}>
+              {line.value}
+            </Text>
+          )
         } else if (line.depth === 2) {
-          return <Text type="subtitle">{line.value}</Text>
+          return (
+            <Text type="subtitle" key={`${line.value.slice(0, 10)}-${index}`}>
+              {line.value}
+            </Text>
+          )
         } else if (line.depth === 3) {
-          return <li>{line.value}</li>
+          return (
+            <li key={`${line.value.slice(0, 10)}-${index}`}>{line.value}</li>
+          )
         }
         return null
       })}

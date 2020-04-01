@@ -1,0 +1,74 @@
+.MenuIcon {
+  display: none;
+  height: 100%;
+  position: relative;
+  width: 50px;
+  padding: 0px 10px;
+  box-sizing: border-box;
+  z-index: 920;
+}
+
+.MenuIcon:focus {
+  outline: none;
+}
+
+.HamMenu {
+  display: flex;
+  position: absolute;
+  height: 10px;
+  top: 40%;
+  left: 12.5px;
+  align-items: center;
+}
+
+.HamMenu .Bar {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #5c5c5c;
+  transition: 0.4s;
+}
+
+.HamMenu::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #5c5c5c;
+  top: -2px;
+  transition: 0.4s;
+}
+
+.HamMenu::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #5c5c5c;
+  top: 100%;
+  transition: 0.4s;
+}
+
+.Open .Bar {
+  opacity: 0;
+}
+
+.Open .HamMenu::after {
+  top: 6px;
+  transform: rotate(45deg);
+  width: 22px;
+}
+
+.Open .HamMenu::before {
+  top: 6px;
+  transform: rotate(-45deg);
+  width: 22px;
+}
+
+@media (max-width: 880px) {
+  .MenuIcon {
+    display: block;
+  }
+}

@@ -29,15 +29,19 @@ export default ({ children }) => {
   )
 
   const list = {}
+  const slugs = {}
 
   for (let edge of data.allMarkdownRemark.edges) {
     if (edge.node.frontmatter.type === "krankenkasse") {
+      let slug = edge.node.fields.slug
       let name = edge.node.frontmatter.shortName
       let letter = name.charAt(0)
       if (!(letter in list)) {
         list[letter] = []
+        slugs[letter] = []
       }
       list[letter].push(name)
+      slugs[letter].push(slug)
     }
   }
 
@@ -59,7 +63,7 @@ export default ({ children }) => {
         </Text>
         <Compare />
 
-        <Lists data={list} />
+        <Lists data={list} slugs={slugs}/>
 
         <Text type="paragraph">
           Wir machen Ihnen den Wechsel der Krankenkasse leicht. Mit unserem
