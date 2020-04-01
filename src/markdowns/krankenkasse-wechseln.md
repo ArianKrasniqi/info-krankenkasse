@@ -1,6 +1,9 @@
 ---
 type: "info"
 title: "Krankenkasse wechseln"
+image: "Change"
+description: "So einfach können Sie Ihre Krankenkasse wechseln
+Spätestens, wenn der Versicherer die monatlichen Prämien erhöht, möchten viele Versicherungsnehmer ihre Krankenkasse wechseln. Durch einen Wechsel der Krankenversicherung lassen sich mehrere Hundert bis Tausend Schweizer Franken pro Jahr sparen. Für den Wechsel der Grundversicherung und der Zusatzversicherung gelten dabei unterschiedliche Bedingungen. Wollen Sie Ihre Krankenversicherung wechseln, erfahren Sie hier, was Sie dabei beachten müssen."
 ---
 
 ## So einfach können Sie Ihre Krankenkasse wechseln

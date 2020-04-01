@@ -1,6 +1,9 @@
 ---
 type: "info"
 title: "Zusatzversicherungen"
+image: "Insurances"
+description: "Zusatzversicherung: Die sinnvolle Ergänzung zu Ihrer Grundversicherung
+Eine Zusatzversicherung ergänzt die Leistungen der obligatorischen Grundversicherung. Rund 80 Prozent der Schweizer haben sich für den zusätzlichen Versicherungsschutz entschieden. Zur Wahl stehen ambulante Zusatzversicherungen und Spitalversicherungen. Der Zusatzversicherung Vergleich hilft Ihnen, eine Krankenzusatzversicherung zu finden, die zu Ihren Bedürfnissen passt."
 ---
 
 ## Zusatzversicherung: Die sinnvolle Ergänzung zu Ihrer Grundversicherung

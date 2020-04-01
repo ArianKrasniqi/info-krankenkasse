@@ -15,6 +15,8 @@ export default ({ children }) => {
               frontmatter {
                 type
                 title
+                description
+                image
               }
               fields {
                 slug
@@ -41,13 +43,9 @@ export default ({ children }) => {
             title={`${edge.node.frontmatter.title}`}
             side={side}
             style={index === 0 ? { paddingTop: "10px" } : {}}
-            src="https://brokeradmin.ch/api/upload/glossary/banner_1565097763610_416166990.jpeg"
+            image={edge.node.frontmatter.image}
           >
-            Kündigung Krankenkasse: So kündigen Sie Ihre Grundversicherung Die
-            Grundversicherung ist die obligatorische Krankenkasse in der
-            Schweiz, die jeder Eidgenosse abgeschlossen haben muss. Eine
-            Kündigung ihrer Krankenkasse erwägen viele Versicherungsnehmer, wenn
-            ihr Anbieter eine P...
+            {edge.node.frontmatter.description}
           </Card>
         ) : null
       })}

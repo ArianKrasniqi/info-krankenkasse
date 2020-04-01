@@ -1,6 +1,9 @@
 ---
 type: "info"
 title: "Krankenkasse kündigen"
+image: "Cancel"
+description: "Krankenkasse kündigen: Was müssen Sie beachten?
+Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attraktivere Leistungen, können Sie relativ unkompliziert zu einer anderen Krankenversicherung wechseln. Voraussetzung ist, dass Sie Ihre alte Krankenkasse kündigen. Damit die Kündigung rechtzeitig in Kraft tritt, müssen Sie die Kündigungsfrist beachten. Hier erfahren Sie, welche Kündigungsfristen gelten und welche weiteren Bedingung für eine Kündigung der Krankenkasse gelten."
 ---
 
 ## Krankenkasse kündigen: Was müssen Sie beachten?

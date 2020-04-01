@@ -1,6 +1,9 @@
 ---
 type: "info"
 title: "Krankenkasse vergleichen"
+image: "Compare"
+description: "Krankenkassenvergleich: Mit einem Vergleich mehrere Hundert Franken sparen
+Wer in der Schweiz lebt, muss eine obligatorische Krankenpflegeversicherung abschliessen. Die Leistungen sind vorgeschrieben und von Krankenkasse zu Krankenkasse gleich. Die Höhe der monatlichen Prämien unterscheidet sich jedoch deutlich. Mit einem Krankenkassenvergleich ermitteln Sie Ihr Sparpotenzial. Machen Sie den Vergleich mit dem Krankenkassenrechner und finden Sie heraus, ob sich ein Wechsel der Krankenkasse lohnt."
 ---
 
 ## Krankenkassenvergleich: Mit einem Vergleich mehrere Hundert Franken sparen

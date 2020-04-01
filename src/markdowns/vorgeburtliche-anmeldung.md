@@ -1,6 +1,10 @@
 ---
 type: "info"
 title: "Vorgeburtliche anmeldung"
+image: "Pregnancy"
+description: "Vorgeburtliche Anmeldung: Melden Sie Ihr Baby rechtzeitig bei der Krankenkasse
+Jeder Schweizer und jede Schweizerin muss bei einer Krankenkasse gemeldet sein. Das gilt bereits für Babys. Damit Ihr Baby ab der Geburt einen umfassenden Versicherungsschutz geniesst, empfiehlt sich die vorgeburtliche Anmeldung. So sind Sie auch geschützt, falls Ihr Kind krank zur Welt kommt.
+Fordern Sie gleich eine unverbindliche Offerte an und schliessen eine Krankenversicherung für Ihr Baby ab."
 ---
 
 ## Vorgeburtliche Anmeldung: Melden Sie Ihr Baby rechtzeitig bei der Krankenkasse
