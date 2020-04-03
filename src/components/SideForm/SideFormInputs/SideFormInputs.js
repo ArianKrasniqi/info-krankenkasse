@@ -5,7 +5,7 @@ import Input from "../../../elements/Input/Input"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
 import Checkbox from "@material-ui/core/Checkbox"
 
-import { lengthError, phoneError, emailError } from "./validity"
+import { lengthError, phoneError, emailError, dateError } from "./validity"
 
 const SideFormInputs = () => {
   const [inputs, setInputs] = useState(registrationModel)
@@ -27,6 +27,8 @@ const SideFormInputs = () => {
         ? phoneError(value, minLength, label)
         : validation === "emailError"
         ? emailError(value)
+        : validation === "dateError"
+        ? dateError(value)
         : " "
 
     newInputs[index].helperText = error

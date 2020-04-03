@@ -77,10 +77,11 @@ const registrationModel = [
   {
     name: "geburtsdatum",
     label: "Geburtsdatum",
-    type: "textInput",
+    type: "datePicker",
     id: "bdate-index",
     defaultValue: "",
     helperText: " ",
+    validation: "dateError",
   },
 
   {

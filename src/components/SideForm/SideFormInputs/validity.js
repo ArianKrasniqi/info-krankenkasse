@@ -36,7 +36,15 @@ export const emailError = expression => {
     return `Email ist ungültig`
   }
 }
+export const dateError = expression => {
+  const year = expression.split("-")[0]
+  if (!expression) {
+    return `Bitte Geburtsdatum angeben`
+  } else if (year.length > 4 || year.length < 4) {
+    return `Jahr ist ungültig`
+  } else if (year < 1900 && year > 2020) {
+    return `Jahr ist ungültig`
+  }
+}
 
 export const checkIsfilled = expression => expression && expression.length > 0
-
-export const checkIsTrue = expression => expression
