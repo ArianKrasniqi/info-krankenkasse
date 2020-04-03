@@ -7,6 +7,12 @@ import FormHelperText from "@material-ui/core/FormHelperText"
 import FormControl from "@material-ui/core/FormControl"
 import Select from "@material-ui/core/Select"
 
+import {
+  MuiPickersUtilsProvider,
+  KeyboardTimePicker,
+  KeyboardDatePicker,
+} from "@material-ui/pickers"
+
 import classes from "./Input.module.css"
 
 const input = props => {
@@ -18,10 +24,11 @@ const input = props => {
         <TextField
           className={classes.inputText}
           id={props.id}
-          key={props.id}
           label={props.label}
-          defaultValue=""
+          defaultValue={props.defaultValue}
           helperText={props.helperText}
+          onChange={event => props.changed(event)}
+          onClick={event => props.changed(event)}
         />
       )
       break
@@ -46,6 +53,20 @@ const input = props => {
           label={props.label}
           defaultValue=""
           helperText={props.helperText}
+        />
+      )
+      break
+    case "numberInput":
+      input = (
+        <TextField
+          type="number"
+          className={classes.inputText}
+          id={props.id}
+          label={props.label}
+          defaultValue={props.defaultValue}
+          helperText={props.helperText}
+          onChange={event => props.changed(event)}
+          onClick={event => props.changed(event)}
         />
       )
       break
@@ -134,6 +155,24 @@ const input = props => {
           helperText={props.helperText}
           multiline
           rows="4"
+        />
+      )
+      break
+
+    case "datePicker":
+      return (
+        <KeyboardDatePicker
+          disableToolbar
+          variant="inline"
+          format="MM/dd/yyyy"
+          margin="normal"
+          id="date-picker-inline"
+          label="Date picker inline"
+          // value={selectedDate}
+          // onChange={handleDateChange}
+          KeyboardButtonProps={{
+            "aria-label": "change date",
+          }}
         />
       )
       break

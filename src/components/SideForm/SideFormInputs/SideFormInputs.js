@@ -1,105 +1,72 @@
-import React from "react"
+import React, { useState } from "react"
 
+import registrationModel from "../formModel"
 import Input from "../../../elements/Input/Input"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
 import Checkbox from "@material-ui/core/Checkbox"
 
-const sideFormInputs = () => (
-  <React.Fragment>
-    <FormControlLabel
-      control={<Checkbox checked={true} name="Male" size="small" />}
-      label="Herr"
-    />
-    <FormControlLabel
-      control={<Checkbox checked={true} name="Female" size="small" />}
-      label="Frau"
-    />
-    <Input type="textInput" id="name-index" label="Vorname" helperText=" " />
-    <Input
-      type="textInput"
-      id="lastname-index"
-      label="Nachname"
-      helperText=" "
-    />
-    <Input type="textInput" id="street-index" label="Strasse" helperText=" " />
-    <Input type="textInput" id="postal-index" label="PLZ" helperText=" " />
-    <Input type="textInput" id="place-index" label="Ort" helperText=" " />
-    <Input type="textInput" id="phone-index" label="Telefon" helperText=" " />
-    <Input type="textInput" id="email-index" label="E-Mail" helperText=" " />
-    <Input
-      type="textInput"
-      id="bdate-index"
-      label="Geburtsdatum"
-      helperText=" "
-    />
-    <Input
-      type="inputFullWidth"
-      id="persons-index"
-      label="Anzahl Personen im Haushalt"
-      helperText="Some important"
-      options={["AA", "BB"]}
-    />
-    <Input
-      type="inputFullWidth"
-      id="insurance-index"
-      label="Aktuelle Krankenkasse"
-      helperText="Some important"
-      options={[
-        "Vorgeburt",
-        "AMB",
-        "Agrisano",
-        "Aquilana",
-        "Arcosana",
-        "Assura",
-        "Atupri",
-        "Avanex",
-        "Avenir",
-        "Birchmeier",
-        "CSS",
-        "Compact",
-        "Concordia",
-        "ÖKK",
-        "EGK",
-        "EasySana",
-        "Einsiedeln",
-        "Flaachtal",
-        "Galenos",
-        "Glarner",
-        "GroupeMutuel",
-        "Helsana",
-        "Ingenbohl",
-        "Innova",
-        "Intras",
-        "KPT / CPT",
-        "Klug",
-        "Kmu",
-        "Kolping",
-        "Lumneziana",
-        "LuzernerHinterland",
-        "Philos",
-        "Progrès",
-        "Provita",
-        "Rhenusana",
-        "SLKK",
-        "Sana24",
-        "Sanagate",
-        "Sanavals",
-        "Sanitas",
-        "Sansan",
-        "Simplon",
-        "Sodalis",
-        "Steffisburg",
-        "Stoffel",
-        "Sumiswalder",
-        "Supra",
-        "Swica",
-        "Sympany",
-        "Turbenthal",
-        "Visana",
-        "Wädenswil",
-      ]}
-    />
-  </React.Fragment>
-)
+import { lengthError, phoneError, emailError } from "./validity"
 
-export default sideFormInputs
+const SideFormInputs = () => {
+  const [inputs, setInputs] = useState(registrationModel)
+
+  const changeHelperText = (validation, event, id, minLength, label) => {
+    event.persist()
+
+    const newInputs = [...inputs]
+    const value = event.target.value
+
+    const index = inputs.findIndex(input => {
+      return input.id === id
+    })
+
+    const error =
+      validation === "lengthError"
+        ? lengthError(value, minLength, label)
+        : validation === "phoneError"
+        ? phoneError(value, minLength, label)
+        : validation === "emailError"
+        ? emailError(value)
+        : " "
+
+    newInputs[index].helperText = error
+    setInputs([...newInputs])
+  }
+
+  return (
+    <form>
+      <FormControlLabel
+        control={<Checkbox checked={true} name="Male" size="small" />}
+        label="Herr"
+      />
+      <FormControlLabel
+        control={<Checkbox checked={true} name="Female" size="small" />}
+        label="Frau"
+      />
+
+      {registrationModel.map(el => (
+        <Input
+          id={el.id}
+          key={el.id}
+          name={el.name}
+          label={el.label}
+          type={el.type}
+          defaultValue={el.defaultValue}
+          helperText={el.helperText}
+          changed={event =>
+            changeHelperText(
+              el.validation,
+              event,
+              el.id,
+              el.minLength,
+              el.label
+            )
+          }
+        />
+      ))}
+      <button type="submit">Submit</button>
+    </form>
+  )
+}
+
+export default SideFormInputs
