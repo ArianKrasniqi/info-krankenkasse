@@ -5,12 +5,25 @@ import Input from "../../../elements/Input/Input"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
 import Checkbox from "@material-ui/core/Checkbox"
 
-import { lengthError, phoneError, emailError, dateError } from "./validity"
+import {
+  lengthError,
+  phoneError,
+  emailError,
+  dateError,
+  selectError,
+} from "./validity"
 
 const SideFormInputs = () => {
   const [inputs, setInputs] = useState(registrationModel)
 
-  const changeHelperText = (validation, event, id, minLength, label) => {
+  const changeHelperText = (
+    validation,
+    event,
+    id,
+    minLength,
+    label,
+    element
+  ) => {
     event.persist()
 
     const newInputs = [...inputs]
@@ -29,7 +42,13 @@ const SideFormInputs = () => {
         ? emailError(value)
         : validation === "dateError"
         ? dateError(value)
+        : validation === "selectError"
+        ? selectError(value, label)
         : " "
+
+    if (element === "select" && value !== undefined) {
+      newInputs[index].defaultValue = value
+    }
 
     newInputs[index].helperText = error
     setInputs([...newInputs])
@@ -55,13 +74,15 @@ const SideFormInputs = () => {
           type={el.type}
           defaultValue={el.defaultValue}
           helperText={el.helperText}
+          options={el.options}
           changed={event =>
             changeHelperText(
               el.validation,
               event,
               el.id,
               el.minLength,
-              el.label
+              el.label,
+              el.element
             )
           }
         />

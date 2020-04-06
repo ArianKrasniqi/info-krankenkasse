@@ -36,15 +36,30 @@ export const emailError = expression => {
     return `Email ist ungültig`
   }
 }
+
+const today = new Date()
+const yyyy = today.getFullYear()
+
 export const dateError = expression => {
   const year = expression.split("-")[0]
+  console.log(year)
   if (!expression) {
     return `Bitte Geburtsdatum angeben`
-  } else if (year.length > 4 || year.length < 4) {
+  } else if (year.length > 4) {
     return `Jahr ist ungültig`
-  } else if (year < 1900 && year > 2020) {
+  } else if (parseInt(year) < 1900 || parseInt(year) > yyyy) {
     return `Jahr ist ungültig`
+  } else {
+    return " "
   }
 }
 
-export const checkIsfilled = expression => expression && expression.length > 0
+export const selectError = (expression, label) => {
+  if (!expression) {
+    return `Bitte ${label} auswählen`
+  } else {
+    return " "
+  }
+}
+
+// export const checkIsfilled = expression => expression && expression.length > 0

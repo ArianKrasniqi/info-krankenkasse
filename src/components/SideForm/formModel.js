@@ -1,5 +1,6 @@
 const registrationModel = [
   {
+    element: "text",
     name: "vorname",
     label: "Vorname",
     type: "textInput",
@@ -10,6 +11,7 @@ const registrationModel = [
     validation: "lengthError",
   },
   {
+    element: "text",
     name: "nachname",
     label: "Nachname",
     type: "textInput",
@@ -21,6 +23,7 @@ const registrationModel = [
   },
 
   {
+    element: "text",
     name: "strasse",
     label: "Strasse",
     type: "textInput",
@@ -32,6 +35,7 @@ const registrationModel = [
   },
 
   {
+    element: "number",
     name: "plz",
     label: "PLZ",
     type: "numberInput",
@@ -43,6 +47,7 @@ const registrationModel = [
   },
 
   {
+    element: "text",
     name: "ort",
     label: "Ort",
     type: "textInput",
@@ -54,6 +59,7 @@ const registrationModel = [
   },
 
   {
+    element: "number",
     name: "telefon",
     label: "Telefon",
     type: "textInput",
@@ -65,6 +71,7 @@ const registrationModel = [
   },
 
   {
+    element: "email",
     name: "email",
     label: "E-Mail",
     type: "textInput",
@@ -75,6 +82,7 @@ const registrationModel = [
   },
 
   {
+    element: "text",
     name: "geburtsdatum",
     label: "Geburtsdatum",
     type: "datePicker",
@@ -85,22 +93,26 @@ const registrationModel = [
   },
 
   {
+    element: "select",
     name: "persons",
     label: "Anzahl Personen im Haushalt",
     type: "inputFullWidth",
     id: "persons-index",
     defaultValue: "",
     helperText: " ",
+    validation: "selectError",
     options: ["AA", "BB"],
   },
 
   {
+    element: "select",
     name: "insurance",
     label: "Aktuelle Krankenkasse",
     type: "inputFullWidth",
     id: "insurance-index",
-    defaultValue: "",
-    helperText: "Some important",
+    defaultValue: "CSS",
+    helperText: " ",
+    validation: "selectError",
     options: [
       "Vorgeburt",
       "AMB",

@@ -125,8 +125,8 @@ const input = props => {
             labelId="demo-simple-select-helper-label"
             id={props.id}
             key={props.id}
-            value={""}
-            // onChange={handleChange}
+            value={props.defaultValue}
+            onChange={event => props.changed(event)}
           >
             <MenuItem id="none" key="none" value="">
               <em>None</em>
