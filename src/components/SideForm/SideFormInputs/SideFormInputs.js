@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 
-import registrationModel from "../formModel"
+import formModel from "../formModel"
 import Input from "../../../elements/Input/Input"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
 import Checkbox from "@material-ui/core/Checkbox"
@@ -14,16 +14,16 @@ import {
 } from "./validity"
 
 const SideFormInputs = () => {
-  const [inputs, setInputs] = useState(registrationModel)
+  const [inputs, setInputs] = useState(formModel)
 
-  const changeHelperText = (
+  const changeHelperText = ({
     validation,
     event,
     id,
     minLength,
     label,
-    element
-  ) => {
+    element,
+  }) => {
     event.persist()
 
     const newInputs = [...inputs]
@@ -50,8 +50,37 @@ const SideFormInputs = () => {
       newInputs[index].defaultValue = value
     }
 
+    newInputs[index].defaultValue = value
     newInputs[index].helperText = error
+    newInputs[index].error = error == " " ? false : true
     setInputs([...newInputs])
+  }
+
+  const submitHandler = event => {
+    event.preventDefault()
+
+    let errors = 0
+
+    inputs.map((input, index) => {
+      if (input.defaultValue === "") {
+        errors++
+        changeHelperText(
+          // specify keys: event, validation, id, minLength, label, element
+          {
+            event,
+            validation: input.validation,
+            id: input.id,
+            minLength: input.minLength,
+            label: input.label,
+            element: input.element,
+          }
+        )
+      }
+    })
+
+    if (errors === 0) {
+      alert("You did!")
+    }
   }
 
   return (
@@ -65,8 +94,9 @@ const SideFormInputs = () => {
         label="Frau"
       />
 
-      {registrationModel.map(el => (
+      {inputs.map(el => (
         <Input
+          error={el.error}
           id={el.id}
           key={el.id}
           name={el.name}
@@ -77,17 +107,22 @@ const SideFormInputs = () => {
           options={el.options}
           changed={event =>
             changeHelperText(
-              el.validation,
-              event,
-              el.id,
-              el.minLength,
-              el.label,
-              el.element
+              // specify keys: event, validation, id, minLength, label, element
+              {
+                event,
+                validation: el.validation,
+                id: el.id,
+                minLength: el.minLength,
+                label: el.label,
+                element: el.element,
+              }
             )
           }
         />
       ))}
-      <button type="submit">Submit</button>
+      <button type="submit" onClick={event => submitHandler(event)}>
+        Submit
+      </button>
     </form>
   )
 }

@@ -17,6 +17,7 @@ const input = props => {
       input = (
         <TextField
           className={classes.inputText}
+          error={props.error}
           id={props.id}
           label={props.label}
           defaultValue={props.defaultValue}
@@ -30,6 +31,7 @@ const input = props => {
       input = (
         <TextField
           className={[classes.inputText, classes.Half].join(" ")}
+          error={props.error}
           id={props.id}
           key={props.id}
           label={props.label}
@@ -42,6 +44,7 @@ const input = props => {
       input = (
         <TextField
           className={[classes.inputText, classes.Quarter].join(" ")}
+          error={props.error}
           id={props.id}
           key={props.id}
           label={props.label}
@@ -55,6 +58,7 @@ const input = props => {
         <TextField
           type="number"
           className={classes.inputText}
+          error={props.error}
           id={props.id}
           label={props.label}
           defaultValue={props.defaultValue}
@@ -87,6 +91,7 @@ const input = props => {
           </InputLabel>
           <Select
             labelId="demo-simple-select-helper-label"
+            error={props.error}
             id={props.id}
             key={props.id}
             value={""}
@@ -123,6 +128,7 @@ const input = props => {
           </InputLabel>
           <Select
             labelId="demo-simple-select-helper-label"
+            error={props.error}
             id={props.id}
             key={props.id}
             value={props.defaultValue}
@@ -142,6 +148,7 @@ const input = props => {
       input = (
         <TextField
           style={props.style}
+          error={props.error}
           id={props.id}
           key={props.id}
           label={props.label}
@@ -157,6 +164,7 @@ const input = props => {
       input = (
         <TextField
           className={classes.inputText}
+          error={props.error}
           id={props.id}
           label={props.label}
           defaultValue={props.defaultValue}
@@ -175,6 +183,7 @@ const input = props => {
       input = (
         <TextField
           id={props.id}
+          error={props.error}
           key={props.id}
           label={props.label}
           defaultValue=""

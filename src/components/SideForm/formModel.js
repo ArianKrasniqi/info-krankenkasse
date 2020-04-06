@@ -9,6 +9,7 @@ const registrationModel = [
     helperText: " ",
     minLength: 2,
     validation: "lengthError",
+    error: false,
   },
   {
     element: "text",
@@ -20,6 +21,7 @@ const registrationModel = [
     helperText: " ",
     minLength: 2,
     validation: "lengthError",
+    error: false,
   },
 
   {
@@ -32,6 +34,7 @@ const registrationModel = [
     helperText: " ",
     minLength: 2,
     validation: "lengthError",
+    error: false,
   },
 
   {
@@ -44,6 +47,7 @@ const registrationModel = [
     helperText: " ",
     minLength: 4,
     validation: "lengthError",
+    error: false,
   },
 
   {
@@ -56,6 +60,7 @@ const registrationModel = [
     helperText: " ",
     minLength: 2,
     validation: "lengthError",
+    error: false,
   },
 
   {
@@ -68,6 +73,7 @@ const registrationModel = [
     helperText: " ",
     minLength: 10,
     validation: "phoneError",
+    error: false,
   },
 
   {
@@ -79,6 +85,7 @@ const registrationModel = [
     defaultValue: "",
     helperText: " ",
     validation: "emailError",
+    error: false,
   },
 
   {
@@ -90,6 +97,7 @@ const registrationModel = [
     defaultValue: "",
     helperText: " ",
     validation: "dateError",
+    error: false,
   },
 
   {
@@ -101,6 +109,7 @@ const registrationModel = [
     defaultValue: "",
     helperText: " ",
     validation: "selectError",
+    error: false,
     options: ["AA", "BB"],
   },
 
@@ -110,9 +119,10 @@ const registrationModel = [
     label: "Aktuelle Krankenkasse",
     type: "inputFullWidth",
     id: "insurance-index",
-    defaultValue: "CSS",
+    defaultValue: "",
     helperText: " ",
     validation: "selectError",
+    error: false,
     options: [
       "Vorgeburt",
       "AMB",
