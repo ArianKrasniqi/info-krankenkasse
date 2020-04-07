@@ -1,4 +1,5 @@
 import React from "react"
+import { connect } from "react-redux"
 
 import Layout from "../components/Layout/Layout"
 import Cover from "../components/Cover/Cover"
@@ -7,9 +8,11 @@ import Compare from "../components/Compare/Compare"
 import SideForm from "../components/SideForm/SideForm"
 import ContactInfo from "../components/ContactInfo/ContactInfo"
 
+import * as actionTypes from "../store/actions"
+
 // import classes from "./test.module.css"
 
-export default () => (
+const Index = props => (
   <Layout>
     <Cover></Cover>
 
@@ -109,3 +112,18 @@ export default () => (
     <ContactInfo />
   </Layout>
 )
+
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeLanguage: lang =>
+      dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Index)
