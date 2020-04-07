@@ -1,10 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
+import { connect } from "react-redux"
 
 import Layout from "../components/Layout/Layout"
 import Text from "../elements/Text/Text"
 import Compare from "../components/Compare/Compare"
 import ContactForm from "../components/ContactForm/ContactForm"
+import * as actionTypes from "../store/actions"
 
 export const query = graphql`
   query($slug: String!) {
@@ -23,7 +25,9 @@ export const query = graphql`
 const Information = props => {
   return (
     <Layout>
-      <Text type="title">{props.data.markdownRemark.frontmatter.title}</Text>
+      <Text type="title">
+        {props.lang} {props.data.markdownRemark.frontmatter.title}
+      </Text>
 
       {props.data.markdownRemark.headings.map((line, index) => {
         if (line.depth === 6) {
@@ -56,4 +60,17 @@ const Information = props => {
   )
 }
 
-export default Information
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeLanguage: lang =>
+      dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Information)

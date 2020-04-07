@@ -1,4 +1,5 @@
 ---
+lang: "it"
 type: "glossar"
 title: "Kündigungsfrist Krankenkasse"
 ---

@@ -1,4 +1,5 @@
 ---
+lang: "fr"
 type: "glossar"
 title: "Dentalhygiene"
 ---

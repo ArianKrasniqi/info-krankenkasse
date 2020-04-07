@@ -17,9 +17,13 @@ const Index = props => (
     <Cover></Cover>
 
     <Text type="title">
-      Aktuelle Krankenkassenprämien für 2020: Machen Sie jetzt den
+      Aktuelle {props.lang} Krankenkassenprämien für 2020: Machen Sie jetzt den
       Krankenkassenvergleich
     </Text>
+    <button onClick={() => props.onChangeLanguage("de")}>Change to De</button>
+    <button onClick={() => props.onChangeLanguage("en")}>Change to En</button>
+    <button onClick={() => props.onChangeLanguage("fr")}>Change to Fr</button>
+    <button onClick={() => props.onChangeLanguage("it")}>Change to It</button>
     <Text type="paragraph">
       Seit 1996 besteht in der Schweiz Krankenkassenpflicht. Jeder Einwohner der
       Schweiz muss eine obligatorische Krankenpflegeversicherung abschliessen.

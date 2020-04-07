@@ -1,9 +1,10 @@
 ---
+lang: "en"
 type: "glossar"
 title: Alternativmedizin-Komplementärmedizin
 ---
 
-## Alternativmedizin: Welche Behandlungen übernimmt die Krankenkasse?
+## English Alternativmedizin: Welche Behandlungen übernimmt die Krankenkasse?
 
 ###### Die Begriffe Alternativmedizin und Komplementärmedizin bezeichnen Behandlungsmethoden, die nicht zur Schulmedizin gehören. Dazu zählen etwa Naturheilmittel oder die Traditionelle Chinesische Medizin. Gewisse Leistungen aus dem Bereich der alternativen Medizin werden von der Grundversicherung übernommen. Allerdings müssen die Behandlungen durch von der Krankenkasse zugelassene Leistungserbringer durchgeführt werden.
 

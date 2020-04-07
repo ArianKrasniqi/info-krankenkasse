@@ -1,11 +1,13 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
+import { connect } from "react-redux"
 
 import Layout from "../components/Layout/Layout"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
+import * as actionTypes from "../store/actions"
 
-const Company = props => {
+const Glossar = props => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -15,6 +17,7 @@ const Company = props => {
               frontmatter {
                 type
                 title
+                lang
               }
               fields {
                 slug
@@ -30,7 +33,10 @@ const Company = props => {
   const slugs = {}
 
   for (let edge of data.allMarkdownRemark.edges) {
-    if (edge.node.frontmatter.type === "glossar") {
+    if (
+      edge.node.frontmatter.type === "glossar" &&
+      edge.node.frontmatter.lang === props.lang
+    ) {
       let slug = edge.node.fields.slug
       let name = edge.node.frontmatter.title
       let letter = name.charAt(0)
@@ -45,7 +51,21 @@ const Company = props => {
 
   return (
     <Layout>
-      <Text type="title">Informationen zum Thema Krankenversicherung</Text>
+      <Text type="title">
+        <button onClick={() => props.onChangeLanguage("de")}>
+          Change to De
+        </button>
+        <button onClick={() => props.onChangeLanguage("en")}>
+          Change to En
+        </button>
+        <button onClick={() => props.onChangeLanguage("fr")}>
+          Change to Fr
+        </button>
+        <button onClick={() => props.onChangeLanguage("it")}>
+          Change to It
+        </button>
+        {props.lang} Informationen zum Thema Krankenversicherung
+      </Text>
       <Text type="paragraph">
         Im Glossar finden Sie Erklärungen zu den wichtigsten Begriffen zum Thema
         Krankenversicherung und dem Schweizer Gesundheitssystem.
@@ -55,4 +75,17 @@ const Company = props => {
   )
 }
 
-export default Company
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeLanguage: lang =>
+      dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Glossar)

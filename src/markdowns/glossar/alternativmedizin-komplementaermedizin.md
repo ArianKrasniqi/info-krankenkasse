@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "glossar"
 title: Alternativmedizin-Komplementärmedizin
 ---

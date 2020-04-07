@@ -1,11 +1,13 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
+import { connect } from "react-redux"
 
 import Layout from "../components/Layout/Layout"
 import Card from "../components/Card/Card"
 import Text from "../elements/Text/Text"
+import * as actionTypes from "../store/actions"
 
-export default ({ children }) => {
+const Informationen = props => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -30,7 +32,13 @@ export default ({ children }) => {
 
   return (
     <Layout>
-      <Text type="title">Informationen zum Thema Krankenversicherung</Text>
+      <button onClick={() => props.onChangeLanguage("de")}>Change to De</button>
+      <button onClick={() => props.onChangeLanguage("en")}>Change to En</button>
+      <button onClick={() => props.onChangeLanguage("fr")}>Change to Fr</button>
+      <button onClick={() => props.onChangeLanguage("it")}>Change to It</button>
+      <Text type="title">
+        {props.lang} Informationen zum Thema Krankenversicherung
+      </Text>
       {data.allMarkdownRemark.edges.map((edge, index) => {
         let side = ""
         if (index % 2 === 0) {
@@ -52,3 +60,18 @@ export default ({ children }) => {
     </Layout>
   )
 }
+
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeLanguage: lang =>
+      dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Informationen)

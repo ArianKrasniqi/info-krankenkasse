@@ -1,6 +1,7 @@
 ---
+lang: "it"
 type: "glossar"
-title: "telmed"
+title: "Telmed"
 ---
 
 ## Telmed: Prämien sparen mit dem Telemedizin Versicherungsmodell
