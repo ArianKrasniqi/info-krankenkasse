@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "KPT Krankenkasse"
 shortName: "KPT / CPT"

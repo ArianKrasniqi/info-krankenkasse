@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Galenos Krankenkasse"
 shortName: "Galenos"

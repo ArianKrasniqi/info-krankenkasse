@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Provita Krankenkasse"
 shortName: "Provita"

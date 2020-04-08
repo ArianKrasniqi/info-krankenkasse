@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Vita Surselva"
 shortName: "Vita Surselva"

@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Einsiedeln Krankenkasse"
 shortName: "Einsiedeln"

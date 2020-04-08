@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Innova Krankenkasse"
 shortName: "Innova"

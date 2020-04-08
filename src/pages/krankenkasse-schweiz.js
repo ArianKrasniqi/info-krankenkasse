@@ -19,6 +19,7 @@ const KrankenkasseSchweiz = props => {
               frontmatter {
                 type
                 shortName
+                lang
               }
               fields {
                 slug
@@ -34,7 +35,10 @@ const KrankenkasseSchweiz = props => {
   const slugs = {}
 
   for (let edge of data.allMarkdownRemark.edges) {
-    if (edge.node.frontmatter.type === "krankenkasse") {
+    if (
+      edge.node.frontmatter.type === "krankenkasse" &&
+      edge.node.frontmatter.lang === props.lang
+    ) {
       let slug = edge.node.fields.slug
       let name = edge.node.frontmatter.shortName
       let letter = name.charAt(0)

@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Glarner Krankenkasse"
 shortName: "Glarner"
@@ -23,7 +24,7 @@ description: "Die Glarner Krankenversicherung gehört zu den kleineren Krankenka
 
 ## Vier Modelle der Spitalversicherung
 
-Die Glarner Krankenversicherung stellt vier unterschiedliche Tarife der Spitalzusatzversicherung zur Auswahl:
+###### Die Glarner Krankenversicherung stellt vier unterschiedliche Tarife der Spitalzusatzversicherung zur Auswahl:
 
 ### Kombi Allgemein lässt Sie das Spital schweizweit frei wählen. 
 

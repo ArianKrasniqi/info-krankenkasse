@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Sana24 Krankenkasse"
 shortName: "Sana24"

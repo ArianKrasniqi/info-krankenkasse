@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "CSS Krankenkasse"
 shortName: "CSS"

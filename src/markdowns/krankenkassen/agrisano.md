@@ -1,6 +1,7 @@
 ---
+lang: "de"
 type: "krankenkasse"
-name: "Agrisano Krankenkasse"
+name: "Germano Agrisano Krankenkasse"
 shortName: "Agrisano"
 location: "Laurstrasse 10, 5201 Brugg"
 insured: "128'446"

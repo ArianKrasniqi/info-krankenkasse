@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Groupe Mutuel Krankenkasse"
 shortName: "Groupe Mutuel"

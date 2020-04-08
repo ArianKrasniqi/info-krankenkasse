@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Aquilana Krankenkasse"
 shortName: "Aquilana"

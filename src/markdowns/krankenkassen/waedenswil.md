@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Wädenswil Krankenkasse"
 shortName: "Wädenswil"

@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "krankenkasse"
 name: "Supra Krankenkasse"
 shortName: "Supra"
