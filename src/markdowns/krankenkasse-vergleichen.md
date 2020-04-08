@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "info"
 title: "Krankenkasse vergleichen"
 image: "Compare"

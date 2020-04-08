@@ -42,6 +42,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
     let component = ""
     if (edge.node.frontmatter.type === "info") {
       path = `informationen/${edge.node.fields.slug}`
+      console.log(path)
       component = informationTemplate
       if (edge.node.fields.slug === "glossar") {
         component = glossarTemplate

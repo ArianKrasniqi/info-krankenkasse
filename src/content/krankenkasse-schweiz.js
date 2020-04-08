@@ -1,0 +1,40 @@
+export const de = {
+  title: "Liste aller Krankenkassen in der Schweizer",
+  description:
+    "Dem Schweizer Krankenkassengesetz (KVG) zufolge müssen alle in der Schweiz wohnhaften Personen bei einer Schweizer Krankenkasse versichert sein. Das gilt für Schweizer sowie für Ausländer. Unter den Krankenversicherern herrscht starker Wettbewerb. In der Grundversicherung ist jede Krankenkasse zum Angebot gleicher Leistungen verpflichtet. Die Höhe der Prämien unterscheidet sich jedoch von Krankenkasse zu Krankenkasse und ist zudem abhängig vom Wohnkanton. Gerade in der Grundversicherung zahlen viele Versicherte zu hohe Prämien. Dabei können Sie pro Jahr mehrere Hundert Franken sparen, wenn Sie Ihre Krankenkasse wechseln.",
+  content: [
+    "Wir machen Ihnen den Wechsel der Krankenkasse leicht. Mit unserem Prämienvergleich ermitteln Sie Ihr Sparpotenzial und fordern direkt eine kostenlose Offerte an. Die Krankenkassen-Liste bietet Ihnen zudem detaillierte Informationen zu den einzelnen Krankenversicherern in der Schweiz.",
+    "Jede Krankenkasse in der Schweiz untersteht dem BAG (Bundesamt für Gesundheit). Der Schweizer Bund überprüft die von den Versicherern erhobenen Prämien. Jedes Jahr im Herbst veröffentlicht das BAG (Bundesamt für Gesundheit) die aktuelle Prämienübersicht für das kommende Jahr. Prämienerhöhungen muss eine Krankenversicherung ihren Versicherten zudem schriftlich mitteilen.",
+    "Spätestens, wenn Sie eine Nachricht über eine Prämienerhöhung erhalten haben, ist es an der Zeit, über einen Wechsel nachzudenken. Wir stellen Ihnen einen Prämienvergleich mit den aktuellen Daten des BAG zur Verfügung. Mit wenigen Klicks vergleichen Sie die Prämien Ihrer Krankenkasse und ermitteln Ihr Sparpotenzial. Möchten Sie Ihre Krankenkasse wechseln, können Sie bei uns gleich Ihre alte Krankenkasse kündigen und eine Offerte für eine günstigere Krankenversicherung einholen.",
+  ],
+}
+export const en = {
+  title: "List of all health insurance companies in Switzerland",
+  description:
+    "According to the Swiss Health Insurance Act (KVG), all persons resident in Switzerland must be insured with a Swiss health insurance fund. This applies to both Swiss and foreign nationals. There is strong competition among health insurers. In basic health insurance, every health insurance company is obliged to offer the same benefits. However, the level of premiums varies from health insurance fund to health insurance fund and also depends on the canton of residence. Especially in basic health insurance, many policyholders pay too high premiums. You can save several hundred francs a year if you change your health insurance company.",
+  content: [
+    "We make it easy for you to change your health insurance company. With our premium comparison you can determine your savings potential and request a free quote directly. The health insurance list also offers you detailed information on the individual health insurers in Switzerland.",
+    "Every health insurance fund in Switzerland is subject to the FOPH (Federal Office of Public Health). The Swiss Confederation checks the premiums charged by the insurers. Every autumn, the FOPH (Federal Office of Public Health) publishes the current overview of premiums for the coming year. A health insurance company must also inform its policyholders in writing of any premium increases.",
+    "At the latest when you have received a message about a premium increase, it is time to think about a change. We will provide you with a premium comparison with the FOPH's current data. With just a few clicks, you can compare the premiums of your health insurance company and determine your savings potential. If you would like to change your health insurance company, you can cancel your old health insurance company with us immediately and obtain an offer for a cheaper health insurance.",
+  ],
+}
+export const fr = {
+  title: "Liste de toutes les caisses d'assurance maladie en Suisse",
+  description:
+    "Selon la Loi fédérale sur l'assurance-maladie (LAMal), toutes les personnes domiciliées en Suisse doivent être assurées auprès d'une caisse d'assurance-maladie suisse. Ceci s'applique aussi bien aux Suisses qu'aux étrangers. Il existe une forte concurrence entre les assureurs maladie. Dans l'assurance de base, chaque caisse maladie est tenue d'offrir les mêmes prestations. Toutefois, le niveau des primes varie d'une caisse d'assurance maladie à l'autre et dépend également du canton de résidence. En particulier dans l'assurance de base, de nombreux assurés paient des primes trop élevées. Vous pouvez économiser plusieurs centaines de francs par an en changeant de caisse d'assurance maladie.",
+  content: [
+    "Nous vous facilitons le changement de caisse d'assurance maladie. Grâce à notre comparaison des primes, vous pouvez déterminer votre potentiel d'économie et demander une offre gratuite directement. La liste des caisses d'assurance-maladie vous offre également des informations détaillées sur les différentes assurances maladie en Suisse.",
+    "Toutes les caisses d'assurance-maladie en Suisse sont soumises à l'OFSP (Office fédéral de la santé publique). La Confédération suisse contrôle les primes perçues par les assureurs. A l'automne de chaque année, l'OFSP (Office fédéral de la santé publique) publie l'aperçu actuel des primes pour l'année à venir. Une compagnie d'assurance maladie doit également informer ses assurés par écrit des augmentations de primes.",
+    "Au plus tard lorsque vous avez reçu un message concernant une augmentation de prime, il est temps de penser à un changement. Nous vous fournirons une comparaison des primes avec les données actuelles de l'OFSP. En quelques clics, vous pouvez comparer les primes de votre caisse maladie et déterminer votre potentiel d'économie. Si vous souhaitez changer de caisse d'assurance maladie, vous pouvez résilier immédiatement votre ancienne caisse d'assurance maladie auprès de nous et obtenir une offre pour une assurance maladie moins chère.",
+  ],
+}
+export const it = {
+  title: "Lista di tutte le assicurazioni sanitarie in Svizzera",
+  description:
+    "Secondo la legge svizzera sull'assicurazione malattie (LAMal), tutte le persone che risiedono in Svizzera devono essere assicurate con un fondo svizzero di assicurazione malattia. Questo vale sia per gli svizzeri che per gli stranieri. Vi è una forte concorrenza tra gli assicuratori sanitari. All'Assicurazione di base ogni compagnia di assicurazione sanitaria è tenuta a offrire uguali benefici. Tuttavia, l'importo dei premi differisce da un’assicurazione sanitaria all'altra e dipende anche dal cantone di residenza. Soprattutto nell'assicurazione di base, molti assicurati pagano premi molto elevati. Puoi risparmiare diverse centinaia di franchi all'anno se cambi assicurazione sanitaria.",
+  content: [
+    "Rendiamo facile il cambio dell'assicurazione sanitaria. Grazie al nostro confronto premium, puoi determinare il tuo potenziale di risparmio e richiedere direttamente un'offerta gratuita. L'elenco delle assicurazioni sanitarie fornisce anche informazioni dettagliate sui singoli assicuratori sanitari in Svizzera.",
+    "Ogni assicurazione sanitaria in Svizzera è soggetta all'UFSP (Ufficio federale della sanità pubblica). La Confederazione svizzera esamina i premi raccolti dagli assicuratori. Ogni autunno, il BAG (Ufficio federale della sanità pubblica) pubblica l'attuale panoramica dei premi per il prossimo anno. Gli aumenti dei premi devono inoltre essere comunicati per iscritto alla persona assicurata.",
+    "Se hai ricevuto un messaggio su un aumento del premio, è tempo di pensare a un cambiamento. Ti offriamo un confronto premium con i dati attuali dell'UFSP. Bastano pochi clic per confrontare i premi della compagnia di assicurazione sanitaria e determinare il potenziale di risparmio. Se desideri cambiare la tua assicurazione sanitaria, puoi cancellare immediatamente la tua vecchia assicurazione sanitaria con noi e ottenere un'offerta per un'assicurazione sanitaria più economica.",
+  ],
+}

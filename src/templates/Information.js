@@ -25,9 +25,7 @@ export const query = graphql`
 const Information = props => {
   return (
     <Layout>
-      <Text type="title">
-        {props.lang} {props.data.markdownRemark.frontmatter.title}
-      </Text>
+      <Text type="title">{props.data.markdownRemark.frontmatter.title}</Text>
 
       {props.data.markdownRemark.headings.map((line, index) => {
         if (line.depth === 6) {

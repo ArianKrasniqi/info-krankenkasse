@@ -52,18 +52,6 @@ const Glossar = props => {
   return (
     <Layout>
       <Text type="title">
-        <button onClick={() => props.onChangeLanguage("de")}>
-          Change to De
-        </button>
-        <button onClick={() => props.onChangeLanguage("en")}>
-          Change to En
-        </button>
-        <button onClick={() => props.onChangeLanguage("fr")}>
-          Change to Fr
-        </button>
-        <button onClick={() => props.onChangeLanguage("it")}>
-          Change to It
-        </button>
         {props.lang} Informationen zum Thema Krankenversicherung
       </Text>
       <Text type="paragraph">

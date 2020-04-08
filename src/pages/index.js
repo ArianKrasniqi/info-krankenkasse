@@ -37,38 +37,18 @@ const Index = props => {
       <div className="SideFormAndContent">
         <SideForm />
 
-        <Text type="subtitle">
-          {lang.subtitle}
-        </Text>
-        <Text type="paragraph">
-          {lang.content[0]}
-        </Text>
-        <Text type="paragraph">
-          {lang.content[1]}
-        </Text>
-        <Text type="subtitle">
-        {lang.subtitle2}
-        </Text>
-        <Text type="paragraph">
-        {lang.content2[0]}
-        </Text>
-        <Text type="paragraph">
-        {lang.content2[1]}
-        </Text>
-        <Text type="subtitle">
-        {lang.subtitle3}
-        </Text>
-        <Text type="paragraph">
-        {lang.content3[0]}
-        </Text>
-        <Text type="paragraph">
-        {lang.content3[1]}
-        </Text>
+        <Text type="subtitle">{lang.subtitle}</Text>
+        <Text type="paragraph">{lang.content[0]}</Text>
+        <Text type="paragraph">{lang.content[1]}</Text>
+        <Text type="subtitle">{lang.subtitle2}</Text>
+        <Text type="paragraph">{lang.content2[0]}</Text>
+        <Text type="paragraph">{lang.content2[1]}</Text>
+        <Text type="subtitle">{lang.subtitle3}</Text>
+        <Text type="paragraph">{lang.content3[0]}</Text>
+        <Text type="paragraph">{lang.content3[1]}</Text>
       </div>
       <Text type="subtitle">{lang.subtitle4}</Text>
-      <Text type="paragraph">
-        {lang.content4}
-      </Text>
+      <Text type="paragraph">{lang.content4}</Text>
 
       <ContactInfo />
     </Layout>

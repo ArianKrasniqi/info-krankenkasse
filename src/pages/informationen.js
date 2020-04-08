@@ -7,6 +7,8 @@ import Card from "../components/Card/Card"
 import Text from "../elements/Text/Text"
 import * as actionTypes from "../store/actions"
 
+import * as content from "../content/informationen"
+
 const Informationen = props => {
   const data = useStaticQuery(
     graphql`
@@ -15,6 +17,7 @@ const Informationen = props => {
           edges {
             node {
               frontmatter {
+                lang
                 type
                 title
                 description
@@ -30,26 +33,33 @@ const Informationen = props => {
     `
   )
 
+  let lang =
+    props.lang === "en"
+      ? content.en
+      : props.lang === "fr"
+      ? content.fr
+      : props.lang === "it"
+      ? content.it
+      : content.de
+
   return (
     <Layout>
-      <button onClick={() => props.onChangeLanguage("de")}>Change to De</button>
-      <button onClick={() => props.onChangeLanguage("en")}>Change to En</button>
-      <button onClick={() => props.onChangeLanguage("fr")}>Change to Fr</button>
-      <button onClick={() => props.onChangeLanguage("it")}>Change to It</button>
       <Text type="title">
-        {props.lang} Informationen zum Thema Krankenversicherung
+        {props.lang}
+        {lang.title}
       </Text>
       {data.allMarkdownRemark.edges.map((edge, index) => {
-        let side = ""
-        if (index % 2 === 0) {
-          side = "right"
-        }
-        return edge.node.frontmatter.type === "info" ? (
+        // let side = ""
+        // if (index % 2 === 0) {
+        //   side = "right"
+        // }
+        return edge.node.frontmatter.type === "info" &&
+          edge.node.frontmatter.lang === props.lang ? (
           <Card
             key={edge.node.frontmatter.title}
             to={`/informationen/${edge.node.fields.slug}`}
             title={`${edge.node.frontmatter.title}`}
-            side={side}
+            // side={side}
             style={index === 0 ? { paddingTop: "10px" } : {}}
             image={edge.node.frontmatter.image}
           >

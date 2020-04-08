@@ -1,4 +1,9 @@
 export const de = {
+  coverButton: [
+    "Prämien 2020 vergleichen",
+    "Krankenkasse wechseln",
+    "Krankenkasse kündigen",
+  ],
   title:
     "Aktuelle Krankenkassenprämien für 2020: Machen Sie jetzt den Krankenkassenvergleich",
   description: [
@@ -27,6 +32,11 @@ export const de = {
 }
 
 export const en = {
+  coverButton: [
+    "Compare premiums 2020",
+    "Change health insurance",
+    "Cancel health insurance",
+  ],
   title:
     "Current health insurance premiums for 2020: Make now the health insurance company comparison",
   description: [
@@ -53,6 +63,11 @@ export const en = {
 }
 
 export const fr = {
+  coverButton: [
+    "Comparer les primes 2020",
+    "Changer de caisse d'assurance maladie",
+    "Résilier la caisse d'assurance maladie",
+  ],
   title:
     "Primes de caisses d'assurance maladie actuelles pour 2020 : Faites maintenant la comparaison avec les caisses d'assurance maladie",
   description: [
@@ -81,6 +96,11 @@ export const fr = {
 }
 
 export const it = {
+  coverButton: [
+    "Confrontare premi 2020",
+    "Cambiare assicurazione sanitaria",
+    "Sospendere assicurazione sanitaria",
+  ],
   title:
     "Premi attuali per l'assicurazione sanitaria per il 2020: fai ora il confronto dell'assicurazione sanitaria",
   description: [

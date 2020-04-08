@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "info"
 title: "Glossar"
 title2: "Informationen zum Thema Krankenversicherung"

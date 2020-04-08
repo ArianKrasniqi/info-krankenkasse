@@ -1,4 +1,5 @@
 ---
+lang: "de"
 type: "info"
 title: "Vorgeburtliche anmeldung"
 image: "Pregnancy"
