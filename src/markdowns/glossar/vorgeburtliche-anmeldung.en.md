@@ -1,37 +1,37 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Vorgeburtliche anmeldung"
+title: "Prenatal registration"
 ---
 
-## Vorgeburtliche Anmeldung: Melden Sie Ihr Baby rechtzeitig bei der Krankenkasse
+## Pre-natal registration: Report your baby to your health insurance company in good time
 
-###### Jeder Schweizer und jede Schweizerin muss bei einer Krankenkasse gemeldet sein. Das gilt bereits für Babys. Damit Ihr Baby ab der Geburt einen umfassenden Versicherungsschutz geniesst, empfiehlt sich die vorgeburtliche Anmeldung. So sind Sie auch geschützt, falls Ihr Kind krank zur Welt kommt.
+###### Every Swiss citizen must be registered with a health insurance fund. That already goes for babies. In order for your baby to enjoy comprehensive insurance cover from birth, prenatal registration is recommended. This also protects you if your child is born sick.
 
-###### Fordern Sie gleich eine unverbindliche Offerte an und schliessen eine Krankenversicherung für Ihr Baby ab.
+###### Request a non-binding quote now and take out health insurance for your baby.
 
 # Form3
 
-## Vorteile durch die vorgeburtliche Anmeldung
+## Advantages of prenatal registration
 
-###### Melden Sie bereits Ihr ungeborenes Kind bei der Krankenkasse an, besteht der Versicherungsschutz bereits ab dem Moment der Geburt. Durch die vorgeburtliche Anmeldung können Sie alle administrativen Angelegenheiten in Ruhe klären und nach der Geburt mehr Zeit mit Ihrem Baby verbringen.
+###### If you already register your unborn child with the health insurance fund, the insurance cover already exists from the moment of birth. With prenatal registration, you can settle all administrative matters in peace and quiet and spend more time with your baby after birth.
 
-###### Besonders wichtig ist die vorgeburtliche Anmeldung in der Zusatzversicherung. Anders als in der Grundversicherung besteht hier nämlich keine Aufnahmepflicht. Die Krankenversicherung kann die Aufnahme Ihres Kindes ohne Angabe von Gründen verweigern. Kümmern Sie sich daher bereits vor der Geburt um alle wichtigen Zusatzversicherungen.
+###### The prenatal registration in the supplementary insurance is particularly important. In contrast to basic insurance, there is no obligation to take out a policy here. Health insurance may refuse to admit your child without giving reasons. You should therefore take care of all important supplementary insurance before birth.
 
-## Sparen mit dem Familienrabatt
+## Saving with the family discount
 
-###### Sie müssen Ihr Baby nicht zwangsläufig bei der Krankenkasse versichern, bei der Sie einen Vertrag abgeschlossen haben. Familien mit mehreren Kindern bieten viele Krankenversicherer jedoch einen Familienrabatt mit reduzierten Prämien. Je nach Versicherer erhalten Sie den Familienrabatt ab dem zweiten oder ab dem dritten Kind.
+###### You do not necessarily have to insure your baby with the health insurance company with which you have concluded a contract. However, many health insurers offer families with several children a family discount with reduced premiums. Depending on the insurer, you will receive the family discount from the second or third child onwards.
 
-## So einfach funktioniert die vorgeburtliche Anmeldung
+## This is how easy prenatal registration works
 
-###### Die vorgeburtliche Anmeldung zur Krankenkasse führen Sie in wenigen Schritten durch:
+###### The prenatal registration to the health insurance company is carried out in just a few steps:
 
-### Vergleichen Sie die Krankenkassen mit unserem Prämienrechner.
+### Compare the health insurance companies with our premium calculator.
 
-### Holen Sie über unser Formular gleich eine Offerte ein.
+### Use our form to request a quote right away.
 
-### Senden Sie Ihre Unterlagen an die Krankenversicherung Ihrer Wahl und melden Ihr Baby an.
+### Send your documents to the health insurance company of your choice and register your baby.
 
-### Nach der Geburt teilen Sie der Krankenkasse das genaue Geburtsdatum und den Namen des Kindes mit.
+### After the birth you inform the health insurance company of the exact date of birth and the name of the child.
 
-### Daraufhin tritt die Versicherung in Kraft und Sie erhalten die Versicherungskarte für Ihr Kind.
+### The insurance will then come into effect and you will receive the insurance card for your child.

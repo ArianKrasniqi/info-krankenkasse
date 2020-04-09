@@ -1,35 +1,35 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Kündigungsfrist Krankenkasse"
+title: "Délai de résiliation caisse d'assurance maladie"
 ---
 
-## Kündigungsfrist der Krankenkasse: Welche Fristen müssen Sie beachten?
+## Délai de résiliation de la caisse d'assurance maladie : Quelles sont les dates limites que vous devez respecter ?
 
-###### Sind Sie mit Ihrer Krankenversicherung nicht mehr zufrieden und möchten Ihren Anbieter wechseln, müssen Sie Ihre Kündigung fristgerecht einreichen. In der Grundversicherung richtet sich die Kündigungsfrist nach der Franchise. Mit ordentlicher Franchise können Sie zur Jahresmitte kündigen, ansonsten bis zum Jahresende. Für Zusatzversicherungen müssen Sie abweichende Kündigungsfristen zu beachten.
+###### Si vous n'êtes plus satisfait de votre assurance maladie et que vous souhaitez changer d'assureur, vous devez envoyer votre résiliation en temps utile. Pour l'assurance de base, le délai de préavis dépend de la franchise. Avec une franchise régulière, vous pouvez donner un préavis au milieu de l'année, sinon jusqu'à la fin de l'année. Pour les assurances complémentaires, vous devez respecter des délais de résiliation différents.
 
 # Form
 
-## Kündigungsfrist bei ordentlicher Franchise
+## Délai de résiliation pour les franchises ordinaires
 
-###### Die ordentliche Franchise in der Grundversicherung beträgt 300 Schweizer Franken für Erwachsene und 0 Schweizer Franken für Kinder. Haben Sie ein entsprechendes Versicherungsmodell abgeschlossen, können Sie Ihre Krankenkasse zur Mitte des Jahres hin kündigen. Dabei gilt eine Frist von drei Monaten.
+###### La franchise ordinaire pour l'assurance de base est de 300 francs suisses pour les adultes et de 0 franc suisse pour les enfants. Si vous avez souscrit un modèle d'assurance correspondant, vous pouvez résilier votre assurance maladie au milieu de l'année. Un délai de résiliation de trois mois s'applique.
 
-###### Konkret bedeutet das: Damit die Kündigung fristgerecht in Kraft tritt, muss Ihr Kündigungsschreiben bis spätestens zum 31. März bei Ihrem Versicherer eingegangen sein. Wirksam wird die Kündigung dann zum 30. Juni. Ab dem 1. Juli gilt der neue Versicherungsvertrag bei Ihrer neu gewählten Krankenversicherung.
+###### Concrètement, cela signifie que votre lettre de résiliation doit parvenir à votre assureur au plus tard le 31 mars pour que la résiliation prenne effet à temps. La résiliation prendra alors effet le 30 juin. A partir du 1er juillet, le nouveau contrat d'assurance s'appliquera à votre nouvelle caisse maladie sélectionnée.
 
-## Krankenversicherung kündigen zum Jahresende
+## Résiliation de l'assurance maladie en fin d'année
 
-###### Haben Sie eine andere Franchise gewählt, können Sie Ihre Versicherung erst zum Jahresende kündigen. Jedes Jahr im Herbst geben die Krankenkassen ihre neuen Prämien für das kommende Jahr bekannt. Diese werden vom Bundesamt für Gesundheit (BAG) bewilligt und Ende September veröffentlicht. Ihr Versicherer muss Sie zudem bis zum 31. Oktober schriftlich über die Beitragsänderung informieren.
+###### Si vous avez choisi une franchise différente, vous ne pouvez pas résilier votre assurance avant la fin de l'année. Chaque automne, les caisses d’assurance maladie annoncent leurs nouvelles primes pour l'année à venir. Ceux-ci sont approuvés par l'Office fédéral de la santé publique (OFSP) et publiés fin septembre. Votre assureur doit également vous informer par écrit de la modification des primes au plus tard le 31 octobre.
 
-###### In diesem Fall können Sie Ihren Vertrag bis zum 30. November kündigen. Ihr Versicherungsverhältnis endet daraufhin am 31. Dezember. Massgeblich ist wiederum das Datum, bis zu dem Ihr Kündigungsschreiben beim Versicherer eingegangen ist.
+###### Dans ce cas, vous pouvez résilier votre contrat jusqu'au 30 novembre. Votre relation d'assurance prendra alors fin le 31 décembre. Encore une fois, la date à laquelle l'assureur reçoit votre lettre de résiliation est déterminant.
 
-## Kündigungsfristen in der Zusatzversicherung
+## Délai de Résiliation dans les assurances complémentaires
 
-###### Die Bedingungen für die freiwillige Zusatzversicherung können die Krankenkassen frei gestalten. Aus diesem Grund gelten andere Kündigungsfristen als in der Grundversicherung. Viele Zusatzversicherungen können Sie zum Beispiel mit einer Laufzeit von einem Jahr und einer Kündigungsfrist von drei Monaten abschliessen. Andere Versicherer vereinbaren Laufzeiten von drei oder sogar fünf Jahren und Kündigungsfristen von sechs Monaten.
+###### Les conditions d'une assurance complémentaire facultative peuvent être librement déterminées par les caisses d'assurance maladie. Pour cette raison, d'autres délais de résiliation que dans l'assurance de base s'appliquent. Par exemple, vous pouvez souscrire de nombreuses assurances complémentaires d'une durée d'un an et d'un délai de résiliation de trois mois. D'autres assureurs s'entendent sur des durées de trois, voire cinq ans et des délais de résiliations de six mois.
 
-###### Einjährige Verträge laufen in der Regel zu Ende des Kalenderjahres ab. Bei einer dreimonatigen Frist müssen Sie Ihr Kündigungsschreiben bis zum 30. September bei Ihrem Versicherer einreichen, damit die Kündigung zum 31. Dezember in Kraft tritt.
+###### En règle générale, les contrats d'un an expirent à la fin de l'an. Si le délai de préavis est de trois mois, vous devez envoyer votre lettre de résiliation à votre assureur avant le 30 septembre pour que la résiliation prenne effet le 31 décembre.
 
-###### Erhöht ein Versicherer die Prämie für die freiwilligen Zusatzversicherungen, gilt eine Sonderkündigungsfrist von einem Monat zum Jahresende.
+###### Si un assureur augmente la prime de l'assurance complémentaire facultative, un délai de résiliation spécial d'un mois jusqu'à la fin de l'année s'applique.
 
-## Prämien vergleichen und Krankenkasse wechseln
+## Comparer les primes et changer de caisse d'assurance maladie
 
-###### Verpassen Sie die Kündigungsfrist, verlängert sich Ihr Vertrag automatisch um die vereinbarte Laufzeit. Sie sind dann also ein weiteres Jahr oder sogar länger an Ihre Versicherung gebunden. Machen Sie sich daher schon frühzeitig vor dem Ablaufen der Frist Gedanken über einen möglichen Krankenkassenwechsel. Mit unserem Krankenkassenrechner können Sie die einzelnen Anbieter vergleichen und direkt eine Offerte Ihrer bevorzugten Versicherung einholen.
+###### Si vous manquez le délai de résiliation, votre contrat est automatiquement prolongé de la durée convenue. Vous êtes alors lié à votre assurance pour une année supplémentaire ou même plus longtemps. Par conséquent, vous devriez penser à changer de caisse d'assurance maladie bien avant la date limite. Avec notre calculateur de primes d'assurance maladie, vous pouvez comparer les différents prestataires et obtenir directement une offre auprès de votre compagnie d'assurance préférée.

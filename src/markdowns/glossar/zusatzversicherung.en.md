@@ -1,55 +1,55 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Zusatzversicherung"
+title: "Supplementary insurance"
 ---
 
-## Welche Zusatzversicherungen gibt es und was leisten sie?
+## What supplementary insurances are there and what do they do?
 
-###### Die obligatorische Krankenpflegeversicherung in der Schweiz deckt nur grundlegende medizinische Leistungen ab. Wünschen Sie einen weitergehenden Versicherungsschutz, können Sie freiwillige Zusatzversicherungen abschliessen. Dabei haben Sie die Wahl zwischen verschiedenen ambulanten Zusatzversicherungen und Spitalzusatzversicherungen. Die Leistungen und die Deckung unterscheiden sich von Versicherer zu Versicherer.
+###### Compulsory health insurance in Switzerland only covers basic medical services. If you would like further insurance cover, you can take out voluntary supplementary insurance. You can choose between various outpatient supplementary insurance policies and supplementary hospital insurance policies. Benefits and coverage vary from insurer to insurer.
 
 # Form
 
-## Unterschied zwischen Grundversicherung und Zusatzversicherungen
+## Difference between basic insurance and supplementary insurance
 
-###### Die Grundversicherung ist in der Schweiz obligatorisch. Das bedeutet, es besteht Versicherungspflicht. Im Gegenzug muss eine Krankenkasse Sie in der Grundversicherung aufnehmen, unabhängig von Ihrem Gesundheitszustand. Anders sieht es in der freiwilligen Zusatzversicherung aus. In der Regel müssen Sie vor dem Abschluss einen Gesundheitsfragebogen ausfüllen. Die Versicherer können Vorbehalte anmelden und die Aufnahme in die Zusatzversicherung sogar verweigern. Für einige Leistungen fällt zudem eine sogenannte Karenzfrist an: Es muss erst eine vorgegebene Wartezeit verstreichen, bevor die Krankenversicherung die versicherten Leistungen übernimmt.
+###### Basic insurance is compulsory in Switzerland. This means that insurance is compulsory. In return, a health insurance company must include you in the basic insurance, regardless of your state of health. The situation is different with voluntary supplementary insurance. As a rule, you must complete a health questionnaire before taking out the insurance. The insurers can enter reservations and even refuse to accept you into the supplementary insurance. Some benefits are subject to a so-called waiting period: A specified waiting period must elapse before the health insurance covers the insured benefits.
 
-## Ambulante Zusatzversicherungen
+## Outpatient supplementary insurances
 
-###### Ambulante Zusatzversicherungen decken Leistungen ab, die ambulant durchgeführt und nicht von der Grundversicherung übernommen werden. Dazu gehören zum Beispiel:
+###### Outpatient supplementary insurance covers benefits that are performed on an outpatient basis and are not covered by basic insurance. These include, for example:
 
-### Komplementärmedizin: Massnahmen aus dem Bereich der Alternativmedizin, die nicht im Leistungsumfang der obligatorischen Krankenpflegeversicherung eingeschlossen sind
+### Complementary medicine: Measures from the field of alternative medicine that are not included in the scope of benefits under compulsory health insurance
 
-### Sehhilfen: Zuschüsse für Brillen, Kontaktlinsen und Augenlaserbehandlungen
+### Visual aids: Subsidies for glasses, contact lenses and laser eye treatments
 
-### Medikamente: Übernahme nicht kassenpflichtiger Medikamente
+### Medications: Acceptance of medicines not subject to compulsory health insurance coverage
 
-### Psychotherapien: Übernahme nichtärztliche Psychotherapien
+### Psychotherapies: Takeover of non-medical psychotherapies
 
-### Gesundheitsvorsorge: Zuschüsse zu Fitness-Abos, Erholungskuren, Impfungen und weiteren Präventionsmassnahmen
+### Health care: Subsidies for fitness subscriptions, recreational cures, vaccinations and other preventive measures
 
-### Zahnzusatzversicherung: teilweise Übernahme von Zahnbehandlungen und kieferorthopädischen Behandlungen
+### Supplementary dental insurance: partial coverage of dental treatments and orthodontic treatments
 
-### Hauskrankenpflege und Haushaltshilfen
+### Home nursing and domestic help
 
-## Zusatzversicherungen für den Spitalaufenthalt
+## Supplementary insurance for hospitalization
 
-###### Die obligatorische Krankenversicherung übernimmt die Kosten für einen Spitalaufenthalt im Wohnkanton. Behandlungen in einem Spital ausserhalb des Wohnkantons zahlt sie nur, wenn diese medizinisch notwendig und die Kosten vergleichbar sind. Für mehr Flexibilität und Komfort können Sie eine Spitalzusatzversicherung abschliessen.
+###### Compulsory health insurance covers the costs of hospitalization in the canton of residence. It only pays for treatment in a hospital outside the canton of residence if this is medically necessary and the costs are comparable. For more flexibility and comfort, you can take out supplementary hospital insurance.
 
-###### Folgende Spitalversicherungen stehen zur Wahl:
+###### The following hospital insurances are available:
 
-### Allgemeine Abteilung: Diese Spitalversicherung gewährt freie Spitalwahl in der ganzen Schweiz. Freie Arztwahl im Spital besteht in der Regel nicht.
+### General ward: This hospital insurance allows free choice of hospital throughout Switzerland. As a rule, there is no free choice of doctor in the hospital.
 
-### Halbprivate Versicherung: Sie haben Anrecht auf Unterbringung in der halbprivaten Abteilung und im Zwei-Bett-Zimmer. Neben freier Spitalwahl besteht in der Regel auch freie Arztwahl.
+### Semi-private insurance: You are entitled to accommodation in a semi-private ward and in a two-bed room. In addition to a free choice of hospital, there is usually also a free choice of doctor.
 
-### Private Versicherung: Sie haben Anrecht auf Unterbringung in der privaten Spitalabteilung im Ein-Bett-Zimmer und auf Chefarztbehandlung.
+### Private insurance: You are entitled to accommodation in the private hospital ward in a single room and to treatment by a chief physician.
 
-###### Bei Flex-Modellen können Sie kurz vor dem Spitalaufenthalt entscheiden, auf welcher Abteilung Sie untergebracht werden möchten. Für den Aufenthalt auf der halbprivaten und privaten Abteilung fällt ein Selbstbehalt an.
+###### With Flex models, you can decide shortly before your stay in hospital which ward you would like to be accommodated in. There is a deductible for the stay in the semi-private and private ward.
 
-## Versicherungsschutz im Ausland
+## Insurance cover abroad
 
-###### Die Grundversicherung zahlt bereits für Auslandsbehandlungen im Notfall. Die Kosten dürfen allerdings nicht mehr als doppelt so hoch sein wie in der Schweiz. Für einen weitergehenden Versicherungsschutz im Ausland können Sie eine zusätzliche Auslandversicherung abschliessen. Die freiwillige Reiseversicherung deckt die Behandlungskosten in voller Höhe ab. Darüber hinaus erhalten Sie auch einen höheren Anteil eventueller Transportkosten erstattet.
+###### The basic insurance already pays for treatment abroad in an emergency. However, the costs may not be more than twice as high as in Switzerland. You can take out additional foreign insurance for further insurance cover abroad. The voluntary travel insurance covers the full cost of treatment. In addition, you will also be reimbursed a higher proportion of any transport costs.
 
-## Zusatzversicherungen vergleichen und preiswerten Versicherungsschutz finden
+## Compare supplementary insurances and find inexpensive insurance cover
 
-###### Das Leistungsangebot der Zusatzversicherungen fällt sehr unterschiedlich aus. Zudem begrenzen die Versicherer ihre Erstattung meist auf einen vorgegebenen Maximalbetrag pro Kalenderjahr. Möchten Sie eine Zusatzversicherung finden, die optimal zu Ihren Bedürfnissen passt, hilft Ihnen unser Krankenkassenvergleich. Wir beraten Sie gerne kostenlos und unverbindlich.
+###### The range of supplementary insurance benefits varies greatly. In addition, insurers usually limit their reimbursement to a specified maximum amount per calendar year. If you would like to find a supplementary insurance that optimally suits your needs, our health insurance comparison will help you. We will be happy to advise you free of charge and without obligation.

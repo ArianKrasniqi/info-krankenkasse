@@ -1,24 +1,74 @@
 import React from "react"
+import { Link } from "gatsby"
+import { connect } from "react-redux"
 
 import classes from "./Languages.module.css"
+import * as actionTypes from "../../../store/actions"
 
-const languages = () => {
+{
+  /* <button onClick={() => props.onChangeLanguage("de")}>Change to De</button> */
+}
+
+const Languages = props => {
+  const changeLanguageHandler = (event, lang) => {
+    event.preventDefault()
+    props.onChangeLanguage(lang)
+  }
+
   return (
     <ul className={classes.Languages}>
+      <li>{props.lang}</li>
       <li>
-        <a href="/">DE</a>
+        <Link
+          onClick={event => {
+            changeLanguageHandler(event, "de")
+          }}
+        >
+          DE
+        </Link>
       </li>
       <li>
-        <a href="/">FR</a>
+        <Link
+          onClick={event => {
+            changeLanguageHandler(event, "fr")
+          }}
+        >
+          FR
+        </Link>
       </li>
       <li>
-        <a href="/">IT</a>
+        <Link
+          onClick={event => {
+            changeLanguageHandler(event, "it")
+          }}
+        >
+          IT
+        </Link>
       </li>
       <li>
-        <a href="/">EN</a>
+        <Link
+          onClick={event => {
+            changeLanguageHandler(event, "en")
+          }}
+        >
+          EN
+        </Link>
       </li>
     </ul>
   )
 }
 
-export default languages
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeLanguage: lang =>
+      dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Languages)

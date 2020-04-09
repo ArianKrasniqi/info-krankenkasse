@@ -1,35 +1,35 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Privatversicherung"
+title: "Private health insurance"
 ---
 
-## Das leistet die Privatversicherung beim Aufenthalt im Spital
+## This is what the private insurance pays for your stay in hospital
 
-###### Wer sich mehr Komfort für einen Spitalaufenthalt wünscht, kann zusätzlich zur Grundversicherung eine ergänzende Spitalversicherung wählen. Den höchsten Leistungsumfang bietet die Privatversicherung. Neben freier Arzt- und Spitalwahl bietet sie den Versicherungsnehmern auch die Unterbringung im Einzelzimmer sowie Chefarztbehandlung.
+###### If you want more comfort for a hospital stay, you can choose a supplementary hospital insurance in addition to the basic insurance. Private insurance offers the highest range of benefits. In addition to free choice of doctor and hospital, it also offers policyholders accommodation in a single room and treatment by a chief doctor.
 
 # Form
 
-## Die Leistungen der privaten Spitalversicherung
+## The benefits of private hospital insurance
 
-###### Möchten Sie eine Spitalzusatzversicherung abschliessen, können Sie aus verschiedenen Varianten wählen. Das günstigste Modell ist die Zusatzversicherung "allgemeine Abteilung" mit freier Arzt- und Spitalwahl für die gesamte Schweiz. Die Halbprivat Versicherung ergänzt dieses Leistungsangebot um Unterbringung im Zwei-Bett-Zimmer auf der halbprivaten Abteilung. Mit einer Privatversicherung geniessen Sie noch mehr Komfort:
+###### If you would like to take out supplementary hospital insurance, you can choose from various options. The cheapest model is the supplementary insurance "general ward" with free choice of doctor and hospital for the whole of Switzerland. Semi-private insurance supplements this range of services with accommodation in a two-bed room in a semi-private ward. With private insurance, you enjoy even more comfort:
 
-### schweizweit freie Arzt- und Spitalwahl
+### Free choice of doctor and hospital throughout Switzerland
 
-### kürzere Wartezeiten für geplante Operationen
+### Shorter waiting times for planned operations
 
-### Anrecht auf Chefarztbehandlung
+### Right to chief doctor treatment
 
-### Unterbringung auf der privaten Spitalabteilung
+### Accommodation in the private hospital ward
 
-### Unterbringung im Ein-Bett-Zimmer
+### Accommodation in a single room
 
-###### Abhängig vom Leistungskatalog der Krankenkasse erhalten Sie zudem mehr Komfort bei der Bedienung, ein erweitertes Menüangebot oder weitere Extras. Bei einigen Krankenversicherungen können Sie wahlweise auch eine weltweite freie Spitalwahl und Unterbringung auf der privaten Abteilung abschliessen.
+###### Depending on the catalogue of services offered by your health insurance company, you will also receive more convenience in operation, an extended menu or other extras. With some health insurance companies, you can also take out a worldwide free choice of hospital and accommodation in a private ward.
 
-## Was müssen Sie beim Abschluss einer privaten Spitalzusatzversicherung beachten?
+## What do you need to consider when taking out private supplementary hospital insurance?
 
-###### Das Plus an Leistung geht natürlich mit höheren Prämien einher. Während die Spitalzusatzversicherung noch relativ günstig ist, kostet die private Zusatzversicherung einen ordentlichen Mehrbetrag. Die Prämienhöhe orientiert sich vor allem an Geschlecht und Alter. Je älter Sie werden, umso höher steigen dabei auch die Prämien. Senken können Sie die Versicherungsprämien, wenn Sie eine höhere Franchise oder einen höheren Selbstbehalt vereinbaren. Zahlen Sie einen Teil der Kosten für den Spitalaufenthalt aus eigener Tasche, sind Einsparungen von bis zu 70 Prozent möglich.
+###### The plus in benefits naturally goes hand in hand with higher premiums. While supplementary hospital insurance is still relatively inexpensive, private supplementary insurance costs a substantial additional amount. The premium amount is mainly based on gender and age. The older you get, the higher the premiums increase. You can lower the insurance premiums if you agree a higher deductible or a higher deductible. If you pay part of the costs for the hospital stay out of your own pocket, savings of up to 70 percent are possible.
 
-###### Suchen Sie nach einer privaten Spitalzusatzversicherung, sollten Sie sich ausserdem darüber bewusst sein, dass anders als in der Grundversicherung keine Aufnahmepflicht besteht. Liegen Vorerkrankungen vor oder hat der gewählte Versicherer sonstige Vorbehalte, kann er Ihren Antrag ablehnen. Haben Sie eine passende private Versicherung gefunden und es tritt ein Versicherungsfall ein, sollten Sie mit Ihrer Krankenversicherung klären, ob diese die Kosten auch wirklich in voller Höhe übernimmt. Das schützt Sie vor bösen Überraschungen.
+###### If you are looking for private supplementary hospital insurance, you should also be aware that, unlike basic insurance, there is no admission requirement. If you have previous illnesses or if the chosen insurer has other reservations, it can reject your application. If you have found a suitable private insurance policy and an insured event occurs, you should clarify with your health insurance company whether it will cover the full costs. This protects you from nasty surprises.
 
-###### Generell lohnt es sich, vor dem Abschluss einer Privatversicherung Prämienhöhe und Leistungsumfang der einzelnen Anbieter gründlich miteinander zu vergleichen. Die Kosten können nämlich auch für dasselbe Versicherungsmodell stark variieren. Wir unterstützen Sie beim Krankenkassenvergleich und beraten Sie gerne kostenlos und unverbindlich.
+###### In general, it is worth comparing the premiums and benefits of the individual providers before taking out private insurance. The costs can also vary greatly for the same insurance model. We support you in comparing health insurance companies and are happy to advise you free of charge and without obligation.

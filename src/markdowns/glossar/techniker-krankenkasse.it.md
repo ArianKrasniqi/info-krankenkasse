@@ -1,29 +1,29 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Techniker Krankenkasse"
+title: "Assicurazione sanitaria per tecnici"
 ---
 
-## Techniker Krankenkasse TKK: Was Grenzgänger bei der Krankenversicherung beachten müssen
+## Assicurazione sanitaria per tecnici TKK: a cosa devono fare attenzione i lavoratori transfrontalieri con l’assicurazione sanitaria
 
-###### Wer im Ausland lebt und in der Schweiz arbeitet, muss eine Krankenversicherung über einen Schweizer Versicherer abschliessen. Als Grenzgänger haben Sie maximal drei Monate lang Zeit, einen entsprechenden Nachweis zu erbringen. Für Grenzgänger aus Deutschland besteht jedoch Versicherungswahlrecht. Waren Sie bislang bei der Techniker Krankenkasse TKK versichert, können Sie Ihren Versicherungsschutz unter Umständen behalten.
+###### Chiunque viva all'estero e lavori in Svizzera deve stipulare un'assicurazione sanitaria tramite un assicuratore svizzero. In quanto lavoratore frontaliero hai un massimo di tre mesi per fornire le prove adeguate. Per i lavoratori transfrontalieri provenienti dalla Germania, tuttavia, esiste un'opzione assicurativa. Se in precedenza eri assicurato con Assicurazione sanitaria per tecnici TKK, potresti essere in grado di conservare la tua copertura assicurativa.
 
 # Form
 
-## Krankenkasse Grenzgänger: Ausnahmeregelung für Arbeitnehmer aus Nachbarländern
+## Assicurazione sanitaria dei lavoratori transfrontalieri: deroga per i lavoratori dei paesi vicini
 
-###### Generell besteht für Grenzgänger Krankenversicherungspflicht in der Schweiz. Für Arbeitnehmer mit Wohnsitz in den Nachbarländern Deutschland, Italien, Frankreich und Österreich gilt jedoch eine Sonderregelung. Sie können sich weiterhin über eine Krankenkasse im Heimatland versichern lassen. Das gilt auch für nichterwerbstätige Familienangehörige der Grenzgänger.
+###### In genere esiste un'assicurazione sanitaria obbligatoria per i pendolari transfrontalieri in Svizzera. Tuttavia si applica un accordo speciale ai dipendenti residenti nei paesi vicini Germania, Italia, Francia e Austria. Puoi continuare ad essere assicurato da un'assicurazione sanitaria nel tuo paese d'origine. Ciò vale anche per i familiari non lavoratori dei lavoratori transfrontalieri.
 
-###### Wollen Sie sich von der Krankenversicherungspflicht befreien lassen, reichen Sie innerhalb von drei Monaten einen entsprechenden Antrag bei der zuständigen Behörde Ihres Arbeitskantons ein. Dorthin müssen Sie sich auch wenden, wenn Sie doch von der Techniker Kasse zu einem Schweizer Krankenversicherer gewechselt haben. In diesem Fall haben Sie ebenfalls drei Monate lang Zeit, um einen Versicherungsnachweis zu erbringen.
+###### Se si desidera essere esonerati dall'assicurazione sanitaria obbligatoria, bisogna inviare una richiesta all'autorità competente del proprio cantone di lavoro entro tre mesi. È inoltre necessario contattare se si è passati dalla Techniker Kasse ad un assicuratore sanitario svizzero. In questo caso, hai anche tre mesi per fornire prova dell'assicurazione.
 
-###### Entscheiden Sie sich für einen Schweizer Krankenversicherer, erhalten Sie bei Vertragsabschluss das Formular E106. Das reichen Sie bei einem beliebigen Krankenversicherer im Wohnland ein, etwa bei der Techniker Krankenkasse. Von dieser erhalten Sie eine Krankenkassenkarte und können sich nun auch im Wohnland medizinisch behandeln lassen. Versäumen Sie diese Registrierung nicht. Reichen Sie das Formular E106 nicht ein, besteht kein Anspruch auf medizinische Leistungen im Wohnland. Die Registrierung kann zudem nicht rückwirkend erfolgen.
+###### Se opti per un assicuratore sanitario svizzero, riceverai il modulo E106 alla conclusione del contratto. Puoi consegnarlo a qualsiasi assicuratore sanitario nel tuo paese di residenza, ad esempio la Techniker Krankenkasse. Da questo riceverai una carta dell’assicurazione sanitarie con la quale puoi ricevere cure mediche nel tuo paese di residenza. Non perdere questa registrazione. Se non invii il modulo E106, non avrai diritto ai servizi medici nel tuo paese di residenza. La registrazione non può essere retroattiva.
 
-## Wie unterscheiden sich deutsche und Schweizer Krankenkassen?
+## In cosa si differenziano le assicurazioni sanitarie tedesche e svizzere?
 
-###### Als Versicherungsnehmer bei einer Schweizer Krankenkasse tragen Sie die Krankenversicherungsbeiträge in voller Höhe selbst. Sie sind nicht über Ihren Arbeitgeber versichert, die Prämien werden auch nicht vom Lohn abgezogen. Darüber hinaus unterscheidet sich der Leistungsumfang. Anders als die deutsche Techniker Kasse übernimmt die Schweizer Grundversicherung zum Beispiel weniger Leistungen im Bereich Zahnbehandlungen, Zahnersatz und Dentalhygiene.
+###### In quanto assicurato di una compagnia svizzera di assicurazioni sanitarie, paghi tu stesso i contributi per l'assicurazione sanitaria completa, non sei assicurato dal tuo datore di lavoro, i premi non vengono detratti dal salario. Inoltre, l'ambito dei servizi differisce. A differenza della tedesca Techniker Kasse, l’assicurazione di base svizzera, ad esempio, prevede meno cure dentistiche, protesi dentarie e igiene dentale.
 
-###### Ein weiterer Unterschied besteht in der Kostenbeteiligung. Als Versicherter der obligatorischen Grundversicherung zahlen Sie eine sogenannte Jahresfranchise und einen Selbstbehalt. Die ordentliche Jahresfranchise beträgt 300 Schweizer Franken, Sie können jedoch auch eine höhere Summe vereinbaren und so Krankenkassenbeiträge sparen. Der Versicherer übernimmt Behandlungs- und Medikamentenkosten erst, wenn diese die Franchise übersteigen. Für alle darüber hinaus gehenden Kosten leisten Sie einen Selbstbehalt in Höhe von zehn Prozent. Der Selbstbehalt ist auf 700 Schweizer Franken für Erwachsene und 350 Schweizer Franken für Kinder begrenzt.
+###### Un'altra differenza è la condivisione dei costi. Come assicurato dell'assicurazione obbligatoria di base, si paga una cosiddetta franchigia annuale e una quota a carico dell’assicurato. La franchigia annuale ordinaria è di 300 franchi svizzeri, ma è anche possibile concordare una somma più elevata, risparmiando così sui contributi dell’assicurazione sanitaria. L'assicuratore si assume i costi del trattamento e dei farmaci solo se questi superano la franchigia. Per tutti gli altri costi, si paga una franchigia del dieci percento. La franchigia è limitata a 700 franchi svizzeri per gli adulti e 350 franchi svizzeri per i bambini.
 
-## Krankenkassen vergleichen und Krankenkassenbeiträge sparen
+## KConfrontare le assicurazioni sanitarie e risparmiare con i contributi delle assicurazioni sanitarie
 
-###### Um die richtige Krankenversicherung Grenzgänger zu finden, lohnt sich ein Krankenkassenvergleich. Die Leistungen der Schweizer Grundversicherung sind zwar gesetzlich vorgegeben, in der Höhe der Krankenversicherungsbeiträge gibt es jedoch enorme Unterschiede. Für viele Leistungen benötigen Sie zudem eine freiwillige Zusatzversicherung, für die weitere Prämien anfallen. Eventuell lohnt es sich daher, das Versicherunsgwahlrecht in Anspruch zu nehmen und bei einer deutschen Kasse wie der Techniker Krankenkasse zu bleiben. Wir beraten Sie gerne und finden die für Sie günstigste Lösung.
+###### Per trovare la giusta assicurazione sanitaria per i pendolari transfrontalieri, vale la pena confrontare le assicurazioni sanitarie. I servizi delle assicurazioni di base svizzere sono legalmente prescritti, ma ci sono enormi differenze nella quantità di contributi dell'assicurazione sanitaria. Per molti servizi è necessaria anche un'assicurazione integrativa volontaria, per la quale sono previsti ulteriori premi. Potrebbe quindi valere la pena avvalersi dell'opzione assicurativa e stare con un fondo di assicurazione sanitaria tedesco come la Techniker Krankenkasse. Saremo lieti di consigliarti e di trovare la soluzione più favorevole per te.

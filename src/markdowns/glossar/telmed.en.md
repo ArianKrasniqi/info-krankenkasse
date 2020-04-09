@@ -1,41 +1,41 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Telmed"
+title: "Telmed health insurance"
 ---
 
-## Telmed: Prämien sparen mit dem Telemedizin Versicherungsmodell
+## Telmed: Save premiums with the telemedicine insurance model
 
-###### Wer in der Schweizer Grundversicherung Prämien sparen möchte, kann aus verschiedenen alternativen Versicherungsmodellen wählen. Beim Telmed Modell nehmen Versicherte zunächst telefonisch Kontakt zu einer medizinischen Beratungsstelle auf. Diese erstellt einen Behandlungsplan und empfiehlt bei Bedarf einen Besuch beim Arzt oder im Spital. Auf diese Weise lassen sich bis zu 20 Prozent auf den Standardtarif sparen.
+###### If you want to save premiums on your Swiss basic insurance, you can choose from various alternative insurance models. With the Telmed model, insured persons first contact a medical advice centre by telephone. This will draw up a treatment plan and recommend a visit to the doctor or hospital if necessary. In this way, up to 20 percent of the standard rate can be saved.
 
 # Form
 
-## So funktioniert das Telmed Modell
+## How the Telmed model works
 
-###### Entscheiden Sie sich für das alternative Versicherungsmodell Telemedizin, verpflichten Sie sich, vor jedem Arzt- oder Spitalbesuch eine vorgegebene medizinische Beratungsstelle anzurufen. Der Anruf ist kostenfrei. Sie schildern den medizinischen Mitarbeitern der Hotline Ihr Problem, diese sprechen daraufhin eine Behandlungsempfehlung aus.
+###### If you opt for the alternative telemedicine insurance model, you undertake to call a specified medical advice centre before each visit to a doctor or hospital. The call is free of charge. You describe your problem to the medical staff on the hotline, who will then give you a treatment recommendation.
 
-###### Die Modelle tragen je nach Krankenkasse Namen wie Callmed, TelCare, TelDoc oder Primatel und unterscheiden sich in ihren Bedingungen. Es gibt drei Varianten:
+###### Depending on the health insurance company, the models have names such as Callmed, TelCare, TelDoc or Primatel and differ in their conditions. There are three variants:
 
-### Variante 1: Die Beratungsstelle spricht eine Empfehlung aus, Sie sind aber nicht daran gebunden. Sie können nach dem Telefonat also immer noch einen Arzt Ihrer Wahl aufsuchen. Diesem Modell folgt beispielsweise der MedCall Tarif der Visana.
+### Variant 1: The counselling centre makes a recommendation, but you are not bound by it. You can therefore still go to a doctor of your choice after the telephone call. The MedCall tariff of Visana, for example, follows this model.
 
-### Variante 2: Sie kontaktieren die telefonische Erstberatungsstelle und holen sich einen Behandlungsplan ein. Sie sind an die Weisung der Beratungsstelle gebunden, es besteht aber freie Arztwahl. Ist der Mediziner der Ansicht, dass der Arztbesuch überflüssig war, erhalten Sie die Kosten allerdings nicht erstattet. Das ist zum Beispiel beim TelDoc Modell der Visana und den Callmed Tarifen verschiedener Versicherer der Fall.
+### Variant 2: You contact the initial consultation centre by telephone and obtain a treatment plan. You are bound by the instructions of the counselling centre, but there is a free choice of doctor. However, if the physician believes that the visit was unnecessary, you will not be reimbursed. This is the case, for example, with the TelDoc model of Visana and the Callmed tariffs of various insurers.
 
-### Variante 3: Sie sind an die Weisung der Erstberatungsstelle gebunden, zudem ist die Arztwahl eingeschränkt, zum Beispiel auf Ihren Hausarzt oder eine Gruppenpraxis. Zu diesem Modell gehören die Primatel (Hausarzt) Tarife diverser Krankenkassen.
+### Variant 3: You are bound by the instructions of the initial consultation centre, and the choice of doctor is also restricted, for example to your family doctor or a group practice. This model includes the Primatel (family doctor) tariffs of various health insurance companies.
 
-###### Lesen Sie sich die genauen Vertragsbedingungen Ihres gewählten Modells aufmerksam durch. Halten Sie sich nicht an die Vorgaben Ihrer Krankenversicherung, verweigert diese eventuell die Kostenübernahme.
+###### Please read the exact terms and conditions of your chosen model carefully. If you do not adhere to the specifications of your health insurance, it may refuse to cover the costs.
 
-## Verhalten in Notfällen
+## Behaviour in emergencies
 
-###### In medizinischen Notfällen müssen Sie sich nicht zuerst an die telefonische Beratungsstelle wenden, sondern können direkt eine Notarzt oder ein Spital konsultieren. Innerhalb einer bestimmten Frist müssen Sie das Telefonat jedoch nachholen.
+###### In medical emergencies, you do not have to contact the telephone helpline first, but can directly consult an emergency doctor or a hospital. However, you must make up the telephone call within a certain period of time.
 
-## Ihre Vorteile mit dem Telmed Modell
+## Your advantages with the Telmed model
 
-###### Für das Telemedizin Modell erhalten Sie einen hohen Rabatt für Ihre Grundversicherung. Je nach Krankenkasse können Sie bis zu 20 Prozent sparen.
+###### For the telemedicine model you get a high discount for your basic insurance. Depending on your health insurance, you can save up to 20 percent.
 
-###### Sie profitieren ausserdem von der hohen Verfügbarkeit der telefonischen Erstberatungsstellen. Es fallen kürzere Wartezeiten an als bei einem unangekündigten Arztbesuch und Sie müssen weniger zeitliche Einschränkungen in Kauf nehmen. Bei kleineren gesundheitlichen Problemen kann ein Anruf bei der Beratungsstelle einen Arztbesuch komplett ersetzen.
+###### You also benefit from the high availability of the telephone initial counselling centres. Waiting times are shorter than for an unannounced visit to the doctor and you have to accept fewer time restrictions. For minor health problems, a call to the advice centre can completely replace a visit to the doctor.
 
-## Für wen lohnt sich das Telmed Modell der Grundversicherung?
+## For whom is the Telmed basic insurance model worthwhile?
 
-###### Dieses alternative Versicherungsmodell lohnt sich vor allem, wenn Sie nur selten krank werden oder kleinere gesundheitliche Probleme haben. Benötigen Sie aufwendigere oder häufigere Behandlungen, empfiehlt sich eher das Standardmodell der Grundversicherung.
+###### This alternative insurance model is particularly worthwhile if you rarely fall ill or have minor health problems. If you need more complex or more frequent treatments, the standard model of basic insurance is more recommended.
 
-###### Machen Sie bei uns den Krankenkassenvergleich und finden Sie heraus, wie viel Sie mit einem alternativen Versicherungsmodell sparen können. Haben Sie weitere Fragen, nehmen Sie einfach Kontakt zu uns auf. Wir beraten Sie gerne.
+###### Compare our health insurance companies and find out how much you can save with an alternative insurance model. If you have any further questions, simply contact us. We will be happy to advise you.

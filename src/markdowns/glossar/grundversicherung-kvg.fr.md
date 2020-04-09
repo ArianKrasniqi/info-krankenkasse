@@ -1,59 +1,59 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Grundversicherung (KVG)"
+title: "Assurance de base (LAMal)"
 ---
 
-## Die Grundversicherung nach KVG: Leistungen und Modelle
+## Assurance de base selon la LAMal : prestations et modèles
 
-###### Seit 1996 ist die obligatorische Grundversicherung nach Krankenversicherungsgesetz (KVG) für jeden Schweizer Bürger Pflicht. Sie ermöglicht es, dass Sie bei Krankheit, Unfall und Schwangerschaft grundlegende Gesundheitsleistungen in Anspruch nehmen können. Während die Leistungen bei jeder Krankenkasse gleich sind, erheben die Versicherer unterschiedlich hohe Prämien. Sparen lässt sich mit alternativen Versicherungsmodellen.
+###### Depuis 1996, tout citoyen suisse est tenu de contracter l'assurance obligatoire des soins selon la Loi fédérale sur l'assurance-maladie (LAMal). Elle vous permet de bénéficier des services de santé de base en cas de maladie, d'accident ou de grossesse. Bien que les prestations soient les mêmes pour toutes les caisses maladie, les assureurs facturent des primes différemment. Des économies peuvent être faites avec des modèles d'assurance alternatifs.
 
 # Form
 
-###### Was deckt die Grundversicherung nach KVG ab?
+## Que couvre l'assurance de base selon la LAMal ?
 
-###### Wer in der Schweiz lebt, muss zwingend eine obligatorische Krankenpflegeversicherung abschliessen. Da es sich um eine Pflichtversicherung handelt, dürfen die Krankenkassen niemandem den Zutritt zur sogenannten Grundversicherung verwehren. Den Versicherungsschutz erhalten Sie unabhängig vom Alter und von eventuellen Vorerkrankungen.
+###### Toute personne domiciliée en Suisse doit souscrire une assurance obligatoire des soins. Comme il s'agit d'une assurance obligatoire, les caisses maladie ne doivent refuser à personne l'accès à l'assurance de base. Vous bénéficiez d'une couverture d'assurance quel que soit votre âge et quelles que soient vos maladies antérieures.
 
-###### Welche Leistungen die obligatorische Grundversicherung abzudecken hat, regelt das KVG. Die Höhe der Deckung ist in der Krankenpflege-Leistungsverordnung festgelegt. Grundsätzlich zahlt die Krankenkasse für notwendige medizinische Behandlungen und Medikamente, sofern diese "wirksam, zweckmässig und wirtschaftlich" sind.
+###### La LAMal réglemente les prestations qui doivent être couvertes par l'assurance de base obligatoire. Le montant de la couverture est défini dans l'ordonnance sur les prestations de soins de santé. En principe, la caisse d'assurance-maladie prend en charge les soins médicaux et les médicaments nécessaires à condition qu'ils soient "efficaces, rapides et économiques"
 
-###### Zu den weiteren Leistungen zählen:
+## D'autres prestations comprennent:
 
-### Notfallhilfe
+### Assistance d'urgence
 
-### Transporte und Rettungsaktionen
+### Transports et opérations de secours
 
-### Unterbringung im Spital und in teilstationären Einrichtungen
+### Hébergement à l'hôpital et dans des établissements hospitaliers
 
-### Rehabilitation und Pflege
+### Rééducation et soins
 
-### therapeutische Massnahmen wie Ergo- und Physiotherapie und Chiropraktik
+### Des mesures thérapeutiques telles que l'ergothérapie, la physiothérapie et la chiropratique
 
-### gewisse alternativmedizinische Behandlungsmethoden
+### Certaines méthodes de traitement alternatives
 
-###### Die Grundversicherung muss für jedes Kind nach der Geburt abgeschlossen werden. Wer neu in die Schweiz zieht, hat drei Monate Zeit, um eine passende Krankenkasse zu finden.
+###### L'assurance de base doit être souscrite pour chaque enfant après la naissance. Si vous déménagez pour la première fois en Suisse, vous avez trois mois pour trouver une caisse d'assurance maladie adéquate.
 
-###### Kostenbeteiligung an der Grundversicherung
+## Participation aux coûts de l'assurance de base
 
-###### Für die medizinische Grundversorgung fällt eine Kostenbeteiligung an. Diese teilt sich in die sogenannte Jahresfranchise und den Selbstbehalt auf. Die ordentliche Jahresfranchise beträgt 300 Schweizer Franken pro Jahr. Bis zu dieser Höhe tragen Sie die Kosten für Behandlungen und Medikamente selbst. Gehen die Kosten über die Franchise hinaus, werden sie von der Krankenkasse übernommen. Sie zahlen nur noch einen Selbstbehalt in Höhe von 10 Prozent, maximal 700 Schweizer Franken pro Jahr bei Erwachsenen, 350 Franken bei Kindern.
+###### Pour les soins médicaux de base, il existe un partage des coûts. Il est divisée en deux parties : la franchise annuelle et la franchise. La franchise annuelle ordinaire est de 300 francs suisses par an. Jusqu'à concurrence de ce montant, les frais de traitement et de médicaments sont à votre charge. Si les coûts dépassent la franchise, ils seront couverts par l'assurance maladie. Vous ne payez qu'une franchise de 10%, avec un maximum de 700 francs suisses par an pour les adultes et 350 francs suisses pour les enfants.
 
-###### Durch die Wahl einer höheren Franchise können Sie Ihre Monatsprämien senken. Erwachsene über 26 Jahren können Franchisen bis zu 2'500 Schweizer Franken pro Jahr festlegen.
+###### En choisissant une franchise plus élevée, vous pouvez réduire vos primes mensuelles. Les adultes de plus de 26 ans peuvent souscrire des franchises jusqu'à 2 500 francs suisses par an.
 
-###### Gleiche Leistung - unterschiedliche Prämien
+## Même avantages - primes différentes
 
-###### Obwohl die Leistungen in der Grundversicherung gleich sind, erheben die Krankenkassen unterschiedlich hohe Versicherungsprämien. Das Bundesamt für Gesundheit (BAG) teilt die Krankenkassen auf verschiedene Prämienregionen auf. In städtischen Regionen stehen mehr medizinische Angebote zur Verfügung als in ländlichen Regionen. Entsprechend unterscheiden sich auch die Monatsprämien.
+###### Bien que les avantages de l'assurance de base soient les mêmes, les caisses maladie facturent des primes d'assurance différentes. L'Office fédéral de la santé publique (OFSP) répartit les caisses d'assurance-maladie en différentes régions de primes. Il y a plus de services médicaux disponibles dans les régions urbaines que dans les régions rurales. Les primes mensuelles diffèrent également en conséquence.
 
-###### Die alternativen Versicherungsmodelle der Grundversicherung
+## Les modèles alternatifs d'assurance de l'assurance de base
 
-###### Versicherungsprämien sparen können Sie, wenn Sie sich für ein alternatives Versicherungsmodell entscheiden. Im Standard-Modell haben Sie freie Arztwahl. Die alternativen Versicherungsmodelle schränken die Auswahl Ihres ersten Ansprechpartners ein.
+###### Vous pouvez économiser sur les primes d'assurance en optant pour un modèle d'assurance alternatif. Dans le modèle standard, vous avez le libre choix du médecin. Les modèles d'assurance alternatifs limitent le choix de votre premier contact.
 
-### Hausarzt-Modell: Sie wenden sich im Krankheitsfall zunächst an Ihren Hausarzt.
+### Modèle du médecin de famille : Vous communiquez d'abord avec votre médecin de famille en cas de maladie.
 
-### HMO-Modell: Im Krankheitsfall suchen Sie zunächst eine Gruppenpraxis (HMO) auf.
+### Modèle HMO : En cas de maladie, vous vous rendez d'abord dans un cabinet de groupe (HMO).
 
-### Telmed-Modell: Ihr erster Ansprechpartner ist die Hotline eines Telemedizin-Beratungszentrums.
+### Modèle Telmed : Votre premier point de contact est la hotline d'un centre de conseil en télémédecine.
 
-###### Bei Bedarf überweist Ihr erster Ansprechpartner Sie zur weiteren Behandlung an einen Spezialisten oder ins Spital.
+###### Si nécessaire, votre premier contact vous orientera vers un spécialiste pour un traitement complémentaire ou vers l'hôpital.
 
-###### Krankenkassen vergleichen und passendes Versicherungsmodell finden
+## Comparer les caisses maladie et trouver un modèle d'assurance approprié.
 
-###### Nicht jede Krankenkasse bietet alle alternativen Versicherungsmodelle an. Einige Versicherer ergänzen diese Auswahl dagegen noch und haben zum Beispiel Modelle im Programm, bei denen Sie sich im Krankheitsfall zunächst an eine Partnerapotheke wenden. Machen Sie unseren Versicherungsvergleich und finden Sie heraus, bei welcher Krankenkasse Sie die günstigste Grundversicherung bekommen.
+###### Toutes les caisses maladie n'offrent pas tous les modèles d'assurance alternatifs. Certains assureurs, par contre, complètent cette sélection et proposent, par exemple, dans leur programme des modèles dans lesquels vous contactez d'abord une pharmacie partenaire en cas de maladie. Comparer nos assurances et trouver quelle caisse maladie vous offre l'assurance de base la moins chère.

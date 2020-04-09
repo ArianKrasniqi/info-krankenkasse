@@ -1,59 +1,59 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Visana Zusatzversicherung"
+title: "Assicurazione complementare Visana"
 ---
 
-## Die Visana Zusatzversicherung im Detail
+## L’assicurazione complementare Visana in dettaglio
 
-###### Mit über einer Million Versicherungsnehmern zählt die Visana Krankenkasse zu den grössten Kranken- und Unfallversicherern in der Schweiz. Neben der obligatorischen Krankenpflegeversicherung bietet sie auch diverse Zusatzversicherungen an. Die Visana Zusatzversicherung deckt die Lücken der Grundversicherung. Zur Wahl stehen Zusatzversicherungen für ambulante Behandlungen, für Komplementärmedizin und für mehr Komfort im Spital.
+###### Con oltre un milione di assicurati, l’assicurazione sanitaria Visana è una delle maggiori assicurazioni sanitarie e contro gli infortuni in Svizzera. Oltre all'assicurazione sanitaria obbligatoria, offre anche varie assicurazioni integrative. L’assicurazione complementare Visana copre le lacune dell'assicurazione di base. Puoi scegliere tra le assicurazione integrative per le cure ambulatoriali, per la medicina complementare e per un maggiore comfort in ospedale.
 
 # Form
 
-## Die Leistungen der Visana Ambulant Zusatzversicherung
+## I servizi dell’assicurazione complementare ambulatoriale Visana
 
-###### Die ambulante Zusatzversicherung der Visana übernimmt Leistungen, die nicht in der Grundversicherung eingeschlossen sind. Die Zusatzversicherung beteiligt sich zum Beispiel an:
+###### L'assicurazione complementare ambulatoriale di Visana accetta servizi che non sono inclusi nell'assicurazione di base. L'assicurazione integrativa partecipa ad esempio a:
 
-### ärztlich verordneten Medikamenten mit Zulassung von Swissmedic, die auf der Medikamentenliste der Visana stehen
+### Farmaci prescritti dal medico con l'approvazione Swissmedic, che si trovano nell'elenco dei farmaci Visana
 
-### zahnärztlich-chirurgischen Eingriffen
+### Chirurgia dentale
 
-### ärztlich verordneten Hilfsmitteln wie Brillen und Kontaktlinsen, maximal 250 Schweizer Franken pro Jahr
+### Aiuti prescritti dal punto di vista medico, come occhiali e lenti a contatto, per un massimo di CHF 250 all'anno
 
-### Haushaltshilfe und Hauskrankenpflege
+### Aiuto domestico e assistenza domiciliare
 
-### Schutz- und Reiseimpfungen
+### Vaccinazioni di protezione e di viaggio
 
-### Transport- und Reisekosten wie medizinisch notwendige Krankentransporte
+### Spese di trasporto e di viaggio come trasporto ambulanza necessario dal punto di vista medico
 
-###### Die Reiseversicherung Vacanza ist ebenfalls mit eingeschlossen. Versicherungsnehmer können zwischen drei Leistungsstufen wählen. Schliessen Sie die Zusatzversicherung auch für Ihre Kinder ab, gibt es ab dem zweiten Kind 50 Prozent Rabatt.
+###### È inclusa anche l'assicurazione viaggi Vacanza. Gli assicurati possono scegliere tra tre livelli di beneficio. Se effettio l'assicurazione integrativa per i tuoi figli, ci sarà uno sconto del 50% sul secondo figlio.
 
-## Komplementär Zusatzversicherung für Alternativmedizin
+## L’assicurazione integrativa complementare per la medicina alternativa
 
-###### Die Komplementär Zusatzversicherung der Visana übernimmt die Kosten für mehr als 50 alternativmedizinische Behandlungen sowie für entsprechende Medikamente. Abermals können Sie aus drei Leistungsstufen wählen. Die Leistungsstufen unterscheiden sich in der Höhe der Beiträge. Die Zusatzversicherung deckt 90 Prozent der Behandlungskosten, bis zu einer maximalen Summe von 1'000, 4'000 oder 10'000 Schweizer Franken pro Jahr.
+###### L’assicurazione integrativa complementare di Visana copre il costo di oltre 50 trattamenti medici alternativi e medicinali correlati. Ancora una volta, puoi scegliere tra tre livelli di servizi. I livelli di prestazione differiscono nell'ammontare dei contributi. L'assicurazione integrativa copre il 90 percento dei costi di trattamento, fino a un massimo di 1'000, 4'000 o 10'000 franchi svizzeri all'anno.
 
-###### In Leistungsstufe I und II übernimmt die Versicherung nur Behandlungen, die durch einen von der Visana anerkannten Therapeuten durchgeführt werden. In der Leistungsstufe III zahlt die Visana die Behandlung durch einen nicht anerkannten Therapeuten zu 50 Prozent.
+###### Per i livelli I e II, la compagnia assicurativa si occuperà solo dei trattamenti eseguiti da un terapista approvato da Visana. A livello III, Visana paga il 50 percento del trattamento da parte di un terapista non riconosciuto.
 
-## Spitalzusatzversicherungen der Visana
+## L’assicurazione complementare ambulatoriale di Visana
 
-###### Mit einer Spitalzusatzversicherung geniessen Sie freie Spitalwahl in der ganzen Schweiz. Spital Allgemein bietet Ihnen Aufenthalt im Mehrbettzimmer. Die Reiseversicherung Vacanza, Rooming-in sowie Bade- und Erholungskuren sind mit eingeschlossen.
+###### Con un'assicurazione complementare ambulatoriale, puoi godere della scelta ospedaliera gratuita in tutta la Svizzera. Assicurazione per ricovero in reparto comune ti offre il soggiorno in una stanza condivisa. Sono incluse l'assicurazione di viaggio Vacanza, il pernottamento e le cure balneari e rilassanti.
 
-###### Die Visana Zusatzversicherung Spital Halbprivat ergänzt den Versicherungsschutz um einen Aufenthalt auf der halbprivaten Abteilung im Zwei-Bett-Zimmer und freie Arztwahl, sowie um eine Geburtspauschale bei ambulanter Geburt. Mit Spital Privat werden Sie auf der privaten Abteilung im Einzelzimmer untergebracht. Mit Spital Flex Plus wählen Sie den Zimmerkomfort erst zum Eintritt ins Spital. Entscheiden Sie sich für eine Unterbringung auf der halbprivaten oder privaten Abteilung und Chefarztbehandlung, tragen Sie einen Teil der Kosten selbst.
+###### L’assicurazione integrativa ospedaliera semi privata Visana integra la copertura assicurativa, un soggiorno nel reparto semi-privato in una camera doppia e la libera scelta del medico, nonché un’indennità di nascita per un parto ambulatoriale. Con ospedale reparto privato alloggerai in un reparto privato in una stanza singola. Con ospedale Flex Plus, scegli il comfort della stanza solo quando entri in ospedale. Se si opta per un alloggio nel reparto semi-privato o privato ed il trattamento del capo medico, si pagherà una parte del costo.
 
-###### Zusätzlich können Sie sich mit einer Spitaltagegeldversicherung vor Verdienstausfällen und anderen Einbussen durch einen Spitalaufenthalt schützen.
+###### Inoltre, con un'assicurazione ospedaliera puoi proteggerti dalla perdita di guadagni e altre perdite durante una degenza ospedaliera.
 
-## Basic: Die gefragtesten Zusatzversicherungen in einem Paket
+## Basic: La più richiesta assicurazione complementare in un unico pacchetto
 
-###### Das Produkt Basic fasst die gefragtesten Zusatzversicherungen der Visana zu einem Paket zusammen. Inbegriffen sind die folgenden Leistungen:
+###### Il prodotto Basic combina la più ricercata assicurazione complementare di Visana in un unico pacchetto. Sono inclusi i seguenti servizi:
 
-### Spitalzusatzversicherung, wahlweise allgemein, halbprivat oder privat
+### Assicurazione complementare ambulatoriale, generale, semi-privata o privata
 
-### Zusatzversicherung Ambulant I
+### Assicurazione complementare Ambulatoriale I
 
-### Zusatzversicherung Komplementär II
+### Assicurazione complementare Complementare II
 
-### Reiseversicherung Vacanza
+### Assicurazione di viaggio Vacanza
 
-###### Das Basic Paket soll Versicherte gegen die häufigsten Risiken absichern. Die Visana übernimmt bis zu 65 Prozent bei Kostenbeteiligungen. Nehmen Sie die Versicherungsleistungen nicht in Anspruch, erhalten Sie 20 Prozent Rabatt auf Ihre Prämienzahlungen. Sparen können Sie ausserdem, wenn Sie einen Mehrjahresvertrag abschliessen.
+###### Il pacchetto base è assicurare l’assicurato contro i rischi più comuni. Visana accetta fino al 65 percento della condivisione dei costi. Se non richiedi le prestazioni assicurative, riceverai uno sconto del 20% sui pagamenti del premio. Puoi anche risparmiare se concludi un contratto pluriennale.
 
-###### Haben Sie noch Fragen zur Visana Zusatzversicherung oder möchten Sie die Leistungen mit anderen Krankenkassen vergleichen? Nehmen Sie gerne Kontakt zu uns auf. Wir beraten Sie kostenlos und unverbindlich.
+###### Hai domande sull’assicurazione integrativa Visana o desideri confrontare i servizi con altre assicurazioni sanitarie? Non esitare a contattarci. Ti consigliamo gratuitamente e senza impegno.

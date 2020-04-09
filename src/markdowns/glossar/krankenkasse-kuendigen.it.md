@@ -1,47 +1,47 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Krankenkasse kündigen"
+title: "Disdire l'assicurazione sanitaria"
 ---
 
-## Krankenkasse kündigen: Was müssen Sie beachten?
+## Disdire l’assicurazione sanitaria: cosa devi considerare?
 
-###### Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attraktivere Leistungen, können Sie relativ unkompliziert zu einer anderen Krankenversicherung wechseln. Voraussetzung ist, dass Sie Ihre alte Krankenkasse kündigen. Damit die Kündigung rechtzeitig in Kraft tritt, müssen Sie die Kündigungsfrist beachten. Hier erfahren Sie, welche Kündigungsfristen gelten und welche weiteren Bedingung für eine Kündigung der Krankenkasse gelten.
+###### Se trovi la tua assicurazione sanitaria troppo costosa o se un altro assicuratore offre servizi più interessanti, puoi passare in maniera relativamente facile a un'altra assicurazione sanitaria. Il prerequisito è l'annullamento della vecchia assicurazione sanitaria. Affinché la risoluzione entri in vigore in tempo, è necessario rispettare il periodo di preavviso. Qui puoi scoprire quali periodi di preavviso si applicano e quali altre condizioni si applicano a una risoluzione dell'assicurazione sanitaria.
 
 # Form
 
-## Kündigung Krankenkasse: So kündigen Sie Ihre Grundversicherung
+## Annullamento assicurazione: come disdire la vostra assicurazione di base
 
-###### Die Grundversicherung ist die obligatorische Krankenkasse in der Schweiz, die jeder Eidgenosse abgeschlossen haben muss. Eine Kündigung ihrer Krankenkasse erwägen viele Versicherungsnehmer, wenn ihr Anbieter eine Prämienerhöhung ankündigt. Die Kündigung hat stets auf dem Schriftweg zu erfolgen. Verschicken Sie Ihren Brief am besten per Einschreiben, damit er möglichst schnell bearbeitet werden kann.
+###### L'assicurazione di base è l'assicurazione sanitaria obbligatoria in Svizzera, che tutti i cittadini svizzeri devono aver completato. Una risoluzione della loro assicurazione sanitaria, molti assicurati considerano se il loro fornitore annuncia un aumento del premio. La risoluzione deve essere sempre effettuata per posta scritta. È meglio inviare la tua lettera per posta raccomandata in modo che possa essere elaborata il più rapidamente possibile.
 
-###### Ihr Kündigungsschreiben sollte folgende Daten enthalten:
+###### La lettera di disdetta deve contenere le seguenti informazioni:
 
-### Vor- und Nachname
+### Nome e Cognome
 
-### Geburtsdatum
+### Data di nascita
 
-### Ihre Anschrift
+### Il tuo indirizzo
 
-### Ihre Versicherungsnummer
+### Il tuo numero di assicurazione
 
-## Mit unserer kostenlose Vorlage können Sie Ihr Kündigungsschreiben schnell und einfach online erstellen.
+## Con il nostro modello gratuito, puoi creare rapidamente e facilmente la tua lettera di disdetta online.
 
-###### Möchten Sie Ihre Krankenkasse kündigen, dürfen keine Prämienzahlungen rückständig sein. Die Kündigung tritt erst in Kraft, wenn Sie Ihrem alten Versicherer eine Bestätigung über den neuen Versicherungsvertrag vorlegen. Verpassen Sie es, rechtzeitig eine neue obligatorische Krankenpflegeversicherung abzuschliessen, bleiben Sie bei Ihrer alten Krankenkasse versichert.
+###### Se si desidera annullare la propria assicurazione sanitaria, non possono esserci pagamenti arretrati. La risoluzione non avrà effetto fino a quando non fornirai al tuo vecchio assicuratore una conferma del nuovo contratto assicurativo. Se non si stipula in tempo utile una nuova assicurazione sanitaria obbligatoria, rimarrà valida la vecchia assicurazione sanitaria.
 
-## Welche Kündigungsfrist gilt für die obligatorische Krankenversicherung?
+## Quale periodo di preavviso si applica all'assicurazione sanitaria obbligatoria?
 
-###### Jedes Jahr passen die Schweizer Krankenkassen ihre Versicherunsgprämien an. Bis spätestens Ende Oktober muss Ihr Versicherer Ihnen mitteilen, wie sich die Prämie im kommenden Jahr verändert. Wurde eine Prämienerhöhung angekündigt, können Sie Ihre Grundversicherung zum 31. Dezember kündigen und zum 1. Januar des neuen Jahres zu einem anderen Anbieter wechseln. Das Kündigungsschreiben muss bis zum 30. November bei Ihrem alten Anbieter eingegangen sein.
+###### Ogni anno le assicurazioni sanitarie svizzere adeguano i loro premi assicurativi. Entro la fine di ottobre, l'assicuratore deve comunicarti come cambierà il premio nel prossimo anno. Se è stato annunciato un aumento del premio, è possibile annullare la propria assicurazione di base il 31 dicembre e passare a un altro fornitore a partire dal 1° gennaio del nuovo anno. La lettera di risoluzione deve essere ricevuta dal vecchio assicuratore entro il 30 novembre.
 
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Schweizer Franken abgeschlossen, können Sie auch bis Ende Juni kündigen. In diesem Fall gilt eine Frist von drei Monaten. Ihre Kündigungsbrief muss dem Versicherer also spätestens am 31. März vorliegen, damit die Kündigung zum 30. Juni in Kraft tritt.
+###### Se hai un'assicurazione di base con un franchigia regolare di 300 franchi svizzeri, puoi anche annullare fino alla fine di giugno. In questo caso, si applica un periodo di tre mesi. La lettera di disdetta deve pertanto pervenire all'assicuratore entro il 31 marzo affinché la disdetta diventi effettiva il 30 giugno.
 
-## Zusatzversicherung kündigen: Fristen und Termine
+## Annullare l'assicurazione complemntare ( Lca ): Scadenze e date
 
-###### Ihre Zusatzversicherungen können Sie unabhängig von Ihrer Grundversicherung kündigen. In der Regel gilt eine dreimonatige Frist zum Jahresende. Sie müssen Ihre Kündigung also bis zum 30. September einreichen, damit die Kündigung zum 31. Dezember gültig wird. Die Versicherer können die Kündigungsfristen für die Zusatzversicherung jedoch individuell festlegen. Bei einigen Versicherern gilt eine Frist von sechs statt drei Monaten. Die konkreten Fristen entnehmen Sie Ihrem Versicherungsvertrag.
+###### Di norma, alla scadenza dell'anno è prevista una scadenza di tre mesi. È necessario inviare la notifica entro il 30 settembre affinché la cancellazione sia valida al 31 dicembre. Tuttavia, gli assicuratori possono stabilire individualmente i periodi di preavviso per l'assicurazione complementare. Per alcuni assicuratori, c'è una scadenza di sei mesi anziché tre mesi. Le scadenze specifiche sono riportate nel contratto di assicurazione.
 
-###### Erhöht Ihr Versicherer die Prämien für Ihre Zusatzversicherungen, gilt eine verkürzte Kündigungsfrist von einem Monat.
+###### Se l'assicuratore aumenta i premi per l'assicurazione complementare, ti verrà dato un periodo di preavviso abbreviato di un mese.
 
-###### Beachten Sie, dass für freiwillige Zusatzversicherungen eventuell eine Gesundheitsprüfung nötig ist. Unter Umständen können Sie Ihre bevorzugte Versicherung nicht abschliessen. Kündigen Sie Ihre alte Zusatzversicherung daher erst, wenn wirklich sicher ist, dass Sie in der neuen Versicherung aufgenommen werden.
+###### Si prega di notare che l'assicurazione sanitaria volontaria potrebbe richiedere un controllo sanitario. Potresti non essere in grado di stipulare la tua assicurazione preferita. Annulla la tua vecchia assicurazione complementare solo se sei davvero certo di essere accettato nella nuova assicurazione.
 
-## Alte Krankenkasse kündigen und günstigeren Anbieter finden
+## Annullare la vecchia assicurazione sanitaria e trovare assicuratori più economici
 
-###### Wir unterstützen Sie beim Krankenkassenwechsel. Bevor Sie Ihre Krankenkasse kündigen, machen Sie bei uns den Krankenkassenvergleich. Holen Sie anschliessend direkt eine Offerte Ihres bevorzugten Anbieters ein. Haben Sie weitere Fragen, beraten wir Sie unverbindlich und kostenlos.
+###### Ti supportiamo nel cambio delle assicurazioni sanitarie. Prima di annullare la tua assicurazione sanitaria, effettua con noi il confronto delle assicurazioni sanitarie. Quindi ricevi subito un'offerta dal tuo fornitore preferito. Se hai ulteriori domande, ti consigliamo gratuitamente e senza impegno.

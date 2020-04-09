@@ -1,43 +1,43 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Prämienverbilligung"
+title: "Réduction de la prime"
 ---
 
-## So erhalten Sie eine Prämienverbilligung für die Krankenkasse
+## Comment obtenir une réduction de prime pour votre caisse d'assurance maladie?
 
-###### Wer in bescheidenen wirtschaftlichen Verhältnissen lebt, muss nicht die volle Krankenkassenprämie bezahlen. Liegt Ihr Haushaltseinkommen unter einer vorgegebenen Summe, können Sie eine Prämienverbilligung beantragen. Hier erfahren Sie, in welchen Fällen Sie einen Antrag stellen dürfen und was Sie dabei beachten müssen. Zur Optimierung Ihrer Prämienhöhe lohnt sich ausserdem ein Krankenkassenvergleich. Durch den Wechsel zu einer günstigen Krankenversicherung können Sie mehr als Tausend Schweizer Franken im Jahr sparen.
+###### Les personnes qui vivent dans des conditions économiques modestes n'ont pas à payer la totalité de la prime d'assurance maladie. Si le revenu de votre ménage est inférieur à un certain montant, vous pouvez demander une réduction de prime. Vous trouverez ici les cas dans lesquels vous pouvez postuler et ce dont vous devez tenir compte. Pour optimiser votre niveau de prime, il est également intéressant de comparer les caisses d'assurance maladie. En optant pour une assurance maladie peu coûteuse, vous pouvez économiser plus de mille francs suisses par an.
 
 # Form
 
-## Haben Sie Anspruch auf eine Prämienverbilligung?
+## Avez-vous droit à une réduction de prime?
 
-###### Anspruch auf Krankenkassenprämienverbilligung besteht grundsätzlich, wenn Sie in bescheidenen wirtschaftlichen Verhältnissen leben. Massgeblich sind das Haushaltseinkommen und die Anzahl der Kinder. Wie hoch das Haushaltseinkommen ausfallen darf, ist kantonal geregelt. In den meisten Kantonen informiert Sie die Verwaltung automatisch, falls ein Anspruch besteht.
+###### En principe, vous avez droit à une réduction des primes d'assurance maladie si vous vivez dans des conditions économiques modestes. Le revenu du ménage et le nombre d'enfants sont déterminants. Le revenu du ménage est réglementé par le canton. Dans la plupart des cantons, l'administration vous informe automatiquement si vous avez droit à un revenu familial.
 
-###### Haben Sie Ihren Wohnsitz in Zürich, besteht im Jahr 2020 in folgenden Fällen Anspruch auf Krankenkassenprämienverbilligung:
+###### Si vous résidez à Zurich, vous avez droit à une réduction des primes d'assurance maladie en 2020 dans les cas suivants:
 
-### Ehepaare bzw. eingetragene Partner ohne Kinder: steuerbares Gesamteinkommen von maximal 49'200.00 Schweizer Franken.
+### Couples mariés ou partenaires enregistrés sans enfants : revenu imposable total d'un maximum de 49 200,00 francs suisses.
 
-### Ehepaare bzw. eingetragene Partner mit Kindern: steuerbares Gesamteinkommen von maximal 49'200 Schweizer Franken. Bei einem Haushaltseinkommen zwischen 49'300 und 62'900 Franken wird eine Prämienverbilligung für die minderjährigen Kinder gewährt.
+### Couples mariés ou partenaires enregistrés avec enfants : revenu imposable total d'un maximum de 49 200 francs suisses. Pour un revenu familial compris entre 49 300 et 62 900 francs, une prime est accordée aux enfants mineurs.
 
-### Alleinerziehende: steuerbares Gesamteinkommen von maximal 41'600 Franken. Bei einem Einkommen zwischen 41'700 und 62'900 Franken besteht Anspruch auf Prämienverbilligung für die minderjährigen Kinder.
+### Parents célibataires : revenu imposable total pouvant atteindre 41 600 francs suisses. Pour un revenu compris entre 41 700 et 62 900 francs suisses, l'enfant a droit à une prime.
 
-### Einzelpersonen: steuerbares Gesamteinkommen von maximal 36'300 Schweizer Franken.
+### Individuels : revenu imposable total d'un maximum de 36 300 francs suisses.
 
-###### Das steuerbare Gesamtvermögen darf jeweils 300'000 Franken nicht übersteigen, bei Einzelpersonen sind 150'000 Franken gestattet.
+###### Le total des actifs imposable total ne peut pas dépasser 300 000 francs suisses chacun, les particuliers 150 000.
 
-## Antrag auf Prämienverbilligung: Darauf müssen Sie achten
+## Demande de réduction de prime: Vous devez faire attention à ce qui suit
 
-###### Die SVA Ihres Kanton schickt Ihnen für gewöhnlich bis Ende Juli das Antragsformular für die Prämienverbilligung zu. Jugendliche ab 18 Jahre erhalten ein eigenes Antragsformular, selbst wenn sie in einem Haushalt mit den Eltern leben. Den vorgedruckten Antrag müssen Sie vollständig ausfüllen und unterschrieben an die SVA zurücksenden. Dafür haben Sie zwei Monate Zeit. Junge Erwachsene in Erstausbildung fügen noch einen aktuellen Ausbildungsnachweis, eine Semesterbestätigung oder eine Schulbestätigung bei.
+###### Demande de réduction de prime : La SVA (Services à Valeur Ajoutée) de votre canton vous envoie généralement le formulaire de demande de réduction de prime avant la fin du mois de juillet. Les jeunes de 18 ans et plus reçoivent leur propre formulaire de demande, même s'ils vivent dans le même ménage que leurs parents. Vous devez remplir le formulaire de demande pré-imprimé au complet, le signer et le retourner à la SVA. Vous avez deux mois pour le faire. Les jeunes adultes en formation initiale doivent joindre un certificat de formation à jour, un certificat semestriel ou un certificat scolaire.
 
-###### Erhalten Sie trotz Anspruch kein Antragsformular, wenden Sie sich bitte an die zuständige SVA Ihres Wohnkantons.
+###### Si vous ne recevez pas de formulaire de demande malgré votre demande, veuillez-vous adresser à la SVA compétente de votre lieu de résidence.
 
-## So funktioniert die Auszahlung
+## Voici comment fonctionne le paiement
 
-###### Die SVA Ihres Kantons überweist die Prämienverbilligung direkt an Ihre Krankenversicherung. Die Krankenkasse zieht die überwiesene Summe dann von Ihren laufenden Prämienrechnungen ab. Wechseln Sie die Krankenkasse, informiert Ihr alter Versicherer die SVA und teilt dieser die neue Krankenversicherung mit. Sie müssen sich bei einem Krankenkassenwechsel nicht selbst bei der SVA melden.
+###### La SVA de votre canton transfère la réduction de prime directement à votre caisse maladie. La caisse d'assurance maladie déduit ensuite le montant transféré de vos factures de primes actuelles. Si vous changez de caisse d'assurance maladie, votre ancien assureur en informe la SVA et l'informe de la nouvelle assurance maladie. Si vous changez de caisse d'assurance maladie, vous n'avez pas besoin de vous inscrire vous-même auprès de la SVA.
 
-###### Die Höhe der Prämienverbilligung variiert je nach Wohnort, steuerbarem Gesamteinkommen und Alter des Versicherungsnehmers.
+###### Le montant de la réduction de prime varie en fonction de la situation familiale, du revenu total imposable et de l'âge du preneur d'assurance.
 
-## Optimierung der Krankenkassenprämie: Machen Sie jetzt den Prämienvergleich!
+## Optimisation de la prime de caisse d'assurance maladie : Faites dès maintenant la comparaison des primes!
 
-###### Die Prämienverbilligung gilt allein für die Grundversicherung, nicht für die Zusatzversicherung. Damit Sie auch bei reduzierter Prämie nicht zu viel bezahlen, lohnt sich der Krankenkassenvergleich. Berechnen Sie Ihre aktuelle Krankenkassenprämie und finden Sie heraus, wie Sie sparen können, ohne auf Leistungen zu verzichten.
+###### La réduction de prime ne s'applique qu'à l'assurance de base et non à l'assurance complémentaire. Pour s'assurer que vous ne payez pas trop cher, même avec des primes réduites, il vaut la peine de comparer les compagnies d'assurance maladie. Calculez votre prime d'assurance maladie actuelle et découvrez comment vous pouvez économiser sans renoncer à vos avantages.

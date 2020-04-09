@@ -6,6 +6,7 @@ import Layout from "../components/Layout/Layout"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
 import * as actionTypes from "../store/actions"
+import * as content from "../content/templates/Glossar"
 
 const Glossar = props => {
   const data = useStaticQuery(
@@ -49,15 +50,19 @@ const Glossar = props => {
     }
   }
 
+  let lang =
+    props.lang === "en"
+      ? content.en
+      : props.lang === "fr"
+      ? content.fr
+      : props.lang === "it"
+      ? content.it
+      : content.de
+
   return (
     <Layout>
-      <Text type="title">
-        {props.lang} Informationen zum Thema Krankenversicherung
-      </Text>
-      <Text type="paragraph">
-        Im Glossar finden Sie Erklärungen zu den wichtigsten Begriffen zum Thema
-        Krankenversicherung und dem Schweizer Gesundheitssystem.
-      </Text>
+      <Text type="title">{lang.title}</Text>
+      <Text type="paragraph">{lang.description}</Text>
       <Lists data={list} slugs={slugs} />
     </Layout>
   )
@@ -69,11 +74,4 @@ const mapStateToProps = state => {
   }
 }
 
-const mapDispatchToProps = dispatch => {
-  return {
-    onChangeLanguage: lang =>
-      dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
-  }
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(Glossar)
+export default connect(mapStateToProps)(Glossar)

@@ -1,7 +1,7 @@
 ---
 lang: "de"
 type: "glossar"
-title: Alternativmedizin-Komplementärmedizin
+title: "Alternativmedizin-Komplementärmedizin"
 ---
 
 ## Alternativmedizin: Welche Behandlungen übernimmt die Krankenkasse?

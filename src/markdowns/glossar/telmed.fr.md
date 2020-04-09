@@ -4,38 +4,38 @@ type: "glossar"
 title: "Telmed"
 ---
 
-## Telmed: Prämien sparen mit dem Telemedizin Versicherungsmodell
+## Telmed: Économisez des primes grâce au modèle d'assurance télémédecine modélisé
 
-###### Wer in der Schweizer Grundversicherung Prämien sparen möchte, kann aus verschiedenen alternativen Versicherungsmodellen wählen. Beim Telmed Modell nehmen Versicherte zunächst telefonisch Kontakt zu einer medizinischen Beratungsstelle auf. Diese erstellt einen Behandlungsplan und empfiehlt bei Bedarf einen Besuch beim Arzt oder im Spital. Auf diese Weise lassen sich bis zu 20 Prozent auf den Standardtarif sparen.
+###### Si vous souhaitez économiser des primes sur votre assurance de base suisse, vous avez le choix entre différents modèles d'assurance alternatifs. Avec le modèle Telmed, les assurés s'adressent d'abord par téléphone à un centre de conseil médical. Celui-ci établira un plan de traitement et recommandera une visite chez le médecin ou à l'hôpital si nécessaire. Vous pouvez ainsi économiser jusqu'à 20 % sur le tarif standard.
 
 # Form
 
-## So funktioniert das Telmed Modell
+## Comment fonctionne le modèle Telmed
 
-###### Entscheiden Sie sich für das alternative Versicherungsmodell Telemedizin, verpflichten Sie sich, vor jedem Arzt- oder Spitalbesuch eine vorgegebene medizinische Beratungsstelle anzurufen. Der Anruf ist kostenfrei. Sie schildern den medizinischen Mitarbeitern der Hotline Ihr Problem, diese sprechen daraufhin eine Behandlungsempfehlung aus.
+###### Si vous choisissez le modèle alternatif d'assurance télémédecine, vous vous engagez à appeler un centre de conseil médical spécifique avant chaque visite chez le médecin ou dans un hôpital. L'appel est gratuit. Vous décrivez votre problème au personnel médical de la hotline, qui vous recommandera un traitement.
 
-###### Die Modelle tragen je nach Krankenkasse Namen wie Callmed, TelCare, TelDoc oder Primatel und unterscheiden sich in ihren Bedingungen. Es gibt drei Varianten:
+###### Les modèles portent des noms tels que Callmed, TelCare, TelDoc ou Primatel selon la caisse maladie et diffèrent dans leurs conditions. Il existe trois variantes:
 
-### Variante 1: Die Beratungsstelle spricht eine Empfehlung aus, Sie sind aber nicht daran gebunden. Sie können nach dem Telefonat also immer noch einen Arzt Ihrer Wahl aufsuchen. Diesem Modell folgt beispielsweise der MedCall Tarif der Visana.
+### Variante 1 : Le centre de consultation fait une recommandation, mais vous n'êtes pas lié par elle. Après l'appel téléphonique, vous pouvez toujours consulter un médecin de votre choix. Le tarif MedCall de Visana, par exemple, suit ce modèle.
 
-### Variante 2: Sie kontaktieren die telefonische Erstberatungsstelle und holen sich einen Behandlungsplan ein. Sie sind an die Weisung der Beratungsstelle gebunden, es besteht aber freie Arztwahl. Ist der Mediziner der Ansicht, dass der Arztbesuch überflüssig war, erhalten Sie die Kosten allerdings nicht erstattet. Das ist zum Beispiel beim TelDoc Modell der Visana und den Callmed Tarifen verschiedener Versicherer der Fall.
+### Variante 2: Vous contactez le centre de consultation téléphonique et obtenez un plan de traitement. Vous êtes lié par les instructions du centre de conseil, mais vous êtes libre de choisir votre médecin. Toutefois, si le médecin estime que la visite n'était pas nécessaire, vous ne serez pas remboursé. C'est le cas, par exemple, du modèle TelDoc de Visana et des tarifs Callmed de différents assureurs.
 
-### Variante 3: Sie sind an die Weisung der Erstberatungsstelle gebunden, zudem ist die Arztwahl eingeschränkt, zum Beispiel auf Ihren Hausarzt oder eine Gruppenpraxis. Zu diesem Modell gehören die Primatel (Hausarzt) Tarife diverser Krankenkassen.
+### Variante 3: Vous êtes lié par les instructions du centre de conseil initial et le choix du médecin est limité, par exemple à votre médecin de famille ou à un cabinet de groupe. Ce modèle inclut les tarifs Primatel (médecin de famille) de diverses caisses d'assurance maladie.
 
-###### Lesen Sie sich die genauen Vertragsbedingungen Ihres gewählten Modells aufmerksam durch. Halten Sie sich nicht an die Vorgaben Ihrer Krankenversicherung, verweigert diese eventuell die Kostenübernahme.
+###### Veuillez lire attentivement les termes et conditions exacts du modèle que vous avez choisi. Si vous ne respectez pas les exigences de votre assurance maladie, elle peut refuser de couvrir les frais.
 
-## Verhalten in Notfällen
+## Comportement en cas d'urgence
 
-###### In medizinischen Notfällen müssen Sie sich nicht zuerst an die telefonische Beratungsstelle wenden, sondern können direkt eine Notarzt oder ein Spital konsultieren. Innerhalb einer bestimmten Frist müssen Sie das Telefonat jedoch nachholen.
+###### En cas d'urgence médicale, vous n'avez pas besoin de contacter d'abord le centre de consultation téléphonique, mais vous pouvez consulter directement un médecin urgentiste ou un hôpital. Toutefois, dans un certain délai, vous devez vous rattraper pour l'appel téléphonique.
 
-## Ihre Vorteile mit dem Telmed Modell
+## Vos avantages avec le modèle Telmed
 
-###### Für das Telemedizin Modell erhalten Sie einen hohen Rabatt für Ihre Grundversicherung. Je nach Krankenkasse können Sie bis zu 20 Prozent sparen.
+###### Pour le modèle de télémédecine, vous bénéficiez d'un rabais élevé pour votre assurance de base. Selon votre assurance maladie, vous pouvez économiser jusqu'à 20 %.
 
-###### Sie profitieren ausserdem von der hohen Verfügbarkeit der telefonischen Erstberatungsstellen. Es fallen kürzere Wartezeiten an als bei einem unangekündigten Arztbesuch und Sie müssen weniger zeitliche Einschränkungen in Kauf nehmen. Bei kleineren gesundheitlichen Problemen kann ein Anruf bei der Beratungsstelle einen Arztbesuch komplett ersetzen.
+###### Vous bénéficiez également de la grande disponibilité des services de téléphonie mobile. Les temps d'attente sont plus courts que pour une visite imprévue chez le médecin et le temps accordé est plus élevé. En cas de problèmes de santé mineurs, un appel au centre de conseil peut remplacer entièrement une visite chez le médecin.
 
-## Für wen lohnt sich das Telmed Modell der Grundversicherung?
+## Pour qui le modèle d'assurance de base Telmed est-il intéressant ?
 
-###### Dieses alternative Versicherungsmodell lohnt sich vor allem, wenn Sie nur selten krank werden oder kleinere gesundheitliche Probleme haben. Benötigen Sie aufwendigere oder häufigere Behandlungen, empfiehlt sich eher das Standardmodell der Grundversicherung.
+###### Ce modèle d'assurance alternatif est particulièrement intéressant si vous tombez rarement malade ou si vous avez des problèmes de santé mineurs. Si vous avez besoin de traitements plus complexes ou plus fréquents, le modèle standard d'assurance de base est plus recommandé.
 
-###### Machen Sie bei uns den Krankenkassenvergleich und finden Sie heraus, wie viel Sie mit einem alternativen Versicherungsmodell sparen können. Haben Sie weitere Fragen, nehmen Sie einfach Kontakt zu uns auf. Wir beraten Sie gerne.
+###### Comparer nos caisses d'assurance maladie et découvrez combien vous pouvez économiser avec un modèle d'assurance alternatif. Si vous avez d'autres questions, n'hésitez pas à nous contacter. Nous nous ferons un plaisir de vous conseiller.

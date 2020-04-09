@@ -1,39 +1,39 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Zusatzversicherungen"
+title: "Supplementary insurances"
 ---
 
-## Zusatzversicherung: Die sinnvolle Ergänzung zu Ihrer Grundversicherung
+## Supplementary insurance: The sensible supplement to your basic insurance
 
-###### Eine Zusatzversicherung ergänzt die Leistungen der obligatorischen Grundversicherung. Rund 80 Prozent der Schweizer haben sich für den zusätzlichen Versicherungsschutz entschieden. Zur Wahl stehen ambulante Zusatzversicherungen und Spitalversicherungen. Der Zusatzversicherung Vergleich hilft Ihnen, eine Krankenzusatzversicherung zu finden, die zu Ihren Bedürfnissen passt.
+###### A supplementary insurance complements the benefits of the compulsory basic insurance. Around 80 percent of the Swiss have opted for additional insurance cover. There is a choice of outpatient supplementary insurance and hospital insurance. The supplementary insurance comparison helps you to find a supplementary health insurance that suits your needs.
 
 # Form
 
-## Zusatzversicherung Krankenkasse: Individuell abgestimmter Versicherungsschutz
+## Supplementary health insurance: Individually tailored insurance cover
 
-###### Die Schweizer Grundversicherung deckt bereits zahlreiche medizinische Leistungen bei Krankheit, Unfall und Mutterschaft ab. Für Zahnbehandlungen, alternative Heilmethoden oder Sehhilfen müssen Sie allerdings hohe Zuzahlungen leisten. Das gilt auch, wenn Sie mehr Komfort bei der Unterbringung im Spital wünschen. Mit einer freiwilligen Krankenzusatzversicherung schützen Sie sich vor diesen Mehrkosten und können auch Behandlungen in Anspruch nehmen, welche die obligatorische Krankenpflegeversicherung nicht abdeckt.
+###### The Swiss basic insurance already covers numerous medical benefits in the event of illness, accident and maternity. However, you will have to make high co-payments for dental treatment, alternative cures or vision aids. This also applies if you want more comfort when staying in hospital. With voluntary supplementary health insurance, you protect yourself against these additional costs and can also take advantage of treatments that are not covered by compulsory health insurance.
 
-###### Die Krankenkassen können frei festlegen, welche Zusatzleistungen sie übernehmen. Neben dem Leistungsumfang unterscheiden sich auch die Prämien der einzelnen Anbieter stark. Bevor Sie eine Krankenkasse Zusatzversicherung abschliessen, lohnt sich daher ein Vergleich.
+###### The health insurance funds are free to determine which additional services they cover. In addition to the scope of benefits, the premiums of the individual providers also vary considerably. Before you take out supplementary health insurance, it is therefore worth making a comparison.
 
-## Welche ambulanten Zusatzversicherungen lohnen sich?
+## Which outpatient supplementary insurances are worthwhile?
 
-###### Welche ambulanten Zusatzversicherungen sind überhaupt sinnvoll? Das hängt vor allem von Ihren Lebensumständen und persönlichen Bedürfnissen ab. Benötigen Sie zum Beispiel eine Sehhilfe, rentiert sich eine Zusatzversicherung Brille, welche hohe Beiträge für Brillen, Kontaktlinsen und eventuell sogar für eine Laseroperation der Augen bezahlt. Möchten Sie schulmedizinische Behandlungen durch Alternativmedizin ergänzen, finden Sie auch Zusatzversicherungen speziell für diesen Bedarf. Weitere Zusatzleistungen umfassen zum Beispiel die Übernahme von Nichtpflichtmedikamenten, Rettungs- und Transportkosten, Behandlungskosten im Ausland und Massnahmen der Gesundheitsprävention.
+###### Which outpatient supplementary insurances make sense at all? This depends above all on your personal circumstances and needs. If, for example, you need a vision aid, supplementary glasses insurance pays off, paying high premiums for glasses, contact lenses and possibly even for laser surgery of the eyes. If you would like to supplement orthodox medical treatment with alternative medicine, you will also find supplementary insurance specifically for this need. Other additional benefits include, for example, the assumption of non-obligatory medication, rescue and transport costs, treatment costs abroad and health prevention measures.
 
-###### Sinnvoll ist zudem eine Zahnzusatzversicherung. Eine zusätzliche Zahnversicherung übernimmt anteilig die Kosten für Zahnbehandlungen, Zahnfehlstellungskorrekturen und kieferchirurgische Leistungen bis zu einem bestimmten Jahreshöchstbetrag.
+###### It is also advisable to take out supplementary dental insurance. An additional dental insurance policy covers the proportionate costs of dental treatment, malocclusion corrections and oral surgery up to a certain maximum annual amount.
 
-## Die zusätzliche Spitalversicherung
+## Additional hospital insurance
 
-###### Knapp die Hälfte aller Schweizer hat sich für eine Spitalzusatzversicherung entschieden. Die allgemeine Spitalversicherung ermöglicht es Ihnen zum Beispiel, sich ohne Aufpreis in einem Spital ausserhalb Ihres Wohnkantons behandeln zu lassen. Darüber hinaus können Sie sich für eine halbprivate oder private Spitalversicherung entscheiden. Die Halbprivat Versicherung gewährt zum Beispiel die Unterbringung auf der halbprivaten Abteilung und im Zwei-Bett-Zimmer. Mit einer Privatversicherung können Sie auch die Unterbringung im Ein-Bett-Zimmer wählen.
+###### Almost half of all Swiss people have opted for supplementary hospital insurance. General hospital insurance enables you, for example, to receive treatment at no extra charge in a hospital outside your canton of residence. You can also opt for semi-private or private hospital insurance. Semi-private insurance, for example, allows you to stay in a semi-private ward and in a two-bed room. With private insurance, you can also choose accommodation in a single room.
 
-## Was müssen Sie beim Abschluss einer Zusatzversicherung beachten?
+## What do you need to bear in mind when taking out supplementary insurance?
 
-###### Die Leistungen und Vertragsgestaltung der Grundversicherung richtet sich nach dem Bundesgesetz über die Krankenversicherung (KVG). Die Versicherungspraxis der Zusatzversicherungen orientiert sich dagegen am Versicherungsvertragsgesetz (VVG). Anders als das KVG sieht das VVG Schweiz keine vorbehaltlose Aufnahmepflicht vor. Ein Anbieter kann es dementsprechend ablehnen, Sie in die Zusatzversicherung aufzunehmen. Einige Krankenkassen setzen vor dem Abschluss der Krankenzusatzversicherung eine Gesundheitsprüfung voraus.
+###### The benefits and terms of the basic insurance policy are governed by the Federal Health Insurance Act (KVG). The insurance practice of supplementary insurance, on the other hand, is based on the Insurance Contract Act (VVG). Unlike the KVG, the VVG Switzerland does not provide for an unconditional admission obligation. Accordingly, a provider can refuse to include you in the supplementary insurance. Some health insurance companies require a health check before taking out supplementary health insurance.
 
-###### Die Prämien für die Zusatzversicherung orientieren sich am individuellen Versicherungsrisiko, am Alter und Geschlecht des Versicherungsnehmers.
+###### The premiums for supplementary insurance are based on the individual insurance risk, age and sex of the policyholder.
 
-###### In noch einer Hinsicht unterscheiden sich Grundversicherung und Zusatzversicherungen: Die Zusatzversicherung kann nach einem Versicherungsfall auch von der Krankenkasse gekündigt werden.
+###### There is another difference between basic insurance and supplementary insurance: The supplementary insurance can also be cancelled by the health insurance fund after an insured event.
 
-## Finden Sie passende Zusatzversicherungen mit dem Zusatzversicherung Vergleich
+## Find suitable supplementary insurance with the supplementary insurance comparison
 
-###### Viele Krankenkassen fassen ihre ambulanten Zusatzleistungen zu Paketen zusammen. Paketlösungen erscheinen praktisch und bieten häufig günstigere Prämien als Einzellösungen. Allerdings übernehmen sie viele Kosten nur bis zu einem gewissen Höchstbetrag pro Jahr. Eventuell sind auch Leistungen enthalten, die Sie gar nicht benötigen. Möchten Sie die beste Zusatzversicherung für Ihre Bedürfnisse finden, machen Sie den Zusatzversicherung Vergleich.
+###### Many health insurance companies combine their additional outpatient services into packages. Package solutions appear practical and often offer cheaper premiums than individual solutions. However, they cover many costs only up to a certain maximum amount per year. They may also include benefits that you do not need. If you would like to find the best supplementary insurance for your needs, make the supplementary insurance comparison.

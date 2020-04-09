@@ -1,33 +1,33 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Unfalldeckung"
+title: "Accident coverage"
 ---
 
-## So funktioniert die Unfalldeckung durch die Krankenkasse
+## This is how accident coverage by health insurance works
 
-###### Alle in der Schweiz wohnhaften Personen sind obligatorisch gegen Unfall versichert. Für angestellt erwerbstätige Personen greift die Unfallversicherung nach Unfallversicherungsgesetz (UVG). Alle Personen, die nicht dem UVG unterstellt sind, werden in der Unfalldeckung ihrer Krankenkasse aufgenommen.
+###### All persons resident in Switzerland are compulsorily insured against accidents. Accident insurance for employed persons is governed by the Accident Insurance Act (UVG). All persons who are not subject to the UVG are included in the accident coverage of their health insurance fund.
 
 # Form
 
-## Die Unfalldeckung in der obligatorischen Grundversicherung
+## Accident coverage in compulsory basic insurance
 
-###### Das UVG der Schweiz sieht vor, dass alle Eidgenossen über einen Unfallschutz verfügen müssen. Personen, die nicht in einem Anstellungsverhältnis stehen und auch keine Erwerbslosenleistungen beziehen, werden automatisch in die Unfalldeckung der Krankenkassen aufgenommen. Das gilt zum Beispiel für Kinder, im Haushalt tätige Personen, Selbständige und Studierende.
+###### Switzerland's UVG stipulates that all Swiss citizens must have accident insurance. Persons who are not in an employment relationship and do not receive unemployment benefits are automatically included in the accident coverage of the health insurance funds. This applies, for example, to children, persons working in the household, self-employed persons and students.
 
-###### Die Unfalldeckung folgt dem Krankenversicherungsgesetz (KVG) und ist Teil der obligatorischen Grundversicherung. Geschieht ein Unfall, haben Sie Anspruch auf eine medizinische Behandlung, auf Medikamente sowie auf die Unterbringung und Verpflegung in der allgemeinen Abteilung eines Spitals. Passiert der Unfall im Ausland, übernimmt die Krankenkasse maximal den doppelten Betrag, der für eine Behandlung in der Schweiz angefallen wäre.
+###### Accident coverage follows the Health Insurance Act (KVG) and is part of the compulsory basic insurance. If an accident occurs, you are entitled to medical treatment, medication, accommodation and meals in the general ward of a hospital. If the accident occurs abroad, the health insurance company will pay a maximum of twice the amount that would have been paid for treatment in Switzerland.
 
-###### Wie in der obligatorischen Krankenversicherung auch, müssen Sie für den Unfallschutz eine Kostenbeteiligung leisten. Sie zahlen eine Jahresfranchise sowie einen Selbstbehalt in Höhe von zehn Prozent, maximal 700 Schweizer Franken im Kalenderjahr für Erwachsene, 350 Franken für Kinder.
+###### As with compulsory health insurance, you must pay a contribution towards accident insurance costs. You pay an annual excess and a deductible of ten percent, a maximum of 700 Swiss francs per calendar year for adults and 350 Swiss francs for children.
 
-## Unfallversicherung über den Arbeitgeber
+## Accident insurance via the employer
 
-###### Sind Sie angestellt erwerbstätig, lohnt es sich, die obligatorische Krankenpflegeversicherung ohne Unfalldeckung abzuschliessen. Auf diese Weise können Sie Ihre Krankenkassenprämie um bis zu zehn Prozent reduzieren. Angestellt erwerbstätige Personen sind über Ihren Arbeitgeber unfallversichert, der auch die Prämien für den Unfallschutz trägt.
+###### If you are employed, it is worth taking out compulsory health insurance without accident cover. In this way, you can reduce your health insurance premium by up to ten percent. Employees are insured against accidents through their employer, who also pays the premiums for accident insurance.
 
-###### Die UVG-Versicherung tritt übrigens nicht nur bei Unfällen am Arbeitsplatz in Kraft. Sie leistet auch bei Unfällen zuhause und bei Freizeitaktivitäten. Eine Ausnahme besteht bei Teilzeitbeschäftigen, die weniger als acht Stunden bei einem Arbeitgeber arbeiten: Sie sind nur gegen Berufsunfälle und Berufskrankheiten abgesichert.
+###### Incidentally, the UVG insurance does not only apply to accidents at work. It also covers accidents at home and leisure activities. There is an exception for part-time employees who work less than eight hours for one employer: They are only covered against occupational accidents and diseases
 
-###### Die Unfallversicherung bleibt einen vollen Monat nach Ende des Arbeitsverhältnisses bestehen. Sie können den Versicherungsschutz um sechs Monate verlängern, wenn Sie einen Antrag auf Abredeversicherung bei der Schweizerische Unfallversicherung (SUVA) stellen. Endet Ihr Versicherungsanspruch nach UVG, müssen Sie dies Ihrer Krankenkasse mitteilen. Das Gesetz schützt Sie allerdings vor Versicherungslücken. Versäumen Sie es, sich rechtzeitig bei Ihrem Krankenversicherer zu melden, erhalten Sie bei einem Unfall dennoch alle Leistungen nach KVG. Sie müssen in diesem Fall allerdings die versäumten Prämien nachzahlen.
+###### Accident insurance remains valid for a full month after the end of the employment relationship. You can extend your insurance cover by six months if you submit an application to the Schweizerische Unfallversicherung (SUVA) for agreement insurance. If your insurance claim ends in accordance with the UVG, you must inform your health insurance fund. However, the law protects you from insurance gaps. If you fail to notify your health insurer in good time, you will still receive all benefits under the KVG in the event of an accident. In this case, however, you must pay the missed premiums in arrears.
 
-## Zusatzversicherung mit Unfalldeckung
+## Supplementary insurance with accident coverage
 
-###### Eine Zusatzversicherung mit Unfalldeckung erweitert die gesetzlichen Leistungen. Im ambulanten Bereich übernimmt sie zum Beispiel alternative Behandlungsmethoden und nichtärztliche Psychotherapien. Eine Spitalzusatzversicherung bietet unter anderem die Unterbringung auf der halbprivaten oder privaten Abteilung im Zwei-Bett- oder Ein-Bett-Zimmer.
+###### A supplementary insurance with accident coverage extends the statutory benefits. In the outpatient area, for example, it covers alternative treatment methods and non-physician psychotherapies. A supplementary hospital insurance offers, among other things, accommodation in a semi-private or private ward in a two-bed or single room.
 
-###### Ob sich die eine Zusatzversicherung mit Unfalldeckung lohnt, hängt davon ab, ob eine Unfallversicherung über den Arbeitgeber besteht und was diese übernimmt. Wir beraten Sie gerne!
+###### Whether a supplementary insurance with accident coverage is worthwhile depends on whether an accident insurance exists via the employer and what it covers. We will be happy to advise you!

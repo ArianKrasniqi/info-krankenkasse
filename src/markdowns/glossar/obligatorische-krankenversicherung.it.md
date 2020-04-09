@@ -1,35 +1,35 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Obligatorische Krankenversicherung"
+title: "Assicurazione sanitaria obbligatoria"
 ---
 
-## Die obligatorische Krankenversicherung: Pflicht für jeden Einwohner der Schweiz
+## Assicurazione malattia obbligatoria: un obbligo per tutti i residenti in Svizzera
 
-###### In der Schweiz besteht Krankenversicherungspflicht. Wer in der Schweiz lebt oder dort arbeitet, muss die sogenannte obligatorische Krankenversicherung, auch Grundversicherung genannt, abschliessen. Die Wahl der Krankenkasse steht den Versicherungsnehmern dabei frei. Durch die Krankenversicherungspflicht möchte der Bund erreichen, dass jeder Schweizer Bürger für den Krankheitsfall finanziell abgesichert ist.
+###### In Svizzera l'assicurazione sanitaria è obbligatoria. Chiunque viva o lavori in Svizzera deve stipulare un'assicurazione sanitaria obbligatoria, detta anche assicurazione di base. La scelta dell'assicurazione sanitaria è a disposizione degli assicurati. Con l'assicurazione sanitaria obbligatoria, il governo federale vuole garantire che ogni cittadino svizzero sia finanziariamente coperto in caso di malattia.
 
 # Form
 
-## Welche Bedingungen gelten in der obligatorischen Krankenversicherung?
+## Quali condizioni si applicano nell'assicurazione malattia obbligatoria?
 
-###### Die Bedingungen der obligatorischen Krankenpflegeversicherung regelt das Krankenversicherungsgesetzt (KVG). Seit 1996 sieht es vor, dass jede Person, die in der Schweiz lebt oder arbeitet, eine Grundversicherung abschliessen muss. Die obligatorische Krankenversicherung übernimmt die grundlegende medizinische Versorgung bei Krankheit, Unfall sowie Schwangerschaft und Mutterschaft.
+###### Le condizioni dell'assicurazione sanitaria obbligatoria sono regolate dalla legge sull'assicurazione malattia (LAMal). Dal 1996 ogni persona che vive o lavora in Svizzera deve avere un'assicurazione di base. L'assicurazione sanitaria obbligatoria copre le cure mediche di base in caso di malattia, infortunio, gravidanza e maternità.
 
-###### In der Regel begleichen die Versicherten die Kosten für medizinische Behandlungen und Medikamente zunächst selbst. Anschliessend wenden sie sich zwecks Erstattung an Ihren Krankenversicherer. Spitäler rechnen meist direkt mit den Krankenkassen ab.
+###### Di norma, l'assicurazione inizialmente copre i costi delle cure mediche e dei medicinali e in seguito contatta l'assicuratore per il rimborso. Gli ospedali di solito si occupano direttamente delle assicurazioni sanitarie.
 
-###### Familienmitglieder sind nicht automatisch in der Grundversicherung mitversichert. Für jedes Familienmitglied muss ein gesonderter Versicherungsvertrag abgeschlossen werden.
+###### I familiari non sono automaticamente assicurati con l’assicurazione di base e per ciascun membro della famiglia deve essere stipulato un contratto assicurativo separato.
 
-## Wie hoch sind die Krankenkassenprämien?
+## Quanto sono elevati i premi delle assicurazioni sanitarie?
 
-###### Für die Leistungen der Grundversicherung entrichten die Versicherungsnehmer eine monatliche Krankenkassenprämie. In der Gestaltung ihrer Prämien sind die Krankenversicherer weitgehend frei, sofern sie einige gesetzliche Vorgaben beachten. Die Höhe der Prämie richtet sich nach dem Einkommen sowie nach den vom Bundesamt für Gesundheit (BAG) definierten Prämienregionen und Altersgruppen. Derzeit gibt es 43 Prämienregionen in der Schweiz, die Altersgruppen teilen sich ein in Kinder und Jugendliche bis 18 Jahre, junge Erwachsene zwischen 18 und 26 Jahre und Erwachsene ab 26 Jahre.
+###### Per i servizi dell’assicurazione di base gli assicurati pagano mensilmente un premio alle assicurazioni sanitarie. Gli assicuratori sanitari sono in gran parte liberi di fissare i propri premi purché rispettino una serie di requisiti legali. L'importo del premio dipende dal reddito e dalle regioni di premio e fascia di età definite dall'Ufficio federale della sanità pubblica (UFSP). Attualmente ci sono 43 regioni bonus in Svizzera, la fascia di età è divisa in bambini e adolescenti fino a 18 anni, giovani adulti tra 18 e 26 anni e adulti oltre 26 anni.
 
-## Die Selbstbeteiligung in der Grundversicherung
+## La franchigia assicurativa dell’assicurazione di base
 
-###### Neben der Prämie haben Versicherungsnehmer eine Selbstbeteiligung zu leisten. Diese setzt sich aus der Jahresfranchise und dem Selbstbehalt zusammen.
+###### Oltre al premio, gli assicurati devono versare una propria quota che consiste nella franchigia annuale e una quota a carico dell’assicurato.
 
-###### Die Franchise bezeichnet einen jährlichen Festbetrag, bis zu dem Sie Ihre Behandlungs- und Medikamentenkosten selbst tragen müssen. Die ordentliche Jahresfranchise im Standard-Modell der Grundversicherung beträgt für Erwachsene ab 18 Jahren 300 Schweizer Franken, 0 Franken für Kinder. Wahlweise können Erwachsene ihre Franchise auf bis zu 2'500 Franken erhöhen und dadurch Prämien sparen. Für Kinder ist eine Erhöhung bis 600 Franken möglich.
+###### La franchigia è un importo fisso annuale per il quale è necessario sostenere i costi delle cure e dei farmaci. La franchigia annuale ordinaria nel modello standard dell'assicurazione di base è per gli adulti di età superiore ai 18 anni di 300 franchi svizzeri, 0 franchi per i bambini. In alternativa, gli adulti possono aumentare la loro franchigia fino a 2.500 franchi, risparmiando così sui premi. Per i bambini è possibile un aumento fino a 600 franchi.
 
-###### Übersteigen die Behandlungskosten die Jahresfranchise, deckt die Krankenversicherung den Mehrbetrag. Sie leisten nun noch einen Selbstbehalt in Höhe von zehn Prozent. Maximal zahlen Erwachsene einen Selbstbehalt von 700 Franken im Jahr, Kinder von 350 Franken.
+###### Se i costi del trattamento superano la franchigia annuale, l'assicurazione sanitaria copre l'importo in eccesso. Si paga solo una franchigia del 10 per cento, un massimo di 700 franchi all'anno negli adulti, 350 franchi nei bambini.
 
-## Krankenkassen vergleichen und günstige Grundversicherung abschliessen
+## Confrontare le assicurazioni sanitarie e sottoscrivere un’assicurazione di base economica
 
-###### Zwar besteht Versicherungspflicht, bei welcher Krankenkasse Sie sich versichern lassen, können Sie jedoch frei wählen. In der Schweiz gibt es weit mehr als 65 zugelassene Krankenversicherer. Für die obligatorische Krankenversicherung bieten alle die gleichen, gesetzlich vorgegebenen Leistungen. Die Höhe der Prämien gestaltet sich jedoch sehr unterschiedlich. Sparen können Sie zudem, wenn Sie ein alternatives Modell der Grundversicherung wählen. Mit unserem unabhängigen Krankenkassenvergleich finden Sie den Versicherer mit den niedrigsten Prämien.
+###### Nonostante l’assicurazione obbligatoria, puoi scegliere liberamente con quale compagnia di assicurazione sanitaria assicurarti. In Svizzera esistono oltre 65 assicuratori sanitari autorizzati. Per l'assicurazione sanitaria obbligatoria, tutte le compagnie offrono le stesse prestazioni legali. L'importo dei premi, tuttavia, è molto diverso. Puoi anche risparmiare scegliendo un modello alternativo di assicurazione di base. Con il nostro confronto indipendente delle assicurazioni sanitarie troverai l'assicuratore con i premi più bassi.

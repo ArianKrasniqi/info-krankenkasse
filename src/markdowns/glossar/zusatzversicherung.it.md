@@ -1,55 +1,55 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Zusatzversicherung"
+title: "Assicurazione integrativa"
 ---
 
-## Welche Zusatzversicherungen gibt es und was leisten sie?
+## Quali assicurazioni integrative esistono e cosa offrono?
 
-###### Die obligatorische Krankenpflegeversicherung in der Schweiz deckt nur grundlegende medizinische Leistungen ab. Wünschen Sie einen weitergehenden Versicherungsschutz, können Sie freiwillige Zusatzversicherungen abschliessen. Dabei haben Sie die Wahl zwischen verschiedenen ambulanten Zusatzversicherungen und Spitalzusatzversicherungen. Die Leistungen und die Deckung unterscheiden sich von Versicherer zu Versicherer.
+###### L'assicurazione obbligatoria per le cure medico sanitarie in Svizzera copre solo i servizi medici di base. Se desideri un’ulteriore copertura assicurativa, puoi stipulare assicurazione integrativa volontaria. Potrai scegliere tra le varie assicurazioni integrative ambulatoriali. I vantaggi e la copertura variano da un’assicuratore all’altro.
 
 # Form
 
-## Unterschied zwischen Grundversicherung und Zusatzversicherungen
+## Differenza tra l’assicurazione di base e le assicurazioni integrative
 
-###### Die Grundversicherung ist in der Schweiz obligatorisch. Das bedeutet, es besteht Versicherungspflicht. Im Gegenzug muss eine Krankenkasse Sie in der Grundversicherung aufnehmen, unabhängig von Ihrem Gesundheitszustand. Anders sieht es in der freiwilligen Zusatzversicherung aus. In der Regel müssen Sie vor dem Abschluss einen Gesundheitsfragebogen ausfüllen. Die Versicherer können Vorbehalte anmelden und die Aufnahme in die Zusatzversicherung sogar verweigern. Für einige Leistungen fällt zudem eine sogenannte Karenzfrist an: Es muss erst eine vorgegebene Wartezeit verstreichen, bevor die Krankenversicherung die versicherten Leistungen übernimmt.
+###### In Svizzera l'assicurazione di base è obbligatoria. Questo significa che esiste un'assicurazione obbligatoria che devi avere indipendentemente dal tuo stato di salute. La situazione è diversa nel caso dell’assicurazione integrativa volontaria. Di norma è necessario compilare un questionario sulla salute prima della richiesta. Gli assicuratori possono registrare le prenotazioni e persino rifiutare la richiesta dell’assicurazione integrativa. Per alcuni benefici, esiste anche un cosiddetto periodo di qualifica: deve prima passare un periodo di attesa prestabilito prima che l'assicurazione sanitaria prenda il controllo dei servizi di assciurazione.
 
-## Ambulante Zusatzversicherungen
+## Assicurazione integrative ambulatoriali
 
-###### Ambulante Zusatzversicherungen decken Leistungen ab, die ambulant durchgeführt und nicht von der Grundversicherung übernommen werden. Dazu gehören zum Beispiel:
+###### I servizi di copertura integrativa ambulatoriale assicurativa sono erogati in regime ambulatoriale e non rilevati dall'assicurazione di base. Questi includono, ad esempio:
 
-### Komplementärmedizin: Massnahmen aus dem Bereich der Alternativmedizin, die nicht im Leistungsumfang der obligatorischen Krankenpflegeversicherung eingeschlossen sind
+### Medicina complementare: misure nel campo della medicina alternativa che non rientrano nell'ambito di applicazione dell'assicurazione malattia obbligatoria
 
-### Sehhilfen: Zuschüsse für Brillen, Kontaktlinsen und Augenlaserbehandlungen
+### Ausili visivi: borse per occhiali, lenti a contatto e trattamenti laser per gli occhi
 
-### Medikamente: Übernahme nicht kassenpflichtiger Medikamente
+### Medicinali: acquisizione di farmaci senza prescrizione
 
-### Psychotherapien: Übernahme nichtärztliche Psychotherapien
+### Psicoterapie: acquisizione di psicoterapie non mediche
 
-### Gesundheitsvorsorge: Zuschüsse zu Fitness-Abos, Erholungskuren, Impfungen und weiteren Präventionsmassnahmen
+### Assistenza sanitaria: sussidi per abbonamenti fitness, cure di recupero, vaccinazioni e altre misure preventive
 
-### Zahnzusatzversicherung: teilweise Übernahme von Zahnbehandlungen und kieferorthopädischen Behandlungen
+### Assicurazione integrativa dentale: acquisizione parziale di trattamenti ortodontici dentali e ortodontici
 
-### Hauskrankenpflege und Haushaltshilfen
+### Assistenza domiciliare e aiuto domestico
 
-## Zusatzversicherungen für den Spitalaufenthalt
+## Assicurazioni integrative per la degenza in ospedale
 
-###### Die obligatorische Krankenversicherung übernimmt die Kosten für einen Spitalaufenthalt im Wohnkanton. Behandlungen in einem Spital ausserhalb des Wohnkantons zahlt sie nur, wenn diese medizinisch notwendig und die Kosten vergleichbar sind. Für mehr Flexibilität und Komfort können Sie eine Spitalzusatzversicherung abschliessen.
+###### L'assicurazione sanitaria obbligatoria copre le spese di degenza ospedaliera nel Cantone di residenza. Le cure in un ospedale al di fuori del Cantone di residenza si pagano solo se sono necessarie dal punto di vista medico e i costi sono comparabili. Per maggiore flessibilità e comfort è possibile concludere un’assicurazione complementare ambulatoriale.
 
-###### Folgende Spitalversicherungen stehen zur Wahl:
+###### Sono disponibili le seguenti assicurazioni ambulatoriali:
 
-### Allgemeine Abteilung: Diese Spitalversicherung gewährt freie Spitalwahl in der ganzen Schweiz. Freie Arztwahl im Spital besteht in der Regel nicht.
+### Dipartimento generale: questa assicurazione ospedaliera garantisce la libera scelta dell'ospedale in tutta la Svizzera. In genere non è possibile scegliere liberamente il medico in ospedale.
 
-### Halbprivate Versicherung: Sie haben Anrecht auf Unterbringung in der halbprivaten Abteilung und im Zwei-Bett-Zimmer. Neben freier Spitalwahl besteht in der Regel auch freie Arztwahl.
+### Assicurazione semi-privata: hai diritto all'alloggio nelle camere semi-private e con due letti. Oltre alla libera scelta dell'ospedale, di solito c'è anche una libera scelta del medico.
 
-### Private Versicherung: Sie haben Anrecht auf Unterbringung in der privaten Spitalabteilung im Ein-Bett-Zimmer und auf Chefarztbehandlung.
+### Assicurazione privata: hai diritto all'alloggio nel reparto di ospedale privato nella camera a un letto e al trattamento da parte del medico capo.
 
-###### Bei Flex-Modellen können Sie kurz vor dem Spitalaufenthalt entscheiden, auf welcher Abteilung Sie untergebracht werden möchten. Für den Aufenthalt auf der halbprivaten und privaten Abteilung fällt ein Selbstbehalt an.
+###### Con i modelli Flex, puoi decidere, poco prima della degenza ospedaliera, in quale reparto vuoi rimanere. C'è una franchigia per il soggiorno nel dipartimento semi-privato e privato.
 
-## Versicherungsschutz im Ausland
+## Copertura assicurativa all'estero
 
-###### Die Grundversicherung zahlt bereits für Auslandsbehandlungen im Notfall. Die Kosten dürfen allerdings nicht mehr als doppelt so hoch sein wie in der Schweiz. Für einen weitergehenden Versicherungsschutz im Ausland können Sie eine zusätzliche Auslandversicherung abschliessen. Die freiwillige Reiseversicherung deckt die Behandlungskosten in voller Höhe ab. Darüber hinaus erhalten Sie auch einen höheren Anteil eventueller Transportkosten erstattet.
+###### L'assicurazione di base include le cure all’estero in caso di emergenza. Tuttavia, i costi non devono superare il doppio rispetto a quelli in Svizzera. Per ottenere un’ulteriore copertura assicurativa all'estero, è possibile stipulare un'assicurazione estera aggiuntiva. L'assicurazione di viaggio volontaria copre integralmente i costi del trattamento. Inoltre, ti verrà rimborsato per una quota maggiore di eventuali costi di trasporto.
 
-## Zusatzversicherungen vergleichen und preiswerten Versicherungsschutz finden
+## Confrontare le assicurazioni complementare trovare una copertura assicurativa economica
 
-###### Das Leistungsangebot der Zusatzversicherungen fällt sehr unterschiedlich aus. Zudem begrenzen die Versicherer ihre Erstattung meist auf einen vorgegebenen Maximalbetrag pro Kalenderjahr. Möchten Sie eine Zusatzversicherung finden, die optimal zu Ihren Bedürfnissen passt, hilft Ihnen unser Krankenkassenvergleich. Wir beraten Sie gerne kostenlos und unverbindlich.
+###### I servizi offerti dall’assicurazione integrativa variano notevolmente. Inoltre, gli assicuratori di solito limitano il loro rimborso a un importo massimo predeterminato per anno civile. Se vuoi trovare un'assicurazione integrativa più adatta alle tue esigenze, il nostro confronto tra le assicurazioni sanitarie ti sarà di aiuto. Ti consigliamo gratuitamente e senza impegno.

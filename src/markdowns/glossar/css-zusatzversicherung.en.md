@@ -1,47 +1,47 @@
 ---
 lang: "en"
 type: "glossar"
-title: "CSS Zusatzversicherung"
+title: "CSS Supplementary insurance"
 ---
 
-## CSS Zusatzversicherung: Erweiterter Versicherungsschutz ambulant und fürs Spital
+## CSS supplementary insurance: Extended insurance cover for outpatients and hospitals
 
-###### Freiwillige Zusatzversicherungen schliessen die Lücken der Grundversicherung. Die CSS Krankenkasse bietet unter dem Titel myFlex diverse Zusatzversicherungen für ambulante Behandlungen, Alternativmedizin und Spitalaufenthalte an. Hier stellen wir Ihnen die CSS Zusatzversicherung näher vor. Möchten Sie Ihre Krankenversicherung wechseln, machen Sie unseren Prämienvergleich und holen Sie gleich eine unverbindliche Offerte ein.
+###### Voluntary supplementary insurance closes the gaps in basic insurance. Under the title myFlex, CSS health insurance offers various supplementary insurances for outpatient treatment, alternative medicine and hospital stays. Here we introduce the CSS supplementary insurance to you in more detail. If you would like to change your health insurance, make our premium comparison and obtain a non-binding offer right away.
 
 # Form
 
-## Die ambulante Zusatzversicherung
+## Outpatient supplementary insurance
 
-###### Die myFlex Zusatzversicherungen der CSS wollen den Versicherungsnehmern eine umfassende Deckung mit hoher Flexibilität bieten. Die ambulante Zusatzversicherung übernimmt die folgenden Leistungen:
+###### The myFlex supplementary insurances of CSS want to offer policyholders comprehensive coverage with a high degree of flexibility. The outpatient supplementary insurance covers the following benefits:
 
-### weltweite Behandlung von Notfällen
+### worldwide treatment of emergencies
 
-### Möglichkeit, sich für weltweite ambulante Behandlungen nach Wahl zu versichern
+### Possibility to insure yourself for worldwide outpatient treatment of your choice
 
-### Zuschüsse zu Augenlaseroperationen
+### Grants for laser eye surgery
 
-### Auslands- und Patientenrechtsschutz sowie weltweite Rückführung bei Notfällen
+### Foreign and patient legal protection as well as worldwide repatriation in emergencies
 
-### Zuschüsse zu Zahnfehlstellungskorrekturen bei Kindern
+### Subsidies for tooth malposition corrections in children
 
-###### Drei Varianten stehen zur Wahl: Economy übernimmt 90 Prozent der Kosten für alle ärztlich verordneten Medikamente, Hilfsmittel, gynäkologische Untersuchungen sowie Vorsorge- und Schutzimpfungen. Für einzelne Leistungen gelten Beitragshöchstgrenzen. Balance und Premium bieten weitergehende Leistungen wie Zuschüsse zu Sehhilfen und die anteilige Übernahme von Zahnbehandlungen und Zahnfehlstellungskorrekturen an.
+###### Three variants are available: Economy covers 90 percent of the costs for all medically prescribed medicines, aids, gynaecological examinations as well as preventive and protective vaccinations. Contribution ceilings apply to individual benefits. Balance and Premium offer further benefits such as subsidies for visual aids and the pro rata assumption of dental treatment and dental malposition corrections.
 
-###### Familien profitieren im Economy-Tarif von 100 Prozent Familienrabatt für versicherte Kinder, Balance und Premium bieten immerhin noch 75 Prozent Rabatt.
+###### Families benefit in the Economy tariff from 100 percent family discount for insured children, Balance and Premium still offer 75 percent discount.
 
-## Die CSS Alternativversicherung
+## The CSS alternative insurance
 
-###### Die Alternativversicherung myFlex übernimmt weltweit die Kosten für Behandlungen und Medikamente aus dem Bereich der Komplementärmedizin. Sie dürfen aus zahlreichen CSS-anerkannten Methoden und Therapeuten wählen. Die Leistungen werden auch übernommen, wenn keine ärztliche Verordnung vorliegt. Eine Franchise müssen Sie nicht bezahlen. Die maximale Summe der Kostenerstattung beträgt 10'000 Schweizer Franken pro Jahr.
+###### The alternative insurance myFlex covers the worldwide costs for treatments and medications in the field of complementary medicine. You can choose from numerous CSS-approved methods and therapists. The benefits are also paid if no medical prescription is available. You do not have to pay a franchise. The maximum amount of reimbursement is 10,000 Swiss francs per year.
 
-###### Die Prämienhöhe orientiert sich am Geschlecht und Alter des Versicherungsnehmers. Für Kinder gewährt die CSS Zusatzversicherung für Alternativmedizin 25 Prozent Rabatt.
+###### The amount of the premium depends on the sex and age of the policyholder. For children, the CSS supplementary insurance for alternative medicine grants a 25 percent discount.
 
-## Die Spitalzusatzversicherungen der CSS
+## The supplementary hospital insurance of CSS
 
-###### Die Spitalversicherung myFlex gewährt Ihnen freie Spitalwahl für alle Spitäler mit CSS-anerkannten Abteilungen. Notfallbehandlungen werden weltweit übernommen. Werdende Mütter erhalten Leistungen für die Unterbringung im Geburtshaus, die CSS beteiligt sich zudem an den Kosten für eine Hausgeburt. Ziehen Sie einen ambulanten Eingriff der stationären Aufnahme vor, erhalten Sie Mehrleistungen.
+###### myFlex hospital insurance gives you free hospital choice for all hospitals with CSS-approved wards. Emergency treatment is provided worldwide. Expectant mothers receive benefits for accommodation in the birth centre, CSS also contributes to the costs of a home birth. If you prefer an outpatient procedure to inpatient admission, you will receive additional benefits.
 
-###### Auch die Spitalzusatzversicherung bietet die CSS in drei Varianten an: Economy, Balance und Premium. Alle Varianten lassen Ihnen die freie Wahl, ob Sie auf der allgemeinen, der halbprivaten oder der privaten Spitalabteilung untergebracht werden möchten. Balance und Premium bieten exklusive Mehrleistungen, im Premium-Tarif haben Sie zudem vollkommen freie Spitalwahl und erhalten stationäre Wahlbehandlungen im Ausland bis zu einer Summe von 50'000 Schweizer Franken im Kalenderjahr erstattet.
+###### CSS also offers three types of supplementary hospital insurance: Economy, Balance and Premium. All variants leave you free to choose whether you wish to be accommodated in the general, semi-private or private hospital ward. Balance and Premium offer exclusive additional benefits; in the Premium tariff you also have completely free hospital choice and receive reimbursement of up to CHF 50,000 per calendar year for optional inpatient treatment abroad.
 
-###### Schliessen Sie die Spitalversicherung auch für Ihre Kinder ab, erhalten Sie im Economy-Tarif 100 Prozent Familienrabatt. Die Tarife Balance und Premium gewähren 50 Prozent Rabatt für versicherte Kinder. Sparen können Sie in den Tarifen Economy und Balance zudem, wenn Sie die Spitäler von einer eingeschränkten Spitalliste wählen. In diesem Fall gewährt die CSS 20 Prozent Rabatt.
+###### If you also take out hospital insurance for your children, you will receive a 100 percent family discount in the Economy rate. The Balance and Premium rates offer a 50 percent discount for insured children. You can also save money in the Economy and Balance tariffs if you choose the hospitals from a restricted hospital list. In this case, CSS grants a 20 percent discount.
 
-## CSS Zusatzversicherung vergleichen und direkt Offerte anfordern
+## Compare CSS supplementary insurance and request a quote directly
 
-###### Neben den myFlex Modellen bietet die CSS noch weitere Zusatzversicherungen für Zahnbehandlungen, Heilungskosten, eine Spitaltagegeldversicherung, eine Einzeltagegeldversicherung und Absicherungen für Tod und Invalidität durch Krankheit oder Unfall. Bei uns können Sie die Leistungen der CSS Zusatzversicherung bequem vergleichen und auf Wunsch gleich eine unverbindliche Offerte der Versicherung anfordern.
+###### In addition to the myFlex models, CSS also offers additional insurance for dental treatment, medical expenses, daily hospital allowance insurance, individual daily allowance insurance and cover for death and disability due to illness or accident. With us, you can easily compare the benefits of the CSS supplementary insurance and request a non-binding offer from the insurance company if you wish.

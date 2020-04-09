@@ -1,39 +1,39 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Zusatzversicherungen"
+title: "Assurances complémentaires"
 ---
 
-## Zusatzversicherung: Die sinnvolle Ergänzung zu Ihrer Grundversicherung
+## Assurance complémentaire: Le complément judicieux à votre assurance de base
 
-###### Eine Zusatzversicherung ergänzt die Leistungen der obligatorischen Grundversicherung. Rund 80 Prozent der Schweizer haben sich für den zusätzlichen Versicherungsschutz entschieden. Zur Wahl stehen ambulante Zusatzversicherungen und Spitalversicherungen. Der Zusatzversicherung Vergleich hilft Ihnen, eine Krankenzusatzversicherung zu finden, die zu Ihren Bedürfnissen passt.
+###### Une assurance complémentaire complète les prestations de l'assurance de base obligatoire. Environ 80% des Suisses ont opté pour une couverture d'assurance complémentaire. Vous avez le choix entre l'assurance complémentaire ambulatoire et l'assurance hospitalisation. La comparaison des assurances complémentaires vous aide à trouver l'assurance maladie complémentaire qui correspond à vos besoins.
 
 # Form
 
-## Zusatzversicherung Krankenkasse: Individuell abgestimmter Versicherungsschutz
+## Caisse d'assurance maladie complémentaire: Couverture d'assurance individuelle
 
-###### Die Schweizer Grundversicherung deckt bereits zahlreiche medizinische Leistungen bei Krankheit, Unfall und Mutterschaft ab. Für Zahnbehandlungen, alternative Heilmethoden oder Sehhilfen müssen Sie allerdings hohe Zuzahlungen leisten. Das gilt auch, wenn Sie mehr Komfort bei der Unterbringung im Spital wünschen. Mit einer freiwilligen Krankenzusatzversicherung schützen Sie sich vor diesen Mehrkosten und können auch Behandlungen in Anspruch nehmen, welche die obligatorische Krankenpflegeversicherung nicht abdeckt.
+###### L'assurance de base suisse couvre déjà de nombreuses prestations médicales en cas de maladie, d'accident et de maternité. Cependant, vous devrez payer une quote-part élevée pour les traitements dentaires, les cures alternatives ou les aides visuelles. Ceci s'applique également si vous souhaitez plus de confort lors d'un séjour à l'hôpital. Avec l'assurance maladie complémentaire facultative, vous vous protégez contre ces frais supplémentaires et pouvez également bénéficier de traitements qui ne sont pas couverts par l'assurance maladie obligatoire.
 
-###### Die Krankenkassen können frei festlegen, welche Zusatzleistungen sie übernehmen. Neben dem Leistungsumfang unterscheiden sich auch die Prämien der einzelnen Anbieter stark. Bevor Sie eine Krankenkasse Zusatzversicherung abschliessen, lohnt sich daher ein Vergleich.
+###### Les caisses d'assurance-maladie peuvent déterminer librement les prestations complémentaires qu'elles prennent en charge. Outre l'étendue des prestations, les primes des différents prestataires diffèrent également considérablement. Avant de souscrire une caisse d'assurance maladie complémentaire, il est donc utile de faire une comparaison.
 
-## Welche ambulanten Zusatzversicherungen lohnen sich?
+## Quelles sont les assurances complémentaires ambulatoires intéressantes ?
 
-###### Welche ambulanten Zusatzversicherungen sind überhaupt sinnvoll? Das hängt vor allem von Ihren Lebensumständen und persönlichen Bedürfnissen ab. Benötigen Sie zum Beispiel eine Sehhilfe, rentiert sich eine Zusatzversicherung Brille, welche hohe Beiträge für Brillen, Kontaktlinsen und eventuell sogar für eine Laseroperation der Augen bezahlt. Möchten Sie schulmedizinische Behandlungen durch Alternativmedizin ergänzen, finden Sie auch Zusatzversicherungen speziell für diesen Bedarf. Weitere Zusatzleistungen umfassen zum Beispiel die Übernahme von Nichtpflichtmedikamenten, Rettungs- und Transportkosten, Behandlungskosten im Ausland und Massnahmen der Gesundheitsprävention.
+###### Quelles sont les assurances complémentaires ambulatoires judicieuses ? Cela dépend avant tout de votre situation personnelle et de vos besoins. Par exemple, si vous avez besoin d'une aide visuelle ou d’une paire de lunette, l'assurance complémentaire est payante, avec des primes élevées pour les lunettes, les lentilles de contact ou une opération laser. Si vous souhaitez compléter le traitement médical conventionnel par la médecine alternative, vous trouverez également une assurance complémentaire spécifique à ce besoin. Parmi les autres avantages supplémentaires figurent, par exemple, la prise en charge des médicaments non obligatoires, les frais de sauvetage et de transport, les frais de traitement à l'étranger ainsi que mesures de prévention sanitaire.
 
-###### Sinnvoll ist zudem eine Zahnzusatzversicherung. Eine zusätzliche Zahnversicherung übernimmt anteilig die Kosten für Zahnbehandlungen, Zahnfehlstellungskorrekturen und kieferchirurgische Leistungen bis zu einem bestimmten Jahreshöchstbetrag.
+###### Il est également judicieux de souscrire une assurance dentaire complémentaire. Une assurance dentaire complémentaire couvrira les frais de traitement dentaire, de correction de malpositions dentaires et de chirurgie buccale jusqu'à un certain montant par année.
 
-## Die zusätzliche Spitalversicherung
+## Assurance hospitalisation complémentaire
 
-###### Knapp die Hälfte aller Schweizer hat sich für eine Spitalzusatzversicherung entschieden. Die allgemeine Spitalversicherung ermöglicht es Ihnen zum Beispiel, sich ohne Aufpreis in einem Spital ausserhalb Ihres Wohnkantons behandeln zu lassen. Darüber hinaus können Sie sich für eine halbprivate oder private Spitalversicherung entscheiden. Die Halbprivat Versicherung gewährt zum Beispiel die Unterbringung auf der halbprivaten Abteilung und im Zwei-Bett-Zimmer. Mit einer Privatversicherung können Sie auch die Unterbringung im Ein-Bett-Zimmer wählen.
+###### Près de la moitié de la population suisse a opté pour une assurance complémentaire hospitalisation. L'assurance-hospitalisation générale vous permet, par exemple, de vous faire soigner sans frais supplémentaires dans un hôpital situé hors de votre canton de résidence. Vous pouvez également opter pour une assurance hospitalisation semi-privée ou privée. L'assurance semi-privée, par exemple, vous permet de séjourner dans une division semi-privée et dans une chambre à deux lits. Avec l'assurance privée, vous pouvez également choisir l'hébergement dans une chambre individuelle.
 
-## Was müssen Sie beim Abschluss einer Zusatzversicherung beachten?
+## Que faut-il prendre en compte lors de la souscription d'une assurance complémentaire?
 
-###### Die Leistungen und Vertragsgestaltung der Grundversicherung richtet sich nach dem Bundesgesetz über die Krankenversicherung (KVG). Die Versicherungspraxis der Zusatzversicherungen orientiert sich dagegen am Versicherungsvertragsgesetz (VVG). Anders als das KVG sieht das VVG Schweiz keine vorbehaltlose Aufnahmepflicht vor. Ein Anbieter kann es dementsprechend ablehnen, Sie in die Zusatzversicherung aufzunehmen. Einige Krankenkassen setzen vor dem Abschluss der Krankenzusatzversicherung eine Gesundheitsprüfung voraus.
+###### Les prestations et les conceptions des contrats de l'assurance de base sont réglementées par la loi fédérale sur l'assurance maladie (LAMal). La pratique de l'assurance complémentaire, en revanche, est basée sur la loi sur le contrat d'assurance (LCA). Contrairement à la LAMal, la LCA Suisse ne prévoit pas d'obligation d'admission inconditionnelle. Par conséquent, un prestataire peut refuser de vous inclure dans l'assurance complémentaire. Certaines caisses maladie exigent un bilan de santé avant de souscrire une assurance maladie complémentaire.
 
-###### Die Prämien für die Zusatzversicherung orientieren sich am individuellen Versicherungsrisiko, am Alter und Geschlecht des Versicherungsnehmers.
+###### Les primes de l'assurance complémentaire sont calculées en fonction du risque d'assurance individuelle, de l'âge et du sexe du preneur d'assurance.
 
-###### In noch einer Hinsicht unterscheiden sich Grundversicherung und Zusatzversicherungen: Die Zusatzversicherung kann nach einem Versicherungsfall auch von der Krankenkasse gekündigt werden.
+###### Il existe une autre différence entre l'assurance de base et l'assurance complémentaire : L'assurance complémentaire peut également être résiliée par la caisse maladie après une prestation fournie.
 
-## Finden Sie passende Zusatzversicherungen mit dem Zusatzversicherung Vergleich
+## Trouvez l'assurance complémentaire appropriée grâce à la comparaison des assurances complémentaires
 
-###### Viele Krankenkassen fassen ihre ambulanten Zusatzleistungen zu Paketen zusammen. Paketlösungen erscheinen praktisch und bieten häufig günstigere Prämien als Einzellösungen. Allerdings übernehmen sie viele Kosten nur bis zu einem gewissen Höchstbetrag pro Jahr. Eventuell sind auch Leistungen enthalten, die Sie gar nicht benötigen. Möchten Sie die beste Zusatzversicherung für Ihre Bedürfnisse finden, machen Sie den Zusatzversicherung Vergleich.
+###### De nombreuses caisses d'assurance maladie combinent leurs services ambulatoires supplémentaires dans des forfaits. Les solutions globales semblent pratiques et offrent souvent des primes moins chères que les solutions individuelles. Toutefois, ils ne couvrent que de nombreux coûts jusqu'à un certain montant maximum par an. Ils peuvent également inclure des avantages dont vous n'avez pas besoin. Si vous souhaitez trouver l'assurance complémentaire la mieux adaptée à vos besoins, effectuez la comparaison des assurances complémentaires.

@@ -1,35 +1,35 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Zusatzversicherungen kündigen"
+title: "Résilier les assurances complémentaires"
 ---
 
-## Zusatzversicherung kündigen: So gehen Sie vor
+## Résilier les assurances complémentaires : comment procéder
 
-###### Eine freiwillige Zusatzversicherung ergänzt die Grundversicherung Ihrer Krankenkasse um sinnvolle Leistungen. Erhöht ein Anbieter die Prämien oder sind Sie mit Ihrer Versicherung nicht mehr zufrieden, erwägen Sie vielleicht einen Wechsel. Möchten Sie Ihre Zusatzversicherung kündigen, gilt es, bestimmte Fristen und Bedingungen zu beachten. Hier erfahren Sie, wie Sie bei einer Kündigung richtig vorgehen.
+###### Une assurance complémentaire facultative complète l'assurance de base de votre caisse maladie avec des prestations utiles. Si un assureur augmente les primes ou si vous n'êtes plus satisfait de votre assurance, vous pourriez envisager de changer d’assureur. Si vous souhaitez résilier votre assurance complémentaire, certains délais et conditions doivent être respectés. Vous trouverez ici la marche à suivre en cas de résiliation.
 
 # Form
 
-## Welche Kündigungsfrist gilt für die Zusatzversicherung?
+## Quel est le délai de résiliation pour l'assurance complémentaire?
 
-###### Leistungen und Prämien der freiwilligen Zusatzversicherung unterscheiden sich von Krankenkasse zu Krankenkasse. Da es so viele unterschiedliche Angebote auf dem Markt gibt, lohnt es sich, die Versicherer in regelmässigen Abständen zu vergleichen und zu prüfen, ob Ihre Krankenkasse Ihnen noch die besten Leistungen bietet.
+###### Les prestations et les primes de l'assurance complémentaire facultative diffèrent d'une caisse d'assurance maladie à l'autre. Etant donné le grand nombre d'offres différentes sur le marché, il vaut la peine de comparer les assureurs à intervalles réguliers et de vérifier si votre caisse maladie vous offre toujours les meilleurs services.
 
-###### Wollen Sie Ihre Zusatzversicherung kündigen, müssen Sie insbesondere auf die Vertragslaufzeit und die Kündigungsfrist achten. Anders als die Grundversicherung unterliegen freiwillige Zusatzversicherungen dem Versicherungsvertragsgesetz (VVG) der Schweiz. Die Versicherer sind dadurch freier in der Gestaltung ihrer Vertragsbedingungen.
+###### Si vous souhaitez annuler votre assurance complémentaire, vous devez porter une attention particulière à la durée du contrat et au délai de résiliation. Contrairement à l'assurance de base, l'assurance complémentaire facultative est soumise à la Loi fédérale sur le contrat d'assurance (LCA). En conséquence, les assureurs disposent d'une plus grande liberté dans l'élaboration de leurs conditions de contrat.
 
-###### Die Mindestvertragslaufzeit der Zusatzversicherung beträgt bei vielen Anbietern ein Jahr, mit einer Kündigungsfrist von drei Monaten. Möchten Sie Ihre Versicherung zu Jahresbeginn wechseln, müssen Sie also bis spätestens zum 30. September kündigen. Die Kündigung tritt zum 31. Dezember in Kraft. Andere Krankenversicherer legen eine Vertragslaufzeit von fünf Jahren fest, die Kündigungsfrist beträgt dann oft sechs Monate zum Ende des Kalenderjahrs.
+###### La durée minimale du contrat d'assurance complémentaire auprès de nombreux fournisseurs est d'un an, avec un délai de résiliation de trois mois. Si vous souhaitez changer votre assurance en début d'année, vous devez donc résilier au plus tard le 30 septembre. La résiliation prendra effet le 31 décembre. D'autres assureurs maladie prévoient une durée de contrat de cinq ans, auquel cas le délai de résiliation est souvent de six mois jusqu'à la fin de l'an.
 
-###### Haben Sie mehrere Zusatzversicherungen bei einem Versicherer abgeschlossen, etwa eine ambulante Zusatzversicherung und eine Spitalversicherung, gelten für beide Verträge unter Umständen andere Kündigungsfristen. Lesen Sie sich daher die Vertragsbedingungen aufmerksam durch. Verpassen Sie den Termin für die fristgerechte Kündigung, verlängert sich die Vertragslaufzeit automatisch um die festgesetzte Laufzeit. Massgeblich ist jeweils das Datum, zu dem Ihr Kündigungsschreiben beim Versicherer eingegangen ist.
+###### Si vous avez souscrit plusieurs assurances complémentaires auprès d'un même assureur, par exemple une assurance complémentaire ambulatoire et une assurance hospitalisation, des délais de résiliation différents peuvent s'appliquer aux deux assurances. Vous devez donc lire attentivement les termes et conditions. Si vous manquez la date limite de résiliation en temps voulu, la durée du contrat est automatiquement prolongée de la durée fixe. La date de réception de votre lettre de résiliation par l'assureur est déterminante dans chaque cas.
 
-## Ausserordentliches Kündigungsrecht bei Prämienerhöhung
+## Droit de résiliation extraordinaire en cas d'augmentation des primes
 
-###### Erhöht Ihr Versicherer die Prämie, besteht ausserordentliches Kündigungsrecht. Ihre Krankenversicherung muss die Prämienerhöhung schriftlich ankündigen. Haben Sie ein solches Schreiben erhalten, können Sie Ihre Zusatzversicherung mit einer Frist von einem Monat kündigen.
+###### Si votre assureur augmente la prime, vous avez un droit de résiliation extraordinaire. Votre caisse maladie doit annoncer l'augmentation de prime par écrit. Si vous avez reçu une telle lettre, vous pouvez résilier votre assurance complémentaire avec un préavis d'un mois.
 
-## Worauf sollten Sie bei der Kündigung der Zusatzversicherung achten?
+## A quoi devez-vous faire attention lorsque vous résiliez votre assurance complémentaire?
 
-###### Ihre Zusatzversicherungen müssen Sie stets schriftlich per Einschreiben kündigen. Das Kündigungsschreiben sollte neben Ihrem Namen und Ihrer Anschrift auch den Namen der jeweiligen Zusatzversicherung, das Versicherungskennzeichen und das gewünschte Kündigungsdatum enthalten. Geben Sie ausserdem an, dass Sie eine Kündigungsbestätigung wünschen.
+###### Vous devez toujours résilier votre assurance complémentaire par écrit, par lettre recommandée. En plus de votre nom et de votre adresse, la lettre de résiliation doit également contenir le nom de l'assurance complémentaire, le numéro d'assurance et la date de résiliation souhaitée. Veuillez également indiquer que vous souhaitez recevoir une confirmation de résiliation.
 
-###### Beachten Sie auch, dass in der Zusatzversicherung keine Aufnahmepflicht besteht. Damit Sie nicht ohne Versicherungsschutz dastehen, sollten Sie Ihre Zusatzversicherungen erst kündigen, wenn Ihr neuer Versicherer die Aufnahme bereits bestätigt hat.
+###### Veuillez également noter qu'il n'y a pas d'obligation de souscrire une assurance complémentaire. Pour vous assurer que vous n'êtes pas sans couverture d'assurance, vous ne devez pas résilier votre assurance complémentaire avant que votre nouvel assureur ait déjà confirmé votre acceptation.
 
-## Erst vergleichen, dann die Zusatzversicherung kündigen  
+## Comparer d'abord, puis résilier l'assurance complémentaire
 
-###### Ihre Zusatzversicherungen können Sie unabhängig von der Grundversicherung kündigen. Bevor Sie Ihren Versicherer wechseln, lohnt sich ein umfassender Vergleich. Kümmern Sie sich rechtzeitig vor Ablauf der Frist um einen Versicherungswechsel, damit Sie keine zu hohen Prämien bezahlen. Wir beraten Sie gerne, wenn Sie Ihre Zusatzversicherung kündigen möchten, und helfen Ihnen, eine günstige neue Krankenversicherung zu finden.
+###### Vous pouvez résilier votre assurance complémentaire indépendamment de l'assurance de base. Avant de changer d'assureur, il vaut la peine de faire une comparaison détaillée. Assurez-vous de changer votre assurance avant la date limite afin de ne pas payer une prime trop élevée. Nous vous conseillons volontiers si vous souhaitez résilier votre assurance complémentaire et vous aidons à trouver une nouvelle assurance maladie à bas prix.

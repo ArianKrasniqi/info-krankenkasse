@@ -1,29 +1,29 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Dentalhygiene"
+title: "Dental hygiene"
 ---
 
-## Dentalhygiene: So beugen Sie teuren Zahnbehandlungen vor
+## Dental hygiene: How to prevent expensive dental treatment
 
-###### Eine gute Dentalhygiene ist die wichtigste Voraussetzung, um möglichst lange schöne und gesunde Zähne zu behalten. Dazu gehören nicht nur das tägliche Zähneputzen und die Benutzung von Zahnseide, sondern auch die regelmässige Zahnreinigung beim Zahnarzt. Die Kosten für eine professionelle Zahnreinigung werden allerdings nicht von der Grundversicherung der Krankenkassen gedeckt. Nicht nur aus diesem Grund empfiehlt sich der Abschluss einer Zahnzusatzversicherung.
+###### Good dental hygiene is the most important prerequisite for keeping beautiful and healthy teeth for as long as possible. This includes not only daily tooth brushing and the use of dental floss, but also regular tooth cleaning by the dentist. However, the costs for professional dental cleaning are not covered by the basic health insurance. It is not only for this reason that we recommend taking out supplementary dental insurance.
 
 # Form
 
-## Warum lohnt sich die regelmässige Dentalhygiene?
+## Why is regular dental hygiene worthwhile?
 
-###### Für gesunde Zähne und gesundes Zahnfleisch können Sie selbst viel tun. Mindestens zweimal täglich Zähneputzen sollte zur Routine gehören. Zahnzwischenräume reinigen Sie mit Zahnseide, einer Interdentalbürste oder einer speziellen Munddusche. Darüber hinaus empfiehlt es sich, einmal im Jahr eine professionelle Zahnreinigung durch den Zahnarzt durchführen zu lassen.
+###### You can do a lot yourself for healthy teeth and gums. Brushing your teeth at least twice a day should be part of your routine. Clean interdental spaces with dental floss, an interdental brush or a special oral shower. In addition, it is recommended that you have your teeth professionally cleaned by a dentist once a year.
 
-###### Die Zahnreinigung entfernt Zahnstein sowie Belege und Verfärbungen, gegen die Sie mit einer Zahnbürste nicht ankommen. Durch die anschliessende Politur erscheinen Ihre Zähne im natürlichen Weiss und angenehm glatt. Der Zahnarzt zeigt Ihnen ausserdem, wie Sie Ihre Dentalhygiene zuhause verbessern können. Bei der Zahnreinigung kontrolliert er darüber hinaus Zähne und Zahnfleisch. So lassen sich Karies, Parodontose und eventuelle Zahnhalsprobleme frühzeitig erkennen und schnell behandeln. Das beugt grösseren Problemen und hohen Behandlungskosten vor.
+###### The tooth cleaning removes tartar as well as any deposits and discolorations that you can't cope with using a toothbrush. The subsequent polishing makes your teeth appear natural white and pleasantly smooth. The dentist will also show you how to improve your dental hygiene at home. When cleaning your teeth, the dentist will also check your teeth and gums. This allows caries, periodontosis and any problems with the neck of the tooth to be detected early and treated quickly. This prevents major problems and high treatment costs.
 
-## Kostenübernahme durch eine Zahnzusatzversicherung
+## Coverage of costs by supplementary dental insurance
 
-###### Die Zahnarztkosten für die Dentalhygiene werden nicht von der obligatorischen Grundversicherung übernommen. Im Durchschnitt zahlen Sie für eine gründliche Zahnreinigung inklusive Zahnsteinentfernung mit Ultraschall 160 Schweizer Franken. Möchten Sie diese Kosten nicht aus eigener Tasche begleichen, lohnt sich der Abschluss einer Zahnzusatzversicherung.
+###### The costs for dental hygiene are not covered by the compulsory basic insurance. On average, you pay 160 Swiss francs for a thorough dental cleaning including tartar removal with ultrasound. If you do not want to pay these costs out of your own pocket, it is worth taking out supplementary dental insurance.
 
-###### Die Zahnversicherung deckt nicht nur die Kosten für die regelmässige Dentalhygiene ab, sondern leistet auch einen Anteil für Zahnbehandlungen, Zahnfehlstellungskorrekturen und kieferorthopädischen Massnahmen. Der Abschluss empfiehlt sich bereits ab dem Kindesalter. Auf diese Weise lassen sich hohe Kosten für eine Zahnspange oder das Ziehen der Weissheitszähne vermeiden. Ein früher Abschluss lohnt sich auch, da die meisten Krankenkassen ab dem 3. oder 5. Geburtstag ein ärztliches Attest verlangen.
+###### The dental insurance not only covers the costs for regular dental hygiene, but also pays a portion for dental treatment, malpositioning corrections and orthodontic measures. It is advisable to take out the treatment as early as childhood. In this way, high costs for braces or the extraction of whiteness teeth can be avoided. An early conclusion is also worthwhile, as most health insurance companies require a medical certificate from the 3rd or 5th birthday.
 
-## Zahnzusatzversicherungen vergleichen und sparen
+## Compare supplementary dental insurances and save money
 
-###### Die Leistungen und Bedingungen der einzelnen Zahnzusatzversicherungen unterscheiden sich enorm. Die meisten Krankenkassen übernehmen 50 bis 75 Prozent der Zahnarztkosten, beschränken ihre jährlichen Beiträge allerdings auf einen gewissen Höchstbetrag. Einige zahlen bis zu 2'000 CHF im Jahr, andere bis zu 5'000 CHF. Zahnkorrekturen und Implantate können jedoch ein Vielfaches kosten. Einige Krankenversicherungen verlangen zudem eine sogenannte Karenzfrist, eine Wartezeit von drei oder sechs Monaten. Während dieser Zeit werden keine Behandlungskosten übernommen.
+###### The benefits and conditions of the individual supplementary dental insurances vary enormously. Most health insurers cover 50 to 75 percent of dental costs, but limit their annual contributions to a certain maximum amount. Some pay up to 2,000 CHF a year, others up to 5,000 CHF. However, tooth corrections and implants can cost many times as much. Some health insurance companies also require a so-called waiting period of three or six months. No treatment costs are covered during this period.
 
-###### Bevor Sie eine Zahnversicherung abschliessen, sollten Sie die Angebote und Leistungen der verschiedenen Krankenkassen genau vergleichen. Wir helfen Ihnen gerne und beraten Sie kostenlos und unverbindlich. So finden Sie ganz unkompliziert einen Versicherer, der sich auch an den Kosten für die Dentalhygiene beteiligt.
+###### Before you take out dental insurance, you should compare the offers and services of the various health insurance companies in detail. We will be happy to help you and advise you free of charge and without obligation. In this way, you can easily find an insurer who also contributes to the costs of dental hygiene.

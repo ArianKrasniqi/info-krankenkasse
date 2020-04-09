@@ -1,41 +1,41 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Krankenkasse wechseln"
+title: "Change health insurance"
 ---
 
-## So einfach können Sie Ihre Krankenkasse wechseln
+## You can easily change your health insurance fund as follows
 
-###### Spätestens, wenn der Versicherer die monatlichen Prämien erhöht, möchten viele Versicherungsnehmer ihre Krankenkasse wechseln. Durch einen Wechsel der Krankenversicherung lassen sich mehrere Hundert bis Tausend Schweizer Franken pro Jahr sparen. Für den Wechsel der Grundversicherung und der Zusatzversicherung gelten dabei unterschiedliche Bedingungen. Wollen Sie Ihre Krankenversicherung wechseln, erfahren Sie hier, was Sie dabei beachten müssen.
+###### At the latest when the insurer increases the monthly premiums, many policyholders want to change their health insurance. By changing your health insurance, you can save between several hundred and one thousand Swiss francs a year. Different conditions apply to the change of basic insurance and supplementary insurance. If you want to change your health insurance, find out here what you need to bear in mind.
 
 # Form
 
-## Krankenversicherung wechseln: So gehen Sie vor
+## Change health insurance: How to proceed
 
-###### Jeweils im Herbst genehmigt das Bundesamt für Gesundheit (BAG) die Krankenkassenprämien für das kommende Jahr. Die Krankenkassen müssen ihre Versicherungsnehmer spätestens bis zum 31. Oktober schriftlich über die neuen monatlichen Prämien informieren. Haben Sie dieses Informationsschreiben erhalten, dürfen Sie bis zum Jahresende Ihre Grundversicherung wechseln.
+###### Each autumn, the Federal Office of Public Health (FOPH) approves the health insurance premiums for the coming year. The health insurance funds must inform their policyholders in writing of the new monthly premiums by 31 October at the latest. If you have received this information letter, you may change your basic insurance by the end of the year.
 
-###### Bevor Sie Ihre Krankenkasse wechseln, sollten Sie zunächst einen Krankenkassenvergleich durchführen. Auf diese Weise finden Sie den günstigsten Versicherer für Ihre Ansprüche. Prüfen Sie beim Versicherunsgvergleich auch, ob sich ein Wechsel zu einem alternativen Versicherungsmodell lohnt. Sparpotenzial ergibt sich zudem, wenn Sie eine höhere Jahresfranchise festlegen.
+###### Before you change your health insurance fund, you should first carry out a health insurance fund comparison. In this way, you will find the cheapest insurer for your claims. When comparing insurances, also check whether it is worth switching to an alternative insurance model. There is also potential for savings if you set a higher annual deductible.
 
-###### Nach dem Krankenversicherunsgvergleich fordern Sie eine Offerte einer oder mehrerer Krankenkassen an. Die Versicherer schicken Ihnen die Offerte zu. Sie wählen Ihr bevorzugtes Angebot aus und melden sich mit dem beigefügten Formular bei der neuen Krankenkasse an.
+###### After the health insurance comparison, you request an offer from one or more health insurance companies. The insurers will send you an offer. You select your preferred offer and register with the new health insurance company using the attached form.
 
-###### Anschliessend müssen Sie noch Ihre alte Krankenversicherung kündigen. Dabei gibt es unterschiedliche Kündigungsfristen zu beachten.
+###### You will then have to cancel your old health insurance. There are different notice periods to be observed.  
 
-## Krankenkasse wechseln: Bis wann müssen Sie Ihre Grundversicherung kündigen?
+## Change health insurance fund: Until when do you have to cancel your basic health insurance?
 
-###### Möchten Sie nach einer angekündigten Prämienerhöhung die Krankenversicherung wechseln, geht das zum Ende des Jahres. Die Kündigung der Grundversicherung muss spätestens am 30. November beim Versicherer eingegangen sein. Massgeblich ist nicht das Datum des Poststempels, sondern das Datum, zu dem das Kündigungsschreiben der Versicherung tatsächlich vorliegt. Die Kündigung tritt dann zum 31. Dezember in Kraft.
+###### If you would like to change your health insurance after an announced premium increase, you can do so at the end of the year. The insurer must have received notice of termination of the basic insurance by 30 November at the latest. The date on which the letter of cancellation from the insurance company is actually received is decisive, not the date of the postmark. The cancellation will then take effect on 31 December.
 
-###### Erhöht Ihre Krankenkasse die Prämie bereits zur Mitte des Jahres, müssen Sie bis Ende April darüber informiert werden. Sie haben dann bis zum 31. Mai Zeit, Ihre Versicherung zu kündigen und können zum 1. Juli zu einer anderen Krankenkasse wechseln.
+###### If your health insurance company increases the premium by the middle of the year, you must be informed by the end of April. You then have until 31 May to cancel your insurance and can switch to another health insurance company on 1 July.
 
-## Krankenkassen wechseln: Termin für Grundversicherungen mit ordentlicher Franchise
+## Change health insurance companies: Date for basic insurance with regular deductible rate
 
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Franken im Monat abgeschlossen, gilt ein zusätzlicher Kündigungstermin Mitte des Jahres. Die Kündigung tritt dann zum 30. Juni in Kraft. Dabei gilt eine Kündigungsfrist von drei Monaten. Das bedeutet, Ihr Kündigungsschreiben muss spätestens am 31. März bei der Krankenversicherung eingegangen sein.
+###### If you have taken out basic insurance with a regular deductible of CHF 300 per month, an additional termination date in the middle of the year applies. The cancellation will then take effect on 30 June. The notice period is three months. This means that your letter of cancellation must be received by your health insurance company by 31 March at the latest.
 
-## Krankenkasse wechseln: Frist für die Kündigung der Zusatzversicherung
+## Change health insurance fund: Deadline for cancellation of supplementary insurance
 
-###### Ihre Grundversicherung und Zusatzversicherung können Sie unabhängig voneinander wechseln. Sie können also Ihre Grundversicherung behalten und lediglich zu einer Zusatzversicherung eines anderen Anbieters wechseln. Die Kündigungsfristen für die Zusatzversicherung legt jede Krankenkasse individuell fest. Lesen Sie sich daher die Versicherungsbedingungen aufmerksam durch und halten Sie sich an den dort angegebenen Kündigungstermin.
+###### You can change your basic insurance and supplementary insurance independently of each other. You can therefore keep your basic insurance and only switch to a supplementary insurance from another provider. The notice periods for the supplementary insurance are determined individually by each health insurance company. Therefore, please read the insurance conditions carefully and adhere to the cancellation date stated there.
 
-###### Erhöht Ihr Krankenversicherer die Prämie für die Zusatzversicherung, dürfen Sie mit einer Frist von einem Monat kündigen und zu einem anderen Anbieter wechseln.
+###### If your health insurer increases the premium for the supplementary insurance, you may terminate the contract with one month's notice and switch to another provider.
 
-## Angebote vergleichen und Krankenversicherung wechseln
+## Compare offers and change health insurance
 
-###### Möchten Sie Ihre Krankenkasse wechseln, machen Sie bei uns den kostenlosen Krankenkassenvergleich und fordern direkt eine Offerte Ihres bevorzugten Anbieters an. Wünschen Sie eine weitergehende Beratung, nehmen Sie gerne Kontakt zu uns auf.
+###### If you would like to change your health insurance company, make the free health insurance company comparison with us and request an offer from your preferred provider directly. If you would like further advice, please do not hesitate to contact us.

@@ -1,39 +1,39 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Zahnpflegeversicherung"
+title: "Dental care insurance"
 ---
 
-## Warum eine zusätzliche Zahnpflegeversicherung sinnvoll ist
+## Why additional dental care insurance makes sense
 
-###### Die obligatorische Grundversicherung deckt nur eine rudimentäre Versorgung durch den Zahnarzt ab. Zahnbehandlungen können allerdings sehr teuer werden. Die Zusatzversicherung für Zahnpflege schützt Sie vor den Mehrkosten. Die meisten Krankenkassen in der Schweiz bieten die Zahnzusatzversicherung an.
+###### Compulsory basic insurance only covers rudimentary dental care. However, dental treatment can be very expensive. The supplementary insurance for dental care protects you from the additional costs. Most health insurance companies in Switzerland offer supplementary dental insurance.
 
 # Form
 
-## Welche Leistungen deckt die Zahnzusatzversicherung ab?
+## What benefits are covered by supplementary dental insurance?
 
-###### Müssen Sie zum Zahnarzt, kann das unter Umständen richtig teuer werden. Die obligatorische Grundversicherung übernimmt lediglich Behandlungen, die sich auf eine nicht vermeidbare Erkrankung des Kauapparates oder auf einen Unfall zurückführen lassen. Zahnfüllungen, Wurzelbehandlungen, Zahnersatz und Zahnstellungskorrekturen müssen Sie aus eigener Tasche zahlen. Gleiches gilt für Leistungen aus dem Bereich der Mundhygiene.
+###### If you have to go to the dentist, it can be very expensive. The compulsory basic insurance only covers treatments that can be traced back to an unavoidable illness of the masticatory apparatus or to an accident. Tooth fillings, root canal treatments, dental prostheses and tooth position corrections must be paid for out of your own pocket. The same applies to oral hygiene services.
 
-###### Möchten Sie sich vor den hohen Kosten einer Zahnbehandlung schützen, können Sie eine freiwillige Zusatzversicherung abschliessen. Diese erhalten Sie bei Ihrer Krankenkasse oder bei einem anderen Krankenversicherer Ihrer Wahl.
+###### If you want to protect yourself against the high costs of dental treatment, you can take out voluntary supplementary insurance. You can obtain this from your health insurance company or another health insurer of your choice.
 
-###### Den Leistungsumfang der Zusatzversicherung für Zahnpflege legt jeder Versicherer selbst fest. Zu den gängigen Leistungen gehören:
+###### The scope of the supplementary dental care insurance is determined by each insurer. The usual benefits include:
 
-### Kontrolluntersuchungen
+### Control examinations
 
-### zahnerhaltende Behandlungen
+### teeth-preserving treatments
 
-### Zahnprothetik
+### dental prosthetics
 
-### kieferorthopädische Massnahmen
+### orthodontic measures
 
-###### Die meisten Krankenversicherungen bieten die Zahnzusatzversicherung in verschiedenen Stufen an, die sich in der Höhe der Kostenübernahme unterscheiden. Maximal deckt die Zusatzversicherung meist 75 Prozent der Behandlungskosten ab. In der Regel gilt dabei eine bestimmte Obergrenze pro Jahr, beispielsweise 2'000 oder 2'500 Schweizer Franken. Je höher die Kostenübernahme, umso höher fallen auch die Prämien aus.
+###### Most health insurance companies offer supplementary dental insurance at various levels, which differ in the amount of coverage. The maximum coverage of the supplementary insurance is usually 75 percent of the treatment costs. As a rule, a certain upper limit applies per year, for example 2,000 or 2,500 Swiss francs. The higher the cost coverage, the higher the premiums.
 
-## Für wen lohnt sich eine Zahnpflegeversicherung?
+## For whom is dental care insurance worthwhile?
 
-###### Eine zusätzliche Versicherung für Zahnpflege verursacht zwar monatliche Mehrkosten, die Investition lohnt sich aber. Jeder Erwachsene benötigt irgendwann Zahnbehandlungen, deren Kosten schnell die Prämien für die Zusatzversicherung übersteigen. Vor allem Familien mit Kindern sind mit einer Zahnpflegeversicherung gut beraten. Sie deckt auch Massnahmen zur Korrektur von Zahnfehlstellungen ab, leistet zum Beispiel Zuschüsse für eine Zahnspange.
+###### An additional dental care insurance does cause additional monthly costs, but the investment is worth it. Every adult eventually needs dental treatment, the costs of which quickly exceed the premiums for supplementary insurance. Families with children in particular are well advised to take out dental care insurance. It also covers measures to correct malocclusions, such as subsidies for braces.
 
-## Was müssen Sie beim Abschluss der Zusatzversicherung beachten?
+## What do you need to bear in mind when taking out supplementary insurance?
 
-###### In der Regel verlangen die Krankenkassen vor dem Abschluss einer Zahnpflegeversicherung ein Attest. Dieses soll den Gesundheitszustand Ihrer Zähne bestätigen. Besteht bereits Behandlungsbedarf, kann es sein, dass der Versicherer die Kostenübernahme für diesen bestimmten Punkt ausschliesst. Es besteht zudem keine Aufnahmepflicht, die Zusatzversicherung kann die Aufnahme komplett verweigern. Für Kinder unter einer gewissen Altersgrenze müssen Sie bei den meisten Versicherern kein Attest vorlegen.
+###### As a rule, health insurance companies require a certificate before taking out dental care insurance. This should confirm the state of health of your teeth. If there is already a need for treatment, the insurer may exclude the assumption of costs for this particular point. In addition, there is no obligation to take out an insurance policy, the supplementary insurance can completely refuse to take out an insurance policy. For children under a certain age limit, most insurers do not require you to present a certificate.
 
-###### Da sich die Leistungen der einzelnen Versicherer stark unterscheiden, lohnt sich in jedem Fall ein Krankenkassenvergleich. Wir unterstützen Sie gerne und helfen Ihnen, eine günstige Zusatzversicherung für Zahnpflege zu finden.
+###### As the services provided by the individual insurers vary greatly, it is always worth comparing health insurance companies. We will be happy to support you and help you to find an affordable supplementary insurance for dental care.

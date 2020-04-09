@@ -44,15 +44,8 @@ const Informationen = props => {
 
   return (
     <Layout>
-      <Text type="title">
-        {props.lang}
-        {lang.title}
-      </Text>
+      <Text type="title">{lang.title}</Text>
       {data.allMarkdownRemark.edges.map((edge, index) => {
-        // let side = ""
-        // if (index % 2 === 0) {
-        //   side = "right"
-        // }
         return edge.node.frontmatter.type === "info" &&
           edge.node.frontmatter.lang === props.lang ? (
           <Card

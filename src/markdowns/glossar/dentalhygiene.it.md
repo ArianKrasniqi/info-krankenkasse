@@ -1,29 +1,29 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Dentalhygiene"
+title: "Igiene dentale"
 ---
 
-## Dentalhygiene: So beugen Sie teuren Zahnbehandlungen vor
+## Igiene dentale: prevenire costose procedure dentali
 
-###### Eine gute Dentalhygiene ist die wichtigste Voraussetzung, um möglichst lange schöne und gesunde Zähne zu behalten. Dazu gehören nicht nur das tägliche Zähneputzen und die Benutzung von Zahnseide, sondern auch die regelmässige Zahnreinigung beim Zahnarzt. Die Kosten für eine professionelle Zahnreinigung werden allerdings nicht von der Grundversicherung der Krankenkassen gedeckt. Nicht nur aus diesem Grund empfiehlt sich der Abschluss einer Zahnzusatzversicherung.
+###### Una buona igiene dentale è il prerequisito più importante per mantenere denti belli e sani il più a lungo possibile. Ciò include non solo la spazzolatura quotidiana e l'uso del filo interdentale, ma anche la normale pulizia dei denti dal dentista. Tuttavia, il costo della pulizia professionale dei denti non sarà coperto da assicurazione sanitarie di base. Non solo per questo motivo, si raccomanda la conclusione di una assicurazione integrativa dentale.
 
 # Form
 
-## Warum lohnt sich die regelmässige Dentalhygiene?
+## Perchè è importante una regolare igiene dentale?
 
-###### Für gesunde Zähne und gesundes Zahnfleisch können Sie selbst viel tun. Mindestens zweimal täglich Zähneputzen sollte zur Routine gehören. Zahnzwischenräume reinigen Sie mit Zahnseide, einer Interdentalbürste oder einer speziellen Munddusche. Darüber hinaus empfiehlt es sich, einmal im Jahr eine professionelle Zahnreinigung durch den Zahnarzt durchführen zu lassen.
+###### Per denti sani e gengive sane, puoi fare molto da solo. Spazzolarsi almeno due volte al giorno dovrebbe essere una routine. Gli spazi interdentali vengono puliti con filo interdentale, una spazzola interdentale o uno speciale irrigatore orale. Inoltre, si consiglia di fare una pulizia dentale professionale dal dentista una volta all'anno.
 
-###### Die Zahnreinigung entfernt Zahnstein sowie Belege und Verfärbungen, gegen die Sie mit einer Zahnbürste nicht ankommen. Durch die anschliessende Politur erscheinen Ihre Zähne im natürlichen Weiss und angenehm glatt. Der Zahnarzt zeigt Ihnen ausserdem, wie Sie Ihre Dentalhygiene zuhause verbessern können. Bei der Zahnreinigung kontrolliert er darüber hinaus Zähne und Zahnfleisch. So lassen sich Karies, Parodontose und eventuelle Zahnhalsprobleme frühzeitig erkennen und schnell behandeln. Das beugt grösseren Problemen und hohen Behandlungskosten vor.
+###### La pulizia dei denti rimuove il tartaro, nonché l'evidenza e lo scolorimento, contro i quali non è possibile arrivare con uno spazzolino da denti. Con la successiva lucidatura i denti appaiono di un bianco naturale e piacevolmente lisci. Il dentista ti mostrerà anche come migliorare l'igiene dentale a casa. Durante la pulizia dei denti, controlla anche denti e gengive. In questo modo, la carie, la malattia parodontale e qualsiasi problema con la cervice possono essere rilevati precocemente e trattati rapidamente. Ciò impedisce gravi problemi e costi di trattamento elevati.
 
-## Kostenübernahme durch eine Zahnzusatzversicherung
+## Rimborso da parte dell’assicurazione dentale complementare dentistica
 
-###### Die Zahnarztkosten für die Dentalhygiene werden nicht von der obligatorischen Grundversicherung übernommen. Im Durchschnitt zahlen Sie für eine gründliche Zahnreinigung inklusive Zahnsteinentfernung mit Ultraschall 160 Schweizer Franken. Möchten Sie diese Kosten nicht aus eigener Tasche begleichen, lohnt sich der Abschluss einer Zahnzusatzversicherung.
+###### I costi del dentista per l'igiene dentale non sono coperti dall'assicurazione obbligatoria di base. In media, si pagano 160 franchi svizzeri per un'accurata pulizia dei denti, compreso il ridimensionamento con ultrasuoni. Se non si desidera pagare di tasca propria questi costi, vale la pena effettuare un’assicurazione dentale integrativa.
 
-###### Die Zahnversicherung deckt nicht nur die Kosten für die regelmässige Dentalhygiene ab, sondern leistet auch einen Anteil für Zahnbehandlungen, Zahnfehlstellungskorrekturen und kieferorthopädischen Massnahmen. Der Abschluss empfiehlt sich bereits ab dem Kindesalter. Auf diese Weise lassen sich hohe Kosten für eine Zahnspange oder das Ziehen der Weissheitszähne vermeiden. Ein früher Abschluss lohnt sich auch, da die meisten Krankenkassen ab dem 3. oder 5. Geburtstag ein ärztliches Attest verlangen.
+###### L'assicurazione dentale non copre solo i costi della normale igiene dentale, ma contribuisce anche ai trattamenti dentali, alla correzione del disallineamento dei denti e alle misure ortodontiche ortodontiche. Il grado è raccomandato fin dall'infanzia. In questo modo, è possibile evitare costi elevati per l'apparecchio o per tirare i denti. Vale anche la pena una laurea anticipata, poiché la maggior parte delle assicurazioni sanitarie richiede un certificato medico dal 3° o 5° compleanno.
 
-## Zahnzusatzversicherungen vergleichen und sparen
+## Confrontare e risparmiare sull’assicurazione dentale
 
-###### Die Leistungen und Bedingungen der einzelnen Zahnzusatzversicherungen unterscheiden sich enorm. Die meisten Krankenkassen übernehmen 50 bis 75 Prozent der Zahnarztkosten, beschränken ihre jährlichen Beiträge allerdings auf einen gewissen Höchstbetrag. Einige zahlen bis zu 2'000 CHF im Jahr, andere bis zu 5'000 CHF. Zahnkorrekturen und Implantate können jedoch ein Vielfaches kosten. Einige Krankenversicherungen verlangen zudem eine sogenannte Karenzfrist, eine Wartezeit von drei oder sechs Monaten. Während dieser Zeit werden keine Behandlungskosten übernommen.
+###### I servizi e le condizioni di ciascuna assicurazione complementare dentale variano enormemente. La maggior parte delle assicurazioni sanitarie copre dal 50 al 75 percento dei costi del dentista, ma limita i loro contributi annuali a un determinato importo massimo. Alcuni pagano fino a € 2.000 all'anno, altri fino a € 5.000. Tuttavia, le correzioni dei denti e gli impianti possono costare molte volte. Alcune compagnie di assicurazione sanitaria richiedono anche un cosiddetto periodo di attesa, un periodo di attesa di tre o sei mesi. Durante questo periodo, non saranno coperti costi di trattamento.
 
-###### Bevor Sie eine Zahnversicherung abschliessen, sollten Sie die Angebote und Leistungen der verschiedenen Krankenkassen genau vergleichen. Wir helfen Ihnen gerne und beraten Sie kostenlos und unverbindlich. So finden Sie ganz unkompliziert einen Versicherer, der sich auch an den Kosten für die Dentalhygiene beteiligt.
+###### Prima di stipulare un'assicurazione dentale, è necessario confrontare esattamente le offerte e i servizi delle diverse assicurazioni sanitarie. Siamo felici di aiutarvi e consigliarvi gratuitamente e senza impegno. Quindi puoi facilmente trovare un assicuratore che partecipa anche ai costi dell'igiene dentale.

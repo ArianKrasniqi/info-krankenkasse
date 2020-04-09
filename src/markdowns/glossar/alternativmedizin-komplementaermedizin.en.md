@@ -1,37 +1,37 @@
 ---
 lang: "en"
 type: "glossar"
-title: Alternativmedizin-Komplementärmedizin
+title: "Alternative Medicine - Complementary Medicine"
 ---
 
-## English Alternativmedizin: Welche Behandlungen übernimmt die Krankenkasse?
+## Alternative medicine: Which treatments are covered by the health insurance?
 
-###### Die Begriffe Alternativmedizin und Komplementärmedizin bezeichnen Behandlungsmethoden, die nicht zur Schulmedizin gehören. Dazu zählen etwa Naturheilmittel oder die Traditionelle Chinesische Medizin. Gewisse Leistungen aus dem Bereich der alternativen Medizin werden von der Grundversicherung übernommen. Allerdings müssen die Behandlungen durch von der Krankenkasse zugelassene Leistungserbringer durchgeführt werden.
+###### The terms alternative medicine and complementary medicine refer to treatment methods that do not belong to conventional medicine. These include natural remedies or traditional Chinese medicine. Certain services in the field of alternative medicine are covered by basic health insurance. However, the treatments must be carried out by service providers approved by the health insurance company.
 
 # Form
 
-## Welche Massnahmen der Komplementärmedizin zahlt die Grundversicherung?
+## What complementary medicine measures are covered by the basic health insurance?
 
-###### Komplementärmedizinische Methoden werden häufig ergänzend zur Schulmedizin eingesetzt. Viele Versicherte schätzen alternative Behandlungen und Arzneimittel, da sie als schonender gelten als schulmedizinische Varianten. Seit 2017 deckt die obligatorische Krankenpflegeversicherung in der Schweiz fünf alternativmedizinische Behandlungsmethoden ab. Das sind:
+###### Complementary medical methods are often used in addition to conventional medicine. Many insured persons appreciate alternative treatments and medicines because they are considered more gentle than conventional medicine. Since 2017, compulsory health insurance in Switzerland has covered five alternative medical treatment methods. These are:
 
-### Homöopathie: Der Leitsatz der Homöopathie lautet "Ähnliches wird mit Ähnlichem bekämpft". Patienten erhalten zur Behandlung eine Urtinktur mit stark verdünnten Wirkstoffen. Die sogenannte Potenzierung soll die Wirksamkeit des Mittels verstärken.
+### Homeopathy: The guiding principle of homeopathy is "similar is combated with similar". Patients receive a mother tincture with highly diluted active ingredients for treatment. The so-called potentiation is intended to increase the effectiveness of the remedy.
 
-### Traditionelle Chinesische Medizin (TCM): Die aus China stammende, jahrhundertealte Medizintradition setzt auf Behandlungsmethoden wie Akupunktur, Massagen, Bewegungsübungen und spezielle Diäten.
+### Traditional Chinese Medicine (TCM): The centuries-old Chinese medical tradition is based on treatment methods such as acupuncture, massages, movement exercises and special diets.
 
-### Anthroposophische Medizin: Die anthroposophische Medizin betrachtet nicht ein einzelnes Krankheitsbild, sondern den Menschen als Gesamtes. Im Fokus steht ein enges Arzt-Patienten-Verhältnis.
+### Anthroposophical medicine: Anthroposophical medicine does not consider a single clinical picture, but the human being as a whole. The focus is on a close doctor-patient relationship.
 
-### Neuraltherapie: Mittel zur örtlichen Betäubung sollen das vegetative Nervensystem beeinflussen und Krankheiten an der entsprechenden Körperstelle lindern.
+### Neural therapy: Local anaesthetics are intended to influence the vegetative nervous system and alleviate illnesses at the corresponding part of the body.
 
-### Phytotherapie: Die Phytotherapie nutzt ausschliesslich Pflanzen und deren Wirkstoffe als Heilmittel. Im Gegensatz zur homöopathischen Behandlung wird der Wirkstoff nicht stark verdünnt.
+### Phytotherapy: Phytotherapy exclusively uses plants and their active ingredients as remedies. In contrast to homeopathic treatment, the active ingredient is not heavily diluted.
 
-## Voraussetzungen für die Kostenübernahme
+## Prerequisites for assumption of costs
 
-###### Die Krankenkassen übernehmen die Kosten für alternativmedizinische Behandlungen, wenn diese von Fachmedizinern durchgeführt werden, die eine Weiterbildung für die gewählte Therapiemethode nachweisen können. Naturheilpraktiker gehören nicht zu den von den Krankenkassen zugelassenen Leistungserbringern.
+###### The health insurance funds cover the costs of alternative medical treatment if it is carried out by medical specialists who can provide evidence of further training for the chosen therapy method. Naturopathic practitioners are not among the service providers approved by the health insurance funds.
 
-###### Die Kosten für Medikamente aus dem Bereich der Komplementärmedizin übernimmt die Grundversicherung anteilig, abzüglich einer Kostenbeteiligung. Erstattet werden Arzneimittel, die das Bundesamt für Gesundheit (BAG) auf seiner Spezialitätenliste veröffentlicht. Darunter fallen homöopathische Präparate, diverse Naturheilmittel und anthroposophische Arzneimittel.
+###### The costs for medicines from the area of complementary medicine are covered by the basic insurance on a pro-rata basis, less a cost sharing. Medicines published by the Federal Office of Public Health (FOPH) on its list of specialties are reimbursed. This includes homeopathic preparations, various natural remedies and anthroposophical medicines.
 
-## Lohnt sich eine Zusatzversicherung für Alternativmedizin?
+## Is it worth taking out supplementary insurance for alternative medicine?
 
-###### Obwohl die Krankenkassen ihre Leistungen im Bereich der alternativen Medizin erweitert haben, lohnt sich unter Umständen eine Zusatzversicherung. Mit einer guten Zusatzversicherungen können Sie auf komplementärmedizinische Behandlungen zurückgreifen, die Sie in der Grundversicherung selbst bezahlen müssten. Darüber hinaus dürfen Sie sich auch von einem Naturheilpraktiker behandeln lassen.
+###### Although the health insurance funds have expanded their services in the field of alternative medicine, it may be worth taking out supplementary insurance. With a good supplementary insurance you can fall back on complementary medical treatments, which you would have to pay for yourself in the basic insurance. In addition, you may also be treated by a naturopath.
 
-###### Legen Sie grossen Wert auf Alternativmedizin und suchen eine passende Zusatzversicherung, helfen wir Ihnen gerne weiter. Vergleichen Sie die verschiedenen Zusatzversicherungen und finden Sie ein Angebot, das zu Ihren Bedürfnissen passt.
+###### If you attach great importance to alternative medicine and are looking for a suitable supplementary insurance, we will be happy to help you. Compare the various supplementary insurances and find an offer that suits your needs.

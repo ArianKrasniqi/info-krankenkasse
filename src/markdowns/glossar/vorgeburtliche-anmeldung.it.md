@@ -1,37 +1,37 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Vorgeburtliche anmeldung"
+title: "Registrazione prenatale"
 ---
 
-## Vorgeburtliche Anmeldung: Melden Sie Ihr Baby rechtzeitig bei der Krankenkasse
+## Registrazione prenatale: registra il tuo bambino con l'assicurazione sanitaria in tempo utile
 
-###### Jeder Schweizer und jede Schweizerin muss bei einer Krankenkasse gemeldet sein. Das gilt bereits für Babys. Damit Ihr Baby ab der Geburt einen umfassenden Versicherungsschutz geniesst, empfiehlt sich die vorgeburtliche Anmeldung. So sind Sie auch geschützt, falls Ihr Kind krank zur Welt kommt.
+###### Ogni cittadino svizzero deve essere registrato presso una compagnia di assicurazione sanitaria. Questo è valido anche per i bambini. Per garantire che il bambino riceva una copertura assicurativa completa dalla nascita in poi, si consiglia la registrazione prenatale. In questo modo sei protetto anche se tuo figlio è malato.
 
-###### Fordern Sie gleich eine unverbindliche Offerte an und schliessen eine Krankenversicherung für Ihr Baby ab.
+###### Richiedi un'offerta non vincolante e stipula un'assicurazione sanitaria per il tuo bambino.
 
 # Form3
 
-## Vorteile durch die vorgeburtliche Anmeldung
+## Vantaggi della registrazione prenatale
 
-###### Melden Sie bereits Ihr ungeborenes Kind bei der Krankenkasse an, besteht der Versicherungsschutz bereits ab dem Moment der Geburt. Durch die vorgeburtliche Anmeldung können Sie alle administrativen Angelegenheiten in Ruhe klären und nach der Geburt mehr Zeit mit Ihrem Baby verbringen.
+###### Se si registra già il nascituro presso la compagnia di assicurazione sanitaria, la copertura assicurativa è valida già dal momento della nascita. Con la registrazione prenatale puoi cancellare tutte le questioni amministrative in pace e trascorrere più tempo con il tuo bambino dopo il parto.
 
-###### Besonders wichtig ist die vorgeburtliche Anmeldung in der Zusatzversicherung. Anders als in der Grundversicherung besteht hier nämlich keine Aufnahmepflicht. Die Krankenversicherung kann die Aufnahme Ihres Kindes ohne Angabe von Gründen verweigern. Kümmern Sie sich daher bereits vor der Geburt um alle wichtigen Zusatzversicherungen.
+###### Particolarmente importante è la registrazione prenatale nell'assicurazione integrativa. A differenza dell'assicurazione di base, qui non vi è alcun obbligo di residenza. L'assicurazione sanitaria può rifiutare l'ammissione di tuo figlio senza fornire spiegazioni. Pertanto, prenditi cura di tutte le importanti assicurazioni integrative prima della nascita.
 
-## Sparen mit dem Familienrabatt
+## Risparmia con lo sconto per famiglie
 
-###### Sie müssen Ihr Baby nicht zwangsläufig bei der Krankenkasse versichern, bei der Sie einen Vertrag abgeschlossen haben. Familien mit mehreren Kindern bieten viele Krankenversicherer jedoch einen Familienrabatt mit reduzierten Prämien. Je nach Versicherer erhalten Sie den Familienrabatt ab dem zweiten oder ab dem dritten Kind.
+###### Non devi necessariamente assicurare il tuo bambino con la compagnia di assicurazione sanitaria con la quale hai un contratto. Tuttavia, molte compagnie di assicurazioni offrono a famiglie con più figli uno sconto familiare con riduzione dei premi. A seconda dell'assicuratore, riceverai lo sconto familiare dal secondo o terzo figlio.
 
-## So einfach funktioniert die vorgeburtliche Anmeldung
+## La registrazione prenatale funziona molto semplicemente
 
-###### Die vorgeburtliche Anmeldung zur Krankenkasse führen Sie in wenigen Schritten durch:
+###### La registrazione prenatale all'assicurazione sanitaria si effettua in pochi passaggi:
 
-### Vergleichen Sie die Krankenkassen mit unserem Prämienrechner.
+### Confronta le assicurazioni sanitarie con il nostro calcolatore di premi.
 
-### Holen Sie über unser Formular gleich eine Offerte ein.
+### Ricevi un'offerta tramite il nostro modulo.
 
-### Senden Sie Ihre Unterlagen an die Krankenversicherung Ihrer Wahl und melden Ihr Baby an.
+### Invia i tuoi documenti all'assicurazione sanitaria di tua scelta e registra il tuo bambino.
 
-### Nach der Geburt teilen Sie der Krankenkasse das genaue Geburtsdatum und den Namen des Kindes mit.
+### Dopo il parto, comunica alla compagnia di assicurazione i dati esatti di nascita e il nome del bambino.
 
-### Daraufhin tritt die Versicherung in Kraft und Sie erhalten die Versicherungskarte für Ihr Kind.
+### Quindi l'assicurazione entra in vigore e ricevi la tessera d'assicurazione per tuo figlio.

@@ -1,55 +1,55 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Zusatzversicherung"
+title: "Assurance complémentaire"
 ---
 
-## Welche Zusatzversicherungen gibt es und was leisten sie?
+## Quelles sont les assurances complémentaires et que font-elles?
 
-###### Die obligatorische Krankenpflegeversicherung in der Schweiz deckt nur grundlegende medizinische Leistungen ab. Wünschen Sie einen weitergehenden Versicherungsschutz, können Sie freiwillige Zusatzversicherungen abschliessen. Dabei haben Sie die Wahl zwischen verschiedenen ambulanten Zusatzversicherungen und Spitalzusatzversicherungen. Die Leistungen und die Deckung unterscheiden sich von Versicherer zu Versicherer.
+###### En Suisse, l'assurance-maladie obligatoire ne couvre que les prestations médicales de base. Si vous souhaitez une couverture d'assurance supplémentaire, vous pouvez souscrire une assurance complémentaire facultative. Vous avez le choix entre différentes assurances complémentaires ambulatoires et complémentaires hospitalières. Les prestations et la couverture varient d'un assureur à l'autre.
 
 # Form
 
-## Unterschied zwischen Grundversicherung und Zusatzversicherungen
+## Différence entre l'assurance de base et l'assurance complémentaire
 
-###### Die Grundversicherung ist in der Schweiz obligatorisch. Das bedeutet, es besteht Versicherungspflicht. Im Gegenzug muss eine Krankenkasse Sie in der Grundversicherung aufnehmen, unabhängig von Ihrem Gesundheitszustand. Anders sieht es in der freiwilligen Zusatzversicherung aus. In der Regel müssen Sie vor dem Abschluss einen Gesundheitsfragebogen ausfüllen. Die Versicherer können Vorbehalte anmelden und die Aufnahme in die Zusatzversicherung sogar verweigern. Für einige Leistungen fällt zudem eine sogenannte Karenzfrist an: Es muss erst eine vorgegebene Wartezeit verstreichen, bevor die Krankenversicherung die versicherten Leistungen übernimmt.
+###### L'assurance de base est obligatoire en Suisse. Cela signifie que l'assurance est obligatoire. En contrepartie, une caisse maladie doit vous inclure dans l'assurance de base, quel que soit votre état de santé. La situation est différente avec l'assurance complémentaire facultative. En générale, vous devez remplir un questionnaire de santé avant de souscrire l'assurance. Les assureurs peuvent faire des réservations et même refuser de vous accepter dans l'assurance complémentaire. Pour certaines prestations, il existe également un délai de grâce : une période d'attente prédéterminée doit s'écouler avant que l'assurance maladie ne couvre les prestations assurées.
 
-## Ambulante Zusatzversicherungen
+## Assurances complémentaires ambulatoires
 
-###### Ambulante Zusatzversicherungen decken Leistungen ab, die ambulant durchgeführt und nicht von der Grundversicherung übernommen werden. Dazu gehören zum Beispiel:
+###### L'assurance complémentaire ambulatoire couvre les prestations qui sont effectuées effectués en consultation externe et qui ne sont pas couvertes par l'assurance de base. Il s'agit, par exemple:
 
-### Komplementärmedizin: Massnahmen aus dem Bereich der Alternativmedizin, die nicht im Leistungsumfang der obligatorischen Krankenpflegeversicherung eingeschlossen sind
+### Médecine complémentaire : Mesures du domaine de la médecine alternative qui ne sont pas incluses dans le champ d'application des prestations de l'assurance maladie obligatoire.
 
-### Sehhilfen: Zuschüsse für Brillen, Kontaktlinsen und Augenlaserbehandlungen
+### Supports visuels : Subventions pour les lunettes, les lentilles cornéennes et les traitements au laser des yeux
 
-### Medikamente: Übernahme nicht kassenpflichtiger Medikamente
+### Médicaments : Acceptation de médicaments non soumis à l'assurance maladie obligatoire
 
-### Psychotherapien: Übernahme nichtärztliche Psychotherapien
+### Psychothérapies : Reprise des psychothérapies non médicales
 
-### Gesundheitsvorsorge: Zuschüsse zu Fitness-Abos, Erholungskuren, Impfungen und weiteren Präventionsmassnahmen
+### Soins de santé : subventions pour les abonnements de remise en forme, les cures récréatives, les vaccinations et autres mesures préventives.
 
-### Zahnzusatzversicherung: teilweise Übernahme von Zahnbehandlungen und kieferorthopädischen Behandlungen
+### Assurance dentaire complémentaire : couverture partielle des traitements dentaires et des traitements orthodontiques
 
-### Hauskrankenpflege und Haushaltshilfen
+### Soins à domicile et aide-ménagère
 
-## Zusatzversicherungen für den Spitalaufenthalt
+## Assurance complémentaire en cas d'hospitalisation
 
-###### Die obligatorische Krankenversicherung übernimmt die Kosten für einen Spitalaufenthalt im Wohnkanton. Behandlungen in einem Spital ausserhalb des Wohnkantons zahlt sie nur, wenn diese medizinisch notwendig und die Kosten vergleichbar sind. Für mehr Flexibilität und Komfort können Sie eine Spitalzusatzversicherung abschliessen.
+###### L'assurance maladie obligatoire couvre les frais d'hospitalisation dans le canton de domicile. Elle ne prend en charge les soins hospitaliers en dehors du canton de domicile que si cela est médicalement nécessaire et si les coûts sont comparables. Pour plus de flexibilité et de confort, vous pouvez souscrire une assurance complémentaire hospitalière.
 
-###### Folgende Spitalversicherungen stehen zur Wahl:
+###### Les assurances hospitalières suivantes sont disponibles:
 
-### Allgemeine Abteilung: Diese Spitalversicherung gewährt freie Spitalwahl in der ganzen Schweiz. Freie Arztwahl im Spital besteht in der Regel nicht.
+### Division générale : Cette assurance hospitalisation offre le libre choix de l'hôpital dans toute la Suisse. En règle générale, il n'y a pas de libre choix du médecin à l'hôpital.
 
-### Halbprivate Versicherung: Sie haben Anrecht auf Unterbringung in der halbprivaten Abteilung und im Zwei-Bett-Zimmer. Neben freier Spitalwahl besteht in der Regel auch freie Arztwahl.
+### Assurance semi-privée : Vous avez droit à l'hébergement en chambre semi-privée et en chambre à deux lits. Outre le libre choix de l'hôpital, il y a généralement aussi le libre choix du médecin.
 
-### Private Versicherung: Sie haben Anrecht auf Unterbringung in der privaten Spitalabteilung im Ein-Bett-Zimmer und auf Chefarztbehandlung.
+### Assurance privée : Vous avez droit à l'hébergement en chambre à un lit dans la salle d'hospitalisation privée et à un traitement par un médecin-chef.
 
-###### Bei Flex-Modellen können Sie kurz vor dem Spitalaufenthalt entscheiden, auf welcher Abteilung Sie untergebracht werden möchten. Für den Aufenthalt auf der halbprivaten und privaten Abteilung fällt ein Selbstbehalt an.
+###### Avec les modèles Flex, vous pouvez décider peu de temps avant votre séjour à l'hôpital dans quelle salle vous souhaitez être hébergé. Il y a une franchise pour le séjour en division semi-privée et privée.
 
-## Versicherungsschutz im Ausland
+## Couverture d'assurance à l'étranger
 
-###### Die Grundversicherung zahlt bereits für Auslandsbehandlungen im Notfall. Die Kosten dürfen allerdings nicht mehr als doppelt so hoch sein wie in der Schweiz. Für einen weitergehenden Versicherungsschutz im Ausland können Sie eine zusätzliche Auslandversicherung abschliessen. Die freiwillige Reiseversicherung deckt die Behandlungskosten in voller Höhe ab. Darüber hinaus erhalten Sie auch einen höheren Anteil eventueller Transportkosten erstattet.
+###### L'assurance de base prend déjà en charge les soins à l'étranger en cas d'urgence. Toutefois, les coûts ne doivent pas être plus de deux fois plus élevés qu'en Suisse. Vous pouvez souscrire une assurance complémentaire à l'étranger pour d'autres assurances à l'étranger. L'assurance voyage volontaire couvre le coût total du traitement. De plus, vous serez également remboursé d'une proportion plus élevée de tous les coûts de transplantation.
 
-## Zusatzversicherungen vergleichen und preiswerten Versicherungsschutz finden
+## Comparer les assurances complémentaires et trouver des couvertures d'assurance peu coûteuses
 
-###### Das Leistungsangebot der Zusatzversicherungen fällt sehr unterschiedlich aus. Zudem begrenzen die Versicherer ihre Erstattung meist auf einen vorgegebenen Maximalbetrag pro Kalenderjahr. Möchten Sie eine Zusatzversicherung finden, die optimal zu Ihren Bedürfnissen passt, hilft Ihnen unser Krankenkassenvergleich. Wir beraten Sie gerne kostenlos und unverbindlich.
+###### Le choix des prestations d'assurance complémentaire est très varié. De plus, les assureurs limitent habituellement leur remboursement à un montant maximal déterminé par an. Si vous souhaitez trouver une assurance complémentaire adaptée à vos besoins, notre comparaison des assurances maladie vous aidera. Nous nous ferons un plaisir de vous conseiller gratuitement et sans engagement.

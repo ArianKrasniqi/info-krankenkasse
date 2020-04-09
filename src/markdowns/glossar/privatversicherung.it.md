@@ -1,35 +1,35 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Privatversicherung"
+title: "Assicurazioni private"
 ---
 
-## Das leistet die Privatversicherung beim Aufenthalt im Spital
+## Cosa offre l'assicurazione privata quando si rimane in ospedale
 
-###### Wer sich mehr Komfort für einen Spitalaufenthalt wünscht, kann zusätzlich zur Grundversicherung eine ergänzende Spitalversicherung wählen. Den höchsten Leistungsumfang bietet die Privatversicherung. Neben freier Arzt- und Spitalwahl bietet sie den Versicherungsnehmern auch die Unterbringung im Einzelzimmer sowie Chefarztbehandlung.
+###### Se desideri un maggiore comfort per una degenza ospedaliera, puoi optare per un'assicurazione ospedaliera supplementare oltre all'assicurazione di base. Il massimo livello di prestazioni è fornito dall'assicurazione privata. Oltre a una scelta gratuita di medico e ospedale, offre anche ai titolari di polizza alloggio in una camera singola e un trattamento medico di base.
 
 # Form
 
-## Die Leistungen der privaten Spitalversicherung
+## I servizi dell’assicurazione ospedaliera privata
 
-###### Möchten Sie eine Spitalzusatzversicherung abschliessen, können Sie aus verschiedenen Varianten wählen. Das günstigste Modell ist die Zusatzversicherung "allgemeine Abteilung" mit freier Arzt- und Spitalwahl für die gesamte Schweiz. Die Halbprivat Versicherung ergänzt dieses Leistungsangebot um Unterbringung im Zwei-Bett-Zimmer auf der halbprivaten Abteilung. Mit einer Privatversicherung geniessen Sie noch mehr Komfort:
+###### Se desideri stipulare un'assicurazione complementare ambulatoriale, puoi scegliere tra diverse varianti. Il modello più economico è il "dipartimento generale" di assicurazione integrativa con libera scelta medica e ospedaliera per tutta la Svizzera. L'assicurazione semi-privata completa l'offerta di questo servizio con l'alloggio in una camera a due letti nel reparto semi-privato. Con un'assicurazione privata puoi goderti ancora più comfort:
 
-### schweizweit freie Arzt- und Spitalwahl
+### ampia scelta di medico e ospedale in Svizzera
 
-### kürzere Wartezeiten für geplante Operationen
+### tempi di attesa più brevi per le operazioni programmate
 
-### Anrecht auf Chefarztbehandlung
+### diritto al trattamento medico capo
 
-### Unterbringung auf der privaten Spitalabteilung
+### sistemazione nel reparto ospedaliero privato
 
-### Unterbringung im Ein-Bett-Zimmer
+### sistemazione in camera singola
 
-###### Abhängig vom Leistungskatalog der Krankenkasse erhalten Sie zudem mehr Komfort bei der Bedienung, ein erweitertes Menüangebot oder weitere Extras. Bei einigen Krankenversicherungen können Sie wahlweise auch eine weltweite freie Spitalwahl und Unterbringung auf der privaten Abteilung abschliessen.
+###### A seconda del catalogo di servizi dell'assicurazione sanitaria, avrai anche più comodità nell'operazione, un menù esteso o altri extra. Per alcune compagnie di assicurazione sanitaria, puoi anche scegliere di avere una libera scelta di ospedale in tutto il mondo e alloggio in reparto privato.
 
-## Was müssen Sie beim Abschluss einer privaten Spitalzusatzversicherung beachten?
+## Cosa devi considerare quando sottoscrivi un'assicurazione privata complementare ambulatoriale?
 
-###### Das Plus an Leistung geht natürlich mit höheren Prämien einher. Während die Spitalzusatzversicherung noch relativ günstig ist, kostet die private Zusatzversicherung einen ordentlichen Mehrbetrag. Die Prämienhöhe orientiert sich vor allem an Geschlecht und Alter. Je älter Sie werden, umso höher steigen dabei auch die Prämien. Senken können Sie die Versicherungsprämien, wenn Sie eine höhere Franchise oder einen höheren Selbstbehalt vereinbaren. Zahlen Sie einen Teil der Kosten für den Spitalaufenthalt aus eigener Tasche, sind Einsparungen von bis zu 70 Prozent möglich.
+###### L'aumento delle prestazioni va di pari passo con premi più elevati. Mentre l'assicurazione complementare ambulatoriale è ancora relativamente economica, l'assicurazione privata integrativa costa molto di più. Il livello dei premi si basa principalmente sul genere e l'età. Più invecchi, più alti saranno i premi. È possibile ridurre i premi assicurativi se si stabilisce una franchigia più elevata. Se paghi una parte del costo della degenza ospedaliera, puoi risparmiare fino al 70 percento.
 
-###### Suchen Sie nach einer privaten Spitalzusatzversicherung, sollten Sie sich ausserdem darüber bewusst sein, dass anders als in der Grundversicherung keine Aufnahmepflicht besteht. Liegen Vorerkrankungen vor oder hat der gewählte Versicherer sonstige Vorbehalte, kann er Ihren Antrag ablehnen. Haben Sie eine passende private Versicherung gefunden und es tritt ein Versicherungsfall ein, sollten Sie mit Ihrer Krankenversicherung klären, ob diese die Kosten auch wirklich in voller Höhe übernimmt. Das schützt Sie vor bösen Überraschungen.
+###### Se stai cercando un’assicurazione integrativa privata, dovresti anche essere consapevole che, a differenza dell'assicurazione di base, non vi è alcun requisito di ammissione. Se esistono condizioni preesistenti o se l'assicuratore scelto ha altre riserve, può respingere la tua domanda. Se hai trovato un'assicurazione privata adeguata e c'è un evento assicurato, dovresti verificare con la tua compagnia di assicurazione sanitaria se stanno effettivamente pagando l'intero importo. Questo ti proteggerà da brutte sorprese.
 
-###### Generell lohnt es sich, vor dem Abschluss einer Privatversicherung Prämienhöhe und Leistungsumfang der einzelnen Anbieter gründlich miteinander zu vergleichen. Die Kosten können nämlich auch für dasselbe Versicherungsmodell stark variieren. Wir unterstützen Sie beim Krankenkassenvergleich und beraten Sie gerne kostenlos und unverbindlich.
+###### In generale, vale la pena confrontare accuratamente l'importo del premio e la portata dei servizi dei singoli fornitori prima di stipulare un'assicurazione privata. I costi possono variare notevolmente anche per lo stesso modello assicurativo. Ti supportiamo con il confronto delle assicurazioni sanitarie e ti consigliamo gratuitamente e senza impegno.

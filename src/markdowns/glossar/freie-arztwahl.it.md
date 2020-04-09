@@ -1,31 +1,31 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Freie Arztwahl"
+title: "Libera scelta del medico"
 ---
 
-## Das Modell Freie Arztwahl in der obligatorischen Krankenpflegeversicherung
+## Il modello scelta libera del medico nell'assicurazione sanitaria obbligatoria
 
-###### Die obligatorische Krankenpflegeversicherung in der Schweiz steht in verschiedenen Varianten zur Auswahl. Das traditionelle Modell gewährt den Versicherungsnehmern freie Arztwahl. Im Krankheitsfall dürfen Sie also selbst entscheiden, bei welchem Arzt Sie sich behandeln lassen möchten. Einen Prämienrabatt gewähren die Krankenversicherungen in diesem Modell nicht.
+###### L'assicurazione sanitaria obbligatoria in Svizzera è disponibile in diverse varianti. Il modello tradizionale garantisce agli assicurati la libera scelta del medico. In caso di malattia, puoi decidere da solo con quale medico vuoi essere curato. Uno sconto sul premio non garantisce l'assicurazione sanitaria in questo modello.
 
 # Form
 
-## Das traditionelle Versicherungsmodell mit freier Arztwahl
+## Il modello assicurativo tradizionale con libera scelta del medico
 
-###### Lassen Sie sich im Standardmodell der obligatorischen Krankenpflegeversicherung versichern, profitieren Sie von der freien Arztwahl im Wohnkanton und am Arbeitsort. Im Krankheitsfall können Sie ohne Einschränkungen entscheiden, welchen Mediziner Sie aufsuchen. Bei unspezifischen Problemen wenden Sie sich an einen Allgemeinmediziner, Sie dürfen aber auch direkt einen Spezialisten konsultieren. In einem medizinischen Notfall wenden Sie sich an den Notarzt oder ein Spital. Im Standardmodell müssen Sie die Notfallbehandlung nicht im Nachgang bei Ihrem Versicherer melden, anders als bei den alternativen Versicherungsmodellen.
+###### Assicurati con il modello standard di assicurazione sanitaria obbligatoria e beneficia della libera scelta del medico nel Cantone di residenza e nel luogo di lavoro. In caso di malattia, puoi decidere senza restrizioni quali medici visitare. In caso di problemi non specifici, consultare un medico di medicina generale, ma è anche possibile consultare direttamente uno specialista. In caso di emergenza medica, contattare l'ambulanza o un ospedale. Nel modello standard, non è necessario segnalare successivamente il trattamento di emergenza al proprio assicuratore, a differenza dei modelli assicurativi alternativi.
 
-###### Die freie Arztwahl gilt in diesem Modell allerdings nur für ambulante Behandlungen, nicht für medizinische Behandlungen im Spital. Möchten Sie auch während eines Spitalaufenthalts Ihren Arzt frei wählen, benötigen Sie eine entsprechende Zusatzversicherung.
+###### La libera scelta del medico si applica in questo modello, tuttavia, solo per le cure ambulatoriali, non per le cure mediche in ospedale. Se vuoi anche scegliere il tuo medico durante una degenza ospedaliera, hai bisogno di un’assicurazione integrativa corrispondente.
 
-## Wie finden Sie einen geeigneten Hausarzt?
+## Come trovare un medico di famiglia adatto?
 
-###### Auch im Versicherungsmodell mit freier Arztwahl ist der Allgemeinmediziner Ihres Vertrauens der erste Ansprechpartner für viele medizinische Probleme. Insbesondere in ländlichen Regionen fällt es jedoch gar nicht so leicht, einen geeigneten Arzt zu finden. Ihre Krankenversicherung kann Ihnen weiterhelfen und Hausärzte in Ihrer Nähe nennen. Ziehen Sie um, kann eventuell auch Ihr alter Mediziner eine Empfehlung für den neuen Wohnort aussprechen. Neben allein praktizierenden Hausärzten stehen auch Gruppenpraxen zur Auswahl, in denen mehrere Mediziner und Therapeuten verschiedener Fachrichtungen unter einem Dach zusammenarbeiten.
+###### Anche nel modello assicurativo con libera scelta del medico, il medico di fiducia è il primo punto di contatto per molti problemi di salute. Tuttavia, soprattutto nelle zone rurali, non è così facile trovare un medico adatto. La tua assicurazione sanitaria può aiutarti e chiamare i medici di famiglia nella tua zona. Se ti sposti, forse il tuo vecchio medico può anche fare una raccomandazione per il nuovo luogo di residenza. Oltre a praticare medici di base, ci sono anche pratiche di gruppo tra cui scegliere, in cui diversi medici e terapisti di diverse discipline lavorano insieme sotto lo stesso tetto.
 
-## Für wen lohnt sich das Versicherungsmodell mit freier Arztwahl?
+## Per chi vale il modello assicurativo con libera scelta del medico?
 
-###### Das Standardmodell mit freier Arztwahl ist vor allem für Versicherungsnehmer interessant, die im Krankheitsfall grösstmögliche Wahlfreiheit haben möchten. Haben Sie bereits einen Allgemeinmediziner Ihres Vertrauens gefunden und möchten diesen behalten, lohnt sich das traditionelle Modell der Grundversicherung ebenfalls.
+###### Il modello standard con libera scelta del medico è particolarmente interessante per gli assicurati che desiderano avere la massima libertà di scelta in caso di malattia. Se hai già trovato un medico generico di tua scelta e desideri mantenerlo, vale anche il modello tradizionale dell'assicurazione di base.
 
-###### Neben dem Standardmodell bieten die Schweizer Krankenkasse noch alternative Versicherungsmodelle wie das Hausarzt-Modell, das HMO-Modell oder Telmed-Modelle. Diese Varianten schränken die Wahl des ersten Ansprechpartners ein, dafür gewähren die Versicherer einen Prämienrabatt. Das Standardmodell ist im Gegensatz dazu nicht rabattiert. Senken können Sie die Prämie über die Wahl einer höheren Franchise.
+###### Oltre al modello standard, l'assicurazione sanitaria svizzera offre modelli assicurativi alternativi come il modello medico di famiglia, il modello HMO o modelli Telmed. Queste varianti limitano la scelta del primo contatto, gli assicuratori offrono uno sconto premium. Il modello standard, al contrario, non è scontato. Puoi abbassare il premio scegliendo un franchigia più alta.
 
-## Jetzt Ihre Krankenkasse vergleichen und günstige Grundversicherung finden
+## Confronta ora la tua assicurazione sanitaria e trova un’assicurazione di base economica
 
-###### Sparen können Sie eventuell auch, indem Sie die Krankenversicherung wechseln. Machen Sie unseren Krankenkassenvergleich und finden Sie heraus, welcher Versicherer die freie Arztwahl zu günstigen Konditionen bietet.
+###### Cambiando l'assicurazione sanitaria puoi anche risparmiare. Effettua il confronto delle assicurazioni sanitarie e scopri quale assicuratore offre la libera scelta del medico a condizioni vantaggiose.

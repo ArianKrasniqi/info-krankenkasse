@@ -1,31 +1,31 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Freie Arztwahl"
+title: "Free choice of doctor"
 ---
 
-## Das Modell Freie Arztwahl in der obligatorischen Krankenpflegeversicherung
+## The Model Free Choice of Doctor in Compulsory Health Insurance
 
-###### Die obligatorische Krankenpflegeversicherung in der Schweiz steht in verschiedenen Varianten zur Auswahl. Das traditionelle Modell gewährt den Versicherungsnehmern freie Arztwahl. Im Krankheitsfall dürfen Sie also selbst entscheiden, bei welchem Arzt Sie sich behandeln lassen möchten. Einen Prämienrabatt gewähren die Krankenversicherungen in diesem Modell nicht.
+###### There are various options for compulsory health insurance in Switzerland. The traditional model gives policyholders free choice of doctor. In the event of illness, you may therefore decide for yourself which doctor you would like to be treated by. The health insurance companies do not grant a premium discount in this model.
 
 # Form
 
-## Das traditionelle Versicherungsmodell mit freier Arztwahl
+## The traditional insurance model with free choice of doctor
 
-###### Lassen Sie sich im Standardmodell der obligatorischen Krankenpflegeversicherung versichern, profitieren Sie von der freien Arztwahl im Wohnkanton und am Arbeitsort. Im Krankheitsfall können Sie ohne Einschränkungen entscheiden, welchen Mediziner Sie aufsuchen. Bei unspezifischen Problemen wenden Sie sich an einen Allgemeinmediziner, Sie dürfen aber auch direkt einen Spezialisten konsultieren. In einem medizinischen Notfall wenden Sie sich an den Notarzt oder ein Spital. Im Standardmodell müssen Sie die Notfallbehandlung nicht im Nachgang bei Ihrem Versicherer melden, anders als bei den alternativen Versicherungsmodellen.
+###### If you take out compulsory health insurance under the standard model, you benefit from the freedom of choice of doctor in your canton of residence and at your place of work. In the event of illness, you can decide without restrictions which doctor to consult. If you have non-specific problems, contact a general practitioner, but you may also consult a specialist directly. In the event of a medical emergency, contact an emergency doctor or a hospital. In the standard model, you do not have to report the emergency treatment to your insurer afterwards, unlike with the alternative insurance models.
 
-###### Die freie Arztwahl gilt in diesem Modell allerdings nur für ambulante Behandlungen, nicht für medizinische Behandlungen im Spital. Möchten Sie auch während eines Spitalaufenthalts Ihren Arzt frei wählen, benötigen Sie eine entsprechende Zusatzversicherung.
+###### In this model, however, the free choice of doctor only applies to outpatient treatment and not to medical treatment in hospital. If you also wish to choose your doctor freely during a hospital stay, you will need additional insurance.
 
-## Wie finden Sie einen geeigneten Hausarzt?
+## How do you find a suitable family doctor?
 
-###### Auch im Versicherungsmodell mit freier Arztwahl ist der Allgemeinmediziner Ihres Vertrauens der erste Ansprechpartner für viele medizinische Probleme. Insbesondere in ländlichen Regionen fällt es jedoch gar nicht so leicht, einen geeigneten Arzt zu finden. Ihre Krankenversicherung kann Ihnen weiterhelfen und Hausärzte in Ihrer Nähe nennen. Ziehen Sie um, kann eventuell auch Ihr alter Mediziner eine Empfehlung für den neuen Wohnort aussprechen. Neben allein praktizierenden Hausärzten stehen auch Gruppenpraxen zur Auswahl, in denen mehrere Mediziner und Therapeuten verschiedener Fachrichtungen unter einem Dach zusammenarbeiten.
+###### Also in the insurance model with free choice of doctor, the general practitioner you trust is the first point of contact for many medical problems. Especially in rural areas it is not easy to find a suitable doctor. Your health insurance can help you and name general practitioners in your area. If you move, your old doctor may also be able to make a recommendation for your new place of residence. In addition to general practitioners practicing alone, there are also group practices available in which several doctors and therapists from different disciplines work together under one roof.
 
-## Für wen lohnt sich das Versicherungsmodell mit freier Arztwahl?
+## For whom is the insurance model with free choice of doctor worthwhile?
 
-###### Das Standardmodell mit freier Arztwahl ist vor allem für Versicherungsnehmer interessant, die im Krankheitsfall grösstmögliche Wahlfreiheit haben möchten. Haben Sie bereits einen Allgemeinmediziner Ihres Vertrauens gefunden und möchten diesen behalten, lohnt sich das traditionelle Modell der Grundversicherung ebenfalls.
+###### The standard model with free choice of doctor is particularly interesting for policyholders who wish to have the greatest possible freedom of choice in the event of illness. If you have already found a general practitioner you can trust and would like to keep him, the traditional basic insurance model is also worthwhile.
 
-###### Neben dem Standardmodell bieten die Schweizer Krankenkasse noch alternative Versicherungsmodelle wie das Hausarzt-Modell, das HMO-Modell oder Telmed-Modelle. Diese Varianten schränken die Wahl des ersten Ansprechpartners ein, dafür gewähren die Versicherer einen Prämienrabatt. Das Standardmodell ist im Gegensatz dazu nicht rabattiert. Senken können Sie die Prämie über die Wahl einer höheren Franchise.
+###### In addition to the standard model, the Swiss health insurance fund also offers alternative insurance models such as the general practitioner model, the HMO model or Telmed models. These variants limit the choice of the first contact person, for which the insurers grant a premium discount. The standard model, on the other hand, is not discounted. You can lower the premium by choosing a higher franchise.
 
-## Jetzt Ihre Krankenkasse vergleichen und günstige Grundversicherung finden
+## Compare your health insurance company now and find a good basic insurance plan
 
-###### Sparen können Sie eventuell auch, indem Sie die Krankenversicherung wechseln. Machen Sie unseren Krankenkassenvergleich und finden Sie heraus, welcher Versicherer die freie Arztwahl zu günstigen Konditionen bietet.
+###### You may also be able to save money by changing your health insurance. Take a look at our health insurance comparison and find out which insurer offers free choice of doctor at favorable conditions.

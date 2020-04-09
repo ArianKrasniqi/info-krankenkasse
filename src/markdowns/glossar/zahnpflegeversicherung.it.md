@@ -1,39 +1,39 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Zahnpflegeversicherung"
+title: "Assicurazione per cure odontoiatriche"
 ---
 
-## Warum eine zusätzliche Zahnpflegeversicherung sinnvoll ist
+## Perché avere un'ulteriore assicurazione per cure odontoiatriche
 
-###### Die obligatorische Grundversicherung deckt nur eine rudimentäre Versorgung durch den Zahnarzt ab. Zahnbehandlungen können allerdings sehr teuer werden. Die Zusatzversicherung für Zahnpflege schützt Sie vor den Mehrkosten. Die meisten Krankenkassen in der Schweiz bieten die Zahnzusatzversicherung an.
+###### L'assicurazione obbligatoria di base copre solo un'assistenza rudimentale da parte del dentista. I trattamenti dentali, tuttavia, possono essere molto costosi. L'assicurazione integrativa per cure odontoiatriche ti protegge dai costi aggiuntivi. La maggior parte delle assicurazioni sanitarie in Svizzera offre l’assicurazione integrativa dentale.
 
 # Form
 
-## Welche Leistungen deckt die Zahnzusatzversicherung ab?
+## Quali servizi copre l’assicurazione integrativa dentale?
 
-###### Müssen Sie zum Zahnarzt, kann das unter Umständen richtig teuer werden. Die obligatorische Grundversicherung übernimmt lediglich Behandlungen, die sich auf eine nicht vermeidbare Erkrankung des Kauapparates oder auf einen Unfall zurückführen lassen. Zahnfüllungen, Wurzelbehandlungen, Zahnersatz und Zahnstellungskorrekturen müssen Sie aus eigener Tasche zahlen. Gleiches gilt für Leistungen aus dem Bereich der Mundhygiene.
+###### Andare dal dentista potrebbe risultare molto costoso. L'assicurazione obbligatoria di base accetta solo trattamenti che possono essere attribuiti a una malattia inevitabile dell'apparato masticatorio o ad un incidente. Dovrai pagare per otturazioni dentali, canali radicolari, protesi dentarie e correzioni dei denti.
 
-###### Möchten Sie sich vor den hohen Kosten einer Zahnbehandlung schützen, können Sie eine freiwillige Zusatzversicherung abschliessen. Diese erhalten Sie bei Ihrer Krankenkasse oder bei einem anderen Krankenversicherer Ihrer Wahl.
+###### Lo stesso vale per i servizi nel campo dell'igiene orale. Se vuoi evitare gli alti costi dei trattamenti dentistici, puoi richiedere un'assicurazione integrativa volontaria. E' possibile ottenerla dalla tua assicurazione sanitaria o da un altro assicuratore sanitario di tua scelta.
 
-###### Den Leistungsumfang der Zusatzversicherung für Zahnpflege legt jeder Versicherer selbst fest. Zu den gängigen Leistungen gehören:
+###### La portata dei servizi dell'assicurazione integrativa per le cure dentistiche è stabilita da ciascun assicuratore. I servizi comuni includono:
 
-### Kontrolluntersuchungen
+### Servizi di Check-up
 
-### zahnerhaltende Behandlungen
+### Trattamenti per la conservazione dei denti
 
-### Zahnprothetik
+### Protesi dentali
 
-### kieferorthopädische Massnahmen
+### Misure ortodontiche
 
-###### Die meisten Krankenversicherungen bieten die Zahnzusatzversicherung in verschiedenen Stufen an, die sich in der Höhe der Kostenübernahme unterscheiden. Maximal deckt die Zusatzversicherung meist 75 Prozent der Behandlungskosten ab. In der Regel gilt dabei eine bestimmte Obergrenze pro Jahr, beispielsweise 2'000 oder 2'500 Schweizer Franken. Je höher die Kostenübernahme, umso höher fallen auch die Prämien aus.
+###### La maggior parte delle assicurazioni sanitarie offre l’assicurazione dentale integrativa in diverse fasi, che differiscono per l'importo del rimborso. L'assicurazione integrativa copre al massimo il 75 percento dei costi di trattamento. Di norma, esiste un certo limite superiore all'anno, ad esempio 2'000 o 2'500 franchi svizzeri. Maggiore è il rimborso, maggiori saranno i premi.
 
-## Für wen lohnt sich eine Zahnpflegeversicherung?
+## Per chi vale la pena effettuare un'assicurazione per cure odontoiatriche?
 
-###### Eine zusätzliche Versicherung für Zahnpflege verursacht zwar monatliche Mehrkosten, die Investition lohnt sich aber. Jeder Erwachsene benötigt irgendwann Zahnbehandlungen, deren Kosten schnell die Prämien für die Zusatzversicherung übersteigen. Vor allem Familien mit Kindern sind mit einer Zahnpflegeversicherung gut beraten. Sie deckt auch Massnahmen zur Korrektur von Zahnfehlstellungen ab, leistet zum Beispiel Zuschüsse für eine Zahnspange.
+###### Un' assicurazione integrativa dentale comporterà costi extra mensili, ma vale la pena effettuare questo investimento. Ogni adulto avrà eventualmente bisogno di cure dentistiche, il cui costo supera rapidamente i premi per l’assicurazione integrativa. Questa assicurazione è consigliata soprattutto alle famiglie con bambini. Comprende anche misure per correggere i denti storti, e ad esempio fornisce sussidi per gli apparecchi ortodontici.
 
-## Was müssen Sie beim Abschluss der Zusatzversicherung beachten?
+## A cosa devi prestare attenzione quando concludi un’assicurazione integrativa?
 
-###### In der Regel verlangen die Krankenkassen vor dem Abschluss einer Zahnpflegeversicherung ein Attest. Dieses soll den Gesundheitszustand Ihrer Zähne bestätigen. Besteht bereits Behandlungsbedarf, kann es sein, dass der Versicherer die Kostenübernahme für diesen bestimmten Punkt ausschliesst. Es besteht zudem keine Aufnahmepflicht, die Zusatzversicherung kann die Aufnahme komplett verweigern. Für Kinder unter einer gewissen Altersgrenze müssen Sie bei den meisten Versicherern kein Attest vorlegen.
+###### Normalmente le assicurazioni sanitarie richiedono un certificato medico prima di stipulare un'assicurazione per cure dentistiche, per confermare la salute dei tuoi denti. Nel caso in cui fosse già necessario un trattamento, l'assicuratore può escludere il rimborso delle spese per questo particolare articolo. Non vi è inoltre alcun obbligo di registrazione, l'Assicurazione integrativa può rifiutare completamente l'ammissione. Per i bambini di età inferiore a una determinata età, non è necessario presentare un certificato alla maggior parte degli assicuratori.
 
-###### Da sich die Leistungen der einzelnen Versicherer stark unterscheiden, lohnt sich in jedem Fall ein Krankenkassenvergleich. Wir unterstützen Sie gerne und helfen Ihnen, eine günstige Zusatzversicherung für Zahnpflege zu finden.
+###### Poiché i servizi dei singoli assicuratori variano notevolmente, vale la pena in ogni caso effettuare un confronto tra le assicurazioni sanitarie. Siamo felici di aiutarvi e aiutarvi a trovare un’assicurazione integrativa economica per le cure dentistiche.

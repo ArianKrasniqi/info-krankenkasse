@@ -1,35 +1,35 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Kündigungsfrist Krankenkasse"
+title: "Period of notice Health insurance fund"
 ---
 
-## Kündigungsfrist der Krankenkasse: Welche Fristen müssen Sie beachten?
+## Period of notice of the health insurance company: What deadlines must you observe?
 
-###### Sind Sie mit Ihrer Krankenversicherung nicht mehr zufrieden und möchten Ihren Anbieter wechseln, müssen Sie Ihre Kündigung fristgerecht einreichen. In der Grundversicherung richtet sich die Kündigungsfrist nach der Franchise. Mit ordentlicher Franchise können Sie zur Jahresmitte kündigen, ansonsten bis zum Jahresende. Für Zusatzversicherungen müssen Sie abweichende Kündigungsfristen zu beachten.
+###### If you are no longer satisfied with your health insurance and would like to change providers, you must submit your notice of cancellation in good time. For basic health insurance, the period of notice depends on the deductible. With a regular deductible, you can give notice in the middle of the year, otherwise until the end of the year. For supplementary insurance, you must observe different periods of notice.
 
 # Form
 
-## Kündigungsfrist bei ordentlicher Franchise
+## Period of notice for ordinary franchises
 
-###### Die ordentliche Franchise in der Grundversicherung beträgt 300 Schweizer Franken für Erwachsene und 0 Schweizer Franken für Kinder. Haben Sie ein entsprechendes Versicherungsmodell abgeschlossen, können Sie Ihre Krankenkasse zur Mitte des Jahres hin kündigen. Dabei gilt eine Frist von drei Monaten.
+###### The ordinary franchise for basic insurance is 300 Swiss francs for adults and 0 Swiss francs for children. If you have taken out a corresponding insurance model, you can cancel your health insurance at the middle of the year. The notice period is three months.
 
-###### Konkret bedeutet das: Damit die Kündigung fristgerecht in Kraft tritt, muss Ihr Kündigungsschreiben bis spätestens zum 31. März bei Ihrem Versicherer eingegangen sein. Wirksam wird die Kündigung dann zum 30. Juni. Ab dem 1. Juli gilt der neue Versicherungsvertrag bei Ihrer neu gewählten Krankenversicherung.
+###### This means in concrete terms: Your letter of cancellation must be received by your insurer by 31 March at the latest in order for the cancellation to take effect on time. The notice of termination will then take effect on 30 June. From 1 July, the new insurance contract will apply to your newly selected health insurance policy.
 
-## Krankenversicherung kündigen zum Jahresende
+## Cancel health insurance at the end of the year
 
-###### Haben Sie eine andere Franchise gewählt, können Sie Ihre Versicherung erst zum Jahresende kündigen. Jedes Jahr im Herbst geben die Krankenkassen ihre neuen Prämien für das kommende Jahr bekannt. Diese werden vom Bundesamt für Gesundheit (BAG) bewilligt und Ende September veröffentlicht. Ihr Versicherer muss Sie zudem bis zum 31. Oktober schriftlich über die Beitragsänderung informieren.
+###### If you have chosen a different deductible rate, you cannot cancel your insurance until the end of the year. Every autumn, the health insurance companies announce their new premiums for the coming year. These are approved by the Federal Office of Public Health (FOPH) and published at the end of September. Your insurer must also inform you in writing of the change in premiums by 31 October.
 
-###### In diesem Fall können Sie Ihren Vertrag bis zum 30. November kündigen. Ihr Versicherungsverhältnis endet daraufhin am 31. Dezember. Massgeblich ist wiederum das Datum, bis zu dem Ihr Kündigungsschreiben beim Versicherer eingegangen ist.
+###### In this case, you can terminate your contract by 30 November. Your insurance relationship will then end on 31 December. Again, the date by which your letter of termination is received by the insurer is decisive.
 
-## Kündigungsfristen in der Zusatzversicherung
+## Periods of notice in supplementary insurance
 
-###### Die Bedingungen für die freiwillige Zusatzversicherung können die Krankenkassen frei gestalten. Aus diesem Grund gelten andere Kündigungsfristen als in der Grundversicherung. Viele Zusatzversicherungen können Sie zum Beispiel mit einer Laufzeit von einem Jahr und einer Kündigungsfrist von drei Monaten abschliessen. Andere Versicherer vereinbaren Laufzeiten von drei oder sogar fünf Jahren und Kündigungsfristen von sechs Monaten.
+###### The conditions for voluntary supplementary insurance can be freely determined by the health insurance funds. For this reason, other notice periods apply than in the basic insurance. For example, you can take out many supplementary insurance policies with a term of one year and a notice period of three months. Other insurers agree terms of three or even five years and notice periods of six months.
 
-###### Einjährige Verträge laufen in der Regel zu Ende des Kalenderjahres ab. Bei einer dreimonatigen Frist müssen Sie Ihr Kündigungsschreiben bis zum 30. September bei Ihrem Versicherer einreichen, damit die Kündigung zum 31. Dezember in Kraft tritt.
+###### As a rule, one-year contracts expire at the end of the calendar year. If the notice period is three months, you must submit your letter of termination to your insurer by 30 September so that the notice can take effect on 31 December.
 
-###### Erhöht ein Versicherer die Prämie für die freiwilligen Zusatzversicherungen, gilt eine Sonderkündigungsfrist von einem Monat zum Jahresende.
+###### If an insurer increases the premium for voluntary supplementary insurance, a special notice period of one month to the end of the year applies.
 
-## Prämien vergleichen und Krankenkasse wechseln
+## Compare premiums and change health insurance fund
 
-###### Verpassen Sie die Kündigungsfrist, verlängert sich Ihr Vertrag automatisch um die vereinbarte Laufzeit. Sie sind dann also ein weiteres Jahr oder sogar länger an Ihre Versicherung gebunden. Machen Sie sich daher schon frühzeitig vor dem Ablaufen der Frist Gedanken über einen möglichen Krankenkassenwechsel. Mit unserem Krankenkassenrechner können Sie die einzelnen Anbieter vergleichen und direkt eine Offerte Ihrer bevorzugten Versicherung einholen.
+###### If you miss the notice period, your contract is automatically extended by the agreed term. You are then bound to your insurance for another year or even longer. Therefore, you should think about changing your health insurance company well in advance of the deadline. With our health insurance calculator, you can compare the individual providers and directly obtain an offer from your preferred insurance company.

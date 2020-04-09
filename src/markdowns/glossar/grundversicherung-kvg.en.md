@@ -1,59 +1,59 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Grundversicherung (KVG)"
+title: "Basic health insurance (KVG)"
 ---
 
-## Die Grundversicherung nach KVG: Leistungen und Modelle
+## The basic health insurance according to KVG: Services and Models
 
-###### Seit 1996 ist die obligatorische Grundversicherung nach Krankenversicherungsgesetz (KVG) für jeden Schweizer Bürger Pflicht. Sie ermöglicht es, dass Sie bei Krankheit, Unfall und Schwangerschaft grundlegende Gesundheitsleistungen in Anspruch nehmen können. Während die Leistungen bei jeder Krankenkasse gleich sind, erheben die Versicherer unterschiedlich hohe Prämien. Sparen lässt sich mit alternativen Versicherungsmodellen.
+###### Since 1996, every Swiss citizen has had to take out compulsory basic health insurance under the Swiss Health Insurance Act (KVG). It enables you to benefit from basic health services in the event of illness, accident or pregnancy. While the benefits are the same for every health insurance company, the insurers charge different premiums. Savings can be made with alternative insurance models.
 
 # Form
 
-###### Was deckt die Grundversicherung nach KVG ab?
+## What does KVG basic insurance cover?
 
-###### Wer in der Schweiz lebt, muss zwingend eine obligatorische Krankenpflegeversicherung abschliessen. Da es sich um eine Pflichtversicherung handelt, dürfen die Krankenkassen niemandem den Zutritt zur sogenannten Grundversicherung verwehren. Den Versicherungsschutz erhalten Sie unabhängig vom Alter und von eventuellen Vorerkrankungen.
+###### If you live in Switzerland, you must take out compulsory health insurance. As this is compulsory insurance, the health insurance funds must not deny anyone access to the so-called basic insurance. You receive insurance cover regardless of your age and any previous illnesses.
 
-###### Welche Leistungen die obligatorische Grundversicherung abzudecken hat, regelt das KVG. Die Höhe der Deckung ist in der Krankenpflege-Leistungsverordnung festgelegt. Grundsätzlich zahlt die Krankenkasse für notwendige medizinische Behandlungen und Medikamente, sofern diese "wirksam, zweckmässig und wirtschaftlich" sind.
+###### The KVG regulates which benefits must be covered by the compulsory basic insurance. The amount of cover is laid down in the Krankenpflege-Leistungsverordnung. In principle, the health insurance fund pays for necessary medical treatment and medication if these are "effective, expedient and economical".
 
-###### Zu den weiteren Leistungen zählen:
+## Other benefits include:
 
-### Notfallhilfe
+### Emergency assistance
 
-### Transporte und Rettungsaktionen
+### Transports and rescue operations
 
-### Unterbringung im Spital und in teilstationären Einrichtungen
+### Accommodation in the hospital and in day-care facilities
 
-### Rehabilitation und Pflege
+### Rehabilitation and care
 
-### therapeutische Massnahmen wie Ergo- und Physiotherapie und Chiropraktik
+### therapeutic measures such as ergotherapy, physiotherapy and chiropractic
 
-### gewisse alternativmedizinische Behandlungsmethoden
+### certain alternative medical treatment methods
 
-###### Die Grundversicherung muss für jedes Kind nach der Geburt abgeschlossen werden. Wer neu in die Schweiz zieht, hat drei Monate Zeit, um eine passende Krankenkasse zu finden.
+###### Basic insurance must be taken out for each child after birth. If you move to Switzerland for the first time, you have three months to find a suitable health insurance company.
 
-###### Kostenbeteiligung an der Grundversicherung
+## Contribution to basic insurance costs
 
-###### Für die medizinische Grundversorgung fällt eine Kostenbeteiligung an. Diese teilt sich in die sogenannte Jahresfranchise und den Selbstbehalt auf. Die ordentliche Jahresfranchise beträgt 300 Schweizer Franken pro Jahr. Bis zu dieser Höhe tragen Sie die Kosten für Behandlungen und Medikamente selbst. Gehen die Kosten über die Franchise hinaus, werden sie von der Krankenkasse übernommen. Sie zahlen nur noch einen Selbstbehalt in Höhe von 10 Prozent, maximal 700 Schweizer Franken pro Jahr bei Erwachsenen, 350 Franken bei Kindern.
+###### For basic medical care there is a cost sharing. This is divided into the so-called annual deductible and the deductible. The ordinary annual deductible is 300 Swiss francs per year. Up to this amount, you bear the costs of treatment and medication yourself. If the costs exceed the franchise, they will be covered by the health insurance. You only pay a deductible of 10 percent, a maximum of 700 Swiss francs per year for adults and 350 Swiss francs for children.
 
-###### Durch die Wahl einer höheren Franchise können Sie Ihre Monatsprämien senken. Erwachsene über 26 Jahren können Franchisen bis zu 2'500 Schweizer Franken pro Jahr festlegen.
+###### By choosing a higher deductible rate, you can reduce your monthly premiums. Adults over the age of 26 can set franchises of up to CHF 2,500 per year.
 
-###### Gleiche Leistung - unterschiedliche Prämien
+## Same benefit - different premiums
 
-###### Obwohl die Leistungen in der Grundversicherung gleich sind, erheben die Krankenkassen unterschiedlich hohe Versicherungsprämien. Das Bundesamt für Gesundheit (BAG) teilt die Krankenkassen auf verschiedene Prämienregionen auf. In städtischen Regionen stehen mehr medizinische Angebote zur Verfügung als in ländlichen Regionen. Entsprechend unterscheiden sich auch die Monatsprämien.
+###### Although the benefits in the basic insurance are the same, the health insurance companies charge different insurance premiums. The Federal Office of Public Health (FOPH) divides the health insurance funds into different premium regions. More medical services are available in urban regions than in rural ones. The monthly premiums also differ accordingly.
 
-###### Die alternativen Versicherungsmodelle der Grundversicherung
+## The alternative insurance models of basic insurance
 
-###### Versicherungsprämien sparen können Sie, wenn Sie sich für ein alternatives Versicherungsmodell entscheiden. Im Standard-Modell haben Sie freie Arztwahl. Die alternativen Versicherungsmodelle schränken die Auswahl Ihres ersten Ansprechpartners ein.
+###### You can save on insurance premiums by opting for an alternative insurance model. In the standard model, you have a free choice of doctor. The alternative insurance models limit the choice of your first contact person.
 
-### Hausarzt-Modell: Sie wenden sich im Krankheitsfall zunächst an Ihren Hausarzt.
+### Family doctor model: In the event of illness, you first contact your family doctor.
 
-### HMO-Modell: Im Krankheitsfall suchen Sie zunächst eine Gruppenpraxis (HMO) auf.
+### HMO model: In the event of illness, you first go to a group practice (HMO).
 
-### Telmed-Modell: Ihr erster Ansprechpartner ist die Hotline eines Telemedizin-Beratungszentrums.
+### Telmed model: Your first point of contact is the hotline of a telemedicine advice centre.
 
-###### Bei Bedarf überweist Ihr erster Ansprechpartner Sie zur weiteren Behandlung an einen Spezialisten oder ins Spital.
+###### If necessary, your first contact will refer you to a specialist or hospital for further treatment.
 
-###### Krankenkassen vergleichen und passendes Versicherungsmodell finden
+## Compare health insurance companies and find the right insurance model
 
-###### Nicht jede Krankenkasse bietet alle alternativen Versicherungsmodelle an. Einige Versicherer ergänzen diese Auswahl dagegen noch und haben zum Beispiel Modelle im Programm, bei denen Sie sich im Krankheitsfall zunächst an eine Partnerapotheke wenden. Machen Sie unseren Versicherungsvergleich und finden Sie heraus, bei welcher Krankenkasse Sie die günstigste Grundversicherung bekommen.
+###### Not every health insurance company offers all alternative insurance models. Some insurers, on the other hand, supplement this selection and, for example, have models in their programme in which you first contact a partner pharmacy in the event of illness. Make our insurance comparison and find out which health insurance company offers you the cheapest basic insurance.

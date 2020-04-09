@@ -1,35 +1,35 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Zusatzversicherungen kündigen"
+title: "Annullare l’assicurazioni integrativa"
 ---
 
-## Zusatzversicherung kündigen: So gehen Sie vor
+## Annullare l’assicurazione integrativa: come farlo
 
-###### Eine freiwillige Zusatzversicherung ergänzt die Grundversicherung Ihrer Krankenkasse um sinnvolle Leistungen. Erhöht ein Anbieter die Prämien oder sind Sie mit Ihrer Versicherung nicht mehr zufrieden, erwägen Sie vielleicht einen Wechsel. Möchten Sie Ihre Zusatzversicherung kündigen, gilt es, bestimmte Fristen und Bedingungen zu beachten. Hier erfahren Sie, wie Sie bei einer Kündigung richtig vorgehen.
+###### Un’assicurazione integrativa volontaria completa l'assicurazione di base della tua compagnia di assicurazione sanitaria con servizi utili. Se un assicuratore aumenta i premi o se non sei più soddisfatto della tua assicurazione, puoi considerare di cambiare. Se si desidera disdire la propria assicurazione integrativa, è importante rispettare determinate scadenze e condizioni. Scopri come procedere correttamente in caso di risoluzione.
 
 # Form
 
-## Welche Kündigungsfrist gilt für die Zusatzversicherung?
+## Quale preavviso si applica all'assicurazione complementare?
 
-###### Leistungen und Prämien der freiwilligen Zusatzversicherung unterscheiden sich von Krankenkasse zu Krankenkasse. Da es so viele unterschiedliche Angebote auf dem Markt gibt, lohnt es sich, die Versicherer in regelmässigen Abständen zu vergleichen und zu prüfen, ob Ihre Krankenkasse Ihnen noch die besten Leistungen bietet.
+###### I benefici e i premi dell'assicurazione integrativa volontaria differiscono da un’assicurazione sanitaria all'altra. Dal momento che ci sono così tante offerte diverse sul mercato, ha senso confrontare gli assicuratori a intervalli regolari e verificare se la tua compagnia di assicurazione sanitaria ti offre ancora i migliori servizi.
 
-###### Wollen Sie Ihre Zusatzversicherung kündigen, müssen Sie insbesondere auf die Vertragslaufzeit und die Kündigungsfrist achten. Anders als die Grundversicherung unterliegen freiwillige Zusatzversicherungen dem Versicherungsvertragsgesetz (VVG) der Schweiz. Die Versicherer sind dadurch freier in der Gestaltung ihrer Vertragsbedingungen.
+###### Se si desidera recedere la propria assicurazione integrativa, è necessario prestare particolare attenzione al periodo del contratto e al periodo di preavviso. A differenza dell’assicurazione di base, l’assicurazione integrativa volontaria è soggetta alla Legge sul contratto d’assicurazione (VVG) della Svizzera. Gli assicuratori sono quindi più liberi nella progettazione delle loro condizioni contrattuali.
 
-###### Die Mindestvertragslaufzeit der Zusatzversicherung beträgt bei vielen Anbietern ein Jahr, mit einer Kündigungsfrist von drei Monaten. Möchten Sie Ihre Versicherung zu Jahresbeginn wechseln, müssen Sie also bis spätestens zum 30. September kündigen. Die Kündigung tritt zum 31. Dezember in Kraft. Andere Krankenversicherer legen eine Vertragslaufzeit von fünf Jahren fest, die Kündigungsfrist beträgt dann oft sechs Monate zum Ende des Kalenderjahrs.
+###### La durata minima del contratto di assicurazione integrativa è di un anno per molti fornitori, con un periodo di preavviso di tre mesi. Se si desidera modificare la propria assicurazione all'inizio dell'anno, è necessario disdire entro il 30 settembre. La risoluzione ha effetto il 31 dicembre. Altri assicuratori sanitari stabiliscono un periodo di contratto di cinque anni, il periodo di preavviso è spesso sei mesi alla fine dell'anno civile.
 
-###### Haben Sie mehrere Zusatzversicherungen bei einem Versicherer abgeschlossen, etwa eine ambulante Zusatzversicherung und eine Spitalversicherung, gelten für beide Verträge unter Umständen andere Kündigungsfristen. Lesen Sie sich daher die Vertragsbedingungen aufmerksam durch. Verpassen Sie den Termin für die fristgerechte Kündigung, verlängert sich die Vertragslaufzeit automatisch um die festgesetzte Laufzeit. Massgeblich ist jeweils das Datum, zu dem Ihr Kündigungsschreiben beim Versicherer eingegangen ist.
+###### Se sono state stipulate diverse assicurazioni integrative con un assicuratore, come un'assicurazione integrativa ambulatoriale e un'assicurazione ospedaliera, è possibile che siano previsti periodi di preavviso diversi per entrambi i contratti. Si prega di leggere attentamente i termini e le condizioni. Se scadono i termini per la risoluzione tempestiva, la durata del contratto viene automaticamente prorogata a tempo determinato. La data rilevante è la data in cui l'assicuratore ha ricevuto la sua lettera di risoluzione.
 
-## Ausserordentliches Kündigungsrecht bei Prämienerhöhung
+## Diritto di recesso straordinario con aumento del premio
 
-###### Erhöht Ihr Versicherer die Prämie, besteht ausserordentliches Kündigungsrecht. Ihre Krankenversicherung muss die Prämienerhöhung schriftlich ankündigen. Haben Sie ein solches Schreiben erhalten, können Sie Ihre Zusatzversicherung mit einer Frist von einem Monat kündigen.
+###### Se l'assicuratore aumenta il premio, hai un diritto di recesso straordinario. La tua assicurazione sanitaria deve annunciare l'aumento del premio per iscritto. Dopo aver ricevuto tale lettera, puoi annullare la tua assicurazione integrativa con un preavviso di un mese.
 
-## Worauf sollten Sie bei der Kündigung der Zusatzversicherung achten?
+## A cosa dovresti fare attenzione quando cerchi l’assicurazione complementare?
 
-###### Ihre Zusatzversicherungen müssen Sie stets schriftlich per Einschreiben kündigen. Das Kündigungsschreiben sollte neben Ihrem Namen und Ihrer Anschrift auch den Namen der jeweiligen Zusatzversicherung, das Versicherungskennzeichen und das gewünschte Kündigungsdatum enthalten. Geben Sie ausserdem an, dass Sie eine Kündigungsbestätigung wünschen.
+###### Devi sempre cancellare la tua assicurazione complementare tramite lettera raccomandata. Oltre al tuo nome e indirizzo, la lettera di disdetta deve contenere anche il nome della rispettiva assicurazione integrativa, l'ID assicurativo e la data di cancellazione desiderata. Indica inoltre che desideri una conferma di annullamento.
 
-###### Beachten Sie auch, dass in der Zusatzversicherung keine Aufnahmepflicht besteht. Damit Sie nicht ohne Versicherungsschutz dastehen, sollten Sie Ihre Zusatzversicherungen erst kündigen, wenn Ihr neuer Versicherer die Aufnahme bereits bestätigt hat.
+###### desideri una conferma di annullamento. Si prega di notare inoltre che nell’assicurazione integrativa non vi è alcun obbligo di registrazione. Per assicurarsi di non essere privi di copertura assicurativa, non è necessario recedere dalla propria assicurazione integrativa fino a quando il nuovo assicuratore non abbia già confermato la propria accettazione.
 
-## Erst vergleichen, dann die Zusatzversicherung kündigen  
+## Confrontare e poi annullare l'assicurazione complementare
 
-###### Ihre Zusatzversicherungen können Sie unabhängig von der Grundversicherung kündigen. Bevor Sie Ihren Versicherer wechseln, lohnt sich ein umfassender Vergleich. Kümmern Sie sich rechtzeitig vor Ablauf der Frist um einen Versicherungswechsel, damit Sie keine zu hohen Prämien bezahlen. Wir beraten Sie gerne, wenn Sie Ihre Zusatzversicherung kündigen möchten, und helfen Ihnen, eine günstige neue Krankenversicherung zu finden.
+###### Puoi annullare la tua assicurazione integrativa indipendentemente dall'assicurazione di base. Prima di cambiare assicuratore vale la pena fare un confronto completo. Assicurati di cambiare l'assicurazione prima della scadenza, in modo da non dover pagare premi troppo elevati. Saremo lieti di consigliarti se desideri disdire la tua assicurazione complementare e aiutarti a trovare una nuova assicurazione sanitaria economica.

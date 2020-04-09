@@ -1,47 +1,47 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Krankenkasse kündigen"
+title: "Cancel health insurance"
 ---
 
-## Krankenkasse kündigen: Was müssen Sie beachten?
+## I'm gonna have to cancel my health insurance: What do you have to pay attention to?
 
-###### Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attraktivere Leistungen, können Sie relativ unkompliziert zu einer anderen Krankenversicherung wechseln. Voraussetzung ist, dass Sie Ihre alte Krankenkasse kündigen. Damit die Kündigung rechtzeitig in Kraft tritt, müssen Sie die Kündigungsfrist beachten. Hier erfahren Sie, welche Kündigungsfristen gelten und welche weiteren Bedingung für eine Kündigung der Krankenkasse gelten.
+###### If you find your health insurance company too expensive or another insurer offers more attractive benefits, you can switch to another health insurance company relatively easily. The prerequisite is that you cancel your old health insurance. You must observe the notice period in order for the notice to take effect in good time. Here you can find out which periods of notice apply and which other conditions apply to a cancellation by the health insurance company.
 
 # Form
 
-## Kündigung Krankenkasse: So kündigen Sie Ihre Grundversicherung
+## Termination of health insurance: How to cancel your basic health insurance
 
-###### Die Grundversicherung ist die obligatorische Krankenkasse in der Schweiz, die jeder Eidgenosse abgeschlossen haben muss. Eine Kündigung ihrer Krankenkasse erwägen viele Versicherungsnehmer, wenn ihr Anbieter eine Prämienerhöhung ankündigt. Die Kündigung hat stets auf dem Schriftweg zu erfolgen. Verschicken Sie Ihren Brief am besten per Einschreiben, damit er möglichst schnell bearbeitet werden kann.
+###### Basic health insurance is the compulsory health insurance in Switzerland that every Swiss citizen must have taken out. Many policyholders consider terminating their health insurance when their provider announces a premium increase. Termination must always be in writing. It is best to send your letter by registered mail so that it can be processed as quickly as possible.
 
-###### Ihr Kündigungsschreiben sollte folgende Daten enthalten:
+###### Your letter of cancellation should contain the following data:
 
-### Vor- und Nachname
+### First name and surname
 
-### Geburtsdatum
+### date of birth
 
-### Ihre Anschrift
+### your address
 
-### Ihre Versicherungsnummer
+### Your insurance number
 
-## Mit unserer kostenlose Vorlage können Sie Ihr Kündigungsschreiben schnell und einfach online erstellen.
+## With our free template you can create your cancellation letter quickly and easily online.
 
-###### Möchten Sie Ihre Krankenkasse kündigen, dürfen keine Prämienzahlungen rückständig sein. Die Kündigung tritt erst in Kraft, wenn Sie Ihrem alten Versicherer eine Bestätigung über den neuen Versicherungsvertrag vorlegen. Verpassen Sie es, rechtzeitig eine neue obligatorische Krankenpflegeversicherung abzuschliessen, bleiben Sie bei Ihrer alten Krankenkasse versichert.
+###### If you wish to cancel your health insurance, no premium payments may be in arrears. The cancellation only comes into effect when you present your old insurer with a confirmation of the new insurance contract. If you fail to take out a new compulsory health insurance policy in time, you will remain insured with your old health insurance fund.
 
-## Welche Kündigungsfrist gilt für die obligatorische Krankenversicherung?
+## What is the notice period for compulsory health insurance?
 
-###### Jedes Jahr passen die Schweizer Krankenkassen ihre Versicherunsgprämien an. Bis spätestens Ende Oktober muss Ihr Versicherer Ihnen mitteilen, wie sich die Prämie im kommenden Jahr verändert. Wurde eine Prämienerhöhung angekündigt, können Sie Ihre Grundversicherung zum 31. Dezember kündigen und zum 1. Januar des neuen Jahres zu einem anderen Anbieter wechseln. Das Kündigungsschreiben muss bis zum 30. November bei Ihrem alten Anbieter eingegangen sein.
+###### Every year, the Swiss health insurance funds adjust their insurance premiums. By the end of October at the latest, your insurer must inform you how the premium will change in the coming year. If a premium increase has been announced, you can cancel your basic insurance on 31 December and switch to another provider on 1 January of the new year. The letter of cancellation must be received by your old provider by 30 November.
 
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Schweizer Franken abgeschlossen, können Sie auch bis Ende Juni kündigen. In diesem Fall gilt eine Frist von drei Monaten. Ihre Kündigungsbrief muss dem Versicherer also spätestens am 31. März vorliegen, damit die Kündigung zum 30. Juni in Kraft tritt.
+###### If you have taken out basic insurance with a regular deductible of 300 Swiss francs, you can also cancel until the end of June. In this case, a period of three months applies. Your cancellation letter must therefore be received by the insurer by 31 March at the latest for the cancellation to take effect on 30 June.
 
-## Zusatzversicherung kündigen: Fristen und Termine
+## Cancelling supplementary insurance: Deadlines and dates
 
-###### Ihre Zusatzversicherungen können Sie unabhängig von Ihrer Grundversicherung kündigen. In der Regel gilt eine dreimonatige Frist zum Jahresende. Sie müssen Ihre Kündigung also bis zum 30. September einreichen, damit die Kündigung zum 31. Dezember gültig wird. Die Versicherer können die Kündigungsfristen für die Zusatzversicherung jedoch individuell festlegen. Bei einigen Versicherern gilt eine Frist von sechs statt drei Monaten. Die konkreten Fristen entnehmen Sie Ihrem Versicherungsvertrag.
+###### You can cancel your supplementary insurance independently of your basic insurance. As a rule, a three-month notice period applies at the end of the year. You must therefore submit your notice of termination by 30 September so that it becomes effective on 31 December. However, the insurers can determine the notice periods for the supplementary insurance individually. For some insurers, the notice period is six months instead of three. You will find the specific periods in your insurance contract.
 
-###### Erhöht Ihr Versicherer die Prämien für Ihre Zusatzversicherungen, gilt eine verkürzte Kündigungsfrist von einem Monat.
+###### If your insurer increases the premiums for your supplementary insurance, a shortened notice period of one month applies.
 
-###### Beachten Sie, dass für freiwillige Zusatzversicherungen eventuell eine Gesundheitsprüfung nötig ist. Unter Umständen können Sie Ihre bevorzugte Versicherung nicht abschliessen. Kündigen Sie Ihre alte Zusatzversicherung daher erst, wenn wirklich sicher ist, dass Sie in der neuen Versicherung aufgenommen werden.
+###### Please note that a health check may be necessary for voluntary supplementary insurance. You may not be able to take out your preferred insurance policy. Therefore, do not cancel your old supplementary insurance until you are really sure that you will be included in the new insurance.
 
-## Alte Krankenkasse kündigen und günstigeren Anbieter finden
+## Cancel your old health insurance and find a cheaper provider
 
-###### Wir unterstützen Sie beim Krankenkassenwechsel. Bevor Sie Ihre Krankenkasse kündigen, machen Sie bei uns den Krankenkassenvergleich. Holen Sie anschliessend direkt eine Offerte Ihres bevorzugten Anbieters ein. Haben Sie weitere Fragen, beraten wir Sie unverbindlich und kostenlos.
+###### We support you in changing your health insurance company. Before you cancel your health insurance, make a health insurance comparison with us. Then obtain a quote directly from your preferred provider. If you have any further questions, we will advise you free of charge and without obligation.

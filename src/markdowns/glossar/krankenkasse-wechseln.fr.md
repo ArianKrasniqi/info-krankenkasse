@@ -1,41 +1,41 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Krankenkasse wechseln"
+title: "Changer de caisse d'assurance maladie"
 ---
 
-## So einfach können Sie Ihre Krankenkasse wechseln
+## Il est si facile de changer de caisse d'assurance maladie
 
-###### Spätestens, wenn der Versicherer die monatlichen Prämien erhöht, möchten viele Versicherungsnehmer ihre Krankenkasse wechseln. Durch einen Wechsel der Krankenversicherung lassen sich mehrere Hundert bis Tausend Schweizer Franken pro Jahr sparen. Für den Wechsel der Grundversicherung und der Zusatzversicherung gelten dabei unterschiedliche Bedingungen. Wollen Sie Ihre Krankenversicherung wechseln, erfahren Sie hier, was Sie dabei beachten müssen.
+###### Au plus tard lorsque l'assureur augmente les primes mensuelles, de nombreux assurés souhaitent changer leur caisse d'assurance maladie. En changeant d'assurance maladie, vous pouvez économiser entre plusieurs centaines et milliers de francs suisses par an. Le changement de l'assurance de base et de l'assurance complémentaire est soumis à des conditions différentes. Si vous souhaitez modifier votre assurance maladie, découvrez ici ce que vous devez prendre en compte.
 
 # Form
 
-## Krankenversicherung wechseln: So gehen Sie vor
+## Changer d'assurance maladie: Voici comment procéder
 
-###### Jeweils im Herbst genehmigt das Bundesamt für Gesundheit (BAG) die Krankenkassenprämien für das kommende Jahr. Die Krankenkassen müssen ihre Versicherungsnehmer spätestens bis zum 31. Oktober schriftlich über die neuen monatlichen Prämien informieren. Haben Sie dieses Informationsschreiben erhalten, dürfen Sie bis zum Jahresende Ihre Grundversicherung wechseln.
+###### Chaque automne, l'Office fédéral de la santé publique (OFSP) approuve les primes d'assurance maladie pour l'année à venir. Les caisses d'assurance maladie doivent informer leurs assurés par écrit des nouvelles primes mensuelles au plus tard le 31 octobre. Si vous avez reçu cette lettre d'information, vous avez la possibilité de changer votre assurance de base jusqu'à la fin de l'année.
 
-###### Bevor Sie Ihre Krankenkasse wechseln, sollten Sie zunächst einen Krankenkassenvergleich durchführen. Auf diese Weise finden Sie den günstigsten Versicherer für Ihre Ansprüche. Prüfen Sie beim Versicherunsgvergleich auch, ob sich ein Wechsel zu einem alternativen Versicherungsmodell lohnt. Sparpotenzial ergibt sich zudem, wenn Sie eine höhere Jahresfranchise festlegen.
+###### Avant de changer de caisse d'assurance maladie, vous devez d'abord effectuer une comparaison de caisses d'assurance maladie. Ainsi, vous trouverez l'assureur adéquat. Lorsque vous comparez les assurances, vérifiez également s'il vaut la peine de passer à un modèle d'assurance alternatif. En fixant une franchise annuelle plus élevée, vous pouvez économiser de l’argent.
 
-###### Nach dem Krankenversicherunsgvergleich fordern Sie eine Offerte einer oder mehrerer Krankenkassen an. Die Versicherer schicken Ihnen die Offerte zu. Sie wählen Ihr bevorzugtes Angebot aus und melden sich mit dem beigefügten Formular bei der neuen Krankenkasse an.
+###### Après la comparaison, vous demandez une offre à un ou plusieurs caisses d'assurance maladie. Les assureurs vous feront parvenir une offre. Vous sélectionnez votre offre préférée et vous vous inscrivez auprès de la nouvelle caisse d'assurance maladie à l'aide du formulaire ci-joint.
 
-###### Anschliessend müssen Sie noch Ihre alte Krankenversicherung kündigen. Dabei gibt es unterschiedliche Kündigungsfristen zu beachten.
+###### Vous devrez alors résilier votre ancienne assurance maladie. Il y a différents délais de résiliation à considérer ici.
 
-## Krankenkasse wechseln: Bis wann müssen Sie Ihre Grundversicherung kündigen?
+## Changer de caisse d'assurance maladie: Jusqu'à quand devez-vous résilier votre assurance de base?
 
-###### Möchten Sie nach einer angekündigten Prämienerhöhung die Krankenversicherung wechseln, geht das zum Ende des Jahres. Die Kündigung der Grundversicherung muss spätestens am 30. November beim Versicherer eingegangen sein. Massgeblich ist nicht das Datum des Poststempels, sondern das Datum, zu dem das Kündigungsschreiben der Versicherung tatsächlich vorliegt. Die Kündigung tritt dann zum 31. Dezember in Kraft.
+###### Si vous souhaitez changer d'assurance maladie après une augmentation de prime annoncée, vous pouvez le faire à la fin de l'année. L'assureur doit avoir reçu la résiliation de l'assurance de base au plus tard le 30 novembre. C'est la date de réception effective de la lettre de résiliation de la compagnie d'assurance qui fait foi, et non la date du cachet de la poste. La résiliation prendra effet le 31 décembre.
 
-###### Erhöht Ihre Krankenkasse die Prämie bereits zur Mitte des Jahres, müssen Sie bis Ende April darüber informiert werden. Sie haben dann bis zum 31. Mai Zeit, Ihre Versicherung zu kündigen und können zum 1. Juli zu einer anderen Krankenkasse wechseln.
+###### Si votre caisse d'assurance maladie augmente la prime dès le milieu de l'année, vous devez en être informé avant la fin avril. Vous avez alors jusqu'au 31 mai pour résilier votre assurance et pouvez changer de caisse d'assurance maladie avant le 1er juillet.
 
-## Krankenkassen wechseln: Termin für Grundversicherungen mit ordentlicher Franchise
+## Changer de caisse maladie : date pour l'assurance de base avec franchise ordinaire
 
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Franken im Monat abgeschlossen, gilt ein zusätzlicher Kündigungstermin Mitte des Jahres. Die Kündigung tritt dann zum 30. Juni in Kraft. Dabei gilt eine Kündigungsfrist von drei Monaten. Das bedeutet, Ihr Kündigungsschreiben muss spätestens am 31. März bei der Krankenversicherung eingegangen sein.
+###### Si vous avez souscrit une assurance de base avec une franchise ordinaire de 300 CHF par mois, une date de résiliation supplémentaire au milieu de l'année est applicable. La résiliation prendra effet le 30 juin. Le délai de résiliation est de trois mois. Cela signifie que votre lettre de résiliation doit parvenir à votre caisse d'assurance maladie au plus tard le 31 mars.
 
-## Krankenkasse wechseln: Frist für die Kündigung der Zusatzversicherung
+## Changer de caisse d'assurance maladie: Délai de résiliation de l'assurance complémentaire
 
-###### Ihre Grundversicherung und Zusatzversicherung können Sie unabhängig voneinander wechseln. Sie können also Ihre Grundversicherung behalten und lediglich zu einer Zusatzversicherung eines anderen Anbieters wechseln. Die Kündigungsfristen für die Zusatzversicherung legt jede Krankenkasse individuell fest. Lesen Sie sich daher die Versicherungsbedingungen aufmerksam durch und halten Sie sich an den dort angegebenen Kündigungstermin.
+###### Vous pouvez changer votre assurance de base et votre assurance complémentaire indépendamment l'une de l'autre. Vous pouvez donc conserver votre assurance de base et souscrire uniquement une assurance complémentaire auprès d'un autre assureur. Les délais de résiliation de l'assurance complémentaire sont fixés individuellement par chaque caisse maladie. Veuillez donc lire attentivement les conditions d'assurance et respecter la date de résiliation qui y est indiquée.
 
-###### Erhöht Ihr Krankenversicherer die Prämie für die Zusatzversicherung, dürfen Sie mit einer Frist von einem Monat kündigen und zu einem anderen Anbieter wechseln.
+###### Si votre caisse maladie augmente la prime de l'assurance complémentaire, vous pouvez résilier le contrat avec un préavis d'un mois et changer d'assureur.
 
-## Angebote vergleichen und Krankenversicherung wechseln
+## Comparer les offres et changer d'assurance maladie
 
-###### Möchten Sie Ihre Krankenkasse wechseln, machen Sie bei uns den kostenlosen Krankenkassenvergleich und fordern direkt eine Offerte Ihres bevorzugten Anbieters an. Wünschen Sie eine weitergehende Beratung, nehmen Sie gerne Kontakt zu uns auf.
+###### Si vous souhaitez changer de caisse d'assurance maladie, comparez gratuitement avec nous et demandez directement une offre auprès de votre caisse d'assurance maladie préférée. Si vous souhaitez de plus amples conseils, n'hésitez pas à nous contacter.

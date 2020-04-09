@@ -4,22 +4,22 @@ type: "glossar"
 title: "Priminfo BAG"
 ---
 
-## Priminfo - Der Prämienrechner des BAG
+## Priminfo - The FOPH's premium calculator (BAG)
 
-###### Das Schweizer Bundesamt für Gesundheit (BAG) ist zuständig für die Kranken- und Unfallversicherung. Es veröffentlicht nicht nur jedes Jahr im September die aktuellen Krankenkassenprämien für das kommende Jahr, sondern stellt mit Priminfo auch einen eigenen Prämienrechner zur Verfügung. Mit diesem Online-Rechner können Schweizer Bürger ganz einfach die Prämien ihrer Grundversicherung vergleichen. Auch unser Prämienvergleich nutzt die stets aktuellen Daten von Priminfo.
+######The Swiss Federal Office of Public Health (FOPH) is responsible for health and accident insurance. Not only does it publish the current health insurance premiums for the coming year every year in September, it also provides its own premium calculator, Priminfo. With this online calculator, Swiss citizens can easily compare the premiums of their basic health insurance. Our premium comparison also uses the always up-to-date data from Priminfo.
 
 # Form
 
-## So funktioniert der Priminfo Prämienrechner
+## How the Priminfo premium calculator works
 
-###### Mit dem Priminfo Krankenkassenrechner vergleichen Sie die Prämienhöhe der Grundversicherung. Die Kosten für freiwillige Zusatzversicherungen sind dabei noch nicht berücksichtigt.
+###### With the Priminfo health insurance calculator you can compare the premium amount of the basic insurance. The costs for voluntary supplementary insurance are not yet taken into account.
 
-###### Zunächst geben Sie Ihre Postleitzahl oder Ihren Wohnort ein. Ausschlaggebend für die Höhe der Krankenkassenprämie ist nämlich unter anderem Ihr Wohnkanton. Anschließend müssen Sie Ihr Geburtsdatum angeben und die gewünschte Jahresfranchise auswählen. Welche Franchisen zur Auswahl stehen, hängt vom Alter ab. Schliesslich legen Sie fest, ob eine Unfalldeckung miteingeschlossen sein soll oder nicht. Wählen Sie "nein", wenn bereits eine Unfalldeckung über Ihren Arbeitgeber besteht. Den Krankenkassenvergleich können Sie für eine Person oder auch für mehrere Personen durchführen.
+###### First enter your postcode or place of residence. One of the decisive factors for the amount of the health insurance premium is your canton of residence. You must then enter your date of birth and select the desired annual deductible. The franchises you can choose from depend on your age. Finally, you determine whether accident cover should be included or not. Select "No" if you already have accident cover from your employer. You can compare health insurances for one person or for several persons.
 
-###### Optional wählen Sie Ihre aktuelle Krankenkasse aus und geben Ihr aktuelles Versicherungsmodell an. Nun können Sie noch auswählen, welche Versicherungsmodelle Sie vergleichen möchten: Standard-Modell, Hausarzt-Modell, HMO-Modell und weitere Modelle. So sehen Sie gleich, mit welchem Versicherungsmodell Sie am meisten sparen können.
+###### Optionally, you can select your current health insurance fund and specify your current insurance model. Now you can select which insurance models you would like to compare: Standard model, family doctor model, HMO model and other models. This way you can immediately see which insurance model will save you the most.
 
-## Profitieren Sie von aktuellen Daten und individueller Beratung!
+## Benefit from current data and individual advice!
 
-###### Den Priminfo Prämienrechner des BAG erreichen Sie online unter priminfo.ch (priminfo.admin.ch). Allerdings lässt sich über priminfo.ch keine direkte Offerte Ihrer bevorzugten Krankenkasse einholen. Interessieren Sie sich für das Angebot einer bestimmten Krankenkasse, leitet der Rechner des Bundes Sie lediglich zur Webseite des jeweiligen Versicherers weiter. Dort müssen Sie alle zuvor eingegebenen Daten noch einmal eintippen.
+###### The BAG Priminfo premium calculator is available online at priminfo.ch (priminfo.admin.ch). However, it is not possible to obtain a direct quote from your preferred health insurance company via priminfo.ch. If you are interested in the offer of a specific health insurance company, the federal government calculator will only redirect you to the website of the respective insurer. There you have to type in all the data you have previously entered.
 
-###### Unser Prämienvergleich nutzt ebenfalls die Daten von Priminfo. Damit stehen Ihnen stets aktuelle Informationen zur Prämienhöhe zur Verfügung und Sie finden die günstigste Krankenkasse in Ihrem Kanton. Innerhalb weniger Minuten berechnen Sie so Ihr Sparpotenzial. Möchten Sie Ihre Krankenkasse wechseln, können Sie zudem direkt eine unverbindliche Offerte einholen. Zusätzlich profitieren Sie von der Möglichkeit, sich von uns persönlich und individuell zur Wahl Ihrer Krankenkasse beraten zu lassen. So finden Sie nicht nur eine günstige Grundversicherung, sondern auch eine Zusatzversicherung, die Ihren Bedürfnissen entspricht.
+###### Our premium comparison also uses data from Priminfo. This means that you always have up-to-date information on the premium amount available and you can find the cheapest health insurance fund in your canton. Within a few minutes you can calculate your savings potential. If you would like to change your health insurance company, you can also obtain a non-binding offer directly. In addition, you can benefit from our personal and individual advice on the choice of your health insurance company. You will not only find a low-cost basic insurance, but also a supplementary insurance that meets your needs.

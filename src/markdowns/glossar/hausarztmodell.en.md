@@ -1,33 +1,33 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Hausarztmodell"
+title: "Family doctor model"
 ---
 
-## Das Hausarztmodell der obligatorischen Krankenpflegeversicherung
+## The general practitioner model of compulsory health insurance
 
-###### Das Hausarztmodell gehört zu den alternativen Versicherungsmodellen der obligatorischen Krankenpflegeversicherung. Seit 2007 müssen Schweizer Krankenkassen Ihnen dieses Modell anbieten. Es sieht vor, dass Sie bei allen Gesundheitsfragen zunächst Ihren Hausarzt aufsuchen, der Sie bei Bedarf an einen Facharzt überweist. Durch die Wahl des alternativen Versicherungsmodells können Sie Prämien sparen.
+###### The family doctor model is one of the alternative insurance models of compulsory health insurance. Since 2007, Swiss health insurance companies have had to offer you this model. It provides for you to first consult your family doctor with regard to all health issues, who will refer you to a specialist if necessary. By choosing the alternative insurance model, you can save premiums.
 
 # Form
 
-## So finden Sie einen geeigneten Allgemeinmediziner
+## How to find a suitable general practitioner
 
-###### Das alternative Hausarzt-Versicherungsmodell bieten Schweizer Krankenkassen seit den 1990er Jahren an. Seit der Gesundheitsreform von 2007 sind sie sogar dazu verpflichtet, ihren Versicherungsnehmern dieses Modell zur Wahl zu stellen.
+###### The alternative family doctor insurance model has been offered by Swiss health insurance companies since the 1990s. Since the health reform of 2007, they have even been obliged to offer this model to their policyholders.
 
-###### Möchten Sie den Hausarzttarif in Anspruch nehmen, müssen Sie zunächst einen geeigneten Hausarzt wählen. Eine Liste mit allen geeigneten Ärzten in Ihrem Wohnkanton erhalten Sie von Ihrer Krankenkasse. Sie können sich für einen allein praktizierenden Allgemeinmediziner entscheiden oder auch für einen Arzt aus einer Gemeinschaftspraxis. Ihr gewählter Arzt ist fortan Ihr erster Ansprechpartner für alle Gesundheitsfragen. Im Krankheitsfall wenden Sie sich zunächst an ihn. Bei Bedarf erhalten Sie eine Überweisung für einen Spezialisten.
+###### If you want to make use of the family doctor tariff, you must first choose a suitable family doctor. You can obtain a list of all suitable doctors in your canton of residence from your health insurance fund. You can choose a general practitioner practicing alone or a doctor from a joint practice. From now on, your chosen doctor will be your first point of contact for all health questions. In the event of illness, you should first contact him. If necessary, you will receive a referral for a specialist.
 
-###### Sollten Sie mit Ihrem Arzt einmal nicht mehr zufrieden sein oder ziehen Sie um, können Sie problemlos zu einem anderen Hausarzt wechseln.
+###### If you are no longer satisfied with your doctor or if you move, you can easily switch to another family doctor.
 
-## Welche Kriterien muss der Mediziner erfüllen?
+## What criteria must the physician meet?
 
-###### Mediziner, die am Hausarzttarif teilnehmen möchten, müssen gemäss § 73 b SGB V gewissen Voraussetzungen erfüllen. Sie müssen zum Beispiel an Qualitätszirkeln teilnehmen, nach spezifischen Leitlinien behandeln und ein Qualitätsmanagement nachweisen können. Die Krankenkassen haben sicherzustellen, dass diese Vorgaben eingehalten werden, bevor Sie Hausärzte auf ihre Listen aufnehmen.
+###### According to § 73 b SGB V, physicians who wish to participate in the GP tariff must fulfil certain requirements. For example, they must participate in quality circles, treat according to specific guidelines and be able to demonstrate quality management. The health insurance funds must ensure that these requirements are met before you include general practitioners on your lists.
 
-## Vorteile des Hausarzttarifs
+## Advantages of the general practitioner tariff
 
-###### Der Hausarzttarif soll unnötige Besuche beim Facharzt und im Spital vermeiden. Als erster Ansprechpartner ist der Allgemeinmediziner mit der Krankengeschichte des Patienten vertraut und soll ihn dadurch effizienter durch das Gesundheitssystem führen. Auf diese Weise sollen sich Behandlungskosten einsparen lassen.
+###### The general practitioner tariff is intended to avoid unnecessary visits to the specialist and hospital. As the first point of contact, the general practitioner is familiar with the patient's medical history and should therefore guide him more efficiently through the healthcare system. In this way, treatment costs can be saved.
 
-###### Für Versicherungsnehmer hat der Hausarzttarif vor allem einen grossen Vorteil: Sie zahlen geringere Prämien als im Standard-Modell der Grundversicherung. Weitere Vorteile: Hausärzte bieten in aller Regel auch Termine ausserhalb der Sprechzeiten an. Patienten müssen keine langen Wartezeiten befürchten. Erstuntersuchungen durch den Allgemeinmediziner erleichtern die Früherkennung von Krankheiten. Darüber hinaus soll der Hausarzttarif die Qualität der Facharztbehandlung steigern. Da Patienten den Facharzt nur nach Überweisung durch Ihren Allgemeinmediziner konsultieren, kann dieser sicher sein, dass die Behandlung wirklich notwendig ist. Der Facharzt ist motivierter, dem Patienten eine gute Behandlung zukommen zu lassen, um weitere Überweisungen sicherzustellen.
+###### For policyholders, the general practitioner tariff has a major advantage: They pay lower premiums than in the standard basic insurance model. Further advantages: As a rule, family doctors also offer appointments outside office hours. Patients do not have to worry about long waiting times. Initial examinations by the general practitioner facilitate the early detection of diseases. In addition, the general practitioner tariff is intended to increase the quality of specialist treatment. Since patients only consult their specialist after referral by their general practitioner, they can be sure that the treatment is really necessary. The specialist is more motivated to give the patient a good treatment to ensure further referrals.
 
-## Krankenkassen vergleichen und günstigen Hausarzttarif finden
+## Compare health insurances and find a favourable family doctor rate
 
-###### Entscheiden Sie sich für das alternative Versicherunsgmodell "Hausarzt", schränken Sie zwar Ihre freie Arztwahl ein, profitieren allerdings von günstigeren Prämien. Unser Krankenkassen-Vergleich zeigt Ihnen, welcher Versicherer Ihnen einen besonders günstigen Hausarzttarif anbietet.
+###### If you opt for the alternative "family doctor" insurance model, you may limit your free choice of doctor, but benefit from lower premiums. Our health insurance comparison shows you which insurer offers you a particularly favourable family doctor tariff.

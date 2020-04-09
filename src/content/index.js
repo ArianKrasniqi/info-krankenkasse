@@ -21,7 +21,7 @@ export const de = {
     "Jedes Jahr im Herbst legen die Krankenkassen die Prämien für das kommende Jahr fest. Das Bundesamt für Gesundheit (BAG) muss die Prämien bestätigen und veröffentlicht die neuen Beiträge bis zum 24. September. Zu Beginn 2020 sind die Krankenkassenprämien wieder einmal gestiegen. Im Durchschnitt zahlt jeder Versicherte 1,2 Prozent mehr für die mittlere Prämie.",
   ],
   subtitle3:
-    "Jedes Jahr im Herbst legen die Krankenkassen die Prämien für das kommende Jahr fest. Das Bundesamt für Gesundheit (BAG) muss die Prämien bestätigen und veröffentlicht die neuen Beiträge bis zum 24. September. Zu Beginn 2020 sind die Krankenkassenprämien wieder einmal gestiegen. Im Durchschnitt zahlt jeder Versicherte 1,2 Prozent mehr für die mittlere Prämie.",
+    "Lohnt sich der Krankenkassenwechsel? Machen Sie den Krankenkassenvergleich!",
   content3: [
     "Für das kommende Jahr werden abermals steigende Prämien erwartet. Bis Ende Oktober muss Ihre Krankenversicherung Sie über die neue Beitragshöhe informieren. Spätestens dann lohnt es sich, den Krankenkassenvergleich zu machen und nach einer günstigeren Krankenkasse zu suchen. Mit einem Krankenkassenwechsel zu einem günstigeren Anbieter können Sie mehrere Hundert oder sogar Tausend Schweizer Franken sparen - bei gleicher Leistung.",
     "Hat Ihre Krankenkasse eine Prämienerhöhung angekündigt, können Sie bis zum 30. November des Jahres kündigen. Die Kündigung tritt dann zum 31. Dezember in Kraft, ab dem 1. Januar gilt Ihr neuer Krankenkassenvertrag. Mit unserem Krankenkassenvergleich finden Sie heraus, ob sich der Wechsel für Sie lohnt.",

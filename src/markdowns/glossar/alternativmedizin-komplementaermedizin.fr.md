@@ -1,37 +1,37 @@
 ---
 lang: "fr"
 type: "glossar"
-title: Alternativmedizin-Komplementärmedizin
+title: "Médecine alternative – Médecine complémentaire"
 ---
 
-## Francosiz hehe Alternativmedizin: Welche Behandlungen übernimmt die Krankenkasse?
+## Médecine alternative: Quels sont les traitements couverts par l'assurance maladie?
 
-###### Die Begriffe Alternativmedizin und Komplementärmedizin bezeichnen Behandlungsmethoden, die nicht zur Schulmedizin gehören. Dazu zählen etwa Naturheilmittel oder die Traditionelle Chinesische Medizin. Gewisse Leistungen aus dem Bereich der alternativen Medizin werden von der Grundversicherung übernommen. Allerdings müssen die Behandlungen durch von der Krankenkasse zugelassene Leistungserbringer durchgeführt werden.
+###### Les termes médecine alternative et médecine complémentaire désignent des méthodes de traitement qui n'appartiennent pas à la médecine conventionnelle. Il s'agit notamment de remèdes naturels ou de la médecine traditionnelle chinoise. Certains services dans le domaine de la médecine alternative sont couverts par l'assurance maladie de base. Toutefois, les traitements doivent être effectués par des prestataires de services agréés par la caisse d'assurance maladie.
 
 # Form
 
-## Welche Massnahmen der Komplementärmedizin zahlt die Grundversicherung?
+## Quelles mesures de médecine complémentaire paie l'assurance de base?
 
-###### Komplementärmedizinische Methoden werden häufig ergänzend zur Schulmedizin eingesetzt. Viele Versicherte schätzen alternative Behandlungen und Arzneimittel, da sie als schonender gelten als schulmedizinische Varianten. Seit 2017 deckt die obligatorische Krankenpflegeversicherung in der Schweiz fünf alternativmedizinische Behandlungsmethoden ab. Das sind:
+###### Des méthodes médicales complémentaires sont souvent utilisées pour compléter la médecine conventionnelle. De nombreuses personnes assurées apprécient les traitements et les médecines alternatives, car elles sont considérées comme plus douces que la médecine conventionnelle. Depuis 2017, l'assurance-maladie obligatoire en Suisse couvre cinq méthodes alternatives de traitement médical. Ce sont:
 
-### Homöopathie: Der Leitsatz der Homöopathie lautet "Ähnliches wird mit Ähnlichem bekämpft". Patienten erhalten zur Behandlung eine Urtinktur mit stark verdünnten Wirkstoffen. Die sogenannte Potenzierung soll die Wirksamkeit des Mittels verstärken.
+### Homéopathie : la devise de l'homéopathie est " ce qui est semblable est combattu par quelque chose de semblable". Les patients reçoivent pour le traitement une teinture mère avec des principes actifs hautement dilués. La prétendue vise à accroître l'efficacité du médicament.
 
-### Traditionelle Chinesische Medizin (TCM): Die aus China stammende, jahrhundertealte Medizintradition setzt auf Behandlungsmethoden wie Akupunktur, Massagen, Bewegungsübungen und spezielle Diäten.
+### Médecine traditionnelle chinoise (MTC): La tradition médicale chinoise, vieille de plusieurs siècles, est basée sur des méthodes de traitement telles que l'acupuncture, les massages, les exercices et les régimes spéciaux.
 
-### Anthroposophische Medizin: Die anthroposophische Medizin betrachtet nicht ein einzelnes Krankheitsbild, sondern den Menschen als Gesamtes. Im Fokus steht ein enges Arzt-Patienten-Verhältnis.
+### Médecine anthroposophique : La médecine anthroposophique ne considère pas un seul tableau clinique, mais l'être humain dans son ensemble. L'accent est mis sur une relation étroite médecin-patient.
 
-### Neuraltherapie: Mittel zur örtlichen Betäubung sollen das vegetative Nervensystem beeinflussen und Krankheiten an der entsprechenden Körperstelle lindern.
+### Thérapie neuronale : Les anesthésiques locaux sont utilisés pour influencer le système nerveux végétatif et soulager les maladies sur la partie du corps concernée.
 
-### Phytotherapie: Die Phytotherapie nutzt ausschliesslich Pflanzen und deren Wirkstoffe als Heilmittel. Im Gegensatz zur homöopathischen Behandlung wird der Wirkstoff nicht stark verdünnt.
+### Phytothérapie : La phytothérapie utilise exclusivement des plantes et leurs principes actifs comme remèdes. Contrairement au traitement homéopathique, la substance active n'est pas fortement diluée.
 
-## Voraussetzungen für die Kostenübernahme
+## Conditions préalables de prise en charge
 
-###### Die Krankenkassen übernehmen die Kosten für alternativmedizinische Behandlungen, wenn diese von Fachmedizinern durchgeführt werden, die eine Weiterbildung für die gewählte Therapiemethode nachweisen können. Naturheilpraktiker gehören nicht zu den von den Krankenkassen zugelassenen Leistungserbringern.
+###### Les caisses d'assurance-maladie prennent en charge les frais d'un traitement médical alternatif s'il est effectué par des médecins spécialistes qui peuvent apporter la preuve d'une formation continue pour la méthode thérapeutique choisie. Les naturopathes ne font pas partie des prestataires agréés par les caisses d'assurance maladie.
 
-###### Die Kosten für Medikamente aus dem Bereich der Komplementärmedizin übernimmt die Grundversicherung anteilig, abzüglich einer Kostenbeteiligung. Erstattet werden Arzneimittel, die das Bundesamt für Gesundheit (BAG) auf seiner Spezialitätenliste veröffentlicht. Darunter fallen homöopathische Präparate, diverse Naturheilmittel und anthroposophische Arzneimittel.
+###### Dans le domaine de la médecine complémentaire, les coûts des médicaments sont couverts proportionnellement par l'assurance de base, moins la participation aux coûts. Les médicaments publiés par l'Office fédéral de la santé publique (OFSP) dans sa liste de spécialités sont remboursés. Il s'agit notamment de préparations homéopathiques, de divers médicaments naturels et de médicaments anthroposophiques.
 
-## Lohnt sich eine Zusatzversicherung für Alternativmedizin?
+## Une assurance complémentaire pour la médecine alternative en vaut-elle la peine ?
 
-###### Obwohl die Krankenkassen ihre Leistungen im Bereich der alternativen Medizin erweitert haben, lohnt sich unter Umständen eine Zusatzversicherung. Mit einer guten Zusatzversicherungen können Sie auf komplementärmedizinische Behandlungen zurückgreifen, die Sie in der Grundversicherung selbst bezahlen müssten. Darüber hinaus dürfen Sie sich auch von einem Naturheilpraktiker behandeln lassen.
+###### Bien que les caisses d'assurance maladie aient élargi leurs prestations dans le domaine de la médecine alternative, il peut être intéressant de souscrire une assurance complémentaire. Avec une bonne assurance complémentaire, vous pouvez avoir recours à des traitements médicaux complémentaires, que vous devrez payer vous-même dans l'assurance de base. De plus, vous pouvez également être traité par un naturopathe.
 
-###### Legen Sie grossen Wert auf Alternativmedizin und suchen eine passende Zusatzversicherung, helfen wir Ihnen gerne weiter. Vergleichen Sie die verschiedenen Zusatzversicherungen und finden Sie ein Angebot, das zu Ihren Bedürfnissen passt.
+###### Si vous attachez une grande importance à la médecine alternative et recherchez une assurance complémentaire appropriée, nous serons heureux de vous aider. Comparez les différentes assurances complémentaires et trouvez une offre adaptée à vos besoins.

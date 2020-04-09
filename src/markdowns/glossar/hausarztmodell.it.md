@@ -1,33 +1,33 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Hausarztmodell"
+title: "Il modello Medico di famiglia"
 ---
 
-## Das Hausarztmodell der obligatorischen Krankenpflegeversicherung
+## Il modello Medico di famiglia nell’assicurazione sanitaria obbligatoria
 
-###### Das Hausarztmodell gehört zu den alternativen Versicherungsmodellen der obligatorischen Krankenpflegeversicherung. Seit 2007 müssen Schweizer Krankenkassen Ihnen dieses Modell anbieten. Es sieht vor, dass Sie bei allen Gesundheitsfragen zunächst Ihren Hausarzt aufsuchen, der Sie bei Bedarf an einen Facharzt überweist. Durch die Wahl des alternativen Versicherungsmodells können Sie Prämien sparen.
+###### Il modello Medico a famiglia appartiene ai modelli assicurativi alternativi dell'assicurazione medica obbligatoria. Dal 2007 Swiss Assicurazioni sanitarie ha dovuto offrirti questo modello. Prevede di consultare prima il proprio medico di famiglia per tutti i problemi di salute e di rivolgersi ad uno specialista se necessario. Scegliendo il modello assicurativo alternativo, puoi risparmiare premi.
 
 # Form
 
-## So finden Sie einen geeigneten Allgemeinmediziner
+## Come trovare un medico generico adatto
 
-###### Das alternative Hausarzt-Versicherungsmodell bieten Schweizer Krankenkassen seit den 1990er Jahren an. Seit der Gesundheitsreform von 2007 sind sie sogar dazu verpflichtet, ihren Versicherungsnehmern dieses Modell zur Wahl zu stellen.
+###### Il modello assicurativo alternativo medico di famiglia è offerto da Swiss Assicurazioni sanitarie dagli anni '90. Dalla riforma sanitaria del 2007, sono stati persino obbligati a offrire la possibilità di scegliere questo modello ai loro assicurati.
 
-###### Möchten Sie den Hausarzttarif in Anspruch nehmen, müssen Sie zunächst einen geeigneten Hausarzt wählen. Eine Liste mit allen geeigneten Ärzten in Ihrem Wohnkanton erhalten Sie von Ihrer Krankenkasse. Sie können sich für einen allein praktizierenden Allgemeinmediziner entscheiden oder auch für einen Arzt aus einer Gemeinschaftspraxis. Ihr gewählter Arzt ist fortan Ihr erster Ansprechpartner für alle Gesundheitsfragen. Im Krankheitsfall wenden Sie sich zunächst an ihn. Bei Bedarf erhalten Sie eine Überweisung für einen Spezialisten.
+###### Se desideri usufruire della tariffa medico di famiglia, devi prima selezionare un medico di famiglia adatto. Riceverai un elenco di tutti i medici idoneii nel tuo cantone di residenza dalla tua assicurazione sanitaria. Puoi optare per un medico generico che pratica da solo o per un medico in uno studio medico collettivo. Il medico prescelto sarà il primo punto di contatto per tutti i problemi di salute. In caso di malattia, contattalo prima. Se necessario, riceverai un rinvio per uno specialista.
 
-###### Sollten Sie mit Ihrem Arzt einmal nicht mehr zufrieden sein oder ziehen Sie um, können Sie problemlos zu einem anderen Hausarzt wechseln.
+###### Se non sei più soddisfatto del tuo medico o ti trasferisci, puoi facilmente passare a un altro medico di famiglia.
 
-## Welche Kriterien muss der Mediziner erfüllen?
+## Quali criteri deve soddisfare il medico?
 
-###### Mediziner, die am Hausarzttarif teilnehmen möchten, müssen gemäss § 73 b SGB V gewissen Voraussetzungen erfüllen. Sie müssen zum Beispiel an Qualitätszirkeln teilnehmen, nach spezifischen Leitlinien behandeln und ein Qualitätsmanagement nachweisen können. Die Krankenkassen haben sicherzustellen, dass diese Vorgaben eingehalten werden, bevor Sie Hausärzte auf ihre Listen aufnehmen.
+###### I medici che desiderano prendere parte alla tariffa Medico di famiglia devono soddisfare determinati requisiti in conformità alla § 73 b SGB V. Devono, ad esempio, partecipare a circoli di qualità, trattare linee guida specifiche e dimostrare la gestione della qualità. Le assicurazioni sanitarie devono assicurarsi che queste linee guida vengano rispettate prima di includere i medici di famiglia nelle loro liste.
 
-## Vorteile des Hausarzttarifs
+## Vantaggi della tariffa medico di famiglia
 
-###### Der Hausarzttarif soll unnötige Besuche beim Facharzt und im Spital vermeiden. Als erster Ansprechpartner ist der Allgemeinmediziner mit der Krankengeschichte des Patienten vertraut und soll ihn dadurch effizienter durch das Gesundheitssystem führen. Auf diese Weise sollen sich Behandlungskosten einsparen lassen.
+###### La tariffa medico di famiglia dovrebbe evitare visite non necessarie da specialisti e all'ospedale. Come primo punto di contatto, il medico di famiglia ha familiarità con la storia medica del paziente e dovrebbe quindi guidarlo in modo più efficiente attraverso il sistema sanitario. In questo modo, è possibile risparmiare i costi di trattamento.
 
-###### Für Versicherungsnehmer hat der Hausarzttarif vor allem einen grossen Vorteil: Sie zahlen geringere Prämien als im Standard-Modell der Grundversicherung. Weitere Vorteile: Hausärzte bieten in aller Regel auch Termine ausserhalb der Sprechzeiten an. Patienten müssen keine langen Wartezeiten befürchten. Erstuntersuchungen durch den Allgemeinmediziner erleichtern die Früherkennung von Krankheiten. Darüber hinaus soll der Hausarzttarif die Qualität der Facharztbehandlung steigern. Da Patienten den Facharzt nur nach Überweisung durch Ihren Allgemeinmediziner konsultieren, kann dieser sicher sein, dass die Behandlung wirklich notwendig ist. Der Facharzt ist motivierter, dem Patienten eine gute Behandlung zukommen zu lassen, um weitere Überweisungen sicherzustellen.
+###### Per gli assicurati, la tariffa del medico di famiglia presenta un grande vantaggio: pagano premi inferiori rispetto al modello standard dell’assicurazione di base. Altri vantaggi: i medici di medicina generale offrono anche il servizio al di fuori degli orari di ufficio. I pazienti non devono preoccuparsi di lunghi tempi di attesa. Gli esami iniziali da parte del medico generale facilitano la diagnosi precoce delle malattie. Inoltre, la tariffa del medico di famiglia dovrebbe aumentare la qualità del trattamento specialistico. I pazienti possono consultare lo specialista solo dopo il rinvio dal proprio medico di famiglia, quindi possono essere sicuri che il trattamento sia davvero necessario. Lo specialista è più motivato a fornire al paziente un buon trattamento per garantire ulteriori rinvii.
 
-## Krankenkassen vergleichen und günstigen Hausarzttarif finden
+## Confrontare le assicurazioni sanitarie e trovare tariffe medico di famiglia economiche
 
-###### Entscheiden Sie sich für das alternative Versicherunsgmodell "Hausarzt", schränken Sie zwar Ihre freie Arztwahl ein, profitieren allerdings von günstigeren Prämien. Unser Krankenkassen-Vergleich zeigt Ihnen, welcher Versicherer Ihnen einen besonders günstigen Hausarzttarif anbietet.
+###### Se optate per il modello assicurativo alternativo "medico di famiglia", limitate la vostra libera scelta del medico, ma beneficiate di premi più economici. Il nostro confronto assicurazioni sanitarie mostra quale assicuratore offre una tariffa di medico di famiglia particolarmente conveniente.

@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Gruppenpraxis (HMO)"
+title: "Group practice (HMO)"
 ---
 
 ## HMO: Das Gruppenpraxis-Modell der obligatorischen Grundversicherung
@@ -10,24 +10,24 @@ title: "Gruppenpraxis (HMO)"
 
 # Form
 
-## Was ist eine HMO-Praxis?
+## What is an HMO practice?
 
-###### Die Abkürzung HMO steht für Health Maintenance Organization, was übersetzt so viel wie "Organisation zur Erhaltung der Gesundheit" bedeutet. Mehrere Ärzte schliessen sich zu so einer Organisation zusammen und arbeiten gemeinsam in einer Gruppenpraxis. Neben Allgemeinmedizinern finden Sie in derartigen Praxen meist auch diverse Fachärzte und Therapeuten weiterer Fachrichtungen. Die Praxen sind in einem bestimmten Einzugsgebiet tätig. Welche Gruppenpraxen es an Ihrem Wohnort gibt, erfahren Sie von Ihrer Krankenkasse.
+###### The abbreviation HMO stands for Health Maintenance Organization, which means "organization for the preservation of health". Several doctors join together to form such an organisation and work together in a group practice. In addition to general practitioners, you will usually also find various specialists and therapists from other disciplines in such practices. The practices operate in a certain catchment area. Your health insurance company will tell you which group practices exist in your area of residence.
 
-###### Das Versicherungsmodell stammt ursprünglich aus den USA und hat sich dort schon um 1910 herum entwickelt. In der Schweiz existieren entsprechende Praxen seit den 1990er Jahren. Die Gruppenpraxen gehören entweder zu einer Krankenversicherung oder schliessen Verträge mit mehreren Krankenkassen ab. Von den Kassen erhalten Ärzte pro eingeschriebenem Versicherungsnehmer eine monatliche Pauschale. Diese Pauschale deckt die gesamten medizinischen Leistungen ab, die der Versicherte in Anspruch nimmt. Darunter fallen nicht nur die Behandlungen beim Gruppenpraxis-Arzt selbst, sondern auch Behandlungen bei Fachärzten, im Spital und weitere therapeutische Massnahmen. Diese Regelung verfolgt das Ziel, die Zahl externer medizinischer Leistungen möglichst gering zu halten.
+###### The insurance model was originally developed in the USA around 1910. In Switzerland, such practices have existed since the 1990s. The group practices either belong to one health insurance company or conclude contracts with several health insurance companies. Doctors receive a monthly lump sum from the insurance companies for each registered policyholder. This lump sum covers all the medical services used by the insured person. This includes not only treatment by the group doctor himself, but also treatment by specialists, in hospital and other therapeutic measures. The aim of this regulation is to keep the number of external medical services as low as possible.
 
-## So funktioniert das Gruppenpraxis-Modell
+## This is how the group practice model works
 
-###### Wählen Sie dieses alternative Versicherungsmodell, entscheiden Sie sich dafür, im Krankheitsfall immer zuerst eine Gruppenpraxis aufzusuchen. Ihre Praxis können Sie aus einer Liste wählen, die Sie von Ihrer Krankenkasse erhalten.
+###### If you choose this alternative insurance model, decide to always go to a group practice first in the event of illness. You can choose your practice from a list provided by your health insurance company.
 
-###### Für die eingeschränkte Arztwahl bestehen gewisse Ausnahmen. In Notfällen dürfen Sie auch einen anderen Arzt aufsuchen. Gynäkologische Vorsorgeuntersuchungen und Kontrolluntersuchungen beim Augenarzt sind ebenfalls von der Gruppenpraxen-Pflicht ausgenommen. Welche Ausnahmeregelungen genau bestehen, ist in den Vertragsbedingungen Ihrer Krankenkasse festgelegt.
+###### There are certain exceptions for the limited choice of doctor. In emergencies, you may also see another doctor. Gynaecological check-ups and check-ups with an ophthalmologist are also exempt from the group practice requirement. The exact exceptions are specified in the terms and conditions of your health insurance company.
 
-## Vorteile des Gruppenpraxis-Modells
+## Advantages of the group practice model
 
-###### Die eingeschränkte Arztwahl belohnen Krankenversicherer mit deutlich reduzierten Prämien. Mit diesem Versicherungsmodell können Sie im Vergleich zum Standard-Modell bis zu 25 Prozent sparen.
+###### Health insurers are rewarding the limited choice of doctor with significantly reduced premiums. With this insurance model you can save up to 25 percent compared to the standard model.
 
-###### Da sich in den Gruppenpraxen verschiedene Ärzte und Therapeuten zusammenschliessen, erhalten Sie dort einen Grossteil der medizinischen Versorgung unter einem Dach. Das reduziert Wartezeiten bei Überweisungen und Sie können sich in einer vertrauten Umgebung behandeln lassen.
+###### As various doctors and therapists come together in the group practices, you receive a large proportion of your medical care under one roof. This reduces waiting times for referrals and you can be treated in a familiar environment.
 
-## Vergleichen Sie die alternativen Tarife der Schweizer Krankenkassen
+## Compare the alternative rates offered by Swiss health insurance companies
 
-###### Die hohe Prämienersparnis macht das Gruppenpraxis-Modell vor allem für junge und gesunde Versicherungsnehmer interessant. Möchten Sie von diesem alternativen Tarif profitieren, machen Sie bei uns den Versicherungsvergleich. Wir helfen Ihnen, die Krankenkasse mit der günstigsten Grundversicherung zu finden.
+###### The high premium savings make the group practice model particularly interesting for young and healthy policyholders. If you would like to benefit from this alternative tariff, please make an insurance comparison with us. We will help you find the health insurance company with the cheapest basic insurance.

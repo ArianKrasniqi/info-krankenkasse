@@ -1,37 +1,37 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Krankenkassenprämien"
+title: "Health Insurance Premiums"
 ---
 
-## Was Sie zu den Krankenkassenprämien in der Schweiz wissen müssen
+## What you need to know about health insurance premiums in Switzerland
 
-###### Jedes Jahr im Herbst legen die Schweizer Krankenversicherer die Krankenkassenprämien für das kommende Jahr fest. Für Versicherungsnehmer lohnt sich ein Vergleich. Denn in der Grundversicherung unterscheiden sich zwar die Prämien, die Leistungen sind jedoch gleich. Auch durch die Wahl eines alternativen Versicherungsmodells oder durch die Erhöhung der Franchise können Sie Ihre Prämien senken.
+###### Every autumn, the Swiss health insurers set the health insurance premiums for the coming year. A comparison is worthwhile for policyholders. This is because although the premiums for basic insurance differ, the benefits are the same. You can also reduce your premiums by choosing an alternative insurance model or by increasing the franchise.
 
 # Form
 
-## Wie setzt sich die Prämie in der Grundversicherung zusammen?
+## What is the composition of the premium in the basic insurance?
 
-###### Die Krankenkassenprämie in der obligatorischen Krankenpflegeversicherung unterscheidet sich je nach Wohnkanton, Einkommen und Alter des Versicherungsnehmers. Jede Krankenkasse erhebt zudem etwas unterschiedliche Prämien. Im Herbst jeden Jahres passen die Versicherer die Prämienhöhe an. Für Versicherte bedeutet dies meist, dass sie im kommenden Jahr mehr für ihre Krankenversicherung bezahlen müssen. Zum Jahr 2019 stieg die mittlere Prämie laut Bundesamt für Gesundheit (BAG) zum Beispiel um 1,2 Prozent und liegt nun bei 315 Schweizer Franken. Abhängig vom Wohnkanton fällt die Anpassung jedoch recht unterschiedlich aus: Während einige Schweizer nun 1,5 Prozent weniger zahlen, stieg die Krankenkassenprämie für andere um 3,6 Prozent.
+###### The health insurance premium in compulsory health insurance varies depending on the canton of residence, income and age of the policyholder. Each health insurance fund also charges slightly different premiums. In the autumn of each year, the insurers adjust the premium amount. For policyholders, this usually means that they will have to pay more for their health insurance in the coming year. According to the Federal Office of Public Health (FOPH), for example, the average premium rose by 1.2 percent to 315 Swiss francs in 2019. Depending on the canton of residence, however, the adjustment varies considerably: While some Swiss now pay 1.5 percent less, the health insurance premium for others rose by 3.6 percent.
 
-## Prämienrabatt für alternative Versicherungsmodelle
+## Premium discount for alternative insurance models
 
-###### Wer seine Krankenkasseprämie senken möchte, hat verschiedene Möglichkeiten. Die Krankenkassen gewähren zum Beispiel Prämienrabatt, wenn ein alternatives Versicherungsmodell wählen. Während das Standardmodell freie Arztwahl garantiert, schränken die alternativen Versicherungsmodelle die Auswahl des ersten Ansprechpartners im Krankheitsfall ein. Das ermöglicht Einsparungen von bis zu 20 Prozent.
+###### If you want to lower your health insurance premium, you have several options. For example, the health insurance funds grant premium discounts if an alternative insurance model is chosen. While the standard model guarantees free choice of doctor, the alternative insurance models limit the selection of the first contact person in the event of illness. This enables savings of up to 20 percent.
 
-###### Die drei gängigsten Modelle sind:
+###### The three most common models are:
 
-### Das Hausarzt-Modell: Sie wenden sich im Krankheitsfall zunächst an Ihren Hausarzt.
+### The family doctor model: In the event of illness, you first contact your family doctor.
 
-### Das Gruppenpraxis-Modell: Sie suchen im Krankheitsfall zuerst einen Arzt in einer Gruppenpraxis (HMO) auf.
+### The group practice model: In the event of illness, you first consult a doctor in a group practice (HMO).
 
-### Das Telmed-Modell: Sie wenden sich vor jedem Arztbesuch an eine telefonische Erstberatungsstelle.
+### The Telmed model: Before each visit to the doctor, you contact an initial consultation centre by telephone.
 
-###### Zusätzlich gibt es ein Bonus-Modell, das Versicherungsnehmer belohnt, die selten medizinische Behandlungen benötigen. Mit jedem Jahr, in dem Sie keine Rechnungen bei der Krankenkasse einreichen, wird die Prämie gesenkt. Dafür zahlen Sie jedoch eine um zehn Prozent höhere Ausgangsprämie und können die Höhe der Kostenbeteiligung nicht frei wählen.
+###### In addition, there is a bonus model that rewards policyholders who rarely need medical treatment. With every year in which you do not submit any bills to the health insurance company, the premium is reduced. For this, however, you pay a ten percent higher initial premium and cannot freely choose the amount of the cost sharing.
 
-## Sparen durch eine höhere Franchise
+## Saving through a higher deductible rate
 
-###### Sparen können Sie auch, wenn Sie die Franchise erhöhen. In der obligatorischen Krankenpflegeversicherung leisten Sie einen Kostenbeitrag für medizinische Behandlungen und Medikamente. Diese Selbstbeteiligung setzt sich aus der Jahresfranchise und einem Selbstbehalt zusammen. Die ordentliche Jahresfranchise beträgt 300 Schweizer Franken. Bis zu dieser Summe zahlen Sie Ihre Behandlungs- und Medikamentenkosten selbst. Alle weitergehenden Kosten übernimmt die Krankenkasse, Sie zahlen nur noch einen Selbstbehalt in Höhe von zehn Prozent, höchstens 700 Franken pro Kalenderjahr für Erwachsene, 350 Franken für Kinder. Entscheiden Sie sich freiwillig für eine höhere Franchise, senkt die Krankenversicherung die Prämie. Die maximal mögliche Jahresfranchise beträgt 2'500 Franken für Erwachsene, 600 Franken für Kinder.
+###### You can also save if you increase the franchise. In the compulsory health insurance, you contribute to the cost of medical treatment and medication. This excess consists of the annual deductible and a deductible. The ordinary annual deductible is 300 Swiss francs. Up to this amount, you pay your treatment and medication costs yourself. All further costs are covered by the health insurance fund, you only pay a deductible of ten percent, a maximum of 700 francs per calendar year for adults and 350 francs for children. If you opt voluntarily for a higher deductible, the health insurance reduces the premium. The maximum possible annual deductible is CHF 2,500 for adults and CHF 600 for children.
 
-## Ein Vergleich der Krankenkassenprämien lohnt sich
+## A comparison of health insurance premiums is worthwhile
 
-###### In der Grundversicherung erheben die Versicherer unterschiedlich hohe Krankenkassenprämien für gleiche Leistungen. Daher lohnt sich ein Krankenkassenvergleich. Durch einen Krankenkassenwechsel können Sie deutlich sparen, ohne Leistungseinbussen befürchten zu müssen. Die Leistungen der freiwilligen Zusatzversicherungen berücksichtigt der Prämienvergleich noch nicht. Die Gegenüberstellung der Versicherer empfiehlt sich jedoch auch für den zusätzlichen Versicherungsschutz. Wir beraten Sie gerne.
+###### In basic insurance, insurers charge different amounts of health insurance premiums for the same benefits. It is therefore worth comparing health insurance companies. By changing your health insurance company, you can make significant savings without having to fear a loss of benefits. The premium comparison does not yet take into account the benefits of the voluntary supplementary insurances. However, a comparison of insurers is also recommended for additional insurance cover. We will be happy to advise you.

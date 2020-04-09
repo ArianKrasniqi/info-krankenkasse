@@ -1,39 +1,39 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Zahnpflegeversicherung"
+title: "Assurance de soins dentaires"
 ---
 
-## Warum eine zusätzliche Zahnpflegeversicherung sinnvoll ist
+## Pourquoi une assurance de soins dentaires supplémentaire est-elle judicieuse?
 
-###### Die obligatorische Grundversicherung deckt nur eine rudimentäre Versorgung durch den Zahnarzt ab. Zahnbehandlungen können allerdings sehr teuer werden. Die Zusatzversicherung für Zahnpflege schützt Sie vor den Mehrkosten. Die meisten Krankenkassen in der Schweiz bieten die Zahnzusatzversicherung an.
+###### L'assurance de base obligatoire ne couvre que les soins dentaires élémentaires. Cependant, les traitements dentaires peuvent être très coûteux. L'assurance complémentaire pour soins dentaires vous protège contre les frais supplémentaires. La plupart des caisses-maladie suisses proposent une assurance dentaire complémentaire.
 
 # Form
 
-## Welche Leistungen deckt die Zahnzusatzversicherung ab?
+## Quelles sont les prestations couvertes par l'assurance dentaire complémentaire?
 
-###### Müssen Sie zum Zahnarzt, kann das unter Umständen richtig teuer werden. Die obligatorische Grundversicherung übernimmt lediglich Behandlungen, die sich auf eine nicht vermeidbare Erkrankung des Kauapparates oder auf einen Unfall zurückführen lassen. Zahnfüllungen, Wurzelbehandlungen, Zahnersatz und Zahnstellungskorrekturen müssen Sie aus eigener Tasche zahlen. Gleiches gilt für Leistungen aus dem Bereich der Mundhygiene.
+###### Les frais de dentiste sont onéreux. L'assurance de base obligatoire ne couvre que les traitements qui peuvent être attribués à une maladie inévitable de l'appareil masticateur ou à un accident. Les obturations dentaires, les traitements endodontiques, les prothèses dentaires et les corrections de position des dents doivent être payés de votre poche. Il en va de même pour les services dans le domaine de l'hygiène buccale.
 
-###### Möchten Sie sich vor den hohen Kosten einer Zahnbehandlung schützen, können Sie eine freiwillige Zusatzversicherung abschliessen. Diese erhalten Sie bei Ihrer Krankenkasse oder bei einem anderen Krankenversicherer Ihrer Wahl.
+###### Si vous souhaitez vous protéger contre le coût élevé des soins dentaires, vous pouvez souscrire une assurance complémentaire facultative. Vous pouvez vous le procurer auprès de votre caisse d'assurance maladie ou d'une autre caisse d'assurance maladie de votre choix.
 
-###### Den Leistungsumfang der Zusatzversicherung für Zahnpflege legt jeder Versicherer selbst fest. Zu den gängigen Leistungen gehören:
+###### L'étendue de l'assurance complémentaire de soins dentaires est déterminée par chaque assureur. Les avantages habituels incluent:
 
-### Kontrolluntersuchungen
+### Examens de contrôle
 
-### zahnerhaltende Behandlungen
+### Traitements de conservation des dents
 
-### Zahnprothetik
+### Prothèses dentaires
 
-### kieferorthopädische Massnahmen
+### Traitement orthodontique
 
-###### Die meisten Krankenversicherungen bieten die Zahnzusatzversicherung in verschiedenen Stufen an, die sich in der Höhe der Kostenübernahme unterscheiden. Maximal deckt die Zusatzversicherung meist 75 Prozent der Behandlungskosten ab. In der Regel gilt dabei eine bestimmte Obergrenze pro Jahr, beispielsweise 2'000 oder 2'500 Schweizer Franken. Je höher die Kostenübernahme, umso höher fallen auch die Prämien aus.
+###### La plupart des caisses d'assurance maladie offrent une assurance dentaire complémentaire à différents niveaux, qui diffèrent par le montant de la couverture. La couverture maximale de l'assurance complémentaire est généralement de 75 % du coût du traitement. En règle générale, une certaine limite supérieure s'applique chaque année, par exemple 2'000 ou 2'500 francs suisses. Plus la couverture des coûts est élevée, plus les primes sont élevées.
 
-## Für wen lohnt sich eine Zahnpflegeversicherung?
+## Pour qui l'assurance soins dentaires est-elle utile?
 
-###### Eine zusätzliche Versicherung für Zahnpflege verursacht zwar monatliche Mehrkosten, die Investition lohnt sich aber. Jeder Erwachsene benötigt irgendwann Zahnbehandlungen, deren Kosten schnell die Prämien für die Zusatzversicherung übersteigen. Vor allem Familien mit Kindern sind mit einer Zahnpflegeversicherung gut beraten. Sie deckt auch Massnahmen zur Korrektur von Zahnfehlstellungen ab, leistet zum Beispiel Zuschüsse für eine Zahnspange.
+###### Une assurance complémentaire pour les soins dentaires entraîne des frais mensuels supplémentaires, mais l'investissement en vaut la peine. Chaque adulte aura éventuellement besoin de soins dentaires à un coût qui dépasse rapidement les primes de l'assurance complémentaire. Les familles avec enfants en particulier sont bien avisées de souscrire une assurance soins dentaires. Il couvre également les mesures visant à corriger les problèmes de malocclusions, telles que les subventions pour les appareils dentaires.
 
-## Was müssen Sie beim Abschluss der Zusatzversicherung beachten?
+## De quoi faut-il tenir compte lors de la souscription d'une assurance complémentaire?
 
-###### In der Regel verlangen die Krankenkassen vor dem Abschluss einer Zahnpflegeversicherung ein Attest. Dieses soll den Gesundheitszustand Ihrer Zähne bestätigen. Besteht bereits Behandlungsbedarf, kann es sein, dass der Versicherer die Kostenübernahme für diesen bestimmten Punkt ausschliesst. Es besteht zudem keine Aufnahmepflicht, die Zusatzversicherung kann die Aufnahme komplett verweigern. Für Kinder unter einer gewissen Altersgrenze müssen Sie bei den meisten Versicherern kein Attest vorlegen.
+###### En règle générale, les caisses maladie exigent un certificat avant de souscrire une assurance soins dentaires. Ceci devrait confirmer l'état de santé de vos dents. S'il existe déjà un besoin de traitement, l'assureur peut exclure la prise en charge des frais pour ce point particulier. De plus, il n'y a aucune obligation de souscrire une police d'assurance, l'assurance complémentaire peut refuser complètement de souscrire une assurance. Pour les enfants de moins d'un certain âge, la plupart des assureurs n'exigent pas que vous présentiez un certificat.
 
-###### Da sich die Leistungen der einzelnen Versicherer stark unterscheiden, lohnt sich in jedem Fall ein Krankenkassenvergleich. Wir unterstützen Sie gerne und helfen Ihnen, eine günstige Zusatzversicherung für Zahnpflege zu finden.
+###### Étant donné que les prestations des différents assureurs varient considérablement, il est toujours intéressant de comparer les caisses d'assurance-maladie. Nous sommes heureux de vous soutenir et de vous aider à trouver une assurance complémentaire abordable pour les soins dentaires.

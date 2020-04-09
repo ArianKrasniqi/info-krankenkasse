@@ -1,35 +1,35 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Obligatorische Krankenversicherung"
+title: "Compulsory health insurance"
 ---
 
-## Die obligatorische Krankenversicherung: Pflicht für jeden Einwohner der Schweiz
+## Compulsory health insurance: Obligation for every inhabitant of Switzerland
 
-###### In der Schweiz besteht Krankenversicherungspflicht. Wer in der Schweiz lebt oder dort arbeitet, muss die sogenannte obligatorische Krankenversicherung, auch Grundversicherung genannt, abschliessen. Die Wahl der Krankenkasse steht den Versicherungsnehmern dabei frei. Durch die Krankenversicherungspflicht möchte der Bund erreichen, dass jeder Schweizer Bürger für den Krankheitsfall finanziell abgesichert ist.
+###### Health insurance is compulsory in Switzerland. Anyone who lives or works in Switzerland must take out what is known as compulsory health insurance, also known as basic insurance. Policyholders are free to choose their health insurance company. Through the compulsory health insurance, the Confederation aims to ensure that every Swiss citizen is financially secure in the event of illness.
 
 # Form
 
-## Welche Bedingungen gelten in der obligatorischen Krankenversicherung?
+## What are the conditions for compulsory health insurance?
 
-###### Die Bedingungen der obligatorischen Krankenpflegeversicherung regelt das Krankenversicherungsgesetzt (KVG). Seit 1996 sieht es vor, dass jede Person, die in der Schweiz lebt oder arbeitet, eine Grundversicherung abschliessen muss. Die obligatorische Krankenversicherung übernimmt die grundlegende medizinische Versorgung bei Krankheit, Unfall sowie Schwangerschaft und Mutterschaft.
+###### The conditions of compulsory health insurance are governed by the Health Insurance Act (KVG). Since 1996, it has stipulated that every person who lives or works in Switzerland must take out basic health insurance. Compulsory health insurance covers basic medical care in the event of illness, accident, pregnancy or maternity.
 
-###### In der Regel begleichen die Versicherten die Kosten für medizinische Behandlungen und Medikamente zunächst selbst. Anschliessend wenden sie sich zwecks Erstattung an Ihren Krankenversicherer. Spitäler rechnen meist direkt mit den Krankenkassen ab.
+###### As a rule, insured persons initially pay for medical treatment and medication themselves. They then contact their health insurer for reimbursement. Hospitals usually settle their accounts directly with the health insurance companies.
 
-###### Familienmitglieder sind nicht automatisch in der Grundversicherung mitversichert. Für jedes Familienmitglied muss ein gesonderter Versicherungsvertrag abgeschlossen werden.
+###### Family members are not automatically covered by basic insurance. A separate insurance contract must be concluded for each family member.
 
-## Wie hoch sind die Krankenkassenprämien?
+## How high are the health insurance premiums?
 
-###### Für die Leistungen der Grundversicherung entrichten die Versicherungsnehmer eine monatliche Krankenkassenprämie. In der Gestaltung ihrer Prämien sind die Krankenversicherer weitgehend frei, sofern sie einige gesetzliche Vorgaben beachten. Die Höhe der Prämie richtet sich nach dem Einkommen sowie nach den vom Bundesamt für Gesundheit (BAG) definierten Prämienregionen und Altersgruppen. Derzeit gibt es 43 Prämienregionen in der Schweiz, die Altersgruppen teilen sich ein in Kinder und Jugendliche bis 18 Jahre, junge Erwachsene zwischen 18 und 26 Jahre und Erwachsene ab 26 Jahre.
+###### Policyholders pay a monthly health insurance premium for basic insurance benefits. Health insurers are largely free to set their premiums as long as they comply with certain legal requirements. The amount of the premium depends on income and on the premium regions and age groups defined by the Federal Office of Public Health (FOPH). There are currently 43 premium regions in Switzerland; the age groups are divided into children and adolescents under 18, young adults between 18 and 26 and adults aged 26 and over.
 
-## Die Selbstbeteiligung in der Grundversicherung
+## The deductible in basic health insurance
 
-###### Neben der Prämie haben Versicherungsnehmer eine Selbstbeteiligung zu leisten. Diese setzt sich aus der Jahresfranchise und dem Selbstbehalt zusammen.
+###### In addition to the premium, policyholders have to pay a deductible. This consists of the annual deductible and the deductible.  
 
-###### Die Franchise bezeichnet einen jährlichen Festbetrag, bis zu dem Sie Ihre Behandlungs- und Medikamentenkosten selbst tragen müssen. Die ordentliche Jahresfranchise im Standard-Modell der Grundversicherung beträgt für Erwachsene ab 18 Jahren 300 Schweizer Franken, 0 Franken für Kinder. Wahlweise können Erwachsene ihre Franchise auf bis zu 2'500 Franken erhöhen und dadurch Prämien sparen. Für Kinder ist eine Erhöhung bis 600 Franken möglich.
+###### The deductible is an annual fixed amount up to which you have to pay your own treatment and medication costs. The ordinary annual deductible in the standard model of basic insurance is 300 Swiss francs for adults aged 18 and over and 0 Swiss francs for children. Adults have the option of increasing their deductible to up to CHF 2,500, thereby saving premiums. For children, an increase of up to CHF 600 is possible.
 
-###### Übersteigen die Behandlungskosten die Jahresfranchise, deckt die Krankenversicherung den Mehrbetrag. Sie leisten nun noch einen Selbstbehalt in Höhe von zehn Prozent. Maximal zahlen Erwachsene einen Selbstbehalt von 700 Franken im Jahr, Kinder von 350 Franken.
+###### If the treatment costs exceed the annual deductible, the health insurance covers the additional amount. You now pay a deductible of ten percent. Adults pay a maximum deductible of CHF 700 per year, children CHF 350.
 
-## Krankenkassen vergleichen und günstige Grundversicherung abschliessen
+## Compare health insurances and take out a low-cost basic insurance policy
 
-###### Zwar besteht Versicherungspflicht, bei welcher Krankenkasse Sie sich versichern lassen, können Sie jedoch frei wählen. In der Schweiz gibt es weit mehr als 65 zugelassene Krankenversicherer. Für die obligatorische Krankenversicherung bieten alle die gleichen, gesetzlich vorgegebenen Leistungen. Die Höhe der Prämien gestaltet sich jedoch sehr unterschiedlich. Sparen können Sie zudem, wenn Sie ein alternatives Modell der Grundversicherung wählen. Mit unserem unabhängigen Krankenkassenvergleich finden Sie den Versicherer mit den niedrigsten Prämien.
+###### Although it is compulsory to take out insurance with which health insurance company you are insured, you are free to choose. There are far more than 65 licensed health insurers in Switzerland. For compulsory health insurance, they all offer the same legally prescribed benefits. However, the level of premiums varies greatly. You can also save if you choose an alternative basic insurance model. With our independent health insurance comparison you will find the insurer with the lowest premiums.

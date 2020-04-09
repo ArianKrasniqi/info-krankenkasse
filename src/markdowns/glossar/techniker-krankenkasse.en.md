@@ -1,29 +1,29 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Techniker Krankenkasse"
+title: "Techniker health insurance"
 ---
 
-## Techniker Krankenkasse TKK: Was Grenzgänger bei der Krankenversicherung beachten müssen
+## Techniker health insurance TKK: What cross-border commuters need to consider when it comes to health insurance
 
-###### Wer im Ausland lebt und in der Schweiz arbeitet, muss eine Krankenversicherung über einen Schweizer Versicherer abschliessen. Als Grenzgänger haben Sie maximal drei Monate lang Zeit, einen entsprechenden Nachweis zu erbringen. Für Grenzgänger aus Deutschland besteht jedoch Versicherungswahlrecht. Waren Sie bislang bei der Techniker Krankenkasse TKK versichert, können Sie Ihren Versicherungsschutz unter Umständen behalten.
+###### If you live abroad and work in Switzerland, you must take out health insurance with a Swiss insurer. As a cross-border commuter, you have a maximum of three months to provide proof of this. However, cross-border commuters from Germany have the option of taking out insurance. If you were previously insured with the Techniker health insurance TKK, you may be able to retain your insurance cover under certain circumstances.
 
 # Form
 
-## Krankenkasse Grenzgänger: Ausnahmeregelung für Arbeitnehmer aus Nachbarländern
+## Health insurance border crosser: Derogation for workers from neighboring countries
 
-###### Generell besteht für Grenzgänger Krankenversicherungspflicht in der Schweiz. Für Arbeitnehmer mit Wohnsitz in den Nachbarländern Deutschland, Italien, Frankreich und Österreich gilt jedoch eine Sonderregelung. Sie können sich weiterhin über eine Krankenkasse im Heimatland versichern lassen. Das gilt auch für nichterwerbstätige Familienangehörige der Grenzgänger.
+###### In general, cross-border commuters are subject to compulsory health insurance in Switzerland. However, a special regulation applies to employees with residence in the neighboring countries Germany, Italy, France and Austria. You can still take out health insurance in your home country. This also applies to inactive family members of cross-border commuters.
 
-###### Wollen Sie sich von der Krankenversicherungspflicht befreien lassen, reichen Sie innerhalb von drei Monaten einen entsprechenden Antrag bei der zuständigen Behörde Ihres Arbeitskantons ein. Dorthin müssen Sie sich auch wenden, wenn Sie doch von der Techniker Kasse zu einem Schweizer Krankenversicherer gewechselt haben. In diesem Fall haben Sie ebenfalls drei Monate lang Zeit, um einen Versicherungsnachweis zu erbringen.
+###### If you want to be exempted from the health insurance obligation, submit an application to the competent authority of your canton of employment within three months. You will also have to go there if you have changed from the Techniker Kasse to a Swiss health insurer. In this case, you also have three months to provide proof of insurance.
 
-###### Entscheiden Sie sich für einen Schweizer Krankenversicherer, erhalten Sie bei Vertragsabschluss das Formular E106. Das reichen Sie bei einem beliebigen Krankenversicherer im Wohnland ein, etwa bei der Techniker Krankenkasse. Von dieser erhalten Sie eine Krankenkassenkarte und können sich nun auch im Wohnland medizinisch behandeln lassen. Versäumen Sie diese Registrierung nicht. Reichen Sie das Formular E106 nicht ein, besteht kein Anspruch auf medizinische Leistungen im Wohnland. Die Registrierung kann zudem nicht rückwirkend erfolgen.
+###### If you choose a Swiss health insurer, you will receive form E106 when you sign the contract. You can submit this to any health insurer in your country of residence, such as Techniker health insurance. They will send you a health insurance card and you can now also receive medical treatment in your country of residence. Don't miss this registration. If you do not submit form E106, you will not be entitled to medical treatment in your country of residence. You cannot register retroactively.
 
-## Wie unterscheiden sich deutsche und Schweizer Krankenkassen?
+## What are the differences between German and Swiss health insurance funds?
 
-###### Als Versicherungsnehmer bei einer Schweizer Krankenkasse tragen Sie die Krankenversicherungsbeiträge in voller Höhe selbst. Sie sind nicht über Ihren Arbeitgeber versichert, die Prämien werden auch nicht vom Lohn abgezogen. Darüber hinaus unterscheidet sich der Leistungsumfang. Anders als die deutsche Techniker Kasse übernimmt die Schweizer Grundversicherung zum Beispiel weniger Leistungen im Bereich Zahnbehandlungen, Zahnersatz und Dentalhygiene.
+###### As a policyholder with a Swiss health insurance fund, you pay the full amount of the health insurance contributions yourself. You are not insured via your employer and premiums are not deducted from your salary. In addition, the scope of benefits differs. Unlike the German Techniker Kasse, for example, the Swiss basic insurance covers fewer benefits in the areas of dental treatment, dental prostheses and dental hygiene.
 
-###### Ein weiterer Unterschied besteht in der Kostenbeteiligung. Als Versicherter der obligatorischen Grundversicherung zahlen Sie eine sogenannte Jahresfranchise und einen Selbstbehalt. Die ordentliche Jahresfranchise beträgt 300 Schweizer Franken, Sie können jedoch auch eine höhere Summe vereinbaren und so Krankenkassenbeiträge sparen. Der Versicherer übernimmt Behandlungs- und Medikamentenkosten erst, wenn diese die Franchise übersteigen. Für alle darüber hinaus gehenden Kosten leisten Sie einen Selbstbehalt in Höhe von zehn Prozent. Der Selbstbehalt ist auf 700 Schweizer Franken für Erwachsene und 350 Schweizer Franken für Kinder begrenzt.
+###### Another difference is the cost sharing. As an insured person of the compulsory basic insurance, you pay a so-called annual deductible and a deductible. The ordinary annual deductible is 300 Swiss francs, but you can also agree on a higher amount and thus save health insurance contributions. The insurer only covers treatment and medication costs if these exceed the deductible. You pay a deductible of ten percent for all additional costs. The deductible is limited to 700 Swiss francs for adults and 350 Swiss francs for children.
 
-## Krankenkassen vergleichen und Krankenkassenbeiträge sparen
+## Compare health insurance companies and save health insurance contributions
 
-###### Um die richtige Krankenversicherung Grenzgänger zu finden, lohnt sich ein Krankenkassenvergleich. Die Leistungen der Schweizer Grundversicherung sind zwar gesetzlich vorgegeben, in der Höhe der Krankenversicherungsbeiträge gibt es jedoch enorme Unterschiede. Für viele Leistungen benötigen Sie zudem eine freiwillige Zusatzversicherung, für die weitere Prämien anfallen. Eventuell lohnt es sich daher, das Versicherunsgwahlrecht in Anspruch zu nehmen und bei einer deutschen Kasse wie der Techniker Krankenkasse zu bleiben. Wir beraten Sie gerne und finden die für Sie günstigste Lösung.
+###### In order to find the right health insurance for cross-border commuters, it is worth comparing health insurance companies. Although the benefits provided by the Swiss basic health insurance are prescribed by law, there are enormous differences in the level of health insurance contributions. For many benefits, you also need a voluntary supplementary insurance, for which additional premiums are due. It may therefore be worth taking advantage of the insurance option and staying with a German insurance company such as Techniker health insurance. We will be happy to advise you and find the best solution for you.

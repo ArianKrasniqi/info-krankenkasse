@@ -1,43 +1,43 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Prämienverbilligung"
+title: "Riduzione dei premi"
 ---
 
-## So erhalten Sie eine Prämienverbilligung für die Krankenkasse
+## Così ottieni una riduzione dei premi per l’assicurazione sanitaria
 
-###### Wer in bescheidenen wirtschaftlichen Verhältnissen lebt, muss nicht die volle Krankenkassenprämie bezahlen. Liegt Ihr Haushaltseinkommen unter einer vorgegebenen Summe, können Sie eine Prämienverbilligung beantragen. Hier erfahren Sie, in welchen Fällen Sie einen Antrag stellen dürfen und was Sie dabei beachten müssen. Zur Optimierung Ihrer Prämienhöhe lohnt sich ausserdem ein Krankenkassenvergleich. Durch den Wechsel zu einer günstigen Krankenversicherung können Sie mehr als Tausend Schweizer Franken im Jahr sparen.
+###### Se vivi in condizioni economiche modeste, non devi pagare i premi delle assicurazioni sanitarie per intero. Se il tuo reddito familiare è inferiore a un determinato importo, puoi richiedere una Riduzione dei premi. Scopri quali sono i casi in cui è applicabile e cosa è necessario considerare. Per ottimizzare il tuo livello di premi, vale anche la pena confrontare le assicurazioni sanitarie. Passando ad un’assicurazione sanitaria a basso costo, puoi risparmiare più di mille franchi svizzeri all'anno.
 
 # Form
 
-## Haben Sie Anspruch auf eine Prämienverbilligung?
+## Hai diritto ad una riduzione dei premi?
 
-###### Anspruch auf Krankenkassenprämienverbilligung besteht grundsätzlich, wenn Sie in bescheidenen wirtschaftlichen Verhältnissen leben. Massgeblich sind das Haushaltseinkommen und die Anzahl der Kinder. Wie hoch das Haushaltseinkommen ausfallen darf, ist kantonal geregelt. In den meisten Kantonen informiert Sie die Verwaltung automatisch, falls ein Anspruch besteht.
+###### Il diritto ad una riduzione dei premi delle assicurazioni sanitarie è fondamentalmente possibile se vivi in condizioni economiche modeste. Sono rilevanti il reddito familiare e il numero di figli. L'entità del reddito familiare può essere regolata dalla legge cantonale. Nella maggior parte dei cantoni, l'amministrazione ti informa automaticamente in caso di diritto.
 
-###### Haben Sie Ihren Wohnsitz in Zürich, besteht im Jahr 2020 in folgenden Fällen Anspruch auf Krankenkassenprämienverbilligung:
+###### Se risiedi a Zurigo, nel 2020 avrai diritto a una riduzione dei premi dell’assicurazione sanitaria nei seguenti casi:
 
-### Ehepaare bzw. eingetragene Partner ohne Kinder: steuerbares Gesamteinkommen von maximal 49'200.00 Schweizer Franken.
+### Coppie sposate o partner registrati senza figli: reddito imponibile totale di CHF 49.200,00 Franchi svizzeri.
 
-### Ehepaare bzw. eingetragene Partner mit Kindern: steuerbares Gesamteinkommen von maximal 49'200 Schweizer Franken. Bei einem Haushaltseinkommen zwischen 49'300 und 62'900 Franken wird eine Prämienverbilligung für die minderjährigen Kinder gewährt.
+### Coppie sposate o partner registrati con figli: reddito imponibile totale di 49'200 franchi svizzeri. Ai redditi delle famiglie tra 49'300 e 62'900 franchi viene concessa una Riduzione dei premi per i bambini minorenni.
 
-### Alleinerziehende: steuerbares Gesamteinkommen von maximal 41'600 Franken. Bei einem Einkommen zwischen 41'700 und 62'900 Franken besteht Anspruch auf Prämienverbilligung für die minderjährigen Kinder.
+### Genitori single: reddito imponibile totale di 41'600 franchi. Un reddito tra 41.700 e 62.900 franchi ha diritto alla Riduzione dei premi per i bambini minorenni.
 
-### Einzelpersonen: steuerbares Gesamteinkommen von maximal 36'300 Schweizer Franken.
+### Privati: reddito imponibile totale di 36'300 franchi svizzeri.
 
-###### Das steuerbare Gesamtvermögen darf jeweils 300'000 Franken nicht übersteigen, bei Einzelpersonen sind 150'000 Franken gestattet.
+###### Il totale delle attività tassabili non deve essere superiore ai 300.000 franchi svizzeri ciascuno, mentre per i singoli sono consentiti 150.000 franchi svizzeri.
 
-## Antrag auf Prämienverbilligung: Darauf müssen Sie achten
+## Richiesta per una riduzione dei premi: a cosa fare attenzione
 
-###### Die SVA Ihres Kanton schickt Ihnen für gewöhnlich bis Ende Juli das Antragsformular für die Prämienverbilligung zu. Jugendliche ab 18 Jahre erhalten ein eigenes Antragsformular, selbst wenn sie in einem Haushalt mit den Eltern leben. Den vorgedruckten Antrag müssen Sie vollständig ausfüllen und unterschrieben an die SVA zurücksenden. Dafür haben Sie zwei Monate Zeit. Junge Erwachsene in Erstausbildung fügen noch einen aktuellen Ausbildungsnachweis, eine Semesterbestätigung oder eine Schulbestätigung bei.
+###### L'SVA del tuo Cantone ti invierà generalmente il modulo di domanda per la riduzione dei premi fino alla fine di luglio. Gli adolescenti di età superiore ai 18 anni ricevono il proprio modulo di domanda, anche se vivono in famiglia con i genitori. La domanda prestampata deve essere compilata per intero, firmata e restituita all'SVA entro due mesi di tempo. I giovani adulti nella formazione iniziale aggiungono un certificato di istruzione recente, una conferma del semestre o una conferma della scuola.
 
-###### Erhalten Sie trotz Anspruch kein Antragsformular, wenden Sie sich bitte an die zuständige SVA Ihres Wohnkantons.
+###### Se non si riceve un modulo di domanda nonostante il reclamo, si prega di contattare l'SVA responsabile del proprio Cantone di residenza.
 
-## So funktioniert die Auszahlung
+## Così funziona il pagamento
 
-###### Die SVA Ihres Kantons überweist die Prämienverbilligung direkt an Ihre Krankenversicherung. Die Krankenkasse zieht die überwiesene Summe dann von Ihren laufenden Prämienrechnungen ab. Wechseln Sie die Krankenkasse, informiert Ihr alter Versicherer die SVA und teilt dieser die neue Krankenversicherung mit. Sie müssen sich bei einem Krankenkassenwechsel nicht selbst bei der SVA melden.
+###### L'SVA del tuo Cantone trasferisce la riduzione dei premi direttamente alla tua assicurazione sanitaria. L'assicurazione sanitaria detrae quindi l'importo trasferito dagli attuali fatture dei premi. Quando cambi l'assicurazione sanitaria, il tuo vecchio assicuratore informa la SVA e li informa sulla nuova assicurazione sanitaria. Non è necessario contattare autonomamente la SVA se si dispone di una cambio dell’assicurazione sanitaria.
 
-###### Die Höhe der Prämienverbilligung variiert je nach Wohnort, steuerbarem Gesamteinkommen und Alter des Versicherungsnehmers.
+###### L'importo della riduzione dei premi varia a seconda del luogo di residenza, del reddito imponibile totale e dell'età dell'assicurato.
 
-## Optimierung der Krankenkassenprämie: Machen Sie jetzt den Prämienvergleich!
+## Ottimizzazione dei premi delle assicurazioni sanitarie: effettua ora confronto dei premi !
 
-###### Die Prämienverbilligung gilt allein für die Grundversicherung, nicht für die Zusatzversicherung. Damit Sie auch bei reduzierter Prämie nicht zu viel bezahlen, lohnt sich der Krankenkassenvergleich. Berechnen Sie Ihre aktuelle Krankenkassenprämie und finden Sie heraus, wie Sie sparen können, ohne auf Leistungen zu verzichten.
+###### La riduzione dei premi è valida solo per l'assicurazione di base, non per l'assicurazione integrativa. Vale la pena effettuare un confronto delle assicurazioni sanitarie per non pagare troppo anche con una riduzione del premio, e scoprire come poter risparmiare senza rinunciare ai servizi.

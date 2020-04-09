@@ -4,22 +4,22 @@ type: "glossar"
 title: "Priminfo BAG"
 ---
 
-## Priminfo - Der Prämienrechner des BAG
+## Priminfo - Il Calcolatore premi del BAG
 
-###### Das Schweizer Bundesamt für Gesundheit (BAG) ist zuständig für die Kranken- und Unfallversicherung. Es veröffentlicht nicht nur jedes Jahr im September die aktuellen Krankenkassenprämien für das kommende Jahr, sondern stellt mit Priminfo auch einen eigenen Prämienrechner zur Verfügung. Mit diesem Online-Rechner können Schweizer Bürger ganz einfach die Prämien ihrer Grundversicherung vergleichen. Auch unser Prämienvergleich nutzt die stets aktuellen Daten von Priminfo.
+###### L'Ufficio federale della sanità pubblica (UFSP) è responsabile dell'assicurazione malattia e infortuni. Non solo pubblica gli attuali premi delle assicurazioni sanitarie per l’anno successivo ogni anno a settembre, ma ha anche il suo calcolatore premi Priminfo. Grazie a questo calcolatore online, i cittadini svizzeri possono facilmente confrontare i premi della loro assicurazione di base. Il nostro confronto premium utilizza anche i dati aggiornati di Priminfo.
 
 # Form
 
-## So funktioniert der Priminfo Prämienrechner
+## Così funziona il calcolatore premi Priminfo
 
-###### Mit dem Priminfo Krankenkassenrechner vergleichen Sie die Prämienhöhe der Grundversicherung. Die Kosten für freiwillige Zusatzversicherungen sind dabei noch nicht berücksichtigt.
+###### Con il calcolatore di assicurazioni sanitarie Priminfo si confronta l'importo del premio dell'assicurazione di base. I costi dell’assicurazione integrativa volontaria non sono ancora stati presi in considerazione.
 
-###### Zunächst geben Sie Ihre Postleitzahl oder Ihren Wohnort ein. Ausschlaggebend für die Höhe der Krankenkassenprämie ist nämlich unter anderem Ihr Wohnkanton. Anschließend müssen Sie Ihr Geburtsdatum angeben und die gewünschte Jahresfranchise auswählen. Welche Franchisen zur Auswahl stehen, hängt vom Alter ab. Schliesslich legen Sie fest, ob eine Unfalldeckung miteingeschlossen sein soll oder nicht. Wählen Sie "nein", wenn bereits eine Unfalldeckung über Ihren Arbeitgeber besteht. Den Krankenkassenvergleich können Sie für eine Person oder auch für mehrere Personen durchführen.
+###### Innanzitutto, inserisci il codice postale o il luogo di residenza. Il fattore determinante per l'importo dei premi delle assicurazioni sanitarie è, tra le altre cose, il tuo Cantone di residenza. Quindi devi inserire i tuoi dati di nascita e la franchigia annuale desiderata. Quali franchigie sono disponibili dipende dall'età. Infine, decidi se includere o meno la copertura infortuni. Seleziona "no" se esiste già una copertura infortuni da parte del tuo datore di lavoro. Il confronto delle assicurazioni sanitarie può essere effettuato per una persona o per più persone.
 
-###### Optional wählen Sie Ihre aktuelle Krankenkasse aus und geben Ihr aktuelles Versicherungsmodell an. Nun können Sie noch auswählen, welche Versicherungsmodelle Sie vergleichen möchten: Standard-Modell, Hausarzt-Modell, HMO-Modell und weitere Modelle. So sehen Sie gleich, mit welchem Versicherungsmodell Sie am meisten sparen können.
+###### Seleziona in via opzionale la tua assicurazione sanitaria attuale e indica il tuo attuale modello assicurativo. Potrai scegliere quali modelli assicurativi vuoi confrontare: modello standard, modello medico di famiglia, modello HMO e altri modelli. In questo modo puoi vedere immediatamente con quale modello assicurativo puoi risparmiare di più.
 
-## Profitieren Sie von aktuellen Daten und individueller Beratung!
+## Approfitta di dati aggiornati e consigli individuali!
 
-###### Den Priminfo Prämienrechner des BAG erreichen Sie online unter priminfo.ch (priminfo.admin.ch). Allerdings lässt sich über priminfo.ch keine direkte Offerte Ihrer bevorzugten Krankenkasse einholen. Interessieren Sie sich für das Angebot einer bestimmten Krankenkasse, leitet der Rechner des Bundes Sie lediglich zur Webseite des jeweiligen Versicherers weiter. Dort müssen Sie alle zuvor eingegebenen Daten noch einmal eintippen.
+###### È possibile visualizzare il calcolatore premi Priminfo del BAG online su priminfo.ch (priminfo.admin.ch). Tuttavia, tramite priminfo.ch non è possibile ottenere offerte dirette dalla propria compagnia di assicurazione sanitaria preferita. Se sei interessato all'offerta di un fondo assicurativo sanitario specifico, il computer federale ti inoltrerà solo al sito Web dell'assicuratore interessato. Dovrai digitare nuovamente tutti i dati precedentemente inseriti.
 
-###### Unser Prämienvergleich nutzt ebenfalls die Daten von Priminfo. Damit stehen Ihnen stets aktuelle Informationen zur Prämienhöhe zur Verfügung und Sie finden die günstigste Krankenkasse in Ihrem Kanton. Innerhalb weniger Minuten berechnen Sie so Ihr Sparpotenzial. Möchten Sie Ihre Krankenkasse wechseln, können Sie zudem direkt eine unverbindliche Offerte einholen. Zusätzlich profitieren Sie von der Möglichkeit, sich von uns persönlich und individuell zur Wahl Ihrer Krankenkasse beraten zu lassen. So finden Sie nicht nur eine günstige Grundversicherung, sondern auch eine Zusatzversicherung, die Ihren Bedürfnissen entspricht.
+###### Il nostro confronto dei premi utilizza anche i dati di Priminfo. Pertanto avrai sempre informazioni aggiornate sull'importo del premio disponibile e troverai l'assicurazione sanitaria più economica nel tuo cantone. In pochi minuti puoi calcolare i tuoi potenziali risparmi. Se desideri cambiare la tua assicurazione sanitaria, puoi anche richiedere direttamente un'offerta non vincolante. Inoltre, beneficerai dell'opportunità di ricevere consigli personali e individuali sulla scelta della tua compagnia di assicurazione sanitaria. Potrai trovare non solo un'assicurazione di base economica, ma anche un'assicurazione integrativa adatta alle tue esigenze.

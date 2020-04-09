@@ -1,25 +1,25 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Halbprivate Versicherung"
+title: "Assicurazione semi-privata"
 ---
 
-## Das leistet die Halbprivat Versicherung der Schweizer Krankenkassen
+## Quello che offre l'assicurazione semi-privata della cassa malati svizzera
 
-###### Ein Spitalaufenthalt ist mit vielen Ängsten und Sorgen verbunden. Da möchten es Patienten zumindest komfortabel haben. Die obligatorische Grundversicherung in der Schweiz übernimmt jedoch nur die Unterbringung im Mehrbettzimmer. Zudem können Sie das Spital und den behandelnden Arzt nicht frei wählen. Wünschen Sie mehr Komfort, müssen Sie eine entsprechende Zusatzversicherung abschliessen. Mit einer Halbprivat Versicherung haben Sie Anspruch auf freie Spitalwahl und Unterbringung im Zwei-Bett-Zimmer.
+###### Una degenza ospedaliera è associata a molte paure e preoccupazioni. I pazienti desiderano almeno sentirsi a proprio agio. L'assicurazione obbligatoria di base in Svizzera tuttavia accetta solo l'alloggio in una stanza condivisa. Inoltre, non è possibile scegliere liberamente l'ospedale e il medico curante. Se si desidera un maggiore comfort, è necessario completare una corrispondente assicurazione integrativa. Con un'assicurazione semi-privata hai diritto alla libera scelta dell'ospedale e della sistemazione in una camera doppia.
 
 # Form
 
-## Welche Leistungen übernimmt die halbprivate Spitalversicherung?
+## Quali servizi offre l'assicurazione ospedaliera semi-privata?
 
-###### Die Grundversicherung übernimmt anteilig Kosten für einen Spitalaufenthalt im Wohnkanton. Möchten Sie sich in einem Spital ausserhalb Ihres Wohnkantons behandeln lassen, dürfen Sie seit 2012 ein Schweizer Krankenhaus von einer Spitalliste wählen. Allerdings dürfen die Kosten nicht höher sein als im Heimatkanton. Eine eventuelle Differenz zahlen Sie selbst. Freie Arztwahl besteht dabei nicht. Eventuell ist der behandelnde Arzt gar nicht auf Ihre Krankheit spezialisiert.
+###### L'assicurazione di base copre le spese pro rata per una degenza ospedaliera nel Cantone di residenza. Se desideri essere curato in un ospedale fuori dal tuo cantone di residenza, puoi scegliere un ospedale svizzero da un elenco di ospedali dal 2012. Tuttavia, i costi potrebbero non essere superiori a quelli del cantone di origine e paghi per eventuali differenze. Non c'è libera scelta del medico e il medico curante potrebbe non essere specializzato nella tua malattia.
 
-###### Mit einer Zusatzversicherung können Sie sich mehr Komfort für den Spitalaufenthalt sichern. Drei Varianten stehen Ihnen zur Wahl: Die Spitalversicherung "allgemeine Abteilung" bietet Ihnen freie Spitalwahl in der ganzen Schweiz sowie freie Arztwahl. Rund ein Viertel aller Schweizer hat sich für eine halbprivate oder private Spitalzusatzversicherung entschieden. Das bedeutet nicht, dass die Versicherungsnehmer nun halbprivat oder privat versichert sind. Vielmehr geben die Namenszusätze an, auf welcher Abteilung Sie während eines Spitalaufenthalts untergebracht werden.
+###### Con una Assicurazione integrativa puoi garantire un maggiore comfort per la degenza ospedaliera. Sono disponibili tre opzioni: l'assicurazione ospedaliera "reparto generale" offre la libera scelta dell'ospedale in tutta la Svizzera e la libera scelta del medico. Circa un quarto di tutti gli svizzeri ha optato per una assicurazione integrativa ospedaliera semi-privata o privata. Ciò non significa che gli assicurati siano ora semi-privati o privati. Piuttosto, i nomi dei suffissi indicano in quale dipartimento si alloggia durante una degenza in ospedale.
 
-###### Die halbprivate Spitalzusatzversicherung bietet Ihnen zum Beispiel nicht nur freie Spitalwahl und freie Arztwahl in der gesamten Schweiz, sie übernimmt auch die volle Deckung für die Unterbringung auf der halbprivaten Abteilung. Darüber hinaus haben Sie Anrecht auf die Unterbringung im Zwei-Bett-Zimmer. Die Privatversicherung deckt dementsprechend die Unterbringung auf der privaten Spitalabteilung.
+###### Ad esempio, l’assicurazione ospedalira integrativa semi-privata non offre solo la libera scelta dell'ospedale e la libera scelta del medico in tutta la Svizzera, ma fornisce anche una copertura completa per l'alloggio nel reparto semi-privato. Inoltre, hai anche diritto all'alloggio in una camera doppia. L'assicurazione privata copre di conseguenza l'alloggio nel dipartimento dell'ospedale privato.
 
-## Für wen ist eine Halbprivat Versicherung sinnvoll?
+## Per chi è utile un'assicurazione semi-privata?
 
-###### Den genauen Leistungsumfang der Spitalzusatzversicherung können die Krankenkassen relativ frei festlegen. Sie dürfen auch Vorbehalte anmelden, zum Beispiel bestimmte Leiden aus ihrem Leistungskatalog ausschliessen. Anders als in der Grundversicherung besteht für Zusatzversicherungen keine Aufnahmepflicht. Abhängig von Ihrem Gesundheitszustand kann es sein, dass ein Versicherer Ihren Antrag auf eine Spitalzusatzversicherung ablehnt.
+###### La portata esatta dei servizi di assicurazione complementare ambulatoriale può essere stabilita dalle assicurazioni sanitarie in modo relativamente libero. È inoltre possibile registrare prenotazioni, ad esempio, escludere determinati malanni dal loro catalogo di prestazioni. A differenza dell’assicurazione di base, le assicurazioni complementari non hanno l'obbligo di ammetterlo. A seconda del tuo stato di salute, un assicuratore può rifiutare la tua richiesta di una assicurazione complementare ambulatoriale.
 
-###### Krankenversicherer dürfen zudem die Prämien für die Spitalzusatzversicherung nach eigenem Ermessen berechnen. Vor allem Geschlecht und Alter beeinflussen die Prämienhöhe. Mit zunehmendem Alter steigen in der Regel auch die Beiträge. Der Abschluss einer Halbprivat Versicherung lohnt sich vor allem, wenn Sie viel Wert auf hohen Komfort legen und von der freien Arzt- und Spitalwahl profitieren möchten. Es empfiehlt sich in jedem Fall, die Angebote der einzelnen Spitalzusatzversicherungen zu vergleichen und die Versicherungsbedingungen genau zu studieren. Wir beraten Sie gerne und helfen Ihnen, eine passende Krankenversicherung zu finden.
+###### Gli assicuratori sanitari possono anche calcolare i premi dell'assicurazione complementare ambulatoriale, a loro discrezione. I fattori che influenzano maggiormente i livelli dei premi sono il genere e l'età. Con l'aumentare dell'età anche i contributi aumentano. La conclusione di un'assicurazione semi-privata è utile soprattutto se si attribuisce grande importanza al comfort elevato e si desidera beneficiare della libera scelta del medico e dell'ospedale. In ogni caso, è consigliabile confrontare le offerte delle singole assicurazione complementare ambulatoriale e studiare esattamente i termini dell'assicurazione. Ti consigliamo e ti aiutiamo a trovare un'assicurazione sanitaria adeguata.

@@ -1,33 +1,33 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Unfalldeckung"
+title: "Couverture accidents"
 ---
 
-## So funktioniert die Unfalldeckung durch die Krankenkasse
+## Voici comment fonctionne la couverture accident par la caisse d'assurance maladie
 
-###### Alle in der Schweiz wohnhaften Personen sind obligatorisch gegen Unfall versichert. Für angestellt erwerbstätige Personen greift die Unfallversicherung nach Unfallversicherungsgesetz (UVG). Alle Personen, die nicht dem UVG unterstellt sind, werden in der Unfalldeckung ihrer Krankenkasse aufgenommen.
+###### Toutes les personnes domiciliées en Suisse sont obligatoirement assurées contre les accidents. L'assurance accidents des travailleurs salariés est régie par la loi sur l'assurance accidents (LAA). Toutes les personnes qui ne sont pas soumises à la LAA sont incluses dans la couverture accidents de leur caisse d'assurance maladie.
 
 # Form
 
-## Die Unfalldeckung in der obligatorischen Grundversicherung
+## Couverture des accidents dans l'assurance de base obligatoire
 
-###### Das UVG der Schweiz sieht vor, dass alle Eidgenossen über einen Unfallschutz verfügen müssen. Personen, die nicht in einem Anstellungsverhältnis stehen und auch keine Erwerbslosenleistungen beziehen, werden automatisch in die Unfalldeckung der Krankenkassen aufgenommen. Das gilt zum Beispiel für Kinder, im Haushalt tätige Personen, Selbständige und Studierende.
+###### La LAA stipule que tous les citoyens suisses doivent avoir une assurance accidents. Les personnes qui n'ont pas de relation de travail et ne perçoivent pas d'indemnités de chômage sont automatiquement incluses dans la couverture accidents de la caisse d'assurance maladie. Cela s'applique, par exemple, aux enfants, aux personnes travaillant dans le ménage, aux travailleurs indépendants et aux étudiants.
 
-###### Die Unfalldeckung folgt dem Krankenversicherungsgesetz (KVG) und ist Teil der obligatorischen Grundversicherung. Geschieht ein Unfall, haben Sie Anspruch auf eine medizinische Behandlung, auf Medikamente sowie auf die Unterbringung und Verpflegung in der allgemeinen Abteilung eines Spitals. Passiert der Unfall im Ausland, übernimmt die Krankenkasse maximal den doppelten Betrag, der für eine Behandlung in der Schweiz angefallen wäre.
+###### La couverture en cas d'accident est régie par la loi sur l'assurance maladie (LAMal) et fait partie de l'assurance de base obligatoire. En cas d'accident, vous avez droit aux soins médicaux, aux médicaments, à l'hébergement et aux repas dans le service général d'un hôpital. En cas d'accident survenu à l'étranger, la caisse d'assurance-maladie prend en charge au maximum le double du montant qui aurait été payé pour un traitement en Suisse.
 
-###### Wie in der obligatorischen Krankenversicherung auch, müssen Sie für den Unfallschutz eine Kostenbeteiligung leisten. Sie zahlen eine Jahresfranchise sowie einen Selbstbehalt in Höhe von zehn Prozent, maximal 700 Schweizer Franken im Kalenderjahr für Erwachsene, 350 Franken für Kinder.
+###### Comme pour l'assurance maladie obligatoire, vous devez payer une contribution aux frais d'assurance accident. Vous payez une franchise annuelle et une franchise de dix pour cent, au maximum 700 francs suisses par an pour les adultes et 350 francs suisses pour les enfants.
 
-## Unfallversicherung über den Arbeitgeber
+## Assurance accidents par l'employeur
 
-###### Sind Sie angestellt erwerbstätig, lohnt es sich, die obligatorische Krankenpflegeversicherung ohne Unfalldeckung abzuschliessen. Auf diese Weise können Sie Ihre Krankenkassenprämie um bis zu zehn Prozent reduzieren. Angestellt erwerbstätige Personen sind über Ihren Arbeitgeber unfallversichert, der auch die Prämien für den Unfallschutz trägt.
+###### Si vous êtes salarié, il vaut la peine de souscrire une assurance maladie obligatoire sans couverture accident. Vous pouvez ainsi réduire votre prime d'assurance maladie jusqu'à dix pour cent. Les employés sont assurés contre les accidents par l'intermédiaire de leur employeur, qui paie également les primes d'assurance accident.
 
-###### Die UVG-Versicherung tritt übrigens nicht nur bei Unfällen am Arbeitsplatz in Kraft. Sie leistet auch bei Unfällen zuhause und bei Freizeitaktivitäten. Eine Ausnahme besteht bei Teilzeitbeschäftigen, die weniger als acht Stunden bei einem Arbeitgeber arbeiten: Sie sind nur gegen Berufsunfälle und Berufskrankheiten abgesichert.
+###### Par ailleurs, l'assurance LAA ne couvre pas seulement les accidents du travail. Elle couvre également les accidents domestiques et de loisirs. Il y a une exception pour les employés à temps partiel qui travaillent moins de huit heures pour un employeur : Ils ne sont couverts que contre les accidents du travail et les maladies professionnelles.
 
-###### Die Unfallversicherung bleibt einen vollen Monat nach Ende des Arbeitsverhältnisses bestehen. Sie können den Versicherungsschutz um sechs Monate verlängern, wenn Sie einen Antrag auf Abredeversicherung bei der Schweizerische Unfallversicherung (SUVA) stellen. Endet Ihr Versicherungsanspruch nach UVG, müssen Sie dies Ihrer Krankenkasse mitteilen. Das Gesetz schützt Sie allerdings vor Versicherungslücken. Versäumen Sie es, sich rechtzeitig bei Ihrem Krankenversicherer zu melden, erhalten Sie bei einem Unfall dennoch alle Leistungen nach KVG. Sie müssen in diesem Fall allerdings die versäumten Prämien nachzahlen.
+###### L'assurance accidents reste valable un mois complet après la fin du contrat de travail. Vous pouvez prolonger la couverture d'assurance de six mois si vous soumettez une demande d'assurance d'accord à la SUVA (Assurance suisse contre les accidents). Si votre droit à l'assurance prend fin conformément à la LAA, vous devez en informer votre caisse d'assurance maladie. Cependant, la loi vous protège contre les lacunes en matière d'assurance. Si vous n'informez pas votre caisse maladie à temps, vous avez droit à toutes les prestations de la LAMal en cas d'accident. Dans ce cas, toutefois, vous devez payer les primes manquées à terme échu.
 
-## Zusatzversicherung mit Unfalldeckung
+## Assurances complémentaires avec couverture accidents
 
-###### Eine Zusatzversicherung mit Unfalldeckung erweitert die gesetzlichen Leistungen. Im ambulanten Bereich übernimmt sie zum Beispiel alternative Behandlungsmethoden und nichtärztliche Psychotherapien. Eine Spitalzusatzversicherung bietet unter anderem die Unterbringung auf der halbprivaten oder privaten Abteilung im Zwei-Bett- oder Ein-Bett-Zimmer.
+###### Une assurance complémentaire avec couverture accidents élargit les prestations légales. Dans le secteur des services ambulatoires, par exemple, il couvre les méthodes alternatives de traitement et les psychothérapies non médicales. Une assurance complémentaire d'hospitalisation offre, entre autres, l'hébergement en division semi-privée ou privée dans une chambre à deux lits ou à un lit.
 
-###### Ob sich die eine Zusatzversicherung mit Unfalldeckung lohnt, hängt davon ab, ob eine Unfallversicherung über den Arbeitgeber besteht und was diese übernimmt. Wir beraten Sie gerne!
+###### L'intérêt d'une assurance complémentaire avec couverture accidents dépend de l'existence ou non d'une assurance accidents par l'intermédiaire de l'employeur et de ce qu'elle couvre. Nous nous ferons un plaisir de vous conseiller!

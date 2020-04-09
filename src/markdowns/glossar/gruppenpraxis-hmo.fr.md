@@ -1,33 +1,33 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Gruppenpraxis (HMO)"
+title: "Cabinet de groupe (HMO)"
 ---
 
-## HMO: Das Gruppenpraxis-Modell der obligatorischen Grundversicherung
+## HMO: Le modèle de cabinet de groupe de l'assurance de base obligatoire
 
-###### In der obligatorischen Grundversicherung bieten die Schweizer Krankenkassen neben dem Standard-Tarif auch alternative Versicherungsmodelle an. Diese Modelle schränken die Arztwahl auf bestimmte Ansprechpartner ein, Versicherungsnehmer profitieren dafür von geringeren Prämien. Einer dieser alternativen Tarife ist das Gruppenpraxis-Modell.
+###### Outre le tarif standard, les caisses-maladie suisses proposent également des modèles d'assurance alternatifs sous forme d'assurance de base obligatoire. Ces modèles limitent le choix du médecin à des personnes de contact, tandis que les assurés bénéficient de primes moins élevées. L'un de ces tarifs alternatifs est le modèle de cabinet de groupe.
 
 # Form
 
-## Was ist eine HMO-Praxis?
+## Qu'est-ce qu'un cabinet HMO?
 
-###### Die Abkürzung HMO steht für Health Maintenance Organization, was übersetzt so viel wie "Organisation zur Erhaltung der Gesundheit" bedeutet. Mehrere Ärzte schliessen sich zu so einer Organisation zusammen und arbeiten gemeinsam in einer Gruppenpraxis. Neben Allgemeinmedizinern finden Sie in derartigen Praxen meist auch diverse Fachärzte und Therapeuten weiterer Fachrichtungen. Die Praxen sind in einem bestimmten Einzugsgebiet tätig. Welche Gruppenpraxen es an Ihrem Wohnort gibt, erfahren Sie von Ihrer Krankenkasse.
+###### L'abréviation HMO signifie Health Maintenance Organization, ce qui signifie " organisation pour la préservation de la santé ". Plusieurs médecins se regroupent pour former une telle organisation et travaillent ensemble dans un cabinet de groupe. En plus des généralistes, vous trouverez généralement divers spécialistes et thérapeutes d'autres disciplines dans ces cabinets. Les cabinets opèrent dans une certaine zone de couverture. Vous pouvez vous renseigner auprès de votre assurance maladie pour savoir quels sont les cabinets de groupe disponibles dans votre région.
 
-###### Das Versicherungsmodell stammt ursprünglich aus den USA und hat sich dort schon um 1910 herum entwickelt. In der Schweiz existieren entsprechende Praxen seit den 1990er Jahren. Die Gruppenpraxen gehören entweder zu einer Krankenversicherung oder schliessen Verträge mit mehreren Krankenkassen ab. Von den Kassen erhalten Ärzte pro eingeschriebenem Versicherungsnehmer eine monatliche Pauschale. Diese Pauschale deckt die gesamten medizinischen Leistungen ab, die der Versicherte in Anspruch nimmt. Darunter fallen nicht nur die Behandlungen beim Gruppenpraxis-Arzt selbst, sondern auch Behandlungen bei Fachärzten, im Spital und weitere therapeutische Massnahmen. Diese Regelung verfolgt das Ziel, die Zahl externer medizinischer Leistungen möglichst gering zu halten.
+###### Le modèle d'assurance est né aux États-Unis et s'est développé vers 1910. En Suisse, de telles pratiques existent depuis les années 1990. Les cabinets collectifs appartiennent soit à une seule compagnie d'assurance maladie, soit concluent des contrats avec plusieurs compagnies d'assurance maladie. Les médecins reçoivent une somme forfaitaire mensuelle des caisses d'assurance maladie pour chaque preneur d'assurance enregistré. Cette somme forfaitaire couvre tous les services médicaux utilisés par la personne assurée. Cela comprend non seulement le traitement par le médecin du groupe lui-même, mais aussi le traitement par des spécialistes, à l'hôpital et d'autres mesures thérapeutiques. L'objectif de ce règlement est de maintenir le nombre de services médicaux externes aussi bas que possible.
 
-## So funktioniert das Gruppenpraxis-Modell
+## Voici comment fonctionne le modèle de cabinet de groupe
 
-###### Wählen Sie dieses alternative Versicherungsmodell, entscheiden Sie sich dafür, im Krankheitsfall immer zuerst eine Gruppenpraxis aufzusuchen. Ihre Praxis können Sie aus einer Liste wählen, die Sie von Ihrer Krankenkasse erhalten.
+###### Si vous choisissez ce modèle d'assurance alternatif, vous devez toujours vous rendre d'abord dans un cabinet de groupe en cas de maladie. Vous pouvez choisir votre cabinet à partir d'une liste fournie par votre caisse d'assurance maladie.
 
-###### Für die eingeschränkte Arztwahl bestehen gewisse Ausnahmen. In Notfällen dürfen Sie auch einen anderen Arzt aufsuchen. Gynäkologische Vorsorgeuntersuchungen und Kontrolluntersuchungen beim Augenarzt sind ebenfalls von der Gruppenpraxen-Pflicht ausgenommen. Welche Ausnahmeregelungen genau bestehen, ist in den Vertragsbedingungen Ihrer Krankenkasse festgelegt.
+###### Il y a certaines exceptions au choix limité du médecin. En cas d'urgence, vous pouvez également consulter un autre médecin. Les examens gynécologiques et les examens ophtalmologiques effectués par un ophtalmologiste sont également exemptés de l'exigence du cabinet de groupe. Les exceptions exactes qui existent sont définies dans les conditions générales de votre caisse d’assurance maladie.
 
-## Vorteile des Gruppenpraxis-Modells
+## Avantages du modèle de cabinet de groupe
 
-###### Die eingeschränkte Arztwahl belohnen Krankenversicherer mit deutlich reduzierten Prämien. Mit diesem Versicherungsmodell können Sie im Vergleich zum Standard-Modell bis zu 25 Prozent sparen.
+###### Les assureurs maladie compensent le choix limité des médecins par des primes considérablement réduites. Avec ce modèle d'assurance, vous pouvez économiser jusqu'à 25 % par rapport au modèle standard.
 
-###### Da sich in den Gruppenpraxen verschiedene Ärzte und Therapeuten zusammenschliessen, erhalten Sie dort einen Grossteil der medizinischen Versorgung unter einem Dach. Das reduziert Wartezeiten bei Überweisungen und Sie können sich in einer vertrauten Umgebung behandeln lassen.
+###### Comme différents médecins et thérapeutes se réunissent dans les cabinets de groupe, vous recevez une grande partie des soins médicaux sous un même toit. Cela réduit les temps d'attente pour virements et vous pouvez être traité dans un environnement familier.
 
-## Vergleichen Sie die alternativen Tarife der Schweizer Krankenkassen
+## Comparez les tarifs alternatifs des caisses d’assurance maladie suisses
 
-###### Die hohe Prämienersparnis macht das Gruppenpraxis-Modell vor allem für junge und gesunde Versicherungsnehmer interessant. Möchten Sie von diesem alternativen Tarif profitieren, machen Sie bei uns den Versicherungsvergleich. Wir helfen Ihnen, die Krankenkasse mit der günstigsten Grundversicherung zu finden.
+###### Les économies de primes élevées rendent le modèle de cabinet de groupe particulièrement intéressant pour les jeunes et les assurés en bonne santé. Si vous souhaitez bénéficier de ce tarif alternatif, faites la comparaison d'assurance avec nous. Nous vous aidons à trouver l'assurance maladie avec l'assurance de base la moins chère.

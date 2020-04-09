@@ -1,47 +1,47 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Krankenkasse kündigen"
+title: "Résilier la caisse d'assurance maladie"
 ---
 
-## Krankenkasse kündigen: Was müssen Sie beachten?
+## Résilier la caisse d'assurance maladie: Que devez-vous garder à l'esprit ?
 
-###### Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attraktivere Leistungen, können Sie relativ unkompliziert zu einer anderen Krankenversicherung wechseln. Voraussetzung ist, dass Sie Ihre alte Krankenkasse kündigen. Damit die Kündigung rechtzeitig in Kraft tritt, müssen Sie die Kündigungsfrist beachten. Hier erfahren Sie, welche Kündigungsfristen gelten und welche weiteren Bedingung für eine Kündigung der Krankenkasse gelten.
+###### Si vous trouvez votre caisse maladie trop chère ou qu'un autre assureur vous propose des prestations plus attrayantes, vous pouvez passer relativement facilement à une autre caisse d'assurance maladie. La condition préalable est que vous résiliez votre ancienne assurance maladie. Vous devez respecter le délai de résiliation pour que la résiliation prenne effet en temps opportun. Vous trouverez ici les délais de préavis applicables et les autres conditions de résiliation de la caisse d'assurance maladie.
 
 # Form
 
-## Kündigung Krankenkasse: So kündigen Sie Ihre Grundversicherung
+## Résiliation de la caisse d'assurance maladie: Comment résilier votre assurance de base
 
-###### Die Grundversicherung ist die obligatorische Krankenkasse in der Schweiz, die jeder Eidgenosse abgeschlossen haben muss. Eine Kündigung ihrer Krankenkasse erwägen viele Versicherungsnehmer, wenn ihr Anbieter eine Prämienerhöhung ankündigt. Die Kündigung hat stets auf dem Schriftweg zu erfolgen. Verschicken Sie Ihren Brief am besten per Einschreiben, damit er möglichst schnell bearbeitet werden kann.
+###### L'assurance maladie de base est la caisse-maladie obligatoire en Suisse que tout citoyen suisse doit avoir souscrite. De nombreux assurés envisagent de résilier leur caisse maladie lorsque leur assureur annonce une augmentation de prime. La résiliation doit toujours se faire par écrit. Il est préférable d'envoyer votre lettre par courrier recommandé afin qu'elle soit traitée le plus rapidement possible.
 
-###### Ihr Kündigungsschreiben sollte folgende Daten enthalten:
+###### Votre lettre de résiliation doit contenir les informations suivantes:
 
-### Vor- und Nachname
+### Prénom et Nom
 
-### Geburtsdatum
+### Date de naissance
 
-### Ihre Anschrift
+### Votre adresse
 
-### Ihre Versicherungsnummer
+### Votre numéro d'assurance
 
-## Mit unserer kostenlose Vorlage können Sie Ihr Kündigungsschreiben schnell und einfach online erstellen.
+## Avec notre modèle gratuit, vous pouvez créer votre lettre de résiliation en ligne rapidement et facilement
 
-###### Möchten Sie Ihre Krankenkasse kündigen, dürfen keine Prämienzahlungen rückständig sein. Die Kündigung tritt erst in Kraft, wenn Sie Ihrem alten Versicherer eine Bestätigung über den neuen Versicherungsvertrag vorlegen. Verpassen Sie es, rechtzeitig eine neue obligatorische Krankenpflegeversicherung abzuschliessen, bleiben Sie bei Ihrer alten Krankenkasse versichert.
+###### Si vous souhaitez résilier votre caisse d'assurance maladie, vous ne devez pas accuser de retard dans le paiement de vos primes. L'annulation n'entre en vigueur que lorsque vous confirmez le nouveau contrat d'assurance à votre ancien assureur. Si vous ne souscrivez pas à temps une nouvelle assurance maladie obligatoire, vous restez assuré auprès de votre ancienne caisse d'assurance maladie.
 
-## Welche Kündigungsfrist gilt für die obligatorische Krankenversicherung?
+## Quel est le délai de résiliation pour l'assurance maladie obligatoire?
 
-###### Jedes Jahr passen die Schweizer Krankenkassen ihre Versicherunsgprämien an. Bis spätestens Ende Oktober muss Ihr Versicherer Ihnen mitteilen, wie sich die Prämie im kommenden Jahr verändert. Wurde eine Prämienerhöhung angekündigt, können Sie Ihre Grundversicherung zum 31. Dezember kündigen und zum 1. Januar des neuen Jahres zu einem anderen Anbieter wechseln. Das Kündigungsschreiben muss bis zum 30. November bei Ihrem alten Anbieter eingegangen sein.
+###### Chaque année, les caisses d'assurance-maladie suisses réajustent leurs primes d'assurance. Au plus tard à la fin du mois d'octobre, votre assureur doit vous informer de l'évolution de la prime au cours de l'année à venir. Si une augmentation de prime a été annoncée, vous pouvez résilier votre assurance de base à partir du 31 décembre et changer d'assureur dès le 1er janvier de l'année en cours. La lettre de résiliation doit parvenir à votre ancien prestataire avant le 30 novembre.
 
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Schweizer Franken abgeschlossen, können Sie auch bis Ende Juni kündigen. In diesem Fall gilt eine Frist von drei Monaten. Ihre Kündigungsbrief muss dem Versicherer also spätestens am 31. März vorliegen, damit die Kündigung zum 30. Juni in Kraft tritt.
+###### Si vous avez souscrit une assurance de base avec une franchise ordinaire de 300 francs suisses, vous pouvez également résilier jusqu'à fin juin. Dans ce cas, un délai de trois mois s'applique. L'assureur doit donc recevoir votre lettre de résiliation au plus tard le 31 mars pour que la résiliation prenne effet le 30 juin.
 
-## Zusatzversicherung kündigen: Fristen und Termine
+## Résilier l'assurance complémentaire : Délais et dates limites
 
-###### Ihre Zusatzversicherungen können Sie unabhängig von Ihrer Grundversicherung kündigen. In der Regel gilt eine dreimonatige Frist zum Jahresende. Sie müssen Ihre Kündigung also bis zum 30. September einreichen, damit die Kündigung zum 31. Dezember gültig wird. Die Versicherer können die Kündigungsfristen für die Zusatzversicherung jedoch individuell festlegen. Bei einigen Versicherern gilt eine Frist von sechs statt drei Monaten. Die konkreten Fristen entnehmen Sie Ihrem Versicherungsvertrag.
+###### Vous pouvez résilier votre assurance complémentaire indépendamment de votre assurance de base. En règle générale, un préavis de trois mois s'applique à la fin de l'année. Vous devez donc déposer votre résiliation avant le 30 septembre pour qu'il prenne effet le 31 décembre. Toutefois, les assureurs peuvent déterminer individuellement les délais de préavis pour l'assurance complémentaire. Pour certains assureurs, le délai de préavis est de six mois au lieu de trois. Vous trouverez les périodes spécifiques dans votre contrat d'assurance.
 
-###### Erhöht Ihr Versicherer die Prämien für Ihre Zusatzversicherungen, gilt eine verkürzte Kündigungsfrist von einem Monat.
+###### Si votre assureur augmente les primes de vos assurances complémentaires, un délai de résiliation raccourci d'un mois s'applique.
 
-###### Beachten Sie, dass für freiwillige Zusatzversicherungen eventuell eine Gesundheitsprüfung nötig ist. Unter Umständen können Sie Ihre bevorzugte Versicherung nicht abschliessen. Kündigen Sie Ihre alte Zusatzversicherung daher erst, wenn wirklich sicher ist, dass Sie in der neuen Versicherung aufgenommen werden.
+###### Veuillez noter qu'un bilan de santé peut s'avérer nécessaire pour une assurance complémentaire facultative. Il se peut que vous ne puissiez pas souscrire l'assurance de votre choix. Par conséquent, ne résiliez pas votre ancienne assurance complémentaire tant que vous n'êtes pas vraiment certain d'être couvert par la nouvelle assurance.
 
-## Alte Krankenkasse kündigen und günstigeren Anbieter finden
+## Résilier l'ancienne caisse d'assurance maladie et trouver des prestataires moins chers
 
-###### Wir unterstützen Sie beim Krankenkassenwechsel. Bevor Sie Ihre Krankenkasse kündigen, machen Sie bei uns den Krankenkassenvergleich. Holen Sie anschliessend direkt eine Offerte Ihres bevorzugten Anbieters ein. Haben Sie weitere Fragen, beraten wir Sie unverbindlich und kostenlos.
+###### Nous vous aidons à changer de caisse d'assurance maladie. Avant de résilier votre assurance maladie, faites une comparaison avec nous. Obtenez ensuite une offre directement auprès de votre prestataire préféré. Si vous avez d'autres questions, nous vous conseillerons gratuitement et sans engagement.

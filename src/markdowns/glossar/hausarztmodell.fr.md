@@ -1,33 +1,33 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Hausarztmodell"
+title: "Modèle du médecin de famille"
 ---
 
-## Das Hausarztmodell der obligatorischen Krankenpflegeversicherung
+## Le modèle d'assurance maladie obligatoire des médecins généralistes
 
-###### Das Hausarztmodell gehört zu den alternativen Versicherungsmodellen der obligatorischen Krankenpflegeversicherung. Seit 2007 müssen Schweizer Krankenkassen Ihnen dieses Modell anbieten. Es sieht vor, dass Sie bei allen Gesundheitsfragen zunächst Ihren Hausarzt aufsuchen, der Sie bei Bedarf an einen Facharzt überweist. Durch die Wahl des alternativen Versicherungsmodells können Sie Prämien sparen.
+###### Le modèle du médecin de famille est l'un des modèles d'assurance alternatifs de l'assurance maladie obligatoire. Depuis 2007, les caisses-maladie suisses ont dû vous proposer ce modèle. Elle stipule que vous devez d'abord consulter votre médecin de famille en ce qui concerne tous les problèmes de santé, qui vous dirigera vers un spécialiste si nécessaire. En choisissant le modèle d'assurance alternatif, vous pouvez économiser des primes.
 
 # Form
 
-## So finden Sie einen geeigneten Allgemeinmediziner
+## Comment trouver un médecin généraliste approprié
 
-###### Das alternative Hausarzt-Versicherungsmodell bieten Schweizer Krankenkassen seit den 1990er Jahren an. Seit der Gesundheitsreform von 2007 sind sie sogar dazu verpflichtet, ihren Versicherungsnehmern dieses Modell zur Wahl zu stellen.
+###### Le modèle alternatif d'assurance des médecins de famille est proposé par les caisses d'assurance-maladie suisses depuis les années 1990. Depuis la réforme de la santé de 2007, ils ont même été tenus d'offrir ce modèle à leurs assurés.
 
-###### Möchten Sie den Hausarzttarif in Anspruch nehmen, müssen Sie zunächst einen geeigneten Hausarzt wählen. Eine Liste mit allen geeigneten Ärzten in Ihrem Wohnkanton erhalten Sie von Ihrer Krankenkasse. Sie können sich für einen allein praktizierenden Allgemeinmediziner entscheiden oder auch für einen Arzt aus einer Gemeinschaftspraxis. Ihr gewählter Arzt ist fortan Ihr erster Ansprechpartner für alle Gesundheitsfragen. Im Krankheitsfall wenden Sie sich zunächst an ihn. Bei Bedarf erhalten Sie eine Überweisung für einen Spezialisten.
+###### Si vous souhaitez bénéficier du tarif médecin de famille, vous devez d'abord choisir un médecin de famille approprié. Votre caisse d'assurance maladie vous fournira une liste de tous les médecins appropriés dans votre lieu de résidence. Vous pouvez choisir un médecin généraliste pratiquant seul ou un médecin dans un cabinet de groupe. Le médecin que vous avez choisi est votre premier point de contact pour toutes les questions de santé. En cas de maladie, contactez-le d'abord. Si nécessaire, vous recevrez une référence pour un spécialiste.
 
-###### Sollten Sie mit Ihrem Arzt einmal nicht mehr zufrieden sein oder ziehen Sie um, können Sie problemlos zu einem anderen Hausarzt wechseln.
+###### Si vous n'êtes plus satisfait de votre médecin ou si vous déménagez, vous pouvez facilement changer de médecin de famille.
 
-## Welche Kriterien muss der Mediziner erfüllen?
+## Quels critères le médecin doit-il remplir?
 
-###### Mediziner, die am Hausarzttarif teilnehmen möchten, müssen gemäss § 73 b SGB V gewissen Voraussetzungen erfüllen. Sie müssen zum Beispiel an Qualitätszirkeln teilnehmen, nach spezifischen Leitlinien behandeln und ein Qualitätsmanagement nachweisen können. Die Krankenkassen haben sicherzustellen, dass diese Vorgaben eingehalten werden, bevor Sie Hausärzte auf ihre Listen aufnehmen.
+###### Selon le § 73 b SGB V, les médecins qui souhaitent participer au tarif des médecins de famille doivent remplir certaines conditions. Par exemple, ils doivent participer à des cercles de qualité, traiter selon des directives spécifiques et être en mesure de démontrer la gestion de la qualité. Les caisses d'assurance maladie doivent s'assurer que ces exigences sont remplies avant d'inscrire les médecins généralistes sur vos listes.
 
-## Vorteile des Hausarzttarifs
+## Le tarif du médecin de famille est le suivant
 
-###### Der Hausarzttarif soll unnötige Besuche beim Facharzt und im Spital vermeiden. Als erster Ansprechpartner ist der Allgemeinmediziner mit der Krankengeschichte des Patienten vertraut und soll ihn dadurch effizienter durch das Gesundheitssystem führen. Auf diese Weise sollen sich Behandlungskosten einsparen lassen.
+###### Le tarif pour les médecins de famille vise à éviter les visites inutiles chez le spécialiste et à l'hôpital. En tant que premier point de contact, le médecin de famille connaît les antécédents médicaux du patient et devrait donc le guider plus efficacement dans le système de santé. De cette façon, les coûts de traitement peuvent être économisés.
 
-###### Für Versicherungsnehmer hat der Hausarzttarif vor allem einen grossen Vorteil: Sie zahlen geringere Prämien als im Standard-Modell der Grundversicherung. Weitere Vorteile: Hausärzte bieten in aller Regel auch Termine ausserhalb der Sprechzeiten an. Patienten müssen keine langen Wartezeiten befürchten. Erstuntersuchungen durch den Allgemeinmediziner erleichtern die Früherkennung von Krankheiten. Darüber hinaus soll der Hausarzttarif die Qualität der Facharztbehandlung steigern. Da Patienten den Facharzt nur nach Überweisung durch Ihren Allgemeinmediziner konsultieren, kann dieser sicher sein, dass die Behandlung wirklich notwendig ist. Der Facharzt ist motivierter, dem Patienten eine gute Behandlung zukommen zu lassen, um weitere Überweisungen sicherzustellen.
+###### Pour les assurés, le tarif du médecin de famille présente un avantage majeur : il leur permet de payer des primes moins élevées que dans le modèle standard de l'assurance de base. Plus de primes : Les médecins généralistes offrent généralement aussi des rendez-vous en dehors des heures de bureau. Les patients n'ont pas à s'inquiéter des longs délais d'attente. Les examens initiaux par le médecin généraliste facilitent la détection précoce des maladies. En outre, le tarif pour les médecins généralistes vise à améliorer la qualité des traitements spécialisés. Comme les patients ne consultent leur spécialiste qu'après avoir été référés par leur médecin généraliste, ils peuvent être sûrs que le traitement est vraiment nécessaire. Le spécialiste est plus motivé à fournir au patient un bon traitement pour assurer d'autres orientations.
 
-## Krankenkassen vergleichen und günstigen Hausarzttarif finden
+## Comparez les caisses d'assurance maladie et trouvez un tarif médecin de famille favorable.
 
-###### Entscheiden Sie sich für das alternative Versicherunsgmodell "Hausarzt", schränken Sie zwar Ihre freie Arztwahl ein, profitieren allerdings von günstigeren Prämien. Unser Krankenkassen-Vergleich zeigt Ihnen, welcher Versicherer Ihnen einen besonders günstigen Hausarzttarif anbietet.
+###### Si vous choisissez le modèle alternatif d'assurance "médecin de famille", vous pouvez limiter votre libre choix du médecin, mais bénéficier de primes moins élevées. Notre comparaison des assurances maladie vous montre quel assureur vous offre un tarif particulièrement avantageux pour les médecins de famille.

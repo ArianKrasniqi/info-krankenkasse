@@ -1,35 +1,35 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Kündigungsfrist Krankenkasse"
+title: "Periodo di preavviso dell’assicurazione sanitaria"
 ---
 
-## Kündigungsfrist der Krankenkasse: Welche Fristen müssen Sie beachten?
+## Periodo di preavviso dell’assicurazione sanitaria: quali scadenze occorre rispettare?
 
-###### Sind Sie mit Ihrer Krankenversicherung nicht mehr zufrieden und möchten Ihren Anbieter wechseln, müssen Sie Ihre Kündigung fristgerecht einreichen. In der Grundversicherung richtet sich die Kündigungsfrist nach der Franchise. Mit ordentlicher Franchise können Sie zur Jahresmitte kündigen, ansonsten bis zum Jahresende. Für Zusatzversicherungen müssen Sie abweichende Kündigungsfristen zu beachten.
+###### Se non si è più soddisfatti della propria assicurazione sanitaria e si desidera cambiare il proprio assicuratore, è necessario presentare la propria notifica a tempo debito. Nell'assicurazione di base, il periodo di preavviso si basa sulla franchigia. Con una franchigia adeguata puoi annullarla a metà dell'anno, altrimenti fino alla fine dell'anno. Per le assicurazioni integrative è necessario rispettare diversi periodi di preavviso.
 
 # Form
 
-## Kündigungsfrist bei ordentlicher Franchise
+## Periodo di preavviso con franchigia ordinaria
 
-###### Die ordentliche Franchise in der Grundversicherung beträgt 300 Schweizer Franken für Erwachsene und 0 Schweizer Franken für Kinder. Haben Sie ein entsprechendes Versicherungsmodell abgeschlossen, können Sie Ihre Krankenkasse zur Mitte des Jahres hin kündigen. Dabei gilt eine Frist von drei Monaten.
+###### La franchigia ordinaria presso l'assicurazione di base è di 300 franchi svizzeri per gli adulti e 0 franchi svizzeri per bambini. Se possiedi un modello assicurativo corrispondente, puoi annullare la tua assicurazione sanitaria entro la metà dell'anno. La scadenza è di tre mesi.
 
-###### Konkret bedeutet das: Damit die Kündigung fristgerecht in Kraft tritt, muss Ihr Kündigungsschreiben bis spätestens zum 31. März bei Ihrem Versicherer eingegangen sein. Wirksam wird die Kündigung dann zum 30. Juni. Ab dem 1. Juli gilt der neue Versicherungsvertrag bei Ihrer neu gewählten Krankenversicherung.
+###### Ciò significa che affinché la disdetta entri in vigore in tempo, la sua lettera di disdetta deve pervenire all'assicuratore entro il 31 marzo. La risoluzione avrà effetto dal 30 giugno. Dal 1° luglio, il nuovo contratto assicurativo si applicherà alla tua nuova assicurazione sanitaria
 
-## Krankenversicherung kündigen zum Jahresende
+## Annullare l’assicurazione sanitaria prima della fine dell’anno
 
-###### Haben Sie eine andere Franchise gewählt, können Sie Ihre Versicherung erst zum Jahresende kündigen. Jedes Jahr im Herbst geben die Krankenkassen ihre neuen Prämien für das kommende Jahr bekannt. Diese werden vom Bundesamt für Gesundheit (BAG) bewilligt und Ende September veröffentlicht. Ihr Versicherer muss Sie zudem bis zum 31. Oktober schriftlich über die Beitragsänderung informieren.
+###### Se hai scelto un’altra franchigia, non puoi annullare la tua assicurazione fino alla fine dell'anno. Ogni autunno le assicurazioni sanitarie annunciano i loro nuovi premi per l’anno seguente. Questi sono approvati dall'Ufficio federale della sanità pubblica (UFSP) e pubblicati alla fine di settembre. L'assicuratore deve inoltre informarti per iscritto della modifica del contributo entro il 31 ottobre.
 
-###### In diesem Fall können Sie Ihren Vertrag bis zum 30. November kündigen. Ihr Versicherungsverhältnis endet daraufhin am 31. Dezember. Massgeblich ist wiederum das Datum, bis zu dem Ihr Kündigungsschreiben beim Versicherer eingegangen ist.
+###### In questo caso, puoi recedere dal contratto fino al 30 novembre. Il rapporto assicurativo termina il 31 dicembre. Ancora una volta, la data fino alla quale la vostra lettera di risoluzione è stata ricevuta dall'assicuratore è decisiva.
 
-## Kündigungsfristen in der Zusatzversicherung
+## Periodi di preavviso dell’assicurazione complementare
 
-###### Die Bedingungen für die freiwillige Zusatzversicherung können die Krankenkassen frei gestalten. Aus diesem Grund gelten andere Kündigungsfristen als in der Grundversicherung. Viele Zusatzversicherungen können Sie zum Beispiel mit einer Laufzeit von einem Jahr und einer Kündigungsfrist von drei Monaten abschliessen. Andere Versicherer vereinbaren Laufzeiten von drei oder sogar fünf Jahren und Kündigungsfristen von sechs Monaten.
+###### Le condizioni per l’assicurazione complementare possono essere liberamente stabilite dalle assicurazioni sanitarie. Per questo motivo, si applicano altri termini di preavviso rispetto all'assicurazione di base. Molte assicurazioni integrative, ad esempio, possono essere concluse con un periodo di un anno e un periodo di preavviso di tre mesi. Altri assicuratori concordano termini di tre o anche cinque anni e notificano periodi di sei mesi.
 
-###### Einjährige Verträge laufen in der Regel zu Ende des Kalenderjahres ab. Bei einer dreimonatigen Frist müssen Sie Ihr Kündigungsschreiben bis zum 30. September bei Ihrem Versicherer einreichen, damit die Kündigung zum 31. Dezember in Kraft tritt.
+###### I contratti di un anno scadono generalmente alla fine dell'anno civile. Per un periodo di tre mesi, è necessario presentare la propria lettera di recesso al proprio assicuratore entro il 30 settembre affinché la risoluzione diventi effettiva il 31 dicembre.
 
-###### Erhöht ein Versicherer die Prämie für die freiwilligen Zusatzversicherungen, gilt eine Sonderkündigungsfrist von einem Monat zum Jahresende.
+###### Se un assicuratore aumenta il premio per le assicurazioni integrative volontarie, si applica un periodo di preavviso speciale di un mese entro la fine dell'anno.
 
-## Prämien vergleichen und Krankenkasse wechseln
+## Confrontare i premi e cambiare l’assicurazione sanitaria
 
-###### Verpassen Sie die Kündigungsfrist, verlängert sich Ihr Vertrag automatisch um die vereinbarte Laufzeit. Sie sind dann also ein weiteres Jahr oder sogar länger an Ihre Versicherung gebunden. Machen Sie sich daher schon frühzeitig vor dem Ablaufen der Frist Gedanken über einen möglichen Krankenkassenwechsel. Mit unserem Krankenkassenrechner können Sie die einzelnen Anbieter vergleichen und direkt eine Offerte Ihrer bevorzugten Versicherung einholen.
+###### Se si perde il periodo di preavviso, il contratto verrà automaticamente prorogato entro il termine concordato. Sei quindi legato alla tua assicurazione per un altro anno o anche di più. Pertanto, pensa alla possibilità di un cambio dell’assicurazione sanitaria prima della scadenza del termine. Con il nostro calcolatore dell’assicurazione sanitaria puoi confrontare i singoli fornitori e richiedere direttamente un'offerta della tua assicurazione preferita.

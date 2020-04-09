@@ -1,43 +1,45 @@
 ---
 lang: "en"
 type: "glossar"
-title: "Prämienverbilligung"
+title: "Premium reductions"
 ---
 
-## So erhalten Sie eine Prämienverbilligung für die Krankenkasse
+## Health insurance premium reductions
 
-###### Wer in bescheidenen wirtschaftlichen Verhältnissen lebt, muss nicht die volle Krankenkassenprämie bezahlen. Liegt Ihr Haushaltseinkommen unter einer vorgegebenen Summe, können Sie eine Prämienverbilligung beantragen. Hier erfahren Sie, in welchen Fällen Sie einen Antrag stellen dürfen und was Sie dabei beachten müssen. Zur Optimierung Ihrer Prämienhöhe lohnt sich ausserdem ein Krankenkassenvergleich. Durch den Wechsel zu einer günstigen Krankenversicherung können Sie mehr als Tausend Schweizer Franken im Jahr sparen.
+###### How to get a premium reduction for your health insurance company People who live in modest economic conditions do not have to pay the full health insurance premium. If your household income is below a specified amount, you can apply for a premium reduction. Here you can find out in which cases you can apply and what you need to bear in mind. To optimise your premium level, it is also worth comparing health insurance companies.
 
 # Form
 
 ## Haben Sie Anspruch auf eine Prämienverbilligung?
 
-###### Anspruch auf Krankenkassenprämienverbilligung besteht grundsätzlich, wenn Sie in bescheidenen wirtschaftlichen Verhältnissen leben. Massgeblich sind das Haushaltseinkommen und die Anzahl der Kinder. Wie hoch das Haushaltseinkommen ausfallen darf, ist kantonal geregelt. In den meisten Kantonen informiert Sie die Verwaltung automatisch, falls ein Anspruch besteht.
+## Here you will find all premiums for the health insurance company switch
 
-###### Haben Sie Ihren Wohnsitz in Zürich, besteht im Jahr 2020 in folgenden Fällen Anspruch auf Krankenkassenprämienverbilligung:
+###### Are you entitled to a premium reduction? In principle, you are entitled to a reduction in health insurance premiums if you live in modest economic circumstances. The household income and the number of children are decisive. How high the household income may be is regulated at cantonal level. In most cantons, the administration will inform you automatically if you are entitled to a household income.
 
-### Ehepaare bzw. eingetragene Partner ohne Kinder: steuerbares Gesamteinkommen von maximal 49'200.00 Schweizer Franken.
+###### If you are resident in Zurich, you are entitled to reduced health insurance premiums in the following cases in 2020:
 
-### Ehepaare bzw. eingetragene Partner mit Kindern: steuerbares Gesamteinkommen von maximal 49'200 Schweizer Franken. Bei einem Haushaltseinkommen zwischen 49'300 und 62'900 Franken wird eine Prämienverbilligung für die minderjährigen Kinder gewährt.
+### Married couples or registered partners without children: total taxable income of a maximum of CHF 49,200.00. Married couples or registered partners with children: total taxable income of up to CHF 49,200.
 
-### Alleinerziehende: steuerbares Gesamteinkommen von maximal 41'600 Franken. Bei einem Einkommen zwischen 41'700 und 62'900 Franken besteht Anspruch auf Prämienverbilligung für die minderjährigen Kinder.
+### For household incomes between CHF 49,300 and CHF 62,900, a premium reduction is granted for underage children. Single parents: total taxable income of up to CHF 41,600.
 
-### Einzelpersonen: steuerbares Gesamteinkommen von maximal 36'300 Schweizer Franken.
+### If the income is between CHF 41,700 and CHF 62,900, underage children are entitled to premium reductions.
 
-###### Das steuerbare Gesamtvermögen darf jeweils 300'000 Franken nicht übersteigen, bei Einzelpersonen sind 150'000 Franken gestattet.
+### Individuals: total taxable income of up to CHF 36,300.
 
-## Antrag auf Prämienverbilligung: Darauf müssen Sie achten
+###### The total taxable assets may not exceed CHF 300,000 in any one case; CHF 150,000 is permitted for individuals. Application for premium reduction:
 
-###### Die SVA Ihres Kanton schickt Ihnen für gewöhnlich bis Ende Juli das Antragsformular für die Prämienverbilligung zu. Jugendliche ab 18 Jahre erhalten ein eigenes Antragsformular, selbst wenn sie in einem Haushalt mit den Eltern leben. Den vorgedruckten Antrag müssen Sie vollständig ausfüllen und unterschrieben an die SVA zurücksenden. Dafür haben Sie zwei Monate Zeit. Junge Erwachsene in Erstausbildung fügen noch einen aktuellen Ausbildungsnachweis, eine Semesterbestätigung oder eine Schulbestätigung bei.
+## You must pay attention to the following:
 
-###### Erhalten Sie trotz Anspruch kein Antragsformular, wenden Sie sich bitte an die zuständige SVA Ihres Wohnkantons.
+###### The SVA of your canton usually sends you the application form for the premium reduction by the end of July. Young people aged 18 and over receive their own application form, even if they live in the same household as their parents. The pre-printed application form must be completed in full, signed and returned to the SVA. You have two months to do this. Young adults in initial training must also enclose a current certificate of training, a semester certificate or a school certificate.
 
-## So funktioniert die Auszahlung
+###### If you do not receive an application form despite your claim, please contact the relevant SVA in your canton of residence.
 
-###### Die SVA Ihres Kantons überweist die Prämienverbilligung direkt an Ihre Krankenversicherung. Die Krankenkasse zieht die überwiesene Summe dann von Ihren laufenden Prämienrechnungen ab. Wechseln Sie die Krankenkasse, informiert Ihr alter Versicherer die SVA und teilt dieser die neue Krankenversicherung mit. Sie müssen sich bei einem Krankenkassenwechsel nicht selbst bei der SVA melden.
+## This is how payment works
 
-###### Die Höhe der Prämienverbilligung variiert je nach Wohnort, steuerbarem Gesamteinkommen und Alter des Versicherungsnehmers.
+###### The SVA of your canton transfers the premium reduction directly to your health insurance company. The health insurance company then deducts the transferred sum from your current premium invoices. If you change your health insurance company, your old insurer informs the SVA and informs them of the new health insurance. If you change your health insurance company, you do not have to register with the SVA yourself.
 
-## Optimierung der Krankenkassenprämie: Machen Sie jetzt den Prämienvergleich!
+###### The amount of the premium reduction varies depending on the place of residence, taxable total income and age of the policyholder. Optimisation of the health insurance premium:
 
-###### Die Prämienverbilligung gilt allein für die Grundversicherung, nicht für die Zusatzversicherung. Damit Sie auch bei reduzierter Prämie nicht zu viel bezahlen, lohnt sich der Krankenkassenvergleich. Berechnen Sie Ihre aktuelle Krankenkassenprämie und finden Sie heraus, wie Sie sparen können, ohne auf Leistungen zu verzichten.
+## Compare premiums now!
+
+###### The premium reduction only applies to the basic insurance, not to the supplementary insurance. So that you don't pay too much even with reduced premiums, the health insurance comparison is worthwhile.

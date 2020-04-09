@@ -1,41 +1,41 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Franchise"
+title: "Franchigia"
 ---
 
-## So funktioniert die Franchise in der obligatorischen Krankenversicherung
+## Ecco come funziona la franchigia nell'assicurazione sanitaria obbligatoria
 
-###### Die obligatorische Krankenpflegeversicherung ist für alle in der Schweiz lebenden Personen Pflicht. Die Grundversicherung übernimmt einen Teil der Kosten im Krankheitsfall. Sobald ein Leistungsfall eintritt, müssen sich die Versicherungsnehmer auch selbst an den entstandenen Kosten beteiligen. Diese Kostenbeteiligung setzt sich aus der Jahresfranchise und einem Selbstbehalt zusammen. Durch die Höhe der Kostenbeteiligung lässt sich die Höhe der monatlichen Versicherungsprämien beeinflussen.
+###### L'assicurazione sanitaria è obbligatoria per tutte le persone che vivono in Svizzera. L'assicurazione di base coprirà parte dei costi della malattia. Non appena si verifica una domanda di indennità, gli assicurati devono anche contribuire ai costi sostenuti. Questa quota di costo è costituita dalla franchigia annuale e da una franchigia. L'importo del cofinanziamento può influenzare l'importo dei premi assicurativi mensili.
 
 # Form
 
-## Die Jahresfranchise in der obligatorischen Krankenversicherung
+## La franchigia annuale nell'assicurazione sanitaria obbligatoria
 
-###### Besuchen Sie einen Arzt, benötigen Medikamente oder wird ein Spitalaufenthalt nötig, müssen Sie sich an den anfallenden Kosten beteiligen. Die ordentliche Franchise in der Grundversicherung beträgt 300 Schweizer Franken für Erwachsene. Kinder bis 18 Jahre müssen keine Franchisen bezahlen.
+###### Se sei in visita da un medico, hai bisogno di cure mediche o hai bisogno di una degenza ospedaliera, dovrai contribuire ai costi. La franchigia ordinaria presso l'assicurazione di base è di 300 franchi svizzeri per adulti. I minori di 18 anni non devono pagare franchising.
 
-###### Durch frei wählbare Kostenbeteiligungen lässt sich die Höhe der Prämien reduzieren. Das Krankenversicherungsgesetz (KVG) sieht für Kinder und Jugendliche bis 18 Jahre eine Abstufung zwischen 0 und 600 Schweizer Franken vor. Junge Erwachsene und Erwachsene ab 26 Jahren können folgende Abstufungen wählen: 300, 500, 1'000, 1'500, 2'000 und 2'500 Schweizer Franken. Allerdings bietet nicht jede Krankenversicherung alle Franchisestufen an.
+###### Attraverso la condivisione dei costi liberamente selezionabile, l'importo dei premi può essere ridotto. La legge sull'assicurazione malattia (LAMal) prevede voti tra 0 e 600 franchi svizzeri per bambini e adolescenti fino a 18 anni. I giovani e gli adulti di età superiore ai 26 anni possono scegliere tra i seguenti gradi: 300, 500, 1'000, 1'500, 2'000 e 2'500 franchi svizzeri. Tuttavia, non tutte le assicurazioni sanitarie offrono tutti i livelli di franchigia.
 
-###### In der Zusatzversicherung gibt es keine festgelegten Franchisen. Vielmehr übernimmt die Krankenversicherung die vereinbarten Leistungen bis zu einem festgesetzten Jahreshöchstbetrag.
+###### L’assicurazione integrativa non ha franchigie fisse. Piuttosto, l'assicurazione sanitaria assume le prestazioni concordate fino a un importo massimo annuo fisso.
 
-## Der zusätzliche Selbstbehalt
+## La franchigia aggiuntiva
 
-###### Die Franchise zahlen Sie einmal im Jahr. Übersteigen Ihre Gesundheitskosten den festgelegten Betrag, übernimmt die Krankenkasse alle weiteren Beträge. Dabei fällt allerdings ein Selbstbehalt in Höhe von 10 Prozent der Behandlungskosten an, maximal 700 Schweizer Franken pro Jahr für Erwachsene, 350 Schweizer Franken für Kinder. Bei einem Spitalaufenthalt zahlen Erwachsene ab 26 Jahren zusätzlich eine Verpflegungs- und Unterkunftspauschale von 15 Schweizer Franken pro Tag.
+###### La franchigia viene pagata una volta all'anno. Se i costi sanitari superano l'importo previsto, il fondo di assicurazione sanitaria pagherà tutti gli altri importi. Tuttavia, vi è una franchigia del 10 percento dei costi di trattamento, un massimo di 700 franchi svizzeri all'anno per gli adulti, 350 franchi svizzeri per i bambini. Per un ricovero in ospedale, gli adulti di età superiore ai 26 anni pagano un supplemento di vitto e alloggio di 15 franchi svizzeri al giorno.
 
-###### Haben Sie sich zum Beispiel für eine ordentliche Kostenbeteiligung entschieden, zahlen Sie Arzt- und Medikamentenkosten bis 300 Schweizer Franken selbst. Danach beteiligen Sie sich mit 10 Prozent an den anfallenden Kosten.
+###### Ad esempio, se si opta per una quota di costo decente, si pagano fino a 300 franchi svizzeri per i costi di medici e medicine, dopodiché si paga il 10 percento dei costi sostenuti.
 
-###### Übrigens: Wechseln Sie Ihre Grundversicherung zur Mitte des Jahres, rechnet der neue Versicherer Ihre bereits geleistete Kostenbeteiligung an.
+###### A proposito: se cambi la tua assicurazione di base entro la metà dell'anno, il nuovo assicuratore rimborserà il tuo contributo già versato.
 
-## Wann fällt keine Kostenbeteiligung an?
+## Quando non si applica la condivisione dei costi?
 
-###### Zwischen der 13. Schwangerschaftswoche und der achten Woche nach der Geburt müssen Mütter bei Krankheit und Spitalaufenthalt keine Kostenbeteiligung leisten. Die Kostenbeteiligung entfällt auch bei Unfällen, wenn Sie eine Unfallversicherung über Ihren Arbeitgeber abgeschlossen haben. Das gilt auch für Nichtberufsunfälle.
+###### Tra la tredicesima settimana di gravidanza e l'ottava settimana dopo la nascita, le madri non devono pagare per malattia e ricovero. La condivisione dei costi non si applica in caso di incidenti se è stata stipulata un'assicurazione contro gli infortuni tramite il datore di lavoro. Ciò vale anche per gli infortuni non professionali.
 
-## Wann können Sie Ihre Franchise wechseln?
+## Quando è possibile cambiare la propria franchigia?
 
-###### Durch eine höhere Kostenbeteiligung lassen sich die Prämienbeiträge um bis zu 44 Prozent reduzieren. Möglich ist ein Wechsel auf eine höhere oder geringere Kostenbeteiligung jeweils zum Beginn des Kalenderjahres.
+###### Una maggiore partecipazione ai costi può ridurre i premi fino al 44 percento. È possibile passare a una quota di costo superiore o inferiore all'inizio di ogni anno solare.
 
-###### Wünschen Sie eine geringere Franchisestufe, müssen Sie dies Ihrer Krankenkasse bis spätestens zum 30. November eines Jahres mitteilen. Möchten Sie in eine höhere Franchisestufe wechseln, reicht es, wenn Ihr Schreiben bis zum letzten Arbeitstag im Dezember bei der Krankenversicherung eingegangen ist.
+###### Se si desidera un livello di franchising inferiore, è necessario informare la propria compagnia di assicurazione sanitaria entro il 30 novembre di ogni anno. Se desideri passare a un livello di franchising più elevato, è sufficiente che la tua lettera raggiunga l'assicurazione sanitaria entro l'ultimo giorno lavorativo di dicembre.
 
-## Franchisen vergleichen und günstige Krankenkasse finden
+## Confrontare le franchigie e trovare un’assicurazione sanitaria economica
 
-###### Werden Sie nur selten krank, können Sie durch die Wahl einer höheren Franchise Prämien sparen. Wer dagegen häufiger zum Arzt muss oder regelmässig Medikamente benötigt, profitiert von einer geringeren Kostenbeteiligung bei höheren Prämien. Wir helfen Ihnen gerne, die für Sie optimale Franchisestufe zu finden. Mit einem Versicherungsvergleich finden Sie heraus, auf welche Weise Sie am meisten sparen.
+###### Se ti ammali raramente, puoi risparmiare premi scegliendo una franchigia più elevata. D'altra parte, coloro che devono andare dal medico più frequentemente o regolarmente hanno bisogno di un beneficio terapeutico da una quota di costo inferiore con premi più elevati. Siamo felici di aiutarti a trovare il tuo livello di franchigia ottimale. Scopri come risparmiare di più con un confronto delle assicurazioni.

@@ -1,35 +1,35 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Obligatorische Krankenversicherung"
+title: "Assurance maladie obligatoire"
 ---
 
-## Die obligatorische Krankenversicherung: Pflicht für jeden Einwohner der Schweiz
+## Assurance-maladie obligatoire : elle est obligatoire pour tous les habitants de la Suisse.
 
-###### In der Schweiz besteht Krankenversicherungspflicht. Wer in der Schweiz lebt oder dort arbeitet, muss die sogenannte obligatorische Krankenversicherung, auch Grundversicherung genannt, abschliessen. Die Wahl der Krankenkasse steht den Versicherungsnehmern dabei frei. Durch die Krankenversicherungspflicht möchte der Bund erreichen, dass jeder Schweizer Bürger für den Krankheitsfall finanziell abgesichert ist.
+###### Assurance-maladie obligatoire : elle est obligatoire pour tous les résidents de Suisse En Suisse, l'assurance-maladie est obligatoire. Quiconque vit ou travaille en Suisse doit souscrire l'assurance maladie dite obligatoire, également appelée assurance de base. Les assurés sont libres de choisir leur caisse d'assurance maladie. Par le biais de l'assurance-maladie obligatoire, la Confédération vise à assurer la sécurité financière de chaque citoyen suisse en cas de maladie.
 
 # Form
 
-## Welche Bedingungen gelten in der obligatorischen Krankenversicherung?
+## Quelles sont les conditions de l'assurance maladie obligatoire?
 
-###### Die Bedingungen der obligatorischen Krankenpflegeversicherung regelt das Krankenversicherungsgesetzt (KVG). Seit 1996 sieht es vor, dass jede Person, die in der Schweiz lebt oder arbeitet, eine Grundversicherung abschliessen muss. Die obligatorische Krankenversicherung übernimmt die grundlegende medizinische Versorgung bei Krankheit, Unfall sowie Schwangerschaft und Mutterschaft.
+###### Les conditions de l'assurance maladie obligatoire sont réglementées par la loi sur l'assurance maladie (LAMal). Depuis 1996, elle stipule que toute personne qui vit ou travaille en Suisse doit souscrire une assurance maladie de base. L'assurance maladie obligatoire couvre les soins médicaux de base en cas de maladie, d'accident, de grossesse et de maternité.
 
-###### In der Regel begleichen die Versicherten die Kosten für medizinische Behandlungen und Medikamente zunächst selbst. Anschliessend wenden sie sich zwecks Erstattung an Ihren Krankenversicherer. Spitäler rechnen meist direkt mit den Krankenkassen ab.
+###### En règle générale, les personnes assurées prennent en charge les frais de traitement médical et de médicaments dans un premier temps. Ils s'adressent ensuite à leur caisse maladie pour être remboursés. Les hôpitaux règlent généralement les comptes directement avec les caisses d'assurance maladie.
 
-###### Familienmitglieder sind nicht automatisch in der Grundversicherung mitversichert. Für jedes Familienmitglied muss ein gesonderter Versicherungsvertrag abgeschlossen werden.
+###### Les membres de la famille ne sont pas automatiquement inclus dans l'assurance de base. Un contrat d'assurance distinct doit être conclu pour chaque membre de la famille.
 
-## Wie hoch sind die Krankenkassenprämien?
+## Quel est le montant des primes d'assurance maladie?
 
-###### Für die Leistungen der Grundversicherung entrichten die Versicherungsnehmer eine monatliche Krankenkassenprämie. In der Gestaltung ihrer Prämien sind die Krankenversicherer weitgehend frei, sofern sie einige gesetzliche Vorgaben beachten. Die Höhe der Prämie richtet sich nach dem Einkommen sowie nach den vom Bundesamt für Gesundheit (BAG) definierten Prämienregionen und Altersgruppen. Derzeit gibt es 43 Prämienregionen in der Schweiz, die Altersgruppen teilen sich ein in Kinder und Jugendliche bis 18 Jahre, junge Erwachsene zwischen 18 und 26 Jahre und Erwachsene ab 26 Jahre.
+###### Les assurés paient une prime mensuelle d'assurance maladie pour les prestations de l'assurance de base. Les assureurs maladie sont largement libres de fixer leurs primes pour autant qu'ils respectent certaines exigences légales. Le montant de la prime dépend du revenu ainsi que des régions de primes et des tranches d'âge définies par l'Office fédéral de la santé publique (OFSP). Il existe actuellement 43 régions premium en Suisse, les groupes d'âge sont répartis en enfants et adolescents jusqu'à 18 ans, jeunes adultes entre 18 et 26 ans et adultes de 26 ans et plus.
 
-## Die Selbstbeteiligung in der Grundversicherung
+## La franchise de l'assurance de base
 
-###### Neben der Prämie haben Versicherungsnehmer eine Selbstbeteiligung zu leisten. Diese setzt sich aus der Jahresfranchise und dem Selbstbehalt zusammen.
+###### En plus de la prime, l'assuré doit payer une franchise. Il s'agit de la franchise annuelle et de la franchise.
 
-###### Die Franchise bezeichnet einen jährlichen Festbetrag, bis zu dem Sie Ihre Behandlungs- und Medikamentenkosten selbst tragen müssen. Die ordentliche Jahresfranchise im Standard-Modell der Grundversicherung beträgt für Erwachsene ab 18 Jahren 300 Schweizer Franken, 0 Franken für Kinder. Wahlweise können Erwachsene ihre Franchise auf bis zu 2'500 Franken erhöhen und dadurch Prämien sparen. Für Kinder ist eine Erhöhung bis 600 Franken möglich.
+###### La franchise est un montant annuel fixe jusqu'à hauteur duquel vous devez payer vos propres frais de traitement et de médicaments. La franchise annuelle ordinaire dans le modèle standard de l'assurance de base est de 300 francs suisses pour les adultes de 18 ans et plus et de 0 franc suisse pour les enfants. Les adultes ont la possibilité d'augmenter leur franchise jusqu'à 2500 Francs suisse, ce qui leur permet d'économiser des primes. Pour les enfants, une augmentation jusqu'à 600 Francs suisse est possible.
 
-###### Übersteigen die Behandlungskosten die Jahresfranchise, deckt die Krankenversicherung den Mehrbetrag. Sie leisten nun noch einen Selbstbehalt in Höhe von zehn Prozent. Maximal zahlen Erwachsene einen Selbstbehalt von 700 Franken im Jahr, Kinder von 350 Franken.
+###### Si les frais de traitement dépassent la franchise annuelle, l'assurance maladie prend en charge le montant supplémentaire. Vous payez maintenant une franchise de dix pour cent. Les adultes paient une franchise maximale de 700 francs par an, les enfants 350 francs.
 
-## Krankenkassen vergleichen und günstige Grundversicherung abschliessen
+## Comparez les caisses d'assurance maladie et souscrivez une assurance de base avantageuse
 
-###### Zwar besteht Versicherungspflicht, bei welcher Krankenkasse Sie sich versichern lassen, können Sie jedoch frei wählen. In der Schweiz gibt es weit mehr als 65 zugelassene Krankenversicherer. Für die obligatorische Krankenversicherung bieten alle die gleichen, gesetzlich vorgegebenen Leistungen. Die Höhe der Prämien gestaltet sich jedoch sehr unterschiedlich. Sparen können Sie zudem, wenn Sie ein alternatives Modell der Grundversicherung wählen. Mit unserem unabhängigen Krankenkassenvergleich finden Sie den Versicherer mit den niedrigsten Prämien.
+###### Bien qu'il soit obligatoire de contracter une assurance auprès de la caisse d'assurance maladie à laquelle vous êtes affilié, vous êtes libre de choisir. Il existe en Suisse bien plus de 65 caisses-maladie agréées. Pour l'assurance maladie obligatoire, ils offrent tous les mêmes prestations légales. Toutefois, le niveau des primes varie considérablement. Vous pouvez également économiser si vous optez pour un autre modèle d'assurance de base. Avec notre comparaison indépendante d'assurance maladie, vous trouverez l'assureur avec les primes les plus basses.

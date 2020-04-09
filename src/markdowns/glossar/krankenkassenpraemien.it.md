@@ -1,37 +1,37 @@
 ---
 lang: "it"
 type: "glossar"
-title: "Krankenkassenprämien"
+title: "Premi cassa malati"
 ---
 
-## Was Sie zu den Krankenkassenprämien in der Schweiz wissen müssen
+## Quello che dovresti sapere sui premi delle casse malati in Svizzera
 
-###### Jedes Jahr im Herbst legen die Schweizer Krankenversicherer die Krankenkassenprämien für das kommende Jahr fest. Für Versicherungsnehmer lohnt sich ein Vergleich. Denn in der Grundversicherung unterscheiden sich zwar die Prämien, die Leistungen sind jedoch gleich. Auch durch die Wahl eines alternativen Versicherungsmodells oder durch die Erhöhung der Franchise können Sie Ihre Prämien senken.
+###### Ogni anno in autunno le assicurazioni sanitarie svizzere fissano i premi delle assicurazioni sanitarie per l’anno successivo. Per gli assicurati vale la pena fare un confronto, poiché nell'assicurazione di base i premi sono differenti, ma i servizi sono gli stessi. Puoi anche abbassare i premi scegliendo un modello assicurativo alternativo o aumentando la franchigia.
 
 # Form
 
-## Wie setzt sich die Prämie in der Grundversicherung zusammen?
+## Come vengono calcolati i premi nell’assicurazione sanitaria di base?
 
-###### Die Krankenkassenprämie in der obligatorischen Krankenpflegeversicherung unterscheidet sich je nach Wohnkanton, Einkommen und Alter des Versicherungsnehmers. Jede Krankenkasse erhebt zudem etwas unterschiedliche Prämien. Im Herbst jeden Jahres passen die Versicherer die Prämienhöhe an. Für Versicherte bedeutet dies meist, dass sie im kommenden Jahr mehr für ihre Krankenversicherung bezahlen müssen. Zum Jahr 2019 stieg die mittlere Prämie laut Bundesamt für Gesundheit (BAG) zum Beispiel um 1,2 Prozent und liegt nun bei 315 Schweizer Franken. Abhängig vom Wohnkanton fällt die Anpassung jedoch recht unterschiedlich aus: Während einige Schweizer nun 1,5 Prozent weniger zahlen, stieg die Krankenkassenprämie für andere um 3,6 Prozent.
+###### I premi nelle assicurazioni sanitarie nell'assicurazione obbligatoria delle cure medico sanitarie variano a seconda del Cantone di residenza, del reddito e dell'età dell'assicurato. Ogni assicurazione sanitaria genera anche premi leggermente diversi. Nell'autunno di ogni anno, gli assicuratori adeguano l'importo del premio. Per l’assicurato questo di solito significa che dovranno pagare di più per la loro assicurazione sanitaria l’anno seguente. Secondo l'Ufficio federale della sanità pubblica (UFSP), ad esempio, il premio medio è aumentato dell'1,2% nel 2019 a 315 franchi svizzeri. A seconda del Cantone di residenza, tuttavia, l'adeguamento è piuttosto diverso: mentre alcuni svizzeri ora pagano l'1,5 percento in meno, i premi delle assicurazioni sanitarie per gli altri sono aumentate del 3,6 percento.
 
-## Prämienrabatt für alternative Versicherungsmodelle
+## Sconto sui premi per modelli assicurativi alternativi
 
-###### Wer seine Krankenkasseprämie senken möchte, hat verschiedene Möglichkeiten. Die Krankenkassen gewähren zum Beispiel Prämienrabatt, wenn ein alternatives Versicherungsmodell wählen. Während das Standardmodell freie Arztwahl garantiert, schränken die alternativen Versicherungsmodelle die Auswahl des ersten Ansprechpartners im Krankheitsfall ein. Das ermöglicht Einsparungen von bis zu 20 Prozent.
+###### Chi vuole abbassare i premi della sua assicurazione sanitaria ha varie opzioni. Le assicurazioni sanitarie concedono ad esempio sconti sul premio nella scelta di un modello assicurativo alternativo. Mentre il modello standard garantisce la libera scelta del medico, i modelli assicurativi alternativi limitano la scelta del primo contatto in caso di malattia. Questo permette un risparmio fino al 20 percento.
 
-###### Die drei gängigsten Modelle sind:
+###### I tre modelli più comuni sono:
 
-### Das Hausarzt-Modell: Sie wenden sich im Krankheitsfall zunächst an Ihren Hausarzt.
+### Il modello del Medico di famiglia: in caso di malattia ci si rivolge prima al proprio medico di famiglia.
 
-### Das Gruppenpraxis-Modell: Sie suchen im Krankheitsfall zuerst einen Arzt in einer Gruppenpraxis (HMO) auf.
+### Il modello Studio modello medico collettivo: in caso di malattia, si visita prima un medico in uno studio medico collettivo (HMO).
 
-### Das Telmed-Modell: Sie wenden sich vor jedem Arztbesuch an eine telefonische Erstberatungsstelle.
+### Il modello Telmed: è necessario contattare un consulente telefonico di pronto soccorso prima di ogni visita dal medico.
 
-###### Zusätzlich gibt es ein Bonus-Modell, das Versicherungsnehmer belohnt, die selten medizinische Behandlungen benötigen. Mit jedem Jahr, in dem Sie keine Rechnungen bei der Krankenkasse einreichen, wird die Prämie gesenkt. Dafür zahlen Sie jedoch eine um zehn Prozent höhere Ausgangsprämie und können die Höhe der Kostenbeteiligung nicht frei wählen.
+###### Inoltre esiste un modello di bonus che premia gli assicurati che raramente necessitano di cure mediche. Ogni anno quando non si inviano le bollette all'assicurazione sanitaria, il premio viene ridotto. Tuttavia, si paga un premio iniziale superiore del 10% e non è possibile scegliere liberamente l'importo della condivisione dei costi.
 
-## Sparen durch eine höhere Franchise
+## Risparmia con una franchigia superiore
 
-###### Sparen können Sie auch, wenn Sie die Franchise erhöhen. In der obligatorischen Krankenpflegeversicherung leisten Sie einen Kostenbeitrag für medizinische Behandlungen und Medikamente. Diese Selbstbeteiligung setzt sich aus der Jahresfranchise und einem Selbstbehalt zusammen. Die ordentliche Jahresfranchise beträgt 300 Schweizer Franken. Bis zu dieser Summe zahlen Sie Ihre Behandlungs- und Medikamentenkosten selbst. Alle weitergehenden Kosten übernimmt die Krankenkasse, Sie zahlen nur noch einen Selbstbehalt in Höhe von zehn Prozent, höchstens 700 Franken pro Kalenderjahr für Erwachsene, 350 Franken für Kinder. Entscheiden Sie sich freiwillig für eine höhere Franchise, senkt die Krankenversicherung die Prämie. Die maximal mögliche Jahresfranchise beträgt 2'500 Franken für Erwachsene, 600 Franken für Kinder.
+###### Puoi anche risparmiare se aumenti il franchising. Nell'assicurazione malattia obbligatoria, si paga una tassa per cure mediche e farmaci. Questa franchigia assicurativa consiste nella franchigia annuale e una quota a carico dell’assicurato. La franchigia annuale ordinaria è di 300 franchi svizzeri. Fino a questa somma, pagherai tu stesso il trattamento e le cure mediche. Fino a questa somma pagherai tu stesso le spese di trattamento e dei medicinali.Tutti gli altri costi sono coperti dall'assicurazione sanitaria, si paga solo una franchigia del 10 per cento, un massimo di franchi all'anno negli adulti, 350 franchi nei bambini. Se opti volontariamente per una franchigia più elevata, l'assicurazione sanitaria abbassa il premio. La franchigia massima annuale è di 2'500 franchi per gli adulti e 600 franchi per i bambini.
 
-## Ein Vergleich der Krankenkassenprämien lohnt sich
+## Vale la pena effettuare un confronto delle assicurazioni sanitarie
 
-###### In der Grundversicherung erheben die Versicherer unterschiedlich hohe Krankenkassenprämien für gleiche Leistungen. Daher lohnt sich ein Krankenkassenvergleich. Durch einen Krankenkassenwechsel können Sie deutlich sparen, ohne Leistungseinbussen befürchten zu müssen. Die Leistungen der freiwilligen Zusatzversicherungen berücksichtigt der Prämienvergleich noch nicht. Die Gegenüberstellung der Versicherer empfiehlt sich jedoch auch für den zusätzlichen Versicherungsschutz. Wir beraten Sie gerne.
+###### Nell’assicurazione di base gli assicuratori applicano diversi livelli di premi assicurazioni sanitarie a parità di prestazioni. Vale quindi la pena effetuare un confronto delle assicurazioni sanitarie. Puoi risparmiare molto senza dover temere alcuna perdita di prestazioni attraverso un cambio dell’assicurazione sanitaria. I vantaggi dell'assicurazione integrativa volontaria non tengono conto del confronto dei premi. Il confronto degli assicuratori è raccomandato anche per la copertura assicurativa aggiuntiva. Siamo felici di consigliarvi.

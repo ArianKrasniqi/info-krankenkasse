@@ -1,37 +1,37 @@
 ---
 lang: "fr"
 type: "glossar"
-title: "Vorgeburtliche anmeldung"
+title: "Annonce prénatale"
 ---
 
-## Vorgeburtliche Anmeldung: Melden Sie Ihr Baby rechtzeitig bei der Krankenkasse
+## Annonce prénatale: Signalez votre bébé à temps à votre caisse d'assurance maladie
 
-###### Jeder Schweizer und jede Schweizerin muss bei einer Krankenkasse gemeldet sein. Das gilt bereits für Babys. Damit Ihr Baby ab der Geburt einen umfassenden Versicherungsschutz geniesst, empfiehlt sich die vorgeburtliche Anmeldung. So sind Sie auch geschützt, falls Ihr Kind krank zur Welt kommt.
+###### Tout citoyen suisse doit être affilié à une caisse d'assurance-maladie. Cela s'applique déjà aux bébés. Pour que votre bébé bénéficie d'une couverture d'assurance complète dès la naissance, il est conseillé de s'inscrire avant la naissance. Si votre enfant né malade, vous serez protégés.
 
-###### Fordern Sie gleich eine unverbindliche Offerte an und schliessen eine Krankenversicherung für Ihr Baby ab.
+###### Demandez dès maintenant une offre sans engagement et souscrivez une assurance maladie pour votre bébé.
 
 # Form3
 
-## Vorteile durch die vorgeburtliche Anmeldung
+## Avantages de l'annonce prénatale
 
-###### Melden Sie bereits Ihr ungeborenes Kind bei der Krankenkasse an, besteht der Versicherungsschutz bereits ab dem Moment der Geburt. Durch die vorgeburtliche Anmeldung können Sie alle administrativen Angelegenheiten in Ruhe klären und nach der Geburt mehr Zeit mit Ihrem Baby verbringen.
+###### Si vous avez déjà annoncé la naissance de votre enfant à la caisse d'assurance maladie, la couverture d'assurance existe déjà dès la naissance. Avec l'annonce prénatale, vous pouvez régler toutes les questions administratives en toute tranquillité et passer plus de temps avec votre bébé après la naissance.
 
-###### Besonders wichtig ist die vorgeburtliche Anmeldung in der Zusatzversicherung. Anders als in der Grundversicherung besteht hier nämlich keine Aufnahmepflicht. Die Krankenversicherung kann die Aufnahme Ihres Kindes ohne Angabe von Gründen verweigern. Kümmern Sie sich daher bereits vor der Geburt um alle wichtigen Zusatzversicherungen.
+###### L'annonce prénatale est particulièrement importante dans l'assurance complémentaire. Contrairement à l'assurance de base, cette assurance n'est pas obligatoire. L'assurance maladie peut refuser l'admission de votre enfant sans donner de raisons. Vous devez donc vous occuper de toutes les assurances complémentaires importantes avant la naissance.
 
-## Sparen mit dem Familienrabatt
+## Économiser avec la réduction familiale
 
-###### Sie müssen Ihr Baby nicht zwangsläufig bei der Krankenkasse versichern, bei der Sie einen Vertrag abgeschlossen haben. Familien mit mehreren Kindern bieten viele Krankenversicherer jedoch einen Familienrabatt mit reduzierten Prämien. Je nach Versicherer erhalten Sie den Familienrabatt ab dem zweiten oder ab dem dritten Kind.
+###### Vous n'êtes pas obligé d'assurer votre bébé auprès de la caisse d'assurance maladie avec laquelle vous avez établi un contrat. Cependant, de nombreux assureurs maladie offrent aux familles ayant plusieurs enfants une réduction familiale avec des primes réduites. Selon l'assureur, vous bénéficiez de la réduction familiale à partir du deuxième ou du troisième enfant.
 
-## So einfach funktioniert die vorgeburtliche Anmeldung
+## Le fonctionnement de l’annonce prénatale est aussi simple que ça
 
-###### Die vorgeburtliche Anmeldung zur Krankenkasse führen Sie in wenigen Schritten durch:
+###### L'annonce prénatale à la caisse d'assurance maladie se fait en quelques étapes seulement:
 
-### Vergleichen Sie die Krankenkassen mit unserem Prämienrechner.
+### Comparez les caisses d'assurance maladie avec notre calculateur de primes.
 
-### Holen Sie über unser Formular gleich eine Offerte ein.
+### Utilisez notre formulaire pour demander immédiatement une offre.
 
-### Senden Sie Ihre Unterlagen an die Krankenversicherung Ihrer Wahl und melden Ihr Baby an.
+### Envoyez vos documents à la caisse maladie de votre choix et annoncez votre bébé.
 
-### Nach der Geburt teilen Sie der Krankenkasse das genaue Geburtsdatum und den Namen des Kindes mit.
+### Après la naissance, vous communiquez à la caisse d'assurance maladie la date exacte de naissance et le nom de l'enfant.
 
-### Daraufhin tritt die Versicherung in Kraft und Sie erhalten die Versicherungskarte für Ihr Kind.
+### L'assurance prendra alors effet et vous recevrez la carte d'assurance pour votre enfant.
