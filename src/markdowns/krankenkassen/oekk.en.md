@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "ÖKK Krankenkasse"
+name: "ÖKK health insurance"
 shortName: "ÖKK"
 location: "Bahnhofstrasse 13, 7302 Landquart"
 insured: "154'326"
@@ -9,41 +9,41 @@ refundPeriod: "2"
 solvencyRate: "120%"
 administrativeExpenses: "194"
 color: "#E0332B"
-description: "Die Geschichte der ÖKK reicht mehr als 100 Jahre zurück. Ums Jahr 1900 herum entstehen im Kanton Graubünden mehrere öffentliche Krankenkassen. Nach dem Zweiten Weltkrieg arbeitete die Kassen enger zusammen und gründeten 1996 eine gemeinsame Krankenversicherung. Der neu entstandenen Stiftung schlossen sich 2004 auch die ÖKK Winterthur und 2009 die Krankenversicherung Flachtaal an. Der heute Unternehmenssitz befindet sich in Landquart. Die Krankenkasse zählt rund 180'000 private Versicherungsnehmer und erzielte im Jahr 2016 etwa 800 Millionen Schweizer Franken an Prämieneinnahmen."
+description: "The history of ÖKK goes back more than 100 years. Around 1900, several public health insurance funds were set up in the canton of Graubünden. After the Second World War, the funds worked more closely together and founded a joint health insurance scheme in 1996. The newly established foundation was joined in 2004 by ÖKK Winterthur and in 2009 by health insurance company Flachtaal. The company's current headquarters are in Landquart. The health insurance company has around 180,000 private policyholders and generated around 800 million Swiss francs in premium income in 2016."
 ---
 
-## Basis: Die ÖKK Grundversicherung
+## Base: The ÖKK basic insurance
 
-###### Die ÖKK Grundversicherung trägt den Namen Basis und übernimmt alle gesetzlichen Pflichtleistungen. Die Besonderheit: Die Krankenkasse bietet zwei verschiedene Grundversicherungen an, die Tarife der ÖKK Kranken- und Unfallversicherungen AG und KVF Krankenversicherung AG. Die Leistungen unterscheiden sich nicht, allerdings die Prämienhöhe. Der Versicherer wählt den für Sie günstigeren Tarif aus.
+###### ÖKK basic insurance bears the name Basis and covers all statutory benefits. The special feature: The health insurance company offers two different basic insurance policies, the tariffs of ÖKK Kranken- und Unfallversicherungen AG and KVF Krankenversicherung AG. The benefits do not differ, but the premium amount does. The insurer selects the tariff that is more favourable for you.
 
-###### Sparen können Sie, wenn Sie eine höhere Franchise vereinbaren oder sich für ein alternatives Versicherungsmodell entscheiden. Mit dem Basis-Modell haben Sie freie Arztwahl, die alternativen Modelle schränken diese Wahlfreiheit ein.
+###### You can save if you agree on a higher deductible or opt for an alternative insurance model. With the basic model, you have a free choice of doctor; the alternative models restrict this freedom of choice.
 
-### Casamed Hausarzt: Ihr erster Ansprechpartner ist Ihr Hausarzt.
+### Casamed family doctor: Your first contact is your family doctor.
 
-### Casamed Select: Sie wenden sich zunächst an ein Telmed Beratungszentrum oder eine Apotheke.
+### Casamed Select: You first contact a Telmed advice centre or a pharmacy.
 
-### Casamed 24: Beim Telemedizin-Modell nehmen Sie zunächst Kontakt zu einer telemedizinischen Beratungsstelle auf.
+### Casamed 24: With the Telemedizin-Modell you take up first contact to a telemedical advisory board.
 
-### Casamed HMO: Sie wenden sich zuerst an eine Gruppenpraxis (HMO).
+### Casamed HMO: You first contact a group practice (HMO).
 
-###### Über den Tarif ÖKK Euroline versichert die Krankenkasse auch Grenzgänger, die in der Schweiz arbeiten, aber im benachbarten Ausland leben.
+###### Through the ÖKK Euroline tariff, the health insurance also insures cross-border commuters who work in Switzerland but live in neighbouring countries.
 
-## ÖKK Zusatzversicherungen
+## ÖKK supplementary insurances
 
-###### Im Jahr 2018 hat die ÖKK ihre Zusatzversicherung umgestaltet und bietet unter dem Namen Live Zusatzversicherungen flexible Bausteine zum Kombinieren an. Der erste Baustein ist die Start Zusatzversicherung mit vielen ergänzenden Leistungen. Wer grossen Wert auf Alternativmedizin legt oder Brillenträger ist, kann sich für die drei Tarifvarianten der Zusatzversicherung ÖKK Natur entscheiden. Versicherungsnehmer erhalten höhere Zuschüsse zu komplementärmedizinischen Behandlungen sowie für Brillen, Kontaktlinsen und Augen-Laserbehandlungen. ÖKK Prävention leistet Beiträge zu Impfungen, Check-ups, Ernährungsberatung und Fitness. ÖKK Eltern ist eine Zusatzversicherung für Schwangerschaft und Mutterschaft.
+###### In 2018, ÖKK redesigned its supplementary insurance and offers flexible modules for combining under the name Live Zusatzversicherungen. The first module is the Start supplementary insurance with many supplementary benefits. Those who attach great importance to alternative medicine or wear glasses can opt for the three tariff variants of the ÖKK Natur supplementary insurance. Policyholders receive higher subsidies for complementary medical treatments as well as for spectacles, contact lenses and laser eye treatments. ÖKK Prävention contributes to vaccinations, check-ups, nutritional advice and fitness. ÖKK Eltern is a supplementary insurance for pregnancy and maternity.
 
-###### Die neuen Bausteine ersetzen die bekannten Zusatzversicherungen ÖKK Optima und ÖKK Premium sowie das Versicherungspaket ÖKK Standard, welches die Leistungen von ÖKK Optima mit der Spitalversicherung Kombi Allgemein vereint.
+###### The new modules replace the well-known ÖKK Optima and ÖKK Premium supplementary insurances and the ÖKK Standard insurance package, which combines the benefits of ÖKK Optima with the Kombi Allgemein hospital insurance.
 
-###### Der Familientarif ÖKK Family wird für Neukunden ebenfalls nicht mehr angeboten. Wer ähnliche Leistungen wünscht, kann den Start-Tarif mit dem Eltern-Tarifmodell kombinieren.
+###### The ÖKK Family tariff is also no longer offered to new customers. If you would like similar benefits, you can combine the starter tariff with the parent tariff model.
 
-## Zahnversicherung ÖKK Smile
+## Dental insurance ÖKK Smile
 
-###### Zahnbehandlungen versichern Sie mit der Zahnversicherung ÖKK Smile. Die Zahnversicherung zahlt zwischen 50 und 75 Prozent der Behandlungskosten, bis zu einem maximalen Betrag von 5000 Schweizer Franken im Kalenderjahr.
+###### You can insure dental treatment with ÖKK Smile dental insurance. The dental insurance pays between 50 and 75 percent of the treatment costs, up to a maximum amount of 5000 Swiss francs per calendar year.
 
-## ÖKK Spital: Ihre individuelle Spitalzusatzversicherung
+## ÖKK Hospital: Your individual supplementary hospital insurance
 
-###### Im Bereich Spitalversicherung haben Sie die Auswahl aus sechs Tarifmodellen. Alle bieten Ihnen freie Spitalwahl in der gesamten Schweiz, Spital Global und Spital Privat Unfall auch im Ausland. Abhängig vom Tarif entscheiden Sie, ob Sie in der allgemeinen, halbprivaten oder privaten Spitalabteilung untergebracht werden möchten.
+###### In the area of hospital insurance, you can choose from six tariff models. All offer you free choice of hospital throughout Switzerland, Spital Global and Spital Privat Unfall also abroad. Depending on the tariff, you decide whether you would like to be accommodated in the general, semi-private or private hospital ward.
 
-## Vergleichen Sie die Versicherungsangebote der Schweiz
+## Compare the insurance offers in Switzerland
 
-###### Suchen Sie nach der richtigen Krankenkasse, empfiehlt sich ein Vergleich aller Angebote. Mit unserem Online-Vergleich sehen Sie, ob sich ein Wechsel lohnt. Wünschen Sie weitergehende Beratung zu den Leistungen und Prämien aller Schweizer Krankenkassen, können Sie sich gerne an uns wenden.
+###### If you are looking for the right health insurance company, it is advisable to compare all offers. With our online comparison you can see whether a change is worthwhile. If you would like further advice on the benefits and premiums of all Swiss health insurance companies, please feel free to contact us.

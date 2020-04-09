@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Wädenswil Krankenkasse"
+name: "Wädenswil Cassa malati"
 shortName: "Wädenswil"
 location: "Schönenbergstrasse 28, 8820 Wädenswil"
 insured: "8'962"
@@ -9,35 +9,35 @@ refundPeriod: "6"
 solvencyRate: "248%"
 administrativeExpenses: "156"
 color: ""
-description: "Die Krankenkasse Wädenswil hat sich nach ihrem Stammsitz benannt. Die noch recht junge Krankenversicherung besteht seit 2003 und zählte im Jahr 2017 über 10'900 Versicherungsnehmer in der Grundversicherung. Ihr Tätigkeitsgebiet konzentriert sich auf die Kantone Aargau, Schwyz, Zug und Zürich. Mit unserem Vergleich finden Sie heraus, ob sich für Sie ein Wechsel der Krankenkasse lohnt."
+description: "La cassa malati Wädenswil prende il nome dal suo quartier generale. Il regime di assicurazione sanitaria relativamente nuovo esiste dal 2003 e nel 2017 contava oltre 10.900 assicurati nell'assicurazione di base. Il suo campo di attività è concentrato nei cantoni di Argovia, Svitto, Zugo e Zurigo. Con il nostro confronto puoi scoprire se vale la pena cambiare cassa malati."
 ---
 
-## Die Grundversicherung der Wädenswil Krankenkasse
+## L’assicurazione di base della cassa malati Wädenswil
 
-###### Die Wädenswil Krankenkasse bietet die obligatorische Grundversicherung in zwei Varianten an. Im Modell Standard (freie Arztwahl) entscheiden Sie selbst, welchen Arzt Sie im Krankheitsfall aufsuchen: Hausarzt, Gruppenpraxis (HMO) oder einen Spezialisten.
+###### La cassa malati Wädenswil offre l'assicurazione obbligatoria di base in due varianti. Nel modello standard (libera scelta del medico), decidi tu stesso quale medico consultare in caso di malattia: medico di famiglia, medico collettivo (HMO) o specialista.
 
-###### Alternativ können Sie das Hausarztmodell wählen. Die Leistungen beider Tarife sind gleich, im alternativen Versicherungsmodell ist jedoch Ihr Hausarzt der erste Ansprechpartner für alle Gesundheitsfragen. Ihr Hausarzt koordiniert die Behandlung und überweist Sie bei Bedarf weiter an einen Spezialisten oder ins Spital. Das Hausarztmodell können Sie in den Kantonen Aargau, Schwyz und Zürich abschliessen. Für die Arztwahl stellt die Krankenkasse eine Hausarztliste zur Verfügung.
+###### In alternativa puoi scegliere Il modello medico di famiglia. I servizi nelle tariffe sono le stesse nel modello assicurativo alternativo, tuttavia, il medico di famiglia è il primo punto di contatto per tutte le questioni di salute. Il medico di famiglia coordinerà il trattamento e, se necessario, ti indirizzerà a uno specialista o all'ospedale. Si può optare per il modello medico di famiglia nei cantoni di Argovia, Svitto e Zurigo. La cassa malati fornisce un elenco di medici di famiglia per la scelta del medico.
 
-###### Ein Telmed-Modell steht nicht zur Wahl.
+###### Il modello Telmed non è disponibile.
 
-## Geringere Prämien durch höhere Franchise
+## Premi più bassi grazie ad una franchigia maggiore
 
-###### Wählen Sie das Hausarztmodell, erhalten Sie Prämien-Rabatte. Rabatte gewährt Ihnen die Krankenversicherung darüber hinaus, wenn Sie Ihre Franchise heraufsetzen lassen. Die reguläre Jahresfranchise für Erwachsene beträgt 300 Schweizer Franken, wahlweise können Sie Franchisen bis zu 2'500 Franken im Jahr wählen. Für Kinder beträgt die maximale Franchise 600 Franken im Jahr. Einen darüber hinaus gehenden Familienrabatt gibt es bei der Wädenswil nicht.
+###### Quando scegli il modello medico di famiglia, ottieni sconti sui premi. Inoltre l'assicurazione sanitaria ti offre sconti con una franchigia elevata. La franchigia annuale regolare per adulti è di 300 franchi svizzeri, fino ai 2'500 franchi all'anno. Per i bambini, la franchigia massima è di 600 franchi all'anno. Non sono disponibili ulteriori sconti per famiglie con Wädenswil.
 
-## Zusatzversicherung für ein Plus an Leistungen
+## Assicurazione complementare per prestazioni aggiuntive
 
-###### Die Beiträge der Grundversicherung zu Leistungen wie Prävention, Alternativmedizin oder Hilfsmitteln sind begrenzt. Mit einer freiwilligen Zusatzversicherung lassen sich diese Versicherungslücken schliessen. Die Wädenswil Krankenkasse bietet zum Beispiel eine Heilungskosten-Zusatzversicherung für ambulante Behandlungen an. Diese erstattet höhere Beiträge zu medizinischen Hilfsmitteln, Sehhilfen, Vorsorgeuntersuchungen, Behandlungen und Medikamenten aus dem Bereich der Alternativmedizin sowie nichtpflichtigen Medikamenten.
+###### I contributi dell'assicurazione di base a servizi come prevenzione, medicina alternativa o aiuti sono limitati. E’ possibile colmare queste lacune assicurative con un’assicurazione complementare.. Ad esempio, la cassa malati Wädenswil offre un'assicurazione sanitaria per le cure ambulatoriali. Ciò rimborsa contributi più elevati a aiuti medici, ausili visivi, controlli, trattamenti e medicinali nel campo della medicina alternativa, nonché medicinali non a carico.
 
-## Zusatzversicherung für den Aufenthalt im Spital
+## Assicurazione complementare per la degenza in ospedale
 
-###### Die Spitalversicherung der Wädenswil steht in den Varianten allgemein, halbprivat und privat zur Auswahl. Je nach gewähltem Tarif profitieren Sie von freier Spitalwahl in der gesamten Schweiz sowie der Unterbringung auf der allgemeinen, halbprivaten oder privaten Abteilung. Die Spitalzusatzversicherung in den Varianten halbprivat und privat können Sie zudem mit höheren Franchisen abschliessen und sich auf diese Weise Prämien-Rabatte sichern.
+###### L’assicurazione ospedaliera Wädenswil è disponibile nelle versioni generale, semi-privata e privata. A seconda della tariffa prescelta, beneficerai della libera scelta dell'ospedale in tutta la Svizzera e della sistemazione in un reparto generale, semi-privato o privato. L'assicurazione complementare - ambulatoriale nelle versioni semi-privata e privata si può anche concludere con una franchigia superiore e quindi garantire sconti sui premi.
 
-## Die Zahnversicherung der Wädenswil
+## L’assicurazione dentale Wädenswil
 
-###### Mit einer freiwilligen Zusatzversicherung schützen Sie sich auch vor hohen Zahnarztkosten. Die Zahnversicherung der Wädenswil Krankenkasse übernimmt zahnärztliche Behandlungen, prothetische Massnahmen, Laborkosten und Prophylaxe. Sie können aus vier Deckungsstufen wählen, die maximale Erstattung liegt bei 75 Prozent der Behandlungskosten, bis zu 6'000 Schweizer Franken im Kalenderjahr.
+###### Con un’assicurazione complementare puoi proteggerti anche da elevati costi dentali. L'assicurazione dentale della cassa malati Wädenswil include i trattamenti dentali, le misure protesiche, i costi di laboratorio e la profilassi. Puoi scegliere tra quattro livelli di copertura, con un rimborso massimo del 75% dei costi di trattamento, fino a 6.000 franchi svizzeri per anno civile.
 
-###### Zusätzlich zur Grundversicherung und Zusatzversicherung können Sie eine Tagegeldversicherung abschliessen, die Sie bei Krankheit oder Unfall vor Verdienstausfall schützt.
+###### Oltre all’assicurazione di base ed a quella integrativa, è possibile stipulare un'assicurazione d'indennità giornaliera per proteggerti dalla perdita di guadagno in caso di malattia o infortunio.
 
-## Finden Sie eine passende Krankenversicherung mit unserem Versicherungs-Vergleich
+## Trova un'assicurazione sanitaria adatta con il nostro confronto assicurativo
 
-###### Bei uns können Sie sich Leistungsumfang und Prämien der Wädenswil Krankenkasse im Vergleich mit anderen Anbietern ansehen. Unser kostenloser Prämien-Rechner zeigt Ihnen in wenigen Minuten, ob sich ein Wechsel der Krankenversicherung lohnt. Auf Wunsch holen Sie direkt online ein unverbindliches Versicherungsangebot ein. Haben Sie noch Fragen, nehmen Sie gerne Kontakt zu uns auf.
+###### Con noi puoi confrontare i servizi e i premi della cassa malati Wädenswil con altri fornitori. Il nostro calcolatore di premi gratuito ti mostrerà in pochi minuti se vale la pena cambiare l'assicurazione sanitaria. Su richiesta, è possibile ottenere un'offerta assicurativa non vincolante direttamente online. In caso di domande, non esitare a contattarci.

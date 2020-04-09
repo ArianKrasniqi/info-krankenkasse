@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Sumiswalder Krankenkasse"
+name: "Caisse d'assurance maladie Sumiswalder"
 shortName: "Sumiswalder"
 location: "Spitalstrasse 47, 3454 Sumiswald"
 insured: "19'577"
@@ -9,33 +9,33 @@ refundPeriod: "4"
 solvencyRate: "170%"
 administrativeExpenses: "95"
 color: "#F6921E"
-description: "Die Sumiswalder Krankenkasse existiert bereits seit 1823 als Kranken- und Unfallversicherer. Die Krankenversicherung ist vor allem in der Deutschschweiz tätig, mit Fokus auf den Kanton Bern und die umliegenden Kantone. Das Unternehmen zählt mehr als 27'000 Versicherungsnehmer und möchte individuell auf die Kundenbedürfnisse abgestimmte Produkte anbieten. Ob sich ein Wechsel zur Sumiswalder lohnt, zeigt unser Versicherungs-Vergleich."
+description: "La caisse d'assurance maladie Sumiswalder existe depuis 1823 en tant qu'assureur maladie et accident. L'assurance-maladie opère principalement en Suisse alémanique, en particulier dans le canton de Berne et les cantons environnants. L'entreprise compte plus de 27 000 assurés et vise à offrir des prestations adaptées aux besoins individuels de ses clients. Notre comparaison d'assurances montre si un changement à Sumiswalder vaut la peine d'être effectué."
 ---
 
-## Die verschiedenen Modelle der obligatorischen Grundversicherung
+## Les différents modèles d'assurance de base obligatoire
 
-###### In der obligatorischen Grundversicherung der Sumiswalder Krankenkasse stehen drei Modelle zur Wahl: Das Modell Standard (freie Arztwahl) ist das traditionelle Modell nach Krankenversicherungsgesetz (KVG). Im Krankheitsfall entscheiden Sie selbst, welchen Arzt Sie aufsuchen: Ihren Hausarzt, einen Spezialisten oder eine Gruppenpraxis (HMO). Schliessen Sie das Hausarztmodell ab, suchen Sie sich Ihren Hausarzt aus einer Ärzteliste aus. Dieser Hausarzt ist fortan Ihr erster Ansprechpartner. Ausnahmen gibt es bei Notfällen, gynäkologischen und augenärztlichen Untersuchungen. Entscheiden Sie sich für das Modell Sumis24 (Telmed), rufen Sie im Krankheitsfall zuerst bei der telemedizinische Beratungshotline Medi24 an. Die fachmedizinischen Mitarbeiter entscheiden über den weiteren Behandlungsweg.
+###### L'assurance de base obligatoire de la caisse d'assurance maladie Sumiswalder propose trois modèles au choix : le modèle standard (libre choix du médecin) est le modèle traditionnel selon la loi sur l'assurance maladie (LAMal). En cas de maladie, vous décidez quel médecin consulter : Votre médecin de famille, un spécialiste ou un cabinet de groupe (HMO). Complétez le modèle du médecin de famille et sélectionnez votre médecin de famille à partir d'une liste de médecins. Ce médecin généraliste est votre premier point de contact. Il existe des exceptions pour les urgences, les examens gynécologiques et ophtalmologiques. Si vous optez pour le modèle Sumis24 (Telmed), appelez d'abord le service de conseil en télémédecine Medi24 en cas de maladie. Le personnel médical spécialisé décidera de la suite du traitement.
 
-## Prämien-Rabatte in der Grundversicherung
+## Réductions de primes dans l'assurance de base
 
-###### Für die Wahl eines alternativen Versicherungsmodells gewährt die Sumiswalder Krankenversicherung Prämien-Rabatte von 7 Prozent. Sparen können Sie auch, wenn Sie Ihre Franchise erhöhen. Erwachsene können eine Jahresfranchise von maximal 2'500 Schweizer Franken wählen. Je höher die Franchise, umso höher fallen auch die Prämien-Rabatte aus. Ab dem dritten versicherten Kind profitieren Sie in der Grundversicherung zudem von 50 Prozent Familienrabatt.
+###### L’assurance maladie Sumiswalder accorde une réduction de prime de 7 % pour le choix d'un modèle d'assurance alternatif. Vous pouvez également économiser si vous augmentez votre franchise. Les adultes peuvent choisir une franchise annuelle jusqu'à 2500 CHF. Plus le taux de franchise est élevé, plus les réductions de prime sont élevées. Dès le troisième enfant assuré, vous bénéficiez également d'une réduction familiale de 50 % sur l'assurance de base.
 
-## Erweitere Leistungen mit einer freiwilligen Zusatzversicherung
+## Prestations étendues avec assurance complémentaire facultative
 
-###### Die Krankenpflege-Zusatzversicherung der Sumiswalder Krankenkasse ergänzt die Leistungen der Grundversicherung. Sie erhalten zum Beispiel höhere Zuschüsse für Sehhilfen und medizinische Hilfsmittel, Präventionsleistungen und Zahnbehandlungen.
+###### L'assurance maladie complémentaire de la caisse maladie Sumiswalder complète les prestations de l'assurance de base. Par exemple, ils reçoivent des subventions plus élevées pour les aides visuelles et médicales, les services de prévention et les soins dentaires.
 
-###### Komplementär ist eine Zusatzversicherung für Alternativmedizin. In drei Leistungsstufen erstattet sie Behandlungkosten und Medikamente aus dem Bereich der Alternativmedizin bis maximal 4'000 Schweizer Franken im Jahr. Fitnessabos und anerkannte Kurse werden mit 200 Schweizer Franken pro Jahr gefördert.
+###### Komplementär est une assurance complémentaire pour la médecine alternative. Elle rembourse les frais de traitement et les médicaments des médecines douces selon trois niveaux de prestations, jusqu'à concurrence de 4000 CHF par an. Les abonnements et les cours reconnus sont subventionnés à hauteur de 200 CHF par an.
 
-###### Dental ist die Zahnversicherung der Sumiswalder Krankenkasse. Sie steht in acht Leistungsstufen zur Wahl und erstattet bis zu 75 Prozent der Behandlungskosten, maximal 5'000 Schweizer Franken im Kalenderjahr.
+###### Dental est l'assurance dentaire de la caisse d'assurance maladie Sumiswalder. Elle est disponible en huit niveaux de prestations et rembourse jusqu'à 75 % des frais de traitement, jusqu'à concurrence de 5 000 CHF par an.
 
-## Zusatzversicherungen fürs Spital
+## Assurance complémentaire pour les hôpitaux
 
-###### Die Zusatzversicherung Kombi kombiniert Beiträge zu Haushaltshilfen, Transportkosten, Zahnstellungskorrekturen, Prävention und Auslandsleistungen mit einer Spitalversicherung. Die Spitalversicherung steht in drei Deckungsstufen zur Wahl: allgemein, halbprivat und privat. Wünschen Sie sich noch mehr Komfort im Spital, können Sie das Modell Kombi+ mit der Komfort-Spitalzusatzversicherung kombinieren. Diese erstattet die Kosten für die Unterbringung in einem Ein- oder Zwei-Bett-Zimmer auf der allgemeinen Abteilung in ausgewählten Spitälern.
+###### L'assurance complémentaire Kombi combine les cotisations à l'aide-ménagère, les frais de transports, les corrections de position des dents, la prévention et les prestations à l'étranger avec l'assurance hospitalisation. L'assurance hospitalisation est offerte en trois niveaux de couverture : générale, semi-privée et privée. Si vous souhaitez encore plus de confort à l'hôpital, vous pouvez combiner le modèle Kombi+ avec l'assurance complémentaire Confort. Ce montant couvre les frais d'hébergement dans une chambre à 1 ou 2 lits ou en division commune dans des hôpitaux sélectionnés.
 
-## Familienrabatt in der Zusatzversicherung
+## Réduction famille dans l'assurance complémentaire
 
-###### Schliessen Sie die Grundversicherung in Kombination mit der Zusatzversicherung Krankenpflege-Zusatz, Kombi oder Komplimentär ab, erhalten Sie ab dem zweiten versicherten Kind 100 Prozent Prämien-Rabatt.
+###### Si vous souscrivez l'assurance de base en combinaison avec l'assurance complémentaire "Krankenpflege-Zusatz", "Kombi" ou "Komplimentär", vous bénéficiez d'une réduction de prime de 100% à partir du deuxième enfant assuré.
 
-## Krankenversicherungen im Vergleich
+## Comparaison des caisses d'assurance-maladie
 
-###### Möchten Sie herausfinden, wie viel Sie mit einem Wechsel zur Sumiswalder Krankenversicherung sparen, machen Sie bei uns den Vergleich. Unser Prämien-Rechner zeigt Ihnen in wenigen Minuten Ihr Sparpotenzial. Anschliessend können Sie direkt online ein unverbindliches Versicherungsangebot anfordern.
+###### Si vous souhaitez savoir combien vous pouvez économiser en optant pour l'assurance maladie Sumiswalder, faites une comparaison avec nous. Notre calculateur de prime vous montrera votre potentiel d'économie en quelques minutes. Vous pouvez alors demander une offre d'assurance sans engagement directement en ligne.

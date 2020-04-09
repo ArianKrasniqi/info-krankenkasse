@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Progrès Krankenkasse"
+name: "Progrès Cassa malati"
 shortName: "Progrès"
 location: "Helsana-Gruppe, Postfach, 8081 Zürich"
 insured: "179'558"
@@ -9,41 +9,41 @@ refundPeriod: "1"
 solvencyRate: "125%"
 administrativeExpenses: "162"
 color: "#BA0056"
-description: "Die im Jahr 1903 gegründete Progres Krankenversicherung mit Sitz in Dübendorf ist seit 1991 Teil der Helsana Versicherungsgruppe. Anfang 2018 gehörten der Krankenversicherung mehr als 408'000 Grundversicherte an. Ob sich ein Wechsel zur Progres Krankenkasse lohnt, zeigt unser Vergleich."
+description: "Fondata nel 1903, la cassa malati Progres con sede a Dübendorf, fa parte del gruppo assicurativo Helsana dal 1991. All'inizio del 2018, la compagnia di assicurazione sanitaria aveva oltre 408.000 assicurati di base. Il nostro confronto ti dimostrerà se vale la pena effettuare un cambio della cassa malati a Progres."
 ---
 
-## Vier Modelle der Grundversicherung
+## Quattro modelli dell’assicurazione di base
 
-###### Die obligatorische Krankenpflegeversicherung muss jeder Einwohner der Schweiz abschliessen. Die Leistungen sind gesetzlich vorgeschrieben und bei jeder Krankenversicherung gleich. Die Höhe der Prämien unterscheidet sich jedoch zum Teil enorm. Wer Prämien sparen möchte, kann ein alternatives Versicherungsmodell wählen. Die Progres Krankenversicherung bietet insgesamt vier Modelle der obligatorischen Grundversicherung an:
+###### L'assicurazione sanitaria obbligatoria deve essere stipulata da tutti i residenti in Svizzera. I servizi sono richiesti dalla legge e sono gli stessi per ogni assicurazione sanitaria. Tuttavia, l'importo dei premi differisce enormemente. Se vuoi risparmiare premi, puoi scegliere un modello assicurativo alternativo. Progres cassa malati offerta un totale di quattro modelli obbligatori di assicurazione di base:
 
-### Basis (freie Arztwahl): Sie wenden sich im Krankheitsfall an einen Arzt Ihres Vertrauens
+### Base (libera scelta del medico): in caso di malattia ti rivolgi a un medico di tua scelta
 
-### BeneFit PLUS (Hausarzt/ HMO): Mit Benefit Plus (Hausarzt) suchen Sie Krankheitsfall zunächst Ihren Hausarzt oder eine Gruppenpraxis (HMO) auf.
+### BeneFit PLUS (medico di medicina generale/HMO): con Benefit Plus (medico di famiglia) si cerca innanzitutto assistenza medica dal proprio medico di famiglia o da uno studio medico collettivo (HMO).
 
-### BeneFit PLUS (Telmed): Ihr erster Ansprechpartner ist eine telemedizinische Beratungshotline.
+### BeneFit PLUS (Telmed): la prima persona di contatto è una linea telefonica di consulenza telematica.
 
-### PREMED-24: Kombiniert das Telmed-Modell mit freier Arztwahl.
+### PREMED-24: combina il modello Telmed con la libera scelta del medico.
 
-## Prämien-Rabatte durch höhere Franchise 
+## Sconti sui premi con una franchigia più elevata
 
-###### Durch die Wahl eines alternativen Versicherungsmodells wie Benefit Plus (Hausarzt) erhalten Sie Prämien-Rabatte von bis zu 15 Prozent. Rabatte können Sie sich auch sichern, wenn Sie Ihre Franchise heraufsetzen lassen. Die reguläre Jahresfranchise für Erwachsene beträgt 300 Schweizer Franken, optional können Sie bis zu 2'500 Franken zahlen.
+###### Scegliendo un modello assicurativo alternativo, come Benefit Plus (medico di famiglia), ricevi sconti sui premi fino al 15 percento. Puoi anche ottenere sconti se aumenti la tua franchigia. La franchigia annuale regolare per adulti è di 300 franchi svizzeri, opzionalmente è possibile pagare fino a 2'500 franchi.
 
-## Umfassenderes Leistungsspektrum durch eine freiwillige Zusatzversicherung
+## Gamma completa di servizi attraverso un'assicurazione Complementare ( VVG )
 
-###### Wünschen Sie höhere Beiträge zu Hilfsmitteln, zur Gesundheitsvorsorge oder zur Alternativmedizin, können Sie eine freiwillige Zusatzversicherung abschliessen. Die Progres Zusatzversicherung Top zahlt höhere Zuschüsse zu einer Reihe von ambulanten Behandlungen, Sana leistet höhere Zuzahlungen für Alternativmedizin und Prävention, beteiligt sich zum Beispiel an Fitness-Abos. Completa vereint die Leistungen von Top und Sana und bietet zum Teil noch höhere Zuschüsse. Primeo garantiert freie Arztwahl und mehr Komfort bei ambulanten Behandlungen im Spital. Omnia ist ein Rundumschutz mit den wichtigsten Zusatzleistungen sowie der Garantie, den Versicherungsschutz ohne weitere Gesundheitsprüfung upgraden zu können.
+###### Se desideri maggiori contributi ad aiuti, assistenza sanitaria o medicina alternativa, puoi stipulare un'assicurazione integrativa volontaria. L’assicurazione complementare Top di Progres versa sussidi più elevati per una vasta gamma di trattamenti ambulatoriali, Sana versa maggiori contributi per medicina alternativa e prevenzione, partecipa, ad esempio, agli abbonamenti per le palestre. Completa combina i servizi di Top e Sana e offre alcune sovvenzioni ancora più elevate. Primeo garantisce la libera scelta del medico e un maggiore comfort nel trattamento ambulatoriale negli ospedali. Omnia è una protezione completa con i più importanti servizi aggiuntivi e la garanzia di poter aggiornare la protezione assicurativa senza ulteriori esami sanitari.
 
-###### Die Zusatzversicherung DENTAplus (Zahnversicherung) übernimmt Zahnkontrollen, Wurzelbehandlungen, Zahnfüllungen, Zahnersatz und kieferorthopädische Behandlungen für Kinder und Erwachsene im In- und Ausland. Für Zahnbehandlungen werden maximal 75% der Kosten bis 3000 Franken pro Kalenderjahr ersetzt.
+###### L'assicurazione complementare DENTAplus (assicurazione dentale) offre visite dentistiche di controllo, trattamenti canalari, otturazioni dentali, protesi dentarie e trattamenti ortodontici per bambini e adulti in patria e all'estero. Per il trattamento dentale, un massimo del 75% dei costi sarà sostituito fino a 3000 franchi per anno civile.
 
-###### Mit Advocare PLUS und Advocare EXTRA bietet die Progres Krankenkasse auch eine preiswerte Rechtsschutzversicherung für Privat- und Verkehrsrecht sowie Internetrecht an.
+###### Con Advocare PLUS e Advocare EXTRA, la cassa malati Progres offre anche un'assicurazione di protezione giuridica a basso costo per il diritto privato e del traffico nonché per il diritto di Internet.
 
-## Mehr Komfort im Spital mit einer Spitalversicherung
+## Più comfort in ospedale con un’assicurazione ospedaliera
 
-###### Für stationäre Behandlungen können Sie eine Spitalzusatzversicherung abschliessen. Das Modell Hospital ECO bietet schweizweit freie Spitalwahl und Unterbringung auf der allgemeinen Abteilung. Mehr Komfort und freie Arztwahl sichern Sie sich mit den Modellen Hospital Halbprivat und Hospital Privat. Im Tarif Hospital Flex wählen Sie vor jedem Spitalaufenthalt, auf welcher Abteilung Sie untergebracht werden möchten.
+###### Per il trattamento ospedaliero, è possibile sottoscrivere un’assicurazione complementare ambulatoriale. Il modello Hospital ECO offre la libera scelta dell'ospedale in tutta la Svizzera e la sistemazione nel reparto generale. Per maggiore comodità e libera scelta del medico, assicurati con i modelli Hospital Semi-private e Hospital Private. Nella tariffa Hospital Flex, scegli il reparto che desideri prima di ogni degenza ospedaliera.
 
-## Familienrabatt in der Zusatzversicherung
+## Sconti per famiglie con l’assicurazione Complementare (VVG)
 
-###### Familien, die eine Zusatzversicherung bei der Progres Krankenkasse abschliessen, erhalten attraktive Rabatte. Versichern Sie zwei Personen aus einem Haushalt, erhalten Sie 5 Prozent Rabatt, ab drei versicherten Personen gibt es 10 Prozent Familienrabatt. In der Rechtsschutzversicherung beträgt der Rabatt ab zwei versicherten Personen sogar 25 Prozent.
+###### Le famiglie che sottoscrivono un'assicurazione integrativa con la cassa malati Progres ricevono sconti interessanti. Se assicuri due persone di una famiglia, riceverai uno sconto del 5% e se ci sono tre persone assicurate, ci sarà uno sconto del 10% sulla famiglia. Nell'assicurazione delle spese legali lo sconto da due persone assicurate ammonta addirittura al 25%.
 
-## Machen Sie den Versicherungs-Vergleich
+## Effettua il confronto delle assicurazioni
 
-###### Möchten Sie Ihre Krankenversicherung wechseln, finden Sie mit unserem Prämien-Rechner heraus, welches Sparpotenzial Ihnen die Progres Krankenkasse bietet. Auf Wunsch können Sie gleich ein unverbindliches Versicherungsangebot anfordern. Machen Sie direkt den Vergleich!
+###### Se desideri cambiare la tua assicurazione sanitaria, puoi scoprire con il nostro calcolatore di premi quale potenziale di risparmio offre la cassa malati Progres. Su richiesta, è possibile richiedere un preventivo assicurativo non vincolante. Fai il confronto direttamente!

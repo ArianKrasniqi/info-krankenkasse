@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Visperterminen Krankenkasse"
+name: "Vita Surselva Cassa malati"
 shortName: "Visperterminen"
 location: "DLZ, 3932 Visperterminen"
 insured: ""
@@ -9,41 +9,35 @@ refundPeriod: "-"
 solvencyRate: "-"
 administrativeExpenses: "-"
 color: "#005484"
-description: "Die Krankenkasse Visperterminen ist ein regionaler Krankenversicherer für private Kunden in der Region Oberwallis. Als relativ kleine Krankenversicherung setzt das Unternehmen auf eine persönliche Beratung und enge Verbundenheit zur Region. Zum Angebot gehören neben der obligatorischen Grundversicherung auch diverse Zusatzversicherungen, darunter eine Produktlinie speziell für Nichtraucher."
+description: "La cassa malati Vita Surselva si trova nella città di Ilanz, nella regione di Surselva, nel cantone dei Grigioni anche se è attiva in tutta la Svizzera. L'assicurazione sanitaria è stata creata nel 1991 dalla fusione tra la cassa malati Ruis e il gruppo ÖKK. Oggi la compagnia ha circa 5.000 assicurati, rendendola una delle assicurazioni sanitarie più piccole della Svizzera."
 ---
 
-## Drei Modelle der Grundversicherung
+## L’offerta assiciurativa nell’assicurazione di base
 
-###### Die Krankenkasse Visperterminen bietet drei Modelle der obligatorischen Krankenversicherung. In jedem Modell erhalten Sie dieselben, gesetzlich vorgeschriebenen Leistungen. Der Unterschied besteht lediglich darin, an welchen Arzt Sie sich im Krankheitsfall wenden können.
+###### La Vita Surselva offre due modelli di assicurazione di base obbligatoria. Nel modello Standard (libera scelta del medico), sei libero di scegliere quale medico consultare in caso di malattia. Puoi consultare il tuo medico di famiglia, visitare uno studio medico collettivo (HMO) o consultare direttamente uno specialista.
 
-### Medica Basis ist das Modell Standard (freie Arztwahl), in dem Sie selbst entscheiden, ob Sie im Krankheitsfall zunächst Ihren Hausarzt, eine Gruppenpraxis (HMO) oder einen Spezialisten aufsuchen.
+###### Il modello medico di famiglia Sparmed, offre gli stessi vantaggi del modello standard, ma limita la scelta del primo contatto al medico di famiglia. La cassa malati ti garantisce sconti redditizi e il medico di famiglia viene scelto da un elenco di medici affiliati.
 
-### Medicasa Hausarztmodell legt fest, dass Sie im Krankheitsfall zunächst Ihren Hausarzt konsultieren.
+## Risparmiare sui premi grazie ad una franchigia più elevata
 
-### Telmed Telemedizin sieht vor, dass Sie sich im Krankheitsfall zuerst an eine telemedizinische Beratungsstelle wenden, die einen individuellen Behandlungsplan festlegt.
+###### Oltre alla scelta del modello assicurativo alternativo, esiste ancora la possibilità di ridurre il premio assicurativo attraverso una franchigia annuale più elevata. Gli adulti possono pagare una franchigia volontaria fino a 2.500 franchi svizzeri all'anno, mentre gli affiliati annuali possono ricevere fino a 600 franchi svizzeri per i bambini. Non ci sono sconti per famiglie alla Vita Surselva.
 
-## So können Sie Ihre Prämien reduzieren
+## Assicurazioni complementari di Vita Surselva
 
-###### Für die Wahl eines alternativen Versicherungsmodells gewährt die KK Visperterminen lukrative Rabatte von bis zu 11 Prozent. Schliessen Sie eine höhere Franchise ab, können Sie Ihre Prämie ebenfalls reduzieren. Die maximale Jahresfranchise für Erwachsene beträgt 2'500 Schweizer Franken, für Kinder 600 Franken.
+###### Un’assicurazione complementare estende i servizi dell'assicurazione sanitaria obbligatoria. Alla Vita Surselva è possibile completare il "supplemento generale" di assicurazione integrativa per trattamenti ambulatoriali. Tra le altre cose, partecipa a misure preventive, ausili visivi e ausili, medicina alternativa, trattamenti psicoterapici non medici, medicine non obbligatorie e cure di emergenza all'estero.
 
-## Nichtraucher-Versicherung der KK Visperterminen
+## L'assicurazione complementare Surselva Cumpletta con rimborsi parzialmente più alti tra cui scegliere.
 
-###### Mit ihrer Zusatzversicherung möchte die KKV eine gesunde Lebensweise belohnen. Die Produktlinie Sanvita wendet sich daher speziell an Nichtraucher und bietet diesen besonders geringe Versicherungsprämien. Raucherbedingte Leiden werden in diesem Tarif nicht erstattet.
+###### I trattamenti dentali e ortodontici sono rimborsati dall'assicurazione dentale Denta. Esistono tre classi di servizi tra cui scegliere e i costi sono compresi tra il 50 e il 75 percento, con un massimo di 3000 franchi svizzeri per anno civile.
 
-###### Zur Produktlinie gehören die ambulanten Zusatzversicherungen Sanvita plus eins und plus zwei. Sie unterscheiden sich in der Höhe der jeweiligen Erstattungen. Ausserdem können Sie eine Spitalzusatzversicherung in verschiedenen Leistungsstufen abschliessen. Je nach Leistungsstufe erstattet die Versicherung die Unterbringung auf der allgemeinen Abteilung, halbprivat oder privat. Alternativ steht die Spitalversicherung switch zur Wahl, bei der Sie jeweils kurz vor dem Aufenthalt im Spital entscheiden, wie Sie untergebracht werden möchten.
+## L’assicurazione ospedaliera di Vita Surselva
 
-## Ambulante Zusatzversicherung für Alternativmedizin
+###### Con un'assicurazione complementare - ambulatoriale ti assicuri maggiore comfort e libertà di scelta durante il tuo ricovero in ospedale. Ad esempio, la tariff Surselva Kombi A offre alloggio nel reparto generale di un ospedale svizzero di vostra scelta.
 
-###### Mit dem Tarif Activa bietet die KKV eine ambulante Zusatzversicherung für alle Versicherungsnehmer an, die insbesondere auf komplementärmedizinische Behandlungen Wert legen. Behandlungen aus dem Bereich der Alternativmedizin erstattet Activa zu 75 Prozent, bis zu 1'500 Schweizer Franken im Jahr. Darüber hinaus beteiligt sich die Versicherung an den Kosten für Sehhilfen, Haushaltshilfen, Präventionsmassnahmen sowie Notfallbehandlungen und Rettungen im Ausland.
+###### Con le tariffe della linea di prodotti Activa puoi assicurare la tua degenza in un reparto semi-privato e privato e un alloggio nel reparto generale. La tariffa Activa consente di scegliere in modo flessibile il comfort desiderato prima del ricovero in ospedale.
 
-## Zahnpflegeversicherung Denta
+###### Le assicurazioni ospedaliere della linea Sanvita sono appositamente progettate per i non fumatori. Il trattamento delle malattie legate al fumo non è incluso, per questo i non fumatori pagano premi più bassi. Anche in questa linea di prodotti è possibile scegliere e cambiare tra le classi di servizi generale, semi-privata e privata.
 
-###### Denta ist eine zusätzliche Zahnversicherung, mit der Sie sich vor hohen Zahnbehandlungskosten schützen. Je nach Leistungsklasse erstattet die Versicherung zwischen 50 bis 75 Prozent der Behandlungskosten, bis zu 1'000, 1'500 oder 3'000 Schweizer Franken im Kalenderjahr.
+## L’offerta assicurativa di Surselva a confronto
 
-## Familienrabatt in den Zusatzversicherungen
-
-###### Ist mindestens ein Elternteil in den ambulanten Produkten Sanvita oder Activa versichert, erhalten Kinder beim Abschluss der gleichen Versicherung einen Prämienrabatt von 20 Prozent.
-
-## Das Versicherungsangebot der KK Visperterminen im Vergleich
-
-###### Möchten Sie zur KK Visperterminen wechseln, machen Sie zunächst den Vergleich. Mit unserem Prämienrechner ermitteln Sie mit wenigen Klicks Ihr Sparpotenzial. Anschliessend können Sie direkt eine unverbindliche Offerte einholen.
+###### Prima di cambiare la tua assicurazione sanitaria, vale la pena fare un confronto dettagliato delle offerte. Con il nostro calcolatore di premi scoprirai quanto puoi risparmiare passando a Vita Surselva. Ti consigliamo volentieri in caso di domande!

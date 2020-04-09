@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "ÖKK Krankenkasse"
+name: "Caisse d'assurance maladie ÖKK"
 shortName: "ÖKK"
 location: "Bahnhofstrasse 13, 7302 Landquart"
 insured: "154'326"
@@ -9,41 +9,41 @@ refundPeriod: "2"
 solvencyRate: "120%"
 administrativeExpenses: "194"
 color: "#E0332B"
-description: "Die Geschichte der ÖKK reicht mehr als 100 Jahre zurück. Ums Jahr 1900 herum entstehen im Kanton Graubünden mehrere öffentliche Krankenkassen. Nach dem Zweiten Weltkrieg arbeitete die Kassen enger zusammen und gründeten 1996 eine gemeinsame Krankenversicherung. Der neu entstandenen Stiftung schlossen sich 2004 auch die ÖKK Winterthur und 2009 die Krankenversicherung Flachtaal an. Der heute Unternehmenssitz befindet sich in Landquart. Die Krankenkasse zählt rund 180'000 private Versicherungsnehmer und erzielte im Jahr 2016 etwa 800 Millionen Schweizer Franken an Prämieneinnahmen."
+description: "L'histoire de ÖKK remonte à plus de 100 ans. Vers 1900, plusieurs caisses d'assurance-maladie publiques ont été créées dans le canton des Grisons. Après la Seconde Guerre mondiale, les caisses d'assurance maladie se sont rapprochées et ont fondé un régime d'assurance maladie commun en 1996. La fondation nouvellement créée a été rejointe en 2004 par ÖKK Winterthur et en 2009 par l’assurance maladie Flachtaal. Aujourd'hui, l'entreprise a son siège social à Landquart. La caisse d'assurance-maladie compte environ 180 000 assurés privés et a généré environ 800 millions de francs de recettes de primes en 2016."
 ---
 
-## Basis: Die ÖKK Grundversicherung
+## Basis : assurance de base ÖKK
 
-###### Die ÖKK Grundversicherung trägt den Namen Basis und übernimmt alle gesetzlichen Pflichtleistungen. Die Besonderheit: Die Krankenkasse bietet zwei verschiedene Grundversicherungen an, die Tarife der ÖKK Kranken- und Unfallversicherungen AG und KVF Krankenversicherung AG. Die Leistungen unterscheiden sich nicht, allerdings die Prämienhöhe. Der Versicherer wählt den für Sie günstigeren Tarif aus.
+###### L'assurance de base ÖKK porte le nom de Basis et couvre toutes les prestations légales. La particularité : la caisse maladie propose deux assurances de base différentes, les tarifs de ÖKK Kranken et l’assurance accidents AG et l’assurance maladie KVF. Les avantages ne sont pas différents, mais le montant de la prime l'est. L'assureur choisit le tarif le plus avantageux pour vous.
 
-###### Sparen können Sie, wenn Sie eine höhere Franchise vereinbaren oder sich für ein alternatives Versicherungsmodell entscheiden. Mit dem Basis-Modell haben Sie freie Arztwahl, die alternativen Modelle schränken diese Wahlfreiheit ein.
+###### Vous pouvez économiser si vous optez pour une franchise plus élevée ou si vous optez pour un modèle d'assurance alternatif. Avec le modèle basis, vous avez le libre choix du médecin ; les modèles alternatifs limitent cette liberté de choix.
 
-### Casamed Hausarzt: Ihr erster Ansprechpartner ist Ihr Hausarzt.
+### Médecin de famille Casamed : Votre premier contact est votre médecin de famille.
 
-### Casamed Select: Sie wenden sich zunächst an ein Telmed Beratungszentrum oder eine Apotheke.
+### Casamed Select : Vous contactez d'abord un centre de conseil Telmed ou une pharmacie.
 
-### Casamed 24: Beim Telemedizin-Modell nehmen Sie zunächst Kontakt zu einer telemedizinischen Beratungsstelle auf.
+### Casamed 24 : Avec le modèle de télémédecine, vous prenez le premier contact avec un comité consultatif de télémédecine.
 
-### Casamed HMO: Sie wenden sich zuerst an eine Gruppenpraxis (HMO).
+### Casamed HMO : Vous contactez d'abord un cabinet de groupe (HMO).
 
-###### Über den Tarif ÖKK Euroline versichert die Krankenkasse auch Grenzgänger, die in der Schweiz arbeiten, aber im benachbarten Ausland leben.
+###### Par le biais du tarif Euroline de ÖKK, la caisse maladie assure également les personnes qui travaillent en Suisse mais vivent dans les pays voisins.
 
-## ÖKK Zusatzversicherungen
+## Assurances complémentaires ÖKK
 
-###### Im Jahr 2018 hat die ÖKK ihre Zusatzversicherung umgestaltet und bietet unter dem Namen Live Zusatzversicherungen flexible Bausteine zum Kombinieren an. Der erste Baustein ist die Start Zusatzversicherung mit vielen ergänzenden Leistungen. Wer grossen Wert auf Alternativmedizin legt oder Brillenträger ist, kann sich für die drei Tarifvarianten der Zusatzversicherung ÖKK Natur entscheiden. Versicherungsnehmer erhalten höhere Zuschüsse zu komplementärmedizinischen Behandlungen sowie für Brillen, Kontaktlinsen und Augen-Laserbehandlungen. ÖKK Prävention leistet Beiträge zu Impfungen, Check-ups, Ernährungsberatung und Fitness. ÖKK Eltern ist eine Zusatzversicherung für Schwangerschaft und Mutterschaft.
+###### En 2018, ÖKK a remanié son assurance complémentaire et propose des modules flexibles à combiner sous le nom de Live Assurance complémentaire. Le premier module est l'assurance complémentaire Start avec de nombreuses prestations complémentaires. Ceux qui attachent une grande importance à la médecine alternative ou portent des lunettes peuvent choisir les trois variantes tarifaires de l'assurance complémentaire ÖKK Natur. Les assurés bénéficient de subventions plus élevées pour les traitements médicaux complémentaires ainsi que pour les lunettes, les lentilles de contact et les traitements laser des yeux. ÖKK Prävention contribue aux vaccinations, aux examens, aux conseils nutritionnels et à la mise en forme. ÖKKK Eltern est une assurance complémentaire pour la grossesse et la maternité.
 
-###### Die neuen Bausteine ersetzen die bekannten Zusatzversicherungen ÖKK Optima und ÖKK Premium sowie das Versicherungspaket ÖKK Standard, welches die Leistungen von ÖKK Optima mit der Spitalversicherung Kombi Allgemein vereint.
+###### Les nouveaux modules remplacent les assurances complémentaires bien connues ÖKK Optima et ÖKK Premium ainsi que l'assurance ÖKK Standard, qui combine les avantages de ÖKK Optima avec l'assurance hospitalisation Kombi Général.
 
-###### Der Familientarif ÖKK Family wird für Neukunden ebenfalls nicht mehr angeboten. Wer ähnliche Leistungen wünscht, kann den Start-Tarif mit dem Eltern-Tarifmodell kombinieren.
+###### Le tarif famille ÖKK Family n'est plus proposé aux nouveaux clients. Si vous voulez des services similaires, vous pouvez combiner le tarif de départ avec le modèle de tarif parent.
 
-## Zahnversicherung ÖKK Smile
+## Assurance dentaire ÖKK Smile
 
-###### Zahnbehandlungen versichern Sie mit der Zahnversicherung ÖKK Smile. Die Zahnversicherung zahlt zwischen 50 und 75 Prozent der Behandlungskosten, bis zu einem maximalen Betrag von 5000 Schweizer Franken im Kalenderjahr.
+###### Avec l'assurance dentaire ÖKK Smile, vous pouvez assurer les soins dentaires. L'assurance dentaire prend en charge entre 50% et 75% des frais de traitement, jusqu'à concurrence de 5000 CHF par an.
 
-## ÖKK Spital: Ihre individuelle Spitalzusatzversicherung
+## ÖKK Spital : Votre assurance hospitalisation complémentaire individuelle
 
-###### Im Bereich Spitalversicherung haben Sie die Auswahl aus sechs Tarifmodellen. Alle bieten Ihnen freie Spitalwahl in der gesamten Schweiz, Spital Global und Spital Privat Unfall auch im Ausland. Abhängig vom Tarif entscheiden Sie, ob Sie in der allgemeinen, halbprivaten oder privaten Spitalabteilung untergebracht werden möchten.
+###### Dans le domaine de l'assurance hospitalisation, vous avez le choix entre six modèles tarifaires. Tous vous offrent le libre choix de l'hôpital dans toute la Suisse, Spital Global et Spital Privat Unfall aussi à l'étranger. Selon le tarif, vous décidez si vous souhaitez être hébergé en division générale, semi-privée ou privée.
 
-## Vergleichen Sie die Versicherungsangebote der Schweiz
+## Comparer les offres d'assurance en Suisse
 
-###### Suchen Sie nach der richtigen Krankenkasse, empfiehlt sich ein Vergleich aller Angebote. Mit unserem Online-Vergleich sehen Sie, ob sich ein Wechsel lohnt. Wünschen Sie weitergehende Beratung zu den Leistungen und Prämien aller Schweizer Krankenkassen, können Sie sich gerne an uns wenden.
+###### Si vous recherchez la bonne compagnie d'assurance maladie, il est conseillé de comparer toutes les offres. Grâce à notre comparaison en ligne, vous pouvez voir si un changement en vaut la peine. Si vous souhaitez obtenir de plus amples informations sur les prestations et les primes de toutes les caisses-maladie suisses, veuillez nous contacter.

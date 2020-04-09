@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Sansan"
+name: "Sansan health insurance"
 shortName: "Sansan"
 location: "Helsana-Gruppe, Postfach, 8081 Zürich"
 insured: ""
@@ -9,61 +9,61 @@ refundPeriod: "1"
 solvencyRate: "125%"
 administrativeExpenses: "162"
 color: "#BA0056"
-description: "Die Sansan Versicherungen AG aus Dübendorf wurde 2001als eigenständiges Tochterunternehmen der Helsana Versicherungsgruppe gegründet. Seit der Markenharmonisierung 2013 kommunizierte sie unter dem Auftritt des Mutterkonzerns. 2017 erfolgte die Zusammenlegung mit der Grundversicherungstochter Progrès. Das Kerngeschäft konzentriert sich auf die obligatorische Krankenpflegeversicherung. Daneben können Versicherungsnehmer auch diverse Zusatzversicherungen abschliessen."
+description: "Sansan Versicherungen AG from Dübendorf was founded in 2001 as an independent subsidiary of the Helsana Insurance Group. Since the brand harmonization in 2013, it has been communicating under the umbrella of the parent company. In 2017, the company was merged with the basic insurance subsidiary Progrès. The core business concentrates on compulsory health insurance. In addition, policyholders can also take out various supplementary insurance policies."
 ---
 
-## Die obligatorische Grundversicherung der Sansan
+## The compulsory basic insurance of Sansan
 
-###### Die Sansan Krankenkasse bietet dieselben Versicherungsmodelle wie die Helsana an. Die obligatorische Grundversicherung können Sie als Modell Standard (freie Arztwahl) oder als eines von drei alternativen Versicherungsmodellen abschliessen:
+###### Sansan Health Insurance offers the same insurance models as Helsana. The compulsory basic insurance can be taken out as a standard model (free choice of doctor) or as one of three alternative insurance models:
 
-### BeneFit PLUS Hausarzt/ HMO: Im Krankheitsfall wenden Sie sich zunächst an Ihren Hausarzt oder eine Gruppenpraxis (HMO).
+### BeneFit PLUS General practitioner/ HMO: In the event of illness, you should first contact your family doctor or a group practice (HMO).
 
-### BeneFit PLUS Telmed: Im Krankheitsfall rufen Sie ein kostenloses telemedizinisches Beratungszentrum an und erhalten einen individuellen Behandlungsplan.
+### BeneFit PLUS Telmed: In the event of illness, you call a free telemedical advice centre and receive an individual treatment plan.
 
-### PREMED-24: Vor dem Arztbesuch wenden Sie sich ans telemedizinische Beratungszentrum und lassen sich unverbindlich beraten. Bei Bedarf suchen Sie anschliessend einen Arzt Ihrer Wahl auf.
+### PREMED-24: Before you visit the doctor, contact the telemedical counselling centre and receive non-binding advice. If necessary, you can then consult a doctor of your choice.
 
-## Prämien sparen durch alternative Versicherungsmodelle und höhere Franchisen
+## Save premiums through alternative insurance models and higher franchises
 
-###### Für die Wahl eines alternativen Versicherungsmodells erhalten Sie Rabatte zwischen 8 und 15 Prozent. Um Ihre Versicherungsprämie zu reduzieren, können Sie ausserdem freiwillig eine höhere Franchise bezahlen. Die maximale Jahresfranchise für Erwachsene beträgt 2'500 Schweizer Franken, für Kinder 600 Franken.
+###### For the choice of an alternative insurance model you will receive discounts between 8 and 15 percent. To reduce your insurance premium, you can also voluntarily pay a higher deductible. The maximum annual deductible for adults is CHF 2,500, for children CHF 600.
 
-## Ambulante Zusatzversicherungen der Sansan
+## Outpatient supplementary insurance from Sansan
 
-###### Eine Zusatzversicherung erweitert die Leistungen der obligatorischen Krankenpflegeversicherung. Die Sansan bietet eine ganze Reihe an Zusatzversicherungen für unterschiedliche Bedürfnisse an:
+###### Supplementary insurance extends the benefits of compulsory health insurance. Sansan offers a wide range of supplementary insurances for different needs:
 
-### Top ist eine grundlegende Zusatzversicherung für ambulante Leistungen wie Brillen, Medikamente, Psychotherapien, Auslandsschutz und mehr.
+### Top is a basic supplementary insurance for outpatient services such as glasses, medication, psychotherapy, protection abroad and more.
 
-### Sana bietet umfangreiche Erstattungen für Alternativmedizin, Prävention und Gesundheitsförderung.
+### Sana offers comprehensive benefits for alternative medicine, prevention and health promotion.
 
-### Completa vereint den Leistungsumfang von Top und Sana und bietet teilweise höhere Kostenerstattungen.
+### Completa combines the benefits of Top and Sana and in some cases offers higher reimbursements. 
 
-### World ist eine Reiseversicherung für medizinische Notfälle im Ausland.
+### World is a travel insurance for medical emergencies abroad. 
 
-### Primeo bietet freie Arztwahl und mehr Komfort beim Spitalaufenthalt.
+### Primeo offers free choice of doctor and more comfort during your stay in hospital. 
 
-### Omnia bietet die wichtigsten Zusatzleistungen und sichert Ihnen die Aufnahme in eine Höherversicherung ohne weitere Gesundheitsprüfung.
+### Omnia offers the most important additional services and ensures that you are included in a higher insurance policy without further health checks.
 
-## Vier Leistungsstufen der Spitalversicherung
+## Four benefit levels of hospital insurance
 
-###### Neben den ambulanten Zusatzversicherungen können Sie bei der Sansan auch eine Spitalzusatzversicherung abschliessen. Die Spitalversicherung Hospital steht in vier Leistungsstufen zur Wahl:
+###### In addition to outpatient supplementary insurance, you can also take out supplementary hospital insurance with Sansan. Hospital insurance is available in four benefit levels:
 
-### Eco: freie Spitalwahl und Unterbringung im Mehrbettzimmer auf der allgemeinen Abteilung 
+### Eco: free choice of hospital and accommodation in a shared room in the general ward
 
-### Halbprivat: freie Spital- und Arztwahl sowie Unterbringung im Zwei-Bett-Zimmer auf der halbprivaten Abteilung 
+### Semi-private: free choice of hospital and doctor as well as accommodation in a two-bed room in the semi-private ward
 
-### Privat: freie freie Spital- und Arztwahl sowie Unterbringung im Einzelzimmer auf der privaten Abteilung 
+### Private: free choice of hospital and doctor as well as accommodation in a single room in the private ward
 
-### Flex: flexible Abteilungswahl vor jedem Spitalaufenthalt bei freier Spitalwahl
+### Flex: flexible choice of department before each hospital stay with free hospital choice
 
-###### Ergänzend können Sie sich für die Spitaltagegeldversicherung Hospital Extra entscheiden.
+###### In addition, you can opt for the Hospital Extra daily benefits insurance.
 
-## Zahnversicherung DENTAPlus
+## Dental insurance DENTAPlus
 
-###### DENTAPlus versichert Sie gegen hohe Zahnarztkosten. Die Versicherung übernimmt Zahnbehandlungen, Zahnfehlstellungskorrekturen und Dentalhygiene. Die Kostenerstattung richtet sich nach der Leistungsstufe. Maximal erhalten Sie 75 Prozent der Behandlungskosten ersetzt, bis zu einer Summe von 3'000 Franken im Kalenderjahr.
+###### DENTAPlus insures you against high dental costs. The insurance covers dental treatment, tooth malposition corrections and dental hygiene. The reimbursement depends on the level of service. You will be reimbursed a maximum of 75 percent of the treatment costs, up to a sum of CHF 3,000 per calendar year.
 
-## Familien profitieren von Rabatten
+## Families benefit from discounts
 
-###### Versicherung Sie gleich mehrere Familienmitglieder in einer Zusatzversicherung der Sansan Krankenkasse, erhalten Sie einen lukrativen Familienrabatt. In den Krankenpflegezusatzversicherungen beträgt dieser 5 Prozent bei zwei versicherten Personen aus dem gleichen Haushalt, ab drei versicherten Personen sogar 10 Prozent.
+###### If you insure several family members at the same time in an additional insurance of the Sansan health insurance, you receive a lucrative family discount. In supplementary health insurance, this is 5 percent for two insured persons from the same household, and even 10 percent for three or more insured persons.
 
-## Das Versicherungsangebot der Sansan Krankenkasse im Vergleich
+## A comparison of the insurance products offered by Sansan Krankenkasse
 
-###### Vor dem Wechsel der Krankenversicherung lohnt sich der Vergleich. Unser Prämienrechner zeigt Ihnen, wie günstig Sie sich bei der Sansan versichern lassen können.
+###### It is worth comparing before changing health insurance. Our premium calculator will show you how inexpensively you can take out insurance with Sansan.

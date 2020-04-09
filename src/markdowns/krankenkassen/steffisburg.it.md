@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Steffisburg Krankenkasse"
+name: "Steffisburg Cassa malati"
 shortName: "Steffisburg"
 location: "Unterdorfstrasse 37, Postfach 138, CH-3612 Steffisburg"
 insured: ""
@@ -9,53 +9,53 @@ refundPeriod: "-"
 solvencyRate: "-"
 administrativeExpenses: "-"
 color: "#0071B9"
-description: "Die Krankenkasse Steffisburg, auch KKSt genannt, gibt es bereits seit 1861. Damit gehört sie zu den ältesten Krankenversicherern in der Schweiz. In der Krankenzusatzversicherung arbeitet die KKSt seit 1997 mit einem gesamtschweizerischen Krankenversicherer zusammen und bietet Produkte, die sich nach den individuellen Bedürfnissen ihrer Kunden richten sollen."
+description: "La cassa malati Steffisburg, nota anche come KKSt, esiste dal 1861 ed è una delle assicurazioni sanitarie più antiche della Svizzera. Nell’assicurazione sanitaria integrativa, dal 1997 KKSt collabora con un'assicurazione sanitaria pan-svizzera e offre prodotti che dovrebbero essere adattati alle esigenze individuali dei propri clienti."
 ---
 
-## Die verschiedenen Modelle der obligatorischen Grundversicherung
+## I diversi modelli dell’assicurazione di base obbligatoria
 
-###### Der Leistungsumfang der obligatorischen Krankenpflegeversicherung ist gesetzlich vorgeschrieben. Im Basismodell dürfen Versicherungsnehmer frei wählen, ob sie zunächst ihren Hausarzt, einen Arzt in einer Gruppenpraxis (HMO) oder einen Spezialisten konsultieren. Krankenkassen können neben dem Modell Standard (freie Arztwahl) jedoch weitere Modelle anbieten. Die KKSt stellt vier solcher alternativen Modelle zur Wahl:
+###### Il livello dei servizi dell'assicurazione sanitaria obbligatoria è previsto dalla legge. Nel modello base, gli assicurati sono liberi di scegliere se consultare prima il proprio medico di famiglia, un medico in uno studio medico collettivo (HMO) o uno specialista. L’assicurazioni sanitaria può offrire altri modelli oltre al modello standard (libera scelta dei medici). KKSt offre quattro di questi modelli alternativi:
 
-### Hausarztmodell Casa: Im Krankheitsfall ist der Hausarzt Ihr erster Ansprechpartner.
+### Modello medico di famiglia Casa: in caso di malattia, il medico di famiglia è il primo punto di contatto.
 
-### Hausarztmodell beodocs/ igomed: Das Modell wendet sich an Einwohner der Regionen Berner Oberland und im Raum Thun. Ihren Hausarzt wählen Sie aus einer regionalen Ärzteliste aus.
+### Modello medico di famiglia beodocs/igomed: il modello è destinato agli abitanti delle regioni dell'Oberland bernese e nella zona di Thun. Il medico di famiglia viene scelto da un elenco regionale di medici. 
 
-### Hausarztmodell Regiomed: Dieses Modell steht Einwohnern in den Prämienregionen mit den Postleitzahlen 3612 und 3613 zur Auswahl. Im Krankheitsfall wenden Sie sich an Ärzte aus dem MediZentrum Landhaus oder Burgergut Steffisburg AG.
+### Modello medico di famiglia Regiomed: questo modello è disponibile per i residenti nelle regioni premium con i codici postali 3612 e 3613. In caso di patologie mediche, contattare i medici del MediZentrum Landhaus o Burgergut Steffisburg AG.
 
-### Sanmed24: Ihr erster Ansprechpartner ist das telemedizinische Beratungszentrum Medgate.
+### SSanmed24: il primo referente è il centro di consulenza di telemedicina Medgate.
 
-## Rabatte in der Grundversicherung
+## Sconti nell’assicurazione di base
 
-###### Für die Wahl eines alternativen Versicherungsmodells gewährt die KKSt lukrative Rabatte. Ihre Prämien können Sie zudem reduzieren, wenn Sie freiwillig eine höhere Franchise bezahlen. Für Erwachsene stehen Jahresfranchisen bis zu einer Summe von 2'500 Schweizer Franken zur Wahl, für Kinder bis zu 600 Franken. Je höher die Franchise, umso geringer die Prämie.
+###### Il KKSt offre sconti redditizi per la scelta di un modello assicurativo alternativo. È inoltre possibile ridurre i premi se si paga volontariamente un franchigia più elevata. Per gli adulti la franchigia annuale può essere scelta tra una somma di 2'500 franchi svizzeri, per bambini fino a 600 franchi. Più alta è la franchigia, più bassi sono i premi.
 
-## Zusatzversicherungen der Krankenkasse Steffisburg
+## Assicurazioni Complementari della cassa malati Steffisburg
 
-###### Die Zusatzversicherung InVita schliesst Versicherungslücken der Grundversicherung. Die drei Varianten Light, Standard und Flex bieten unter anderem höhere Beiträge zu Sehhilfen und erstatten Massnahmen zur Gesundheitsvorsorge sowie Fitness-Abos.
+###### L'assicurazione integrativa InVita colma le lacune assicurative dell'assicurazione di base. Tra le altre cose, le tre varianti Light, Standard e Flex offrono maggiori contributi agli aiuti visivi e rimborsano le misure di assistenza sanitaria e gli abbonamenti fitness.
 
-###### Die Tarife Vario und Vario Plus wenden sich an Versicherungsnehmer unter 60 Jahren und bieten ebenfalls erweiterte Leistungen. Unter anderem übernimmt die Versicherung alternative Behandlungsmethoden, Nichtpflicht-Medikamente und nichtärztliche Psychotherapien.
+###### Le tariffe Vario e Vario Plus sono rivolte agli assicurati di età inferiore ai 60 anni e offrono anche vantaggi estesi. Tra le altre cose, la compagnia assicurativa assume metodi di trattamento alternativi, medicine non obbligatorie e psicoterapie non mediche.
 
-###### Mit Natural bietet die KKSt zudem eine eigene Zusatzversicherung für Alternativmedizin an. Zusätzlich zu komplementärmedizinischen Behandlungen übernimmt Natural 80 Prozent, maximal 1'500 Franken im Kalenderjahr, für limitierte Arzneimittel und nicht-pflichtige Medikamente.
+###### Con Natural, KKSt offre anche la propria assicurazione integrativa per la medicina alternativa. Oltre alle cure mediche complementari, Natural pagherà l'80%, fino a un massimo di 1.500 franchi per anno civile, per farmaci limitati e medicine non obbligatorie.
 
-## Die Zahnversicherung Dental
+## L’assicurazione complementare Dental
 
-###### Die Zahnversicherung Dental erstattet Zahnbehandlungen und prophylaktische Massnahmen. Sie haben die Wahl aus vier Leistungsstufen, die zwischen 50 und 75 Prozent Kostenerstattung bieten, maximal bis zu 3'000 Schweizer Franken im Kalenderjahr.
+###### L’assicurazione dentale Dental rimborsa trattamenti dentali e misure profilattiche. Puoi scegliere tra quattro livelli prestazionali, che offrono un rimborso tra il 50 e il 75 percento, fino a un massimo di CHF 3000 per anno civile.
 
-## Spitalversicherung Hospital
+## Assicurazione ospedaliera Hospital
 
-###### Müssen Sie ins Spital, sichern Sie sich mit einer Spitalzusatzversicherung mehr Komfort und Wahlfreiheit. Die Spitalversicherung Hospital gibt es in vier Varianten. Sie unterscheiden sich in der Art der Unterbringung:
+###### Se hai bisogno di andare in ospedale, assicurati con un'assicurazione complementare ambulatoriale più comfort e libertà di scelta. L'assicurazione ospedaliera Hospital è disponibile in quattro varianti che differiscono nel tipo di alloggio:
 
-### A: allgemeine Abteilung, Mehrbettzimmer
+### A: reparto generale, stanze condivise
 
-### HP: halbprivat im Zwei-Bett-Zimmer
+### HB: semi-privato in camera doppia
 
-### P: privat im Einbettzimmer
+### P: privato in camera singola
 
-### F: flexible Wahl zwischen halbprivater und privater Abteilung, mit Kostenbeteiligung
+### F: scelta flessibile tra reparto semi-privato e privato, con condivisione dei costi
 
-## Familienrabatt für Zusatzversicherungen
+## Sconti per famiglie con le assicurazioni complementari
 
-###### Schliessen Sie eine KKSt Zusatzversicherung für sich und mindestens zwei Ihrer Kinder ab, zahlen Sie für Ihre Kinder reduzierte Prämien. Ausgenommen ist die InVita Versicherung.
+###### Se stipuli un’assicurazione complementari KKSt per te e per almeno due dei tuoi figli, pagherai premi ridotti per i tuoi figli. È esclusa l'assicurazione InVita.
 
-## Das Versicherungsangebot der KKSt im Vergleich
+## L’offerta assicurativa di KKSt a confronto
 
-###### Passt die Krankenkasse Steffisburg zu Ihren Bedürfnissen? Machen Sie den Vergleich! Mit unserem Prämienrechner finden Sie in wenigen Minuten heraus, wie viel Sie durch einen Wechsel der Krankenversicherung sparen können.
+###### La cassa malati Steffisburg soddisfa le tue esigenze? Fai il confronto! Con il nostro calcolatore di premi puoi scoprire in pochi minuti quanto puoi risparmiare cambiando la tua assicurazione sanitaria.

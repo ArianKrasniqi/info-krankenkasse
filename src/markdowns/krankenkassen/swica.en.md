@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Swica Krankenkasse"
+name: "Swica health insurance"
 shortName: "Swica"
 location: "Römerstrasse 38, 8400 Winterthur"
 insured: "626'389"
@@ -9,41 +9,41 @@ refundPeriod: "2"
 solvencyRate: "133%"
 administrativeExpenses: "159"
 color: "#12AE9C"
-description: "Die Swica Holding ging im Jahr 1992 aus dem Zusammenschluss vier verschiedener Krankenkassen hervor. Das Unternehmen konzentriert sich auf die Bereiche Krankenversicherung und Unfallversicherung. Der Hauptsitz befindet sich in Winterthur. Zum Angebot gehören die obligatorische Grundversicherung sowie verschiedene Zusatzversicherungen, darunter eine Spitalversicherung, Zahnversicherung und Tagegeldversicherung. Mehr als 1,3 Millionen Privatpersonen haben eine Krankenversicherung bei der Swica abgeschlossen, die Prämieneinnahmen lagen im Jahr 2018 bei 4,6 Milliarden Schweizer Franken. Vergleichen Sie das Versicherungsangebot und finden Sie die Krankenkasse, die am besten zu Ihnen passt."
+description: "Swica Holding emerged in 1992 from the merger of four different health insurance companies. The company concentrates on health insurance and accident insurance. The head office is located in Winterthur. The offer includes compulsory basic insurance as well as various supplementary insurances, including hospital insurance, dental insurance and daily allowance insurance. More than 1.3 million private individuals have taken out health insurance with Swica, and premium income in 2018 was CHF 4.6 billion. Compare the insurance offers and find the health insurance company that suits you best."
 ---
 
-## Swica Grundversicherung
+## Swica basic insurance
 
-###### Bei der Swica Krankenkasse können Privatpersonen ihre obligatorische Krankenpflegeversicherung abschliessen. Die Swica Grundversicherung steht in zwei verschiedenen Tarifen zur Wahl: Beim Standard-Modell besteht für Versicherungsnehmer uneingeschränkt freie Arztwahl. Die Prämienhöhe richtet sich nach der Franchise.
+###### With Swica Health Insurance, private individuals can take out their compulsory health insurance. The Swica basic insurance is available in two different tariffs: With the standard model, policyholders are free to choose their own doctor. The premium amount depends on the franchise.
 
-###### Mit den Favorit-Modellen können Sie Ihre Prämienbeiträge senken. Im Gegenzug geben die Modelle vor, an welchen Ansprechpartner Sie sich im Krankheitsfall zuerst wenden müssen:
+###### With the Favorit models, you can reduce your premium contributions. In return, the models specify which contact person you must contact first in the event of illness:
 
-### Beim Modell FAVORIT CASA nehmen Sie im Behandlungsfall zunächst Kontakt zu Ihrem Hausarzt auf, der Sie gegebenenfalls zu einem Spezialisten überweist.
+### With the FAVORIT CASA model, you first contact your family doctor in the event of treatment, who will refer you to a specialist if necessary.
 
-### Beim Modell FAVORIT MEDICA können Sie Ihren Arzt aus einer Ärzteliste wählen.
+### With the FAVORIT MEDICA model, you can choose your doctor from a list of doctors.
 
-### Beim Modell FAVORIT MEDPHARM ist Ihr erster Ansprechpartner eine Partnerapotheke oder santé24.
+### For the FAVORIT MEDPHARM model, your first point of contact is a partner pharmacy or santé24.
 
-### Wählen Sie den Tarif FAVORIT SANTE, wenden Sie sich zunächst an das Medbase Gesundheitszentrum oder eine Gruppenpraxis (HMO).
+### If you choose the FAVORIT SANTE tariff, first contact the Medbase Health Centre or a group practice (HMO).
 
-### Das Telemedizin Modell FAVORIT TELMED sieht vor, dass Sie im Krankheitsfall Kontakt zur Hotline von santé24 aufnehmen. Die medizinischen Mitarbeiter überweisen Sie bei Bedarf an einen Arzt oder ins Spital.
+### The FAVORIT TELMED telemedicine model requires you to contact the santé24 hotline in the event of illness. If necessary, the medical staff will refer you to a doctor or hospital.
 
-## Swica Zusatzversicherungen
+## Swica supplementary insurance
 
-###### Mit Zusatzversicherungen lässt sich die Grundversicherung um individuelle Leistungen ergänzen. Die Swica Krankenversicherung bietet gleich mehrere Zusatzversicherungen an, darunter zum Beispiel eine Spitalversicherung und eine Zahnversicherung. Die wichtigsten Tarife:
+###### Supplementary insurance can be used to supplement basic insurance with individual benefits. Swica Health Insurance offers several supplementary insurances at the same time, including, for example, hospital insurance and dental insurance. The most important tariffs:
 
-### COMPLETA TOP: Die Zusatzversicherung schliesst die Lücken der Grundversicherung. Sie erhalten einen umfassenden Versicherungsschutz bei Notfällen in der Schweiz und im Ausland, weltweite telefonische Gesundheitsberatung sowie Zuschüsse für Brillen, Kontaktlinsen und Zahnbehandlungen. Ausserdem deckt die Zusatzversicherung Behandlungen mit Alternativmedizin ab.
+### COMPLETA TOP: The supplementary insurance closes the gaps in the basic insurance. You receive comprehensive insurance cover in the event of emergencies in Switzerland and abroad, worldwide telephone health advice and subsidies for glasses, contact lenses and dental treatment. The supplementary insurance also covers treatment with alternative medicine.
 
-### COMPLETA PRAEVENTA ergänzt die Zusatzversicherung COMPLETA TOP durch Beiträge zur Gesundheitsförderung, etwa zu Impfungen, Bewegungsprogrammen und Präventionsmassnahmen.
+### COMPLETA PRAEVENTA supplements the COMPLETA TOP supplementary insurance with contributions to health promotion, such as vaccinations, exercise programmes and preventive measures.
 
-### Mit OPTIMA erhalten Sie erweiterte Beiträge zu vielen Gesundheitsbereichen, ausserdem deckt die Zusatzversicherung ambulante Behandlungen weltweit ab.
+### With OPTIMA, you receive extended contributions to many health areas, and the supplementary insurance also covers outpatient treatment worldwide.
 
-### SUPPLEMENTA ergänzt COMPLETE TOP um höhere Zuschüsse für Brillen, Kontaktlinsen, medizinische Hilfsmittel und Krankentransporte in der Schweiz und im Ausland.
+### SUPPLEMENTA supplements COMPLETE TOP with higher subsidies for glasses, contact lenses, medical aids and patient transport in Switzerland and abroad.
 
-### Die Zahnversicherung DENTA leistet Beiträge zu Kontrolluntersuchungen, Dentalhygiene und zahnärztlichen Behandlungen.
+### DENTA dental insurance contributes to check-ups, dental hygiene and dental treatment.
 
-###### Zusätzlich haben Sie die Möglichkeit, eine HOSPITA Spitalzusatzversicherung abzuschliessen. Je nach Modell können sie zwischen der Unterbringung in der allgemeinen, halbprivaten oder privaten Spitalabteilung wählen und geniessen zusätzlichen Komfort.
+###### You also have the option of taking out HOSPITA supplementary hospital insurance. Depending on the model, you can choose between accommodation in the general, semi-private or private hospital ward and enjoy additional comfort.
 
-## Swica Versicherungsangebote vergleichen und Krankenkasse wechseln
+## Compare Swica insurance offers and switch health insurance companies
 
-###### Die Leistungen der Grundversicherung sind gesetzlich vorgeschrieben und unterscheiden sich bei den einzelnen Krankenversicherern nicht. Anders sieht es bei den Zusatzversicherungen aus. Passt das Angebot der Swica Krankenversicherung zu Ihnen? Machen Sie den Online-Vergleich oder lassen Sie sich von uns kostenlos beraten.
+###### The basic insurance benefits are prescribed by law and do not differ between the individual health insurers. The situation is different with supplementary insurance. Does the Swica health insurance offer suit you? Make the online comparison or let us advise you free of charge.

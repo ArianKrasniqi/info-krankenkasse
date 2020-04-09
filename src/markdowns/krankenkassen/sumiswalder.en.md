@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Sumiswalder Krankenkasse"
+name: "Sumiswalder health insurance"
 shortName: "Sumiswalder"
 location: "Spitalstrasse 47, 3454 Sumiswald"
 insured: "19'577"
@@ -9,33 +9,33 @@ refundPeriod: "4"
 solvencyRate: "170%"
 administrativeExpenses: "95"
 color: "#F6921E"
-description: "Die Sumiswalder Krankenkasse existiert bereits seit 1823 als Kranken- und Unfallversicherer. Die Krankenversicherung ist vor allem in der Deutschschweiz tätig, mit Fokus auf den Kanton Bern und die umliegenden Kantone. Das Unternehmen zählt mehr als 27'000 Versicherungsnehmer und möchte individuell auf die Kundenbedürfnisse abgestimmte Produkte anbieten. Ob sich ein Wechsel zur Sumiswalder lohnt, zeigt unser Versicherungs-Vergleich."
+description: "The Sumiswalder health insurance fund has existed since 1823 as a health and accident insurer. Health insurance operates primarily in German-speaking Switzerland, with a focus on the canton of Berne and the surrounding cantons. The company has more than 27,000 policyholders and aims to offer products tailored to individual customer needs. Our insurance comparison shows whether it is worth switching to Sumiswalder."
 ---
 
-## Die verschiedenen Modelle der obligatorischen Grundversicherung
+## Different models of compulsory basic insurance
 
-###### In der obligatorischen Grundversicherung der Sumiswalder Krankenkasse stehen drei Modelle zur Wahl: Das Modell Standard (freie Arztwahl) ist das traditionelle Modell nach Krankenversicherungsgesetz (KVG). Im Krankheitsfall entscheiden Sie selbst, welchen Arzt Sie aufsuchen: Ihren Hausarzt, einen Spezialisten oder eine Gruppenpraxis (HMO). Schliessen Sie das Hausarztmodell ab, suchen Sie sich Ihren Hausarzt aus einer Ärzteliste aus. Dieser Hausarzt ist fortan Ihr erster Ansprechpartner. Ausnahmen gibt es bei Notfällen, gynäkologischen und augenärztlichen Untersuchungen. Entscheiden Sie sich für das Modell Sumis24 (Telmed), rufen Sie im Krankheitsfall zuerst bei der telemedizinische Beratungshotline Medi24 an. Die fachmedizinischen Mitarbeiter entscheiden über den weiteren Behandlungsweg.
+###### There are three models to choose from in the compulsory basic health insurance of Sumiswalder health insurance: The Standard model (free choice of doctor) is the traditional model under the Health Insurance Act (KVG). In the event of illness, you decide which doctor to consult: Your family doctor, a specialist or a group practice (HMO). Complete the family doctor model and select your family doctor from a list of doctors. This general practitioner will then be your first point of contact. There are exceptions for emergencies, gynaecological and ophthalmological examinations. If you opt for the Sumis24 (Telmed) model, call the Medi24 telemedicine advice hotline first in the event of illness. The specialist medical staff will decide on the further course of treatment.
 
-## Prämien-Rabatte in der Grundversicherung
+## Premium discounts in basic health insurance
 
-###### Für die Wahl eines alternativen Versicherungsmodells gewährt die Sumiswalder Krankenversicherung Prämien-Rabatte von 7 Prozent. Sparen können Sie auch, wenn Sie Ihre Franchise erhöhen. Erwachsene können eine Jahresfranchise von maximal 2'500 Schweizer Franken wählen. Je höher die Franchise, umso höher fallen auch die Prämien-Rabatte aus. Ab dem dritten versicherten Kind profitieren Sie in der Grundversicherung zudem von 50 Prozent Familienrabatt.
+###### Sumiswalder health insurance grants premium discounts of 7 percent for the choice of an alternative insurance model. You can also save if you increase your franchise. Adults can choose an annual deductible of up to 2,500 Swiss francs. The higher the deductible rate, the higher the premium discounts. From the third insured child onwards, you also benefit from a 50 percent family discount on your basic insurance.
 
-## Erweitere Leistungen mit einer freiwilligen Zusatzversicherung
+## Extended benefits with voluntary supplementary insurance
 
-###### Die Krankenpflege-Zusatzversicherung der Sumiswalder Krankenkasse ergänzt die Leistungen der Grundversicherung. Sie erhalten zum Beispiel höhere Zuschüsse für Sehhilfen und medizinische Hilfsmittel, Präventionsleistungen und Zahnbehandlungen.
+###### The supplementary health insurance of Sumiswalder health insurance supplements the basic insurance benefits. For example, they receive higher subsidies for visual aids and medical aids, prevention services and dental treatment.
 
-###### Komplementär ist eine Zusatzversicherung für Alternativmedizin. In drei Leistungsstufen erstattet sie Behandlungkosten und Medikamente aus dem Bereich der Alternativmedizin bis maximal 4'000 Schweizer Franken im Jahr. Fitnessabos und anerkannte Kurse werden mit 200 Schweizer Franken pro Jahr gefördert.
+###### Complementary is a supplementary insurance for alternative medicine. In three benefit levels, it reimburses treatment costs and medicines from the field of alternative medicine up to a maximum of 4,000 Swiss francs per year. Fitness subscriptions and recognised courses are subsidised with 200 Swiss francs per year.
 
-###### Dental ist die Zahnversicherung der Sumiswalder Krankenkasse. Sie steht in acht Leistungsstufen zur Wahl und erstattet bis zu 75 Prozent der Behandlungskosten, maximal 5'000 Schweizer Franken im Kalenderjahr.
+###### Dental is the dental insurance of Sumiswalder health insurance. It is available in eight benefit levels and reimburses up to 75 percent of treatment costs, up to a maximum of 5,000 Swiss francs per calendar year.
 
-## Zusatzversicherungen fürs Spital
+## Supplementary insurance for hospitals
 
-###### Die Zusatzversicherung Kombi kombiniert Beiträge zu Haushaltshilfen, Transportkosten, Zahnstellungskorrekturen, Prävention und Auslandsleistungen mit einer Spitalversicherung. Die Spitalversicherung steht in drei Deckungsstufen zur Wahl: allgemein, halbprivat und privat. Wünschen Sie sich noch mehr Komfort im Spital, können Sie das Modell Kombi+ mit der Komfort-Spitalzusatzversicherung kombinieren. Diese erstattet die Kosten für die Unterbringung in einem Ein- oder Zwei-Bett-Zimmer auf der allgemeinen Abteilung in ausgewählten Spitälern.
+###### The Kombi supplementary insurance combines contributions to domestic help, transport costs, dental corrections, prevention and benefits abroad with hospital insurance. Hospital insurance is available in three coverage levels: general, semi-private and private. If you want even more comfort in the hospital, you can combine the Kombi+ model with the supplementary comfort hospital insurance. This covers the costs of accommodation in a single or double room in the general ward in selected hospitals.
 
-## Familienrabatt in der Zusatzversicherung
+## Family discount in supplementary insurance
 
-###### Schliessen Sie die Grundversicherung in Kombination mit der Zusatzversicherung Krankenpflege-Zusatz, Kombi oder Komplimentär ab, erhalten Sie ab dem zweiten versicherten Kind 100 Prozent Prämien-Rabatt.
+###### If you take out the basic insurance in combination with the supplementary health insurance "Krankenpflege-Zusatz", "Kombi" or "Komplimentär", you will receive a 100 percent premium discount from the second insured child onwards.
 
-## Krankenversicherungen im Vergleich
+## Health insurances in comparison
 
-###### Möchten Sie herausfinden, wie viel Sie mit einem Wechsel zur Sumiswalder Krankenversicherung sparen, machen Sie bei uns den Vergleich. Unser Prämien-Rechner zeigt Ihnen in wenigen Minuten Ihr Sparpotenzial. Anschliessend können Sie direkt online ein unverbindliches Versicherungsangebot anfordern.
+###### If you would like to find out how much you can save by switching to Sumiswalder Health Insurance, make a comparison with us. Our premium calculator will show you your savings potential in just a few minutes. You can then request a non-binding insurance quote directly online.

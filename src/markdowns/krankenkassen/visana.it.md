@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Visana Krankenkasse"
+name: "Visana Cassa malati"
 shortName: "Visana"
 location: "Weltpoststrasse 17-21, 3000 Bern"
 insured: "450'169"
@@ -9,45 +9,45 @@ refundPeriod: "5"
 solvencyRate: "209%"
 administrativeExpenses: "127"
 color: "#E20119"
-description: "Die Visana Krankenversicherung mit Sitz in Bern ging im Jahr 1996 aus dem Zusammenschluss der Versicherer KKB, Grütli und Evidenzia hervor. Sie zählt aktuell 698'000 Versicherungsnehmer in der obligatorischen Grundversicherung, das entspricht einem Marktanteil von 7,3 Prozent. Der Prämienertrag beläuft sich auf rund 3,3 Milliarden Schweizer Franken. Neben der Grundversicherung bietet die Krankenkasse auch diverse freiwillige Zusatzversicherungen an."
+description: "L’assicurazione medico sanitaria Visana, con sede a Berna, è stata costituita nel 1996 dalla fusione degli assicuratori KKB, Grütli ed Evidenzia. Attualmente ha 698.000 assicurati nell'assicurazione obbligatoria di base, che corrisponde a una quota di mercato del 7,3 per cento. La raccolta premi ammonta a circa 3,3 miliardi di franchi svizzeri. Oltre all'assicurazione di base, la cassa malati offre anche varie assicurazioni volontarie integrative."
 ---
 
-## Visana Grundversicherung
+## Assicurazione di base Visana
 
-###### Mit einer durchschnittlichen Prämienhöhe von 504.90 Schweizer Franken gehört die Visana 2019 zu den teureren Krankenkassen in der Schweiz. Die Leistungen der Grundversicherung gehen dafür über die gesetzlichen Pflichtleistungen hinaus. Das Standard-Modell schliesst auch einen Gesundheitsrechtsschutz und eine kostenlose telemedizinische Beratung mit ein. Ausserdem haben Sie freie Arztwahl und können selbst entscheiden, ob Sie Ihren Hausarzt, einen Spezialisten oder ein Spital aufsuchen.
+###### Con un importo medio del premio di CHF 504.90, Visana 2019 è una delle assicurazioni sanitarie più costose della Svizzera. I servizi assicurativi di base vanno oltre i servizi obbligatori previsti dalla legge. Il modello standard include anche l’assicurazione di protezione giuridica della salute e la consulenza telemedica gratuita. Inoltre, hai anche la libera scelta del medico e puoi decidere tu stesso se visitare il tuo medico di famiglia, uno specialista o un ospedale.
 
-###### Sparen können Sie, wenn Sie die Franchise erhöhen oder ein alternatives Versicherungsmodell wählen. Die Visana Krankenversicherung bietet zwei Hausarzt-Modelle an: Im Modell Managed Care wählen Sie Ihren Hausarzt oder eine Gruppenpraxis (HMO) als ersten Ansprechpartner im Krankheitsfall. Bei Med Direct gehen Sie zunächst zum Hausarzt. Die Prämienersparnis beträgt bis zu 18 Prozent.
+###### Puoi risparmiare denaro aumentando la franchigia o scegliendo un modello assicurativo alternativo. L'assicurazione sanitaria Visana offre due modelli di medico di famiglia: nel modello Managed Care, scegli il tuo medico di famiglia o uno studio medico collettivo (HMO) come primo punto di contatto in caso di malattia. Da Med Direct, vai per prima cosa dal medico di famiglia. I risparmi sui premi arrivano fino al 18 percento.
 
-###### Ergänzt wird das Angebot der Grundversicherung durch drei Telemedizin-Modelle. Die Telmed-Modelle Tel Doc, Med Call und Tel Care sehen vor, dass Sie sich vor dem Arztbesuch zunächst an ein telemedizinisches Beratungszentrum wenden.
+###### L'offerta dell’assicurazione di base è integrata da tre modelli di telemedicina. I modelli Telmed Tel Doc, Med Call e Tel Care richiedono di contattare prima un centro di consulenza di telemedicina prima di visitare il medico.
 
-## Die freiwilligen Zusatzversicherungen der Visana
+## Le assicurazioni complementari di Visana
 
-###### Um Versicherungslücken der obligatorischen Grundversicherung zu schliessen, können Sie eine freiwillige ambulante Zusatzversicherung in drei Stufen abschliessen. Die Zusatzversicherung Ambulant I, II und III leisten Beiträge zu Brillen, Kontaktlinsen, medizinischen Hilfsmitteln, nichtkassenpflichtigen Medikamenten und Vorsorgeuntersuchungen. Zudem übernehmen sie anteilig Schutzimpfungen sowie Transportkosten und Fitnessleistungen. Darüber hinaus ist die Reiseversicherung Vacanza kostenlos inbegriffen.
+###### Per colmare le lacune nell’assicurazione di base obbligatoria, è possibile sottoscrivere un’assicurazione complementare in tre fasi. L'Ambulant I, II e III dell'assicurazione integrativa contribuiscono a occhiali, lenti a contatto, aiuti medici, medicamenti non a carico della cassa malati e controlli. Inoltre, assumono vaccinazioni proporzionali, nonché costi di trasporto e servizi di fitness. Inoltre, l'assicurazione di viaggio Vacanza è inclusa gratuitamente.
 
-## Zusatzversicherung für Alternativmedizin
+## Assicurazione complementare per la medicina alternativa
 
-###### Die Zusatzversicherung Komplementär wendet sich an Versicherungsnehmer, die neben schulmedizinischen auch alternativmedizinische Behandlungen wünschen. Sie haben die Wahl aus den Tarifstufen Komplementär I, II oder III. Je nach Tarifstufe erstattet die Zusatzversicherung 90 Prozent der Behandlungskosten bis zu einer Summe von 1000, 4000 oder 10'000 Schweizer Franken im Jahr.
+###### L'assicurazione i complementare è rivolta agli assicurati che desiderano ricevere trattamenti medici convenzionali e alternativi. Puoi scegliere tra i livelli tariffari Complementari I, II o III. A seconda del livello tariffario, l’assicurazione integrativa rimborserà il 90% dei costi di trattamento fino a un importo di 1000, 4000 o 10'000 franchi svizzeri all'anno.
 
-## Spitalzusatzversicherung für mehr Komfort
+## Assicurazione complementare ambulatoriale per un maggior comfort
 
-###### Die Spitalversicherung Spital Allgemein enthält die freie Spitalwahl in der ganzen Schweiz, Aufenthalt im Mehrbettzimmer, die Reiseversicherung Vacanza, Rooming-in und die Übernahme von Bade- und Erholungskuren. Mit der Spitalversicherung Spital Flex, halbprivat und privat ergänzen Sie den Versicherungsschutz um freie Arztwahl. In der Tarifvariante halbprivat übernachten Sie im Zweibettzimmer, mit der Tarifvariante privat im Einzelzimmer. Zusätzlich erhalten Sie eine Geburtspauschale bei ambulanter Geburt.
+###### L'assicurazione ospedaliera Ospedale reparto comune include la libera scelta dell'ospedale in tutta la Svizzera, la permanenza in una stanza condivisa, l'assicurazione di viaggio Vacanza, il pernottamento e l'acquisizione di trattamenti balneari e rilassanti. Con l'Assicurazione ospedaliera Spital Flex, semi-privata e privata, la copertura assicurativa viene completata con una libera scelta del medico. Nella tariffa semi-privata si alloggia in una camera doppia, con l'opzione di tariffa privata in una camera singola. Inoltre, riceverai un'indennità di nascita per parto ambulatoriale.
 
-## Basic: Die Paketlösung
+## Basic: il pacchetto di soluzioni
 
-###### Mit dem Modell Basic fasst die Krankenkasse ihre beliebtesten Zusatzversicherungen zu einem Paket zusammen:
+###### Con il modello Basic, la cassa malati combina la sua più popolare assicurazione integrativa in un unico pacchetto:
 
-### Ambulant II
+### Ambulatoriale II
 
-### Komplementär II
+### Complementare II
 
-### eine Spitalversicherung
+### Un’assicurazione ospedaliera
 
-### die Reiseversicherung Vacanza
+### l'assicurazione di viaggio Vacanza
 
-## Die Zahnversicherung der Visana
+## L’assicurazione dentale di Visana
 
-###### Die Zahnversicherung schützt Sie vor Mehrkosten bei Zahnbehandlungen. Sie können aus zehn Leistungsstufen wählen. Maximal übernimmt die Zahnversicherung 75 Prozent der Behandlungskosten bis zu einer Summe von 5000 Schweizer Franken im Jahr.
+###### L'assicurazione dentale ti protegge dai costi aggiuntivi per i trattamenti dentali. Puoi scegliere tra dieci livelli di prestazione. L’assicurazione dentale pagherà al massimo il 75% dei costi di trattamento fino a un importo di 5000 franchi svizzeri all'anno.
 
-## Visana Versicherungsangebote und Prämien im Vergleich
+## Offerte assicurative Visana e premi a confronto
 
-###### Mit einem Vergleich der Versicherungsangebote finden Sie heraus, ob die Visana die richtige Krankenversicherung für Sie ist. Wir beraten Sie gerne kostenlos und unverbindlich und helfen Ihnen, die Leistungen und Prämien der Krankenkassen miteinander zu vergleichen.
+###### Con un confronto tra le opzioni assicurative, scopri se Visana è l'assicurazione sanitaria giusta per te. Saremo lieti di consigliarti gratuitamente e senza impegno e di aiutarti a confrontare i servizi e i premi di assicurazioni sanitarie.

@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Sana24 Krankenkasse"
+name: "Caisse d'assurance maladie Sana24"
 shortName: "Sana24"
 location: "Weltpoststrasse 19, 3015 Bern"
 insured: "69'020"
@@ -9,35 +9,35 @@ refundPeriod: "5"
 solvencyRate: "291%"
 administrativeExpenses: "92"
 color: "#E2001A"
-description: "Die Sana24 Krankenkasse gehört zur Visana, einer der führenden Krankenversicherungen der Schweiz. Im Jahr 2018 zählte das Unternehmen mit Sitz in Bern mehr als 63'400 Versicherungsnehmer in der Grundversicherung. Daneben bietet die Krankenversicherung auch freiwillige Zusatzversicherungen an. Profitieren Sie jetzt von einem Vergleich der Prämien der Sana24 und finden Sie eine günstige Krankenkasse."
+description: "La caisse d’assurance maladie Sana24 fait partie de Visana, l'une des principales caisses maladie de Suisse. En 2018, l'entreprise de Berne comptait plus de 63'400 assurés dans l'assurance maladie de base. En outre, l'assurance maladie propose une assurance complémentaire facultative. Profitez dès maintenant d'une comparaison des primes de Sana24 et trouvez une caisse maladie bon marché."
 ---
 
-## Modelle der Grundversicherung
+## Modèles d'assurance de base
 
-###### Die Leistungen der obligatorischen Grundversicherung sind vom Krankenversicherungsgesetz (KVG) vorgegeben und bei jeder Krankenkasse gleich. Abhängig von Krankenversicherung und Kanton unterscheiden sich jedoch die Prämien.
+###### Les prestations de l'assurance de base obligatoire des soins sont définies par la loi sur l'assurance maladie (LAMal) et sont les mêmes pour toutes les caisses d'assurance maladie. Toutefois, les primes varient selon l'assurance maladie et le canton.
 
-###### Neben dem Modell Standard (freie Arztwahl) bietet die Sana24 fünf alternative Versicherungsmodelle an. Im traditionellen Modell können Sie Ihren Arzt im Krankheitsfall frei wählen, die anderen Modelle schränken die Wahl des ersten Ansprechpartners ein. Im Modellen Managed Care (Hausarzt) wenden Sie sich zunächst an Ihren Hausarzt oder eine Gruppenpraxis (HMO). Im Modell Med Direct (Hausarzt) ist Ihr Hausarzt der erste Ansprechpartner.
+###### En plus du modèle Standard (libre choix du médecin), Sana24 propose cinq modèles d'assurance alternatifs. Dans le modèle traditionnel, vous pouvez choisir librement votre médecin en cas de maladie ; les autres modèles limitent le choix du premier contact. Dans le modèle Managed Care (médecin de famille), vous communiquez d'abord avec votre médecin de famille ou avec un cabinet de groupe (HMO). Dans le modèle Med Direct (médecin de famille), votre médecin de famille est le premier point de contact.
 
-###### Darüber hinaus gibt es drei Telmed-Modelle: Im Modell TelDoc (Telmed) gibt die medizinische Beratungshotline einen verbindlichen Behandlungsplan vor. Im Modell Med Call (Telmed) entscheiden Sie selbst, ob Sie dem Behandlungsplan folgen oder nicht. Der Tarif TelCare (Telmed) steht nur in bestimmten Kantonen zur Verfügung.
+###### De plus, il existe trois modèles Telmed : Dans le modèle TelDoc (Telmed), la hotline de conseil médical prescrit un plan de traitement contraignant. Dans le modèle Med Call (Telmed), vous décidez de suivre ou non le plan de traitement. Le tarif TelCare (Telmed) n'est disponible que dans certains cantons.
 
-## Prämien-Rabatte in der Grundversicherung
+## Réductions de primes dans l'assurance de base
 
-###### Für die Wahl eines alternativen Versicherungsmodells erhalten Sie Prämien-Rabatte von bis zu 17 Prozent. Ihre Prämien können Sie zudem reduzieren, wenn Sie sich für eine höhere Franchise entscheiden. Die reguläre Franchise für Erwachsene beträgt 300 Schweizer Franken pro Jahr, lässt sich aber bis auf 2'500 Franken heraufsetzen.
+###### En choisissant un autre modèle d'assurance, vous bénéficiez d'une réduction de prime allant jusqu'à 17 %. Vous pouvez également réduire vos primes en optant pour une franchise plus élevée. La franchise régulière pour adultes est de 300 Francs suisses par an, mais peut être augmentée jusqu'à 2500 Francs suisses.
 
-## Freiwillige Zusatzversicherung für ambulante Behandlungen und fürs Spital
+## Assurance complémentaire facultative pour les traitements ambulatoires et pour l'hôpital
 
-###### Mit einer freiwilligen Zusatzversicherung können Sie Ihren Versicherungsschutz gemäss Ihrer individuellen Bedürfnisse erweitern und erhalten zum Beispiel höhere Zuschüsse für Prävention, Hilfsmittel und Alternativmedizin. Sana24 Ambulant ist eine Zusatzversicherung für ambulante Behandlungen. Komplementär leistet Erstattungen für 50 Behandlungsmethoden der Alternativmedizin. Beide Zusatzversicherungen stehen in drei Leistungsstufen zur Wahl.
+###### Avec une assurance complémentaire facultative, vous pouvez étendre votre couverture d'assurance en fonction de vos besoins individuels et bénéficier, par exemple, de subventions plus élevées pour la prévention, les aides et la médecine alternative. Sana24 Ambulant est une assurance complémentaire pour les soins ambulatoires. L'assurance complémentaire prévoit le remboursement de 50 méthodes de traitement en médecine alternative. Les deux assurances complémentaires sont disponibles en trois niveaux de prestations.
 
-###### Mit einer Spitalzusatzversicherung sichern Sie sich mehr Komfort beim Aufenthalt im Spital. Die Spitalversicherung der Sana24 Krankenkasse gibt es in den Varianten allgemein, Flex, halbprivat und privat. Jedes Modell gewährt Ihnen freie Spitalwahl in der gesamten Schweiz, mit Flex, halbprivat und privat können Sie zudem Ihren behandelnden Arzt frei wählen.
+###### Avec l'assurance complémentaire d'hospitalisation, vous êtes assuré d'un plus grand confort pendant votre séjour à l'hôpital. L'assurance hospitalisation de la caisse d'assurance maladie Sana24 est disponible en version générale, flex, semi-privée et privée. Chaque modèle vous donne le libre choix de l'hôpital dans toute la Suisse, avec Flex, semi-privé et privé, vous pouvez également choisir votre médecin.
 
-###### Die freiwillige Zahnversicherung schützt Sie vor hohen Zahnarztkosten. In drei Leistungsstufen erstattet sie bis zu 75 Prozent der Behandlungskosten, maximal 1'800 Franken im Jahr.
+###### L'assurance dentaire facultative vous protège contre les frais dentaires élevés. Elle rembourse jusqu'à 75 % des frais de traitement à trois niveaux de prestations, jusqu'à concurrence de 1800 francs par an.
 
-###### Die Zusatzversicherung Basic kombiniert die Modelle Ambulant II und Komplementär II mit einer Spitalversicherung nach Wahl und der Reiseversicherung Vacanza.
+###### L'assurance complémentaire de base combine les modèles traitements ambulatoires II, Médecine complémentaire II avec une assurance hospitalisation de votre choix et l'assurance voyage Vacanza.
 
-## Familienrabatt in der Grund- und Zusatzversicherung
+## Réduction familiale dans l'assurance de base et l'assurance complémentaire
 
-###### Für die genannten Zusatzversicherungen gewährt die Sana24 Krankenkasse einen Familienrabatt. Ab dem zweiten versicherten Kind unter 18 Jahren zahlen Haushalte nur 50 Prozent der eigentlichen Prämien. In der Grundversicherung betragen die Rabatte ab dem dritten versicherten Kind sogar bis zu 90 Prozent. Für mitversicherte Jugendliche zwischen 19 und 25 Jahren gibt es bis zu 27 Prozent Prämien-Nachlass.
+###### La caisse d'assurance maladie Sana24 accorde une réduction familiale pour les assurances complémentaires mentionnées. A partir du deuxième enfant assuré âgé de moins de 18 ans, les ménages ne paient que 50 % des primes réelles. Dans l'assurance de base, les réductions peuvent même atteindre 90 % à partir du troisième enfant assuré. Les jeunes de 19 à 25 ans co-assurés bénéficient d'un rabais pouvant aller jusqu'à 27 % sur les primes.
 
-## Leistungen und Prämien im Vergleich
+## Comparaison des prestations et des primes
 
-###### Möchten Sie herausfinden, wie viel Sie mit einem Wechsel zur Sana24 Krankenkasse tatsächlich sparen, machen Sie bei uns den Vergleich. Anschliessend können Sie gleich ein unverbindliches Versicherungsangebot anfordern.
+###### Si vous souhaitez savoir combien vous pouvez économiser en optant pour la caisse d’assurance maladie Sana24, faites la comparaison avec nous. Dans ce cas, vous pouvez immédiatement demander une offre d'assurance sans engagement.

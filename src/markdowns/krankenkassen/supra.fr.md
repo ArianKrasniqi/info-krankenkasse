@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Supra Krankenkasse"
+name: "La Caisse d'assurance maladie Supra"
 shortName: "Supra"
 location: "Groupe Mutuel, Rue des Cèdres 5, 1920 Martigny"
 insured: "78'725"
@@ -9,49 +9,47 @@ refundPeriod: "15"
 solvencyRate: "108%"
 administrativeExpenses: "213"
 color: "#ED1343"
-description: "Im Jahr 1846 wurde die Supra Caisse-maladie im Waadtland gegründet. Bis in die 1990er Jahre hinein war die in Lausanne ansässige Krankenkasse vor allem in der Westschweiz tätig. Heute gehört sie zur Groupe Mutuel und bietet die Grundversicherung sowie diverse Zusatzversicherungen in der gesamten Schweiz an. Unser Vergleich zeigt Ihnen, ob sich ein Wechsel zur Supra Krankenversicherung lohnt."
+description: "En 1846, la Caisse-maladie Supra a été fondée dans le canton de Vaud. Jusqu'aux années 1990, la caisse maladie basée à Lausanne était principalement active en Suisse romande. Elle fait aujourd'hui partie du Groupe Mutuel et propose des assurances de base et complémentaires dans toute la Suisse. Notre comparaison vous montrera s'il vaut la peine de passer à la caisse d'assurance maladie Supra."
 ---
 
-## Die diversen Modelle der Grundversicherung
+## Les différents modèles d'assurance de base
 
-###### Als Teil der Groupe Mutuel bietet die Supra Krankenkasse dieselbe Auswahl an Grundversicherungsmodellen an. Im Modell Standard (freie Arztwahl) wählen Versicherungsnehmer selbst, welchen Arzt sie im Krankheitsfall aufsuchen. Daneben stehen diverse alternative Versicherungsmodelle zur Wahl:
+###### En tant que membre du Groupe Mutuel, la Caisse maladie Supra offre le même choix de modèles d'assurance de base. Dans le modèle Standard (libre choix du médecin), l'assuré choisit le médecin qu'il consulte en cas de maladie. Il existe également différents modèles d'assurance alternatifs au choix:
 
-### PrimaCare (Hausarzt): Sie wenden sich zunächst an Ihren Hausarzt.
+### PrimaCare (médecin de famille): Vous contactez d'abord votre médecin de famille.
 
-### SUPRACare: Hausarzt-Modell mit Tiers-garant-System in Apotheken. Steht anders als PrimaCare (Hausarzt) nur in ausgewählten Kantonen zur Verfügung.
+### SUPRACare: Modèle de médecin de famille avec Système Tiers garant en pharmacie. Contrairement à PrimaCare (médecin de famille), disponible uniquement dans certains cantons.
 
-### SanaTel (Telmed): Sie rufen im Krankheitsfall eine telemedizinische Beratungsstelle an.
+### SanaTel (Telmed): En cas de maladie, vous appelez un centre de conseil en Télémédecine.
 
-### PrimaTel (Telmed): Sie wenden sich an eine telemedizinische Beratungshotline und legen zudem einen Hausarzt als weiteren Ansprechpartner fest.
+### PrimaTel (Telmed): Vous pouvez contacter une hotline de consultation en télémédecine et désigner également un médecin de famille comme contact supplémentaire.
 
-### BasicPlus (Gruppenpraxis HMO), Pflegenetz Genf und Optimed: Sie wählen Ihren Arzt oder Ihre Gruppenpraxis (HMO) aus einer Liste von Partnerärzten aus.
+### BasicPlus (Cabinet de groupe HMO), Réseau de soins Genève et Optimed : choisissez votre médecin ou votre cabinet de groupe (HMO) à partir d'une liste de médecins partenaires.
 
-### PrimaPharma: Ihr erster Ansprechpartner ist eine Partnerapotheke.
+### PrimaPharma: Votre premier contact est une pharmacie partenaire.
 
-## Prämien-Rabatte für alternative Versicherungsmodelle und höhere Franchisen
+## Rabais de prime pour les modèles d'assurance alternatifs et les franchises plus élevées
 
-###### Entscheiden Sie sich für ein alternatives Versicherungsmodell, gewährt die Supra Krankenversicherung Ihnen lukrative Prämien-Rabatte. Mit dem Modell PrimaCare (Hausarzt) sparen Sie zum Beispiel elf Prozent, mit dem Modell SUPRACare sinken Ihre Prämien sogar um bis zu 20 Prozent.
+###### Si vous optez pour un modèle d'assurance alternatif, la caisse maladie Supra vous accorde des réductions de primes très intéressantes. Avec le modèle PrimaCare (médecin de famille), par exemple, vous économisez onze pour cent ; avec le modèle SUPRACare, vos primes sont même réduites jusqu'à 20 pour cent.
 
-###### Prämien-Rabatte erhalten Sie ausserdem, wenn Sie Ihre Franchise heraufsetzen lassen. Für Erwachsene stehen Jahresfranchisen bis zu 2'500 Schweizer Franken zur Wahl, für Kinder lässt sich die Franchise bis auf 600 Franken im Jahr erhöhen.
+###### Vous bénéficierez également d'un rabais de prime si vous augmentez votre franchise. Des franchises annuelles pouvant aller jusqu'à 2500 francs suisses sont disponibles pour les adultes, pour les enfants, la franchise peut être augmentée jusqu'à 600 francs par an.
 
-######
+## Assurance complémentaire facultative pour plus de prestations
 
-## Freiwillige Zusatzversicherung für mehr Leistungen
+###### Si vous désirez des primes plus élevées pour la prévention sanitaire, la médecine alternative ou les aides médicales, vous avez le choix entre différentes assurances complémentaires de la caisse maladie Supra. L'assurance maladie complémentaire avec bonus, par exemple, complète l'offre de prestations de l'assurance de base par des primes plus élevées pour les différentes prestations médicales. Si vous ne demandez pas de prestations pendant un an, vous bénéficiez d'un rabais de prime.
 
-###### Wünschen Sie sich höhere Beiträge für Gesundheitsprävention, Alternativmedizin oder medizinische Hilfsmittel, können Sie bei der Supra Krankenkasse aus einer Reihe von Zusatzversicherungen wählen. Die Krankenpflege-Zusatzversicherung mit Bonus ergänzt zum Beispiel das Leistungsangebot der Grundversicherung um höhere Beiträge zu diversen Gesundheitsleistungen. Nehmen Sie ein Jahr lang keine Leistungen in Anspruch, erhalten Sie Prämien-Rabatte.
+###### L'assurance complémentaire Alterna couvre les traitements spéciaux et les médicaments du domaine de la médecine alternative. Mundo couvre les frais de traitement et de transport des patients à l'étranger. Le tarif Global combine les avantages de l'assurance complémentaire ambulatoire et de l'assurance hospitalisation.
 
-###### Die Zusatzversicherung Alterna deckt speziell Behandlungen und Medikamente aus dem Bereich der Alternativmedizin. Mundo übernimmt Behandlungs- und Krankentransportkosten im Ausland. Der Tarif Global kombiniert die Leistungen einer ambulanten Zusatzversicherung mit einer Spitalversicherung.
+###### La caisse maladie Supra propose également une assurance dentaire : Dentair Plus rembourse jusqu'à 70 pour cent des frais de soins dentaires, jusqu'à un maximum de 15'000 francs suisses par année civile.
 
-###### Auch eine Zahnversicherung bietet die Supra Krankenkasse an: Dentair Plus erstattet bis zu 70 Prozent der Zahnbehandlungskosten, bis zu einer maximalen Summe von 15'000 Schweizer Franken im Kalenderjahr.
+## Assurance complémentaire pour l'hôpital
 
-## Zusatzversicherung fürs Spital
+###### L'assurance complémentaire d'hospitalisation de Supra vous offre le libre choix de l'hôpital et du médecin dans toute la Suisse. Selon le tarif que vous choisissez, vous serez logé en chambre commune, semi-privée ou privée. Avec l'assurance hospitalisation H-Bonus, vous décidez en toute flexibilité, avant chaque séjour hospitalier, du confort que vous souhaitez. Le tarif Hopital Senior est disponible pour les assurés de 55 ans et plus.
 
-###### Die Spitalzusatzversicherung der Supra bietet Ihnen freie Spital- und Arztwahl in der gesamten Schweiz. Abhängig vom gewählten Tarif werden Sie auf der allgemeinen Abteilung, halbprivat oder privat untergebracht. Mit der Spitalversicherung H-Bonus entscheiden Sie flexibel vor jedem Spitalaufenthalt, welchen Komfort Sie sich wünschen. Für Versicherungsnehmer ab 55 Jahren steht der Tarif Hopital Senior zur Wahl.
+## Réduction familiale dans l'assurance complémentaire Supra
 
-## Familienrabatt in der Supra Zusatzversicherung
+###### Si les familles souscrivent également le tarif Global Classic pour leurs enfants, elles bénéficieront d'une réduction familiale.
 
-###### Schliessen Familien den Tarif Global Classic auch für Ihre Kinder ab, erhalten Sie Familienrabatt.
+## Comparaison des caisses d'assurance-maladie
 
-## Krankenversicherungen im Vergleich
-
-###### Machen Sie bei uns den Versicherungs-Vergleich und prüfen Sie, ob sich ein Wechsel zur Supra Krankenkasse lohnt. Unser Prämien-Rechner ermittelt in wenigen Minuten Ihr Sparpotenzial. Anschliessend fordern Sie direkt online Ihr unverbindliches Versicherungsangebot an.
+###### Faites la comparaison d'assurance avec nous et vérifiez s'il vaut la peine de passer à la caisse maladie Supra. Notre calculateur de prime calcule votre potentiel d'économie en quelques minutes seulement. Demandez directement en ligne votre offre d'assurance sans engagement.

@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "SLKK Krankenkasse"
+name: "Caisse d'assurance maladie SLKK"
 shortName: "SLKK"
 location: "Hofwiesenstrasse 370, Postfach, 8050 Zürich"
 insured: "13'223"
@@ -9,45 +9,45 @@ refundPeriod: "19"
 solvencyRate: "219%"
 administrativeExpenses: "172"
 color: "#E41C3A"
-description: "Die SLKK ist aus der Schweizerische Lehrerkrankenkasse hervorgegangen. Das Unternehmen bewirbt sich selbst als 'die vernünftige Krankenkasse' und möchte bedarfsgerechte Versicherungslösungen bieten. Der Hauptsitz der Krankenversicherung befindet sich in Zürich, im Jahr 2018 hatten rund 21'1000 Versicherungsnehmer eine Grundversicherung bei ihr abgeschlossen. Ob sich ein Wechsel zur Krankenkasse lohnt, zeigt unser Vergleich."
+description: "Le SLKKK est issu de la Caisse d'assurance-maladie des enseignants suisses. L'entreprise se présente comme "la compagnie d'assurance maladie raisonnable" et souhaite proposer des solutions d’assurance répondant aux besoins. Le siège de la caisse d'assurance-maladie se trouve à Zurich et, en 2018, quelque 21'1000 assurés ont souscrit une assurance de base auprès de cette caisse. Notre comparaison montre s'il est avantageux de passer à cette caisse d'assurance maladie."
 ---
 
-## Die Grundversicherung der SLKK
+## L'assurance de base de SLKK
 
-###### Die SLKK bietet Gesundheitsversicherungen nach dem Baukastenprinzip an. Das Fundament bildet die obligatorische Grundversicherung. Neben dem traditionellen Modell Standard (freie Arztwahl) stehen die alternativen Modelle TelCare (Telmed) und HomeCare (Hausarzt) zur Auswahl. Im traditionellen Modell wählen Sie selbst, welchen Arzt Sie im Krankheitsfall aufsuchen. Sie können auch die Ärzte einer Gruppenpraxis (HMO) in Anspruch nehmen. Im TelCare-Modell rufen Sie zunächst eine medizinische Beratungshotline an, im Modell HomeCare (Hausarzt) ist Ihr Hausarzt der erste Ansprechpartner.
+###### SLKKK propose une assurance maladie basée sur le principe modulable. La fondation est l'assurance de base obligatoire. En plus du modèle traditionnel Standard (libre choix du médecin), les modèles alternatifs TelCare (Telmed) et HomeCare (médecin de famille) sont également disponibles. Dans le modèle traditionnel, vous choisissez le médecin que vous consultez en cas de maladie. Vous pouvez également faire appel aux médecins d'un cabinet de groupe (HMO). Dans le modèle TelCare, vous appelez d'abord un service d'assistance téléphonique, dans le modèle HomeCare (médecin de famille), votre médecin de famille est le premier point de contact.
 
-## Prämien-Rabatte in der Grundversicherung
+## Réductions de primes dans l'assurance de base
 
-###### Die Krankenkasse gibt Ihnen mehrere Möglichkeiten, Ihre Prämien zu reduzieren. Zahlen Sie Ihre Krankenversicherungsbeiträge im Voraus, erhalten Sie Rabatte zwischen 0,5 und 1 Prozent. Prämien-Rabatte erhalten Sie darüber hinaus für die Wahl des TelCare-Modells oder des Modells HomeCare (Hausarzt). Wer sparen möchte, kann zudem seine Franchise heraufsetzen lassen. Die maximal mögliche Franchise für Erwachsene beträgt 2'500 Schweizer Franken im Jahr, für Kinder 600 Schweizer Franken.
+###### La caisse maladie vous offre plusieurs possibilités pour réduire vos primes. Si vous payez vos primes d'assurance maladie à l'avance, vous bénéficiez d'une réduction de 0,5 à 1 %. Des rabais de prime sont également offerts pour le choix du modèle TelCare ou du modèle HomeCare (médecin de famille). Si vous voulez économiser de l'argent, vous pouvez aussi faire augmenter votre franchise. La franchise maximale possible pour les adultes est de 2500 CHF par an, pour les enfants de 600 CHF.
 
-## Zusatzversicherung: Das Angebot der SLKK
+## Assurance complémentaire: L'offre de SLKK
 
-###### Der zweite Baustein Ihrer persönlichen Krankenversicherung ist eine freiwillige Zusatzversicherung.
+###### La deuxième composante de votre assurance maladie personnelle est une assurance complémentaire facultative.
 
-###### Die Zusatzversicherung Medico-Plus ergänzt die Leistungen der Grundversicherung im ambulanten Bereich und steht in vier verschiedenen Ausführungen zur Wahl:
+###### L'assurance complémentaire Medico-Plus complète l'assurance de base ambulatoire et est disponible en quatre versions différentes:
 
-### Standard bietet höhere und erweiterte Erstattungen für zahlreiche Behandlungen und Hilfsmittel.
+### Standard offre des remboursements plus élevés et plus larges pour de nombreux traitements et aides.
 
-### Alternativ bietet höhere Zuzahlungen zur Alternativmedizin.
+### Alternativ offre des co-paiements plus élevés à la médecine alternative.
 
-### Complet kombiniert die Leistungen von Standard und Alternativ.
+### Complet combine les avantages du Standard et de l'Alternativ.
 
-### Jeunesse ist eine Zusatzversicherung speziell für Kinder und Jugendliche bis 18 Jahre.
+### Jeunesse est une assurance complémentaire spécialement conçue pour les enfants et les adolescents jusqu'à 18 ans.
 
-###### Die Zusatzversicherung QualiCare.basis vereint Beiträge zu Alternativmedizin, Gesundheitsvorsorge, Sehhilfen und weiteren Hilfsmitteln mit Erstattungen für gynäkologische Vorsorgeuntersuchungen, Kiefer- und Zahnfehlstellungskorrekturen und vielem mehr. Das Paket QualiCare.comfort fügt weitere Leistungsbereiche wie Verhütungsmittel, Stillgeld und kosmetische Operationen hinzu.
+###### L'assurance complémentaire QualiCare.basis combine les contributions à la médecine alternative, aux soins de santé, aux soins de la vue et autres aides avec des remboursements pour les examens gynécologiques, les corrections de malposition bucco-dentaire et les soins des dents et beaucoup plus. L'offre QualiCare.comfort ajoute d'autres prestations tels que les contraceptifs, l'allaitement maternel et les opérations cosmétiques.
 
-## Spitalzusatzversicherung der SLKK
+## Assurance hospitalisation complémentaire de la SLKK
 
-###### Mit einer Spitalversicherung der SLKK bestimmen Sie selbst, in welchem Spital und von welchem Arzt Sie sich behandeln lassen möchten. Je nach Modell können Sie zudem Ihren Komfort beim Spitalaufenthalt steigern. Sie haben die Wahl zwischen den Modellen Allgemein F1, Halbprivat F2, Privat F3 und Weltweit Privat F4. Im Modell SuperFlex bestimmen Sie spontan vor jedem Aufenthalt im Spital, auf welcher Abteilung Sie untergebracht werden möchten.
+###### Avec l'assurance hospitalisation SLKK, vous décidez vous-même dans quel hôpital et chez quel médecin vous souhaitez être soigné. Selon le modèle, vous pouvez également augmenter votre confort pendant votre séjour à l'hôpital. Vous pouvez choisir entre les modèles Allgemein F1, Halbprivat F2, Privat F3 et Weltweit Privat F4. Dans le modèle SuperFlex, vous décidez librement, avant chaque séjour à l'hôpital, dans quelle division vous souhaitez être hébergé.
 
-## Die SLKK Zahnversicherung
+## Assurance dentaire SLKK
 
-###### Als weitere Zusatzversicherung bietet die Krankenkasse eine Zahnversicherung an. Fünf verschiedene Leistungsstufen stehen zur Auswahl, die zwischen 50 und 75 Prozent der Zahnbehandlungskosten ersetzen, maximal 3'000 Schweizer Franken im Kalenderjahr.
+###### En tant qu'assurance complémentaire, l'assurance maladie propose une assurance dentaire. Vous avez le choix entre cinq niveaux de prestations, couvrant entre 50% et 75 % des coûts des soins dentaires, jusqu'à un maximum de 3000 CHF par année civile.
 
-## Familienrabatt für eine SLKK Zusatzversicherung
+## Réduction familiale pour l'assurance complémentaire SLKK
 
-###### Wer seine Prämien für die Zusatzversicherung halbjährlich oder jährlich im Voraus zahlt, profitiert wie in der Grundversicherung von Rabatten. Familienrabatt gewährt die Krankenkasse ab dem dritten versicherten Kind.
+###### Si vous payez vos primes pour l'assurance complémentaire chaque semestre ou chaque année à l'avance, vous bénéficiez de réductions comme pour l'assurance de base. Les réductions familiales sont accordées par l'assurance maladie à partir du troisième enfant assuré.
 
-## Machen Sie den Vergleich und finden Sie eine günstige Krankenversicherung
+## Faites la comparaison et trouvez une couverture d'assurance maladie avantageuse
 
-###### Bei uns können Sie Kosten und Leistungen der SLKK anderen Krankenkassen im Vergleich gegenüberstellen. Mit unserem Prämien-Rechner ermitteln Sie in wenigen Minuten Ihr Sparpotenzial und fordern anschliessend ein unverbindliches Versicherungsangebot an.
+###### Avec nous, vous pouvez comparer les coûts et les prestations de la SLKK avec ceux d'autres caisses d'assurance maladie. Avec notre calculateur de prime, vous pouvez déterminer votre budget en quelques minutes et demander une offre d'assurance sans engagement.

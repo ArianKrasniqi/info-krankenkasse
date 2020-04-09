@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Steffisburg Krankenkasse"
+name: "Steffisburg health insurance"
 shortName: "Steffisburg"
 location: "Unterdorfstrasse 37, Postfach 138, CH-3612 Steffisburg"
 insured: ""
@@ -9,53 +9,53 @@ refundPeriod: "-"
 solvencyRate: "-"
 administrativeExpenses: "-"
 color: "#0071B9"
-description: "Die Krankenkasse Steffisburg, auch KKSt genannt, gibt es bereits seit 1861. Damit gehört sie zu den ältesten Krankenversicherern in der Schweiz. In der Krankenzusatzversicherung arbeitet die KKSt seit 1997 mit einem gesamtschweizerischen Krankenversicherer zusammen und bietet Produkte, die sich nach den individuellen Bedürfnissen ihrer Kunden richten sollen."
+description: "The Steffisburg health insurance fund, also known as KKSt, has been in existence since 1861. This makes it one of the oldest health insurers in Switzerland. In supplementary health insurance, KKSt has been working with a Swiss health insurer since 1997 and offers products that are tailored to the individual needs of its customers."
 ---
 
-## Die verschiedenen Modelle der obligatorischen Grundversicherung
+## Different models of compulsory basic insurance
 
-###### Der Leistungsumfang der obligatorischen Krankenpflegeversicherung ist gesetzlich vorgeschrieben. Im Basismodell dürfen Versicherungsnehmer frei wählen, ob sie zunächst ihren Hausarzt, einen Arzt in einer Gruppenpraxis (HMO) oder einen Spezialisten konsultieren. Krankenkassen können neben dem Modell Standard (freie Arztwahl) jedoch weitere Modelle anbieten. Die KKSt stellt vier solcher alternativen Modelle zur Wahl:
+###### The scope of benefits provided by compulsory health insurance is prescribed by law. In the basic model, policyholders are free to choose whether they first consult their family doctor, a doctor in a group practice (HMO) or a specialist. In addition to the Standard model (free choice of doctor), health insurance companies can offer other models. The KKSt offers a choice of four such alternative models:
 
-### Hausarztmodell Casa: Im Krankheitsfall ist der Hausarzt Ihr erster Ansprechpartner.
+### Family doctor model Casa: In the event of illness, the family doctor is your first point of contact.
 
-### Hausarztmodell beodocs/ igomed: Das Modell wendet sich an Einwohner der Regionen Berner Oberland und im Raum Thun. Ihren Hausarzt wählen Sie aus einer regionalen Ärzteliste aus.
+### Family doctor model beodocs/ igomed: The model is aimed at residents of the Bernese Oberland and Thun regions. You choose your family doctor from a regional list of doctors.
 
-### Hausarztmodell Regiomed: Dieses Modell steht Einwohnern in den Prämienregionen mit den Postleitzahlen 3612 und 3613 zur Auswahl. Im Krankheitsfall wenden Sie sich an Ärzte aus dem MediZentrum Landhaus oder Burgergut Steffisburg AG.
+### Family doctor model Regiomed: This model is available to residents in the premium regions with postal codes 3612 and 3613. In the event of illness, contact doctors from the MediZentrum Landhaus or Burgergut Steffisburg AG.
 
-### Sanmed24: Ihr erster Ansprechpartner ist das telemedizinische Beratungszentrum Medgate.
+### Sanmed24: Your first contact is the Medgate telemedical advice centre.
 
-## Rabatte in der Grundversicherung
+## Discounts for basic insurance
 
-###### Für die Wahl eines alternativen Versicherungsmodells gewährt die KKSt lukrative Rabatte. Ihre Prämien können Sie zudem reduzieren, wenn Sie freiwillig eine höhere Franchise bezahlen. Für Erwachsene stehen Jahresfranchisen bis zu einer Summe von 2'500 Schweizer Franken zur Wahl, für Kinder bis zu 600 Franken. Je höher die Franchise, umso geringer die Prämie.
+###### The KKSt grants lucrative discounts for the choice of an alternative insurance model. You can also reduce your premiums by voluntarily paying a higher deductible. For adults, annual franchises of up to CHF 2,500 are available, for children up to CHF 600. The higher the franchise, the lower the premium.
 
-## Zusatzversicherungen der Krankenkasse Steffisburg
+## Supplementary insurances of the Steffisburg health insurance fund
 
-###### Die Zusatzversicherung InVita schliesst Versicherungslücken der Grundversicherung. Die drei Varianten Light, Standard und Flex bieten unter anderem höhere Beiträge zu Sehhilfen und erstatten Massnahmen zur Gesundheitsvorsorge sowie Fitness-Abos.
+###### The supplementary insurance InVita closes gaps in the basic insurance. The three variants Light, Standard and Flex offer, among other things, higher premiums for visual aids and reimburse health care measures as well as fitness subscriptions.
 
-###### Die Tarife Vario und Vario Plus wenden sich an Versicherungsnehmer unter 60 Jahren und bieten ebenfalls erweiterte Leistungen. Unter anderem übernimmt die Versicherung alternative Behandlungsmethoden, Nichtpflicht-Medikamente und nichtärztliche Psychotherapien.
+###### The Vario and Vario Plus tariffs are aimed at policyholders under the age of 60 and also offer extended benefits. Among other things, the insurance covers alternative treatment methods, non-compulsory medicines and non-medical psychotherapies.
 
-###### Mit Natural bietet die KKSt zudem eine eigene Zusatzversicherung für Alternativmedizin an. Zusätzlich zu komplementärmedizinischen Behandlungen übernimmt Natural 80 Prozent, maximal 1'500 Franken im Kalenderjahr, für limitierte Arzneimittel und nicht-pflichtige Medikamente.
+###### With Natural, KKSt also offers its own supplementary insurance for alternative medicine. In addition to complementary medical treatments, Natural covers 80 percent, up to a maximum of CHF 1,500 per calendar year, for limited and non-obligatory medicines.
 
-## Die Zahnversicherung Dental
+## The dental insurance Dental
 
-###### Die Zahnversicherung Dental erstattet Zahnbehandlungen und prophylaktische Massnahmen. Sie haben die Wahl aus vier Leistungsstufen, die zwischen 50 und 75 Prozent Kostenerstattung bieten, maximal bis zu 3'000 Schweizer Franken im Kalenderjahr.
+###### Dental insurance covers dental treatment and prophylactic measures. You can choose from four benefit levels offering between 50 and 75 percent reimbursement, up to a maximum of 3,000 Swiss francs per calendar year.
 
-## Spitalversicherung Hospital
+## Hospital insurance Hospital
 
-###### Müssen Sie ins Spital, sichern Sie sich mit einer Spitalzusatzversicherung mehr Komfort und Wahlfreiheit. Die Spitalversicherung Hospital gibt es in vier Varianten. Sie unterscheiden sich in der Art der Unterbringung:
+###### If you have to go to hospital, a supplementary hospital insurance policy gives you more comfort and freedom of choice. Hospital insurance is available in four variants. They differ in the type of accommodation:
 
-### A: allgemeine Abteilung, Mehrbettzimmer
+### A: General ward, shared room
 
-### HP: halbprivat im Zwei-Bett-Zimmer
+### HP: semi-private in two-bed room
 
-### P: privat im Einbettzimmer
+### P: private in single room
 
-### F: flexible Wahl zwischen halbprivater und privater Abteilung, mit Kostenbeteiligung
+### F: flexible choice between semi-private and private department, with cost sharing
 
-## Familienrabatt für Zusatzversicherungen
+## Family discount for supplementary insurances
 
-###### Schliessen Sie eine KKSt Zusatzversicherung für sich und mindestens zwei Ihrer Kinder ab, zahlen Sie für Ihre Kinder reduzierte Prämien. Ausgenommen ist die InVita Versicherung.
+###### If you take out KKSt supplementary insurance for yourself and at least two of your children, you pay reduced premiums for your children. InVita insurance is excluded.
 
-## Das Versicherungsangebot der KKSt im Vergleich
+## A comparison of the KKSt insurance range
 
-###### Passt die Krankenkasse Steffisburg zu Ihren Bedürfnissen? Machen Sie den Vergleich! Mit unserem Prämienrechner finden Sie in wenigen Minuten heraus, wie viel Sie durch einen Wechsel der Krankenversicherung sparen können.
+###### Does the Steffisburg health insurance meet your needs? Make the comparison! With our premium calculator you can find out in just a few minutes how much you can save by changing your health insurance.

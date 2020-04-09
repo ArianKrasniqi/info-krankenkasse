@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Sodalis Krankenkasse"
+name: "Sodalis health insurance"
 shortName: "Sodalis"
 location: "sodalis gesundheitsgruppe, Furkastrasse 18, 3900 Brig-Glis"
 insured: "34'060"
@@ -9,41 +9,41 @@ refundPeriod: "6"
 solvencyRate: "256%"
 administrativeExpenses: "85"
 color: "#803689"
-description: "Die Gesundheitsgruppe Sodalis ist im Oberwallis ansässig und betreut dort seit mehr als 50 Jahren einen wachsenden Kundenstamm. Im Jahr 2018 zählte die Krankenkasse rund 36'000 Versicherungsnehmer in der Grundversicherung. Neben der obligatorischen Krankenpflegeversicherung bietet das Unternehmen auch eine Reihe von Zusatzversicherungen an. Schauen Sie sich Leistungen und Prämien der Krankenversicherung im Vergleich an und finden Sie heraus, ob sich ein Wechsel lohnt."
+description: "The Sodalis health group is based in Upper Valais and has been serving a growing customer base there for more than 50 years. In 2018, the health insurance fund had around 36,000 policyholders in basic insurance. In addition to the compulsory health insurance, the company also offers a number of supplementary insurances. Take a look at health insurance benefits and premiums in comparison and find out whether a change is worthwhile."
 ---
 
-## Drei Modelle der Grundversicherung
+## Three basic insurance models
 
-###### Die Sodalis Krankenkasse bietet drei Modelle der obligatorischen Grundversicherung an:
+###### Sodalis Krankenkasse offers three models of compulsory basic health insurance:
 
-### Im Basismodell Medica (freie Arztwahl) wählen Sie im Krankheitsfall, ob Sie zu Ihrem Hausarzt gehen, eine Gruppenpraxis (HMO) oder direkt einen Spezialisten aufsuchen.
+### In the basic model Medica (free choice of doctor), you can choose in the event of illness whether you go to your family doctor, a group practice (HMO) or go directly to a specialist.
 
-### Im Modell MediCasa (Hausarzt) ist Ihr Hausarzt der erste Ansprechpartner im Krankheitsfall.
+### In the MediCasa model (general practitioner), your general practitioner is the first point of contact in the event of illness.
 
-### Schliessen Sie ein Telemedizinisches Modell (Telmed) ab, rufen Sie im Krankheitsfall zunächst eine Beratungshotline an.
+### If you conclude a telemedical model (Telmed), first call a consultation hotline in the event of illness.
 
-## Ihre Chance auf Prämien-Rabatte
+## Your chance for premium discounts
 
-###### Wählen Sie eines der alternativen Versicherungsmodelle, MediCasa (Hausarzt) oder das Telemedizinische Modell (Telmed), gewährt die Sodalis Krankenkasse Ihnen Prämien-Rabatte. Prämien-Rabatte erhalten Sie auch, wenn Sie die Franchise erhöhen. In allen drei Modellen gilt für Erwachsene und Jugendliche zwischen 19 und 25 Jahren eine maximale Jahresfranchis von 2'500 Schweizer Franken. Für Kinder unter 19 Jahren fällt keine Franchise an.
+###### If you choose one of the alternative insurance models, MediCasa (family doctor) or the telemedical model (Telmed), Sodalis Health Insurance will grant you premium discounts. You will also receive premium discounts if you increase the franchise. In all three models, a maximum annual franchise of 2,500 Swiss francs applies to adults and young people between the ages of 19 and 25. There is no franchise for children under the age of 19.
 
-## Mehr Leistungen mit einer freiwilligen Zusatzversicherung
+## More benefits with voluntary supplementary insurance
 
-###### Eine freiwillige Zusatzversicherung erstattet höhere Beiträge zu diversen Gesundheitsleistungen, etwa Prävention und Alternativmedizin, und schliesst Versicherungslücken der Grundversicherung. Als ambulante Zusatzversicherung bietet die Sodalis Krankenkasse die Modelle Sana und SanaPlus. Sana erstattet zum Beispiel 70 Prozent der Behandlungskosten aus dem Bereich der Alternativmedizin, bis zu einem Jahresbetrag von 500 Schweizer Franken. SanaPlus übernimmt sogar bis zu 1'000 Schweizer Franken im Jahr. Für Sehhilfen erhalten Sie im Jahresbeiträge von maximal 150 bzw. 400 Schweizer Franken. Präventionsleistungen übernimmt die Zusatzversicherung je nach Modell zu 50 oder 100 Prozent, bis 500 oder 1'000 Schweizer Franken im Jahr.
+###### A voluntary supplementary insurance covers higher contributions to various health services, such as prevention and alternative medicine, and closes gaps in basic insurance coverage. Sodalis Krankenkasse offers the Sana and SanaPlus models as outpatient supplementary insurance. For example, Sana reimburses 70 percent of treatment costs in the field of alternative medicine, up to an annual amount of 500 Swiss francs. SanaPlus even takes over up to 1,000 Swiss francs a year. For visual aids you will receive annual contributions of a maximum of 150 and 400 Swiss francs respectively. Depending on the model, the supplementary insurance covers prevention services at 50 or 100 percent, up to 500 or 1,000 Swiss francs per year.
 
-## Zahnversicherung für gesunde Zähne
+## Dental insurance for healthy teeth
 
-###### Die Denta Zahnversicherung steht in drei Leistungsstufen zur Wahl. Für Zahnbehandlungen, Laborleistungen, Prophylaxe und Kontrolle erstattet die Zusatzversicherung 75 Prozent der Kosten, bis hin zu 3'000 Schweizer Franken im Kalenderjahr.
+###### Denta dental insurance is available in three benefit levels. For dental treatment, laboratory services, prophylaxis and check-ups, the supplementary insurance covers 75 percent of the costs, up to 3,000 Swiss francs per calendar year.
 
-## Für mehr Komfort im Spital
+## For more comfort in the hospital
 
-###### Mit der Spitalzusatzversicherung Sodalis Flex haben Sie innerhalb des Kantons Wallis freie Arzt- und Spitalwahl. Zudem legen Sie vor jedem Aufenthalt fest, auf welcher Abteilung Sie im Spital untergebracht werden möchten: allgemein, halbprivat oder privat. Für die Unterbringung auf der halbprivaten und privaten Abteilung leisten Sie eine Zuzahlung.
+###### With Sodalis Flex supplementary hospital insurance, you have a free choice of doctor and hospital within the canton of Valais. In addition, you decide before each stay which ward you would like to be accommodated in: general, semi-private or private. For the accommodation on the semi-private and private department you make an additional payment.
 
-###### Kombinieren Sie die Spitalversicherung mit der Grundversicherung und der ambulanten Zusatzversicherung, beteiligt sich die Sodalis Krankenkasse an Ihren Fitnesskosten. Voraussetzung ist, dass Sie ein Partner-Fitnesscenter aufsuchen.
+###### If you combine the hospital insurance with the basic insurance and the outpatient supplementary insurance, the Sodalis health insurance company will contribute to your fitness costs. The prerequisite is that you visit a partner fitness centre.
 
-## Familienrabatt ab dem dritten Kind
+## Family discount from the third child onwards
 
-###### In der obligatorischen Krankenpflegeversicherung gewährt die Sodalis ab dem dritten versicherten Kind einen Familienrabatt von 50 Prozent. Die Spitalzusatzversicherung ist für Kinder gratis, wenn das Kind bei der Krankenkasse grundversichert ist, eine ambulante Zusatzversicherung abgeschlossen wurde und ein Elternteil ebenfalls in derselben Spitalversicherung versichert ist.
+###### In the compulsory health insurance, Sodalis grants a family discount of 50 percent from the third insured child onwards. Supplementary hospital insurance is free of charge for children if the child is covered by basic health insurance with the health insurance fund, if an outpatient supplementary insurance policy has been taken out and if one parent is also covered by the same hospital insurance policy.
 
-## Die Sodalis Krankenkasse im Vergleich
+## The Sodalis health insurance company in comparison
 
-###### Lohnt sich ein Wechsel zur Sodalis Krankenversicherung? Das finden Sie mit unserem Vergleich heraus. Vergleichen Sie Leistungsangebot und Kosten mit unserem Prämien-Rechner und fordert Sie gleich ein unverbindliches Versicherungsangebot an.
+###### Is it worth switching to Sodalis health insurance? You'll find out with our comparison. Compare our range of services and costs with our premium calculator and request a non-binding insurance quote right away.

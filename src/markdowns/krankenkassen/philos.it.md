@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Philos Krankenkasse"
+name: "Philos Cassa malati"
 shortName: "Philos"
 location: "Groupe Mutuel, Rue des Cèdres 5, Postfach, 1919 Martigny"
 insured: "275'760"
@@ -9,31 +9,31 @@ refundPeriod: "11"
 solvencyRate: "66%"
 administrativeExpenses: "146"
 color: "#D4003C"
-description: "Die Philos Krankenkasse gehört genau wie die Avenir und die Easy Sana zur Versicherungsgruppe Groupe Mutuel. Mit rund 260'000 Versicherungsnehmern ist die Philos nach der Mutuel selbst die zweitgrösste Krankenversicherung der Gruppe. Der Unternehmenssitz befindet sich in Martigny. Unser Vergleich gibt Ihnen den Überblick über Prämien und Leistungen."
+description: "La cassa malati Philos appartiene al gruppo assicurativo Groupe Mutuel come Avenir e Easy Sana. Con circa 260.000 assicurati, Philos è, dopo Mutuel, la seconda più grande compagnia di assicurazione sanitaria del gruppo. L'azienda si trova a Martigny. Il nostro confronto offre una panoramica di premi e vantaggi."
 ---
 
-## Die verschiedenen Modelle der Grundversicherung
+## I diversi modelli dell’assicurazione di base
 
-###### Wie die Groupe Mutuel bietet auch die Philos Krankenkasse unterschiedliche Modelle der obligatorischen Grundversicherung an. Im traditionellen Modell Standard (freie Arztwahl) wenden Sie sich bei gesundheitlichen Problemen direkt an den Arzt Ihrer Wahl oder eine Gruppenpraxis (HMO). Im Modell PrimaCare (Hausarzt) ist Ihr erster Ansprechpartner der Hausarzt. Im Modell Sanatel (Telmed) rufen Sie im Krankheitsfall zunächst eine telemedizinische Beratungsstelle an. Das Modell PrimaTel kombiniert die Vorteile des Telmed-Modells mit der Betreuung durch Ihren Hausarzt. Im Modell Ärztenetz wählen Sie Ihren Hausarzt aus einem Ärztenetz aus. Abhängig vom Wohnkanton können Sie sich im Tarif BasicPlus, Pflegenetz Genf oder Optimed versichern lassen.
+###### Come il Groupe Mutuel, anche la cassa malati Philos offre diversi modelli di assicurazione di base obbligatoria. Nel modello standard tradizionale (libera scelta del medico), in caso di problemi di salute, si contatta il medico di propria scelta o uno studio medico collettivo (HMO). Nel modello PrimaCare (medico di famiglia) il primo referente è il medico di famiglia. Nel modello Sanatel (Telmed), in caso di malattia occorre prima chiamare un centro di consulenza telematica. Il modello PrimaTel combina i vantaggi del modello Telmed con la cura del medico di famiglia. Nel modello di rete del medico, scegli il tuo medico di famiglia da una rete di medici. A seconda del cantone di residenza, è possibile essere assicurati ai sensi della tariffa BasicPlus, rete di assistenza Ginevra o Optimed.
 
-## Prämien-Rabatte durch alternative Modelle wie PrimaCare (Hausarzt)
+## Sconti sui premi attraverso modelli alternativi come PrimaCare (medico di famigia)
 
-###### Die Wahl eines alternativen Versicherungsmodells belohnt die Krankenkasse mit geringeren Prämien. Im Tarif PrimaCare (Hausarzt) sparen Sie beispielsweise 11 Prozent im Vergleich zum Standard-Modell. In den Telmed-Modellen gibt es sogar Rabatte von bis zu 15 Prozent. Prämien-Rabatte sichern Sie sich zudem durch eine höhere Franchise. Erwachsene können eine Franchise von bis zu 2'500 Schweizer Franken pro Jahr vereinbaren, die maximale Jahresfranchise für Kinder beträgt 600 Franken.
+###### La scelta di un modello assicurativo alternativo premia la cassa malati con premi più bassi. Ad esempio, la tariffa PrimaCare (medico di famiglia) consente di risparmiare l'11 percento rispetto al modello standard. Nei modelli Telmed, ci sono persino sconti fino al 15 percento. Gli sconti premium sono garantiti anche da una franchigia più elevata. Gli adulti possono optare per una franchigia fino a 2.500 franchi svizzeri all'anno, la franchigia massima annuale per i bambini è di 600 franchi.
 
-## Global, Mundo, Alterna: Individueller Versicherungsschutz mit einer freiwilligen Zusatzversicherung
+## Global, Mundo, Alterna: copertura assicurativa individuale con un’assicurazione integrativa volontaria
 
-###### Eine freiwillige Zusatzversicherung ergänzt den Leistungsumfang der Grundversicherung. Bei der Philos Krankenkasse können Sie eine Zusatzversicherung wählen, die Ihren persönlichen Bedürfnissen entspricht. Die Krankenpflege-Zusatzversicherung erstattet zum Beispiel höhere Beiträge und gewährt Prämien-Rabatte, falls Sie keine Leistungen in Anspruch nehmen. Die Zusatzversicherung Global kombiniert hohe Zuschüsse für Alternativmedizin, Hilfsmittel und Gesundheitsvorsorge mit einer Spitalversicherung.
+###### Un'assicurazione integrativa volontaria completa la portata dell'assicurazione di base. Alla cassa malati Philos puoi scegliere un'assicurazione integrativa adatta alle tue esigenze personali. Ad esempio, l’assicurazione Integrativa Nursing ti rimborserà per contributi più elevati e sconti sui premi se non usufruisci di benefici. L'assicurazione integrativa Global combina sovvenzioni elevate per medicina alternativa, aiuti e assistenza sanitaria con un'assicurazione ospedaliera.
 
-###### Die Zusatzversicherung Alterna deckt 20 Behandlungsmethoden der Alternativmedizin ab, sofern diese von einem Arzt durchgeführt werden. Mit dem Tarif Mundo schützen Sie sich vor hohen Behandlungs- und Krankentransportkosten im Ausland. Die Zahnversicherung Dentair Plus übernimmt bis zu 75 Prozent der Kosten von Zahnbehandlungen, je nach Leistungsstufe maximal 15'000 Schweizer Franken pro Kalenderjahr.
+###### L'assicurazione integrativa Alterna copre 20 trattamenti di medicina alternativa, a condizione che vengano eseguiti da un medico. Con la tariffa Mundo ti proteggi dagli alti costi di cure e ambulanza all'estero. L’assicurazione dentale Dentair Plus copre fino al 75 percento dei costi delle cure dentistiche, a seconda del livello delle prestazioni fino a un massimo di 15000 franchi svizzeri per anno civile.
 
-## Mehr Komfort im Spital
+## Più comfort in ospedale
 
-###### Die Spitalzusatzversicherung der Philos Krankenkasse steht ebenfalls in verschiedenen Varianten zur Auswahl. In jedem Modell freie Spital- und Arztwahl in der gesamten Schweiz. Die Unterbringung erfolgt abhängig vom Tarif auf der allgemeinen Abteilung, halbprivat oder privat. Entscheiden Sie sich für das Modell H-Bonus, legen Sie den gewünschten Komfort flexibel vor jedem Spitalaufenthalt fest. Speziell an Versicherungsnehmer ab 55 Jahre wendet sich der Tarif Hopital Senior.
+###### L'assicurazione complementare ambulatoriale della cassa malati Philos è disponibile anche in diverse varianti. In ogni modello è disponibile la libera scelta dell'ospedale e del medico in tutta la Svizzera. La sistemazione è soggetta alla tariffa del reparto generale, semi-privato o privato. Se si opta per il modello H-Bonus, è possibile specificare in modo flessibile il comfort desiderato prima di ogni degenza ospedaliera. La tariffa Hopital Senior si rivolge specificamente agli assicurati di età pari o superiore a 55 anni.
 
-## Familienrabatt in der Zusatzversicherung
+## Sconto per famiglie con l’assicurazione Complementare ( VVG )
 
-###### Die Krankenkasse belohnt es, wenn Sie auch für Ihre Kinder eine Philos Zusatzversicherung abschliessen. Im Modell Global Classic profitieren Sie von einem lukrativen Familienrabatt.
+###### La cassa malati ti premia quando sottoscrivi un’assicurazione complementare Philos per i tuoi figli. Nel modello Global Classic beneficerai di uno sconto redditizio per la famiglia.
 
-## Machen Sie den Vergleich und finden Sie die ideale Krankenversicherung
+## Trova la copertura assicurativa ideale con il confronto delle assicurazioni sanitarie
 
-###### Sind Sie sich noch unsicher, ob die Philos Krankenkasse zu Ihren Bedürfnissen passt? Machen Sie bei uns den Vergleich und und fordern Sie direkt online ein unverbindliches Versicherungsangebot an. Haben Sie noch Fragen, nehmen Sie einfach Kontakt zu uns auf.
+###### Non sei ancora sicuro se la cassa malati Philos soddisfi le tue esigenze? Effettua con noi il confronto e richiedi un'offerta assicurativa non vincolante online. Se hai domande, puoi semplicemente contattarci.

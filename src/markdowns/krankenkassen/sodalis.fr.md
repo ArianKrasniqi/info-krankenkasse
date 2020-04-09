@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Sodalis Krankenkasse"
+name: "Caisse d'assurance Maladie Sodalis"
 shortName: "Sodalis"
 location: "sodalis gesundheitsgruppe, Furkastrasse 18, 3900 Brig-Glis"
 insured: "34'060"
@@ -9,41 +9,41 @@ refundPeriod: "6"
 solvencyRate: "256%"
 administrativeExpenses: "85"
 color: "#803689"
-description: "Die Gesundheitsgruppe Sodalis ist im Oberwallis ansässig und betreut dort seit mehr als 50 Jahren einen wachsenden Kundenstamm. Im Jahr 2018 zählte die Krankenkasse rund 36'000 Versicherungsnehmer in der Grundversicherung. Neben der obligatorischen Krankenpflegeversicherung bietet das Unternehmen auch eine Reihe von Zusatzversicherungen an. Schauen Sie sich Leistungen und Prämien der Krankenversicherung im Vergleich an und finden Sie heraus, ob sich ein Wechsel lohnt."
+description: "Le groupe santé Sodalis est basé dans le Haut-Valais et sert une clientèle en pleine croissance depuis plus de 50 ans. En 2018, la caisse maladie comptait environ 36 000 assurés de base. Outre l'assurance maladie obligatoire, l'entreprise propose également une gamme d'assurances complémentaires. Jetez un coup d'œil à la comparaison des prestations d'assurance maladie et des primes et découvrez si un changement en vaut la peine."
 ---
 
-## Drei Modelle der Grundversicherung
+## Trois modèles d'assurance de base
 
-###### Die Sodalis Krankenkasse bietet drei Modelle der obligatorischen Grundversicherung an:
+###### La caisse d'assurance maladie Sodalis propose trois modèles d'assurance maladie obligatoire de base:
 
-### Im Basismodell Medica (freie Arztwahl) wählen Sie im Krankheitsfall, ob Sie zu Ihrem Hausarzt gehen, eine Gruppenpraxis (HMO) oder direkt einen Spezialisten aufsuchen.
+### Dans le modèle de base Medica (libre choix du médecin), vous pouvez choisir en cas de maladie si vous allez chez votre médecin de famille, dans un cabinet de groupe (HMO) ou directement chez un spécialiste.
 
-### Im Modell MediCasa (Hausarzt) ist Ihr Hausarzt der erste Ansprechpartner im Krankheitsfall.
+### Dans le modèle MediCasa (médecin de famille), votre médecin de famille est le premier point de contact en cas de maladie.
 
-### Schliessen Sie ein Telemedizinisches Modell (Telmed) ab, rufen Sie im Krankheitsfall zunächst eine Beratungshotline an.
+### Si vous concluez un modèle de télémédecine (Telmed), appelez d'abord une hotline de consultation en cas de maladie.
 
-## Ihre Chance auf Prämien-Rabatte
+## Votre chance d'obtenir des réductions de prime
 
-###### Wählen Sie eines der alternativen Versicherungsmodelle, MediCasa (Hausarzt) oder das Telemedizinische Modell (Telmed), gewährt die Sodalis Krankenkasse Ihnen Prämien-Rabatte. Prämien-Rabatte erhalten Sie auch, wenn Sie die Franchise erhöhen. In allen drei Modellen gilt für Erwachsene und Jugendliche zwischen 19 und 25 Jahren eine maximale Jahresfranchis von 2'500 Schweizer Franken. Für Kinder unter 19 Jahren fällt keine Franchise an.
+###### Si vous choisissez l'un des modèles d'assurance alternatifs, MediCasa (médecin de famille) ou le modèle de télémédecine (Telmed), la caisse d'assurance maladie Sodalis vous accorde une réduction de prime. Vous bénéficierez également d'un rabais de prime si vous augmentez la franchise. Dans les trois modèles, une franchise annuelle maximale de 2500 CHF s'applique aux adultes et aux jeunes de 19 à 25 ans. Il n'y a pas de franchise pour les enfants de moins de 19 ans.
 
-## Mehr Leistungen mit einer freiwilligen Zusatzversicherung
+## Plus d'avantages avec l'assurance complémentaire facultative
 
-###### Eine freiwillige Zusatzversicherung erstattet höhere Beiträge zu diversen Gesundheitsleistungen, etwa Prävention und Alternativmedizin, und schliesst Versicherungslücken der Grundversicherung. Als ambulante Zusatzversicherung bietet die Sodalis Krankenkasse die Modelle Sana und SanaPlus. Sana erstattet zum Beispiel 70 Prozent der Behandlungskosten aus dem Bereich der Alternativmedizin, bis zu einem Jahresbetrag von 500 Schweizer Franken. SanaPlus übernimmt sogar bis zu 1'000 Schweizer Franken im Jahr. Für Sehhilfen erhalten Sie im Jahresbeiträge von maximal 150 bzw. 400 Schweizer Franken. Präventionsleistungen übernimmt die Zusatzversicherung je nach Modell zu 50 oder 100 Prozent, bis 500 oder 1'000 Schweizer Franken im Jahr.
+###### Une assurance complémentaire facultative couvre les cotisations plus élevées à divers services de santé, tels que la prévention et la médecine alternative, et comble les lacunes de l'assurance de base. La caisse d'assurance maladie Sodalis propose les modèles Sana et SanaPlus comme assurance complémentaire ambulatoire. Sana, par exemple, rembourse 70 % des frais de traitement dans le domaine des médecines alternatives, jusqu'à concurrence d'un montant annuel de 500 francs suisses. SanaPlus couvre même jusqu'à 1000 francs suisses par an. Pour les aides visuelles, vous recevez respectivement des contributions annuelles d'un maximum de 150 et 400 francs suisses. Selon le modèle, l'assurance complémentaire couvre les prestations de prévention à 50% ou 100%, jusqu'à 500 ou 1000 CHF par an.
 
-## Zahnversicherung für gesunde Zähne
+## L'assurance dentaire pour des dents saines
 
-###### Die Denta Zahnversicherung steht in drei Leistungsstufen zur Wahl. Für Zahnbehandlungen, Laborleistungen, Prophylaxe und Kontrolle erstattet die Zusatzversicherung 75 Prozent der Kosten, bis hin zu 3'000 Schweizer Franken im Kalenderjahr.
+###### L'assurance dentaire Denta propose trois niveaux de prestations. Pour les soins dentaires, les services de laboratoire, la prévention et les examens, l'assurance complémentaire couvre 75 % des frais, jusqu'à 3000 CHF.
 
-## Für mehr Komfort im Spital
+## Pour plus de confort à l'hôpital
 
-###### Mit der Spitalzusatzversicherung Sodalis Flex haben Sie innerhalb des Kantons Wallis freie Arzt- und Spitalwahl. Zudem legen Sie vor jedem Aufenthalt fest, auf welcher Abteilung Sie im Spital untergebracht werden möchten: allgemein, halbprivat oder privat. Für die Unterbringung auf der halbprivaten und privaten Abteilung leisten Sie eine Zuzahlung.
+###### Avec l'assurance complémentaire hospitalisation Sodalis Flex, vous avez le libre choix du médecin et de l'hôpital dans le canton du Valais. Avant chaque hospitalisation, vous décidez également dans quelle division vous souhaitez séjourner : commune, semi-privée ou privée. Vous payez un supplément pour l'hébergement en division semi-privée ou privée.
 
-###### Kombinieren Sie die Spitalversicherung mit der Grundversicherung und der ambulanten Zusatzversicherung, beteiligt sich die Sodalis Krankenkasse an Ihren Fitnesskosten. Voraussetzung ist, dass Sie ein Partner-Fitnesscenter aufsuchen.
+###### Si vous combinez l'assurance hospitalisation avec l'assurance de base et l'assurance complémentaire ambulatoire, la caisse d'assurance maladie Sodalis prend en charge vos frais de santé. La condition préalable est que vous vous rendiez dans un centre de fitness partenaire.
 
-## Familienrabatt ab dem dritten Kind
+## Réduction famille à partir du troisième enfant
 
-###### In der obligatorischen Krankenpflegeversicherung gewährt die Sodalis ab dem dritten versicherten Kind einen Familienrabatt von 50 Prozent. Die Spitalzusatzversicherung ist für Kinder gratis, wenn das Kind bei der Krankenkasse grundversichert ist, eine ambulante Zusatzversicherung abgeschlossen wurde und ein Elternteil ebenfalls in derselben Spitalversicherung versichert ist.
+###### Dans l'assurance maladie obligatoire, Sodalis accorde une réduction familiale de 50 % à partir du troisième enfant assuré. L'assurance complémentaire d'hospitalisation est gratuite pour les enfants si l'enfant est couvert par l'assurance de base auprès de la caisse d'assurance maladie, si une assurance complémentaire ambulatoire a été souscrite et si un parent est également couvert par la même assurance d'hospitalisation.
 
-## Die Sodalis Krankenkasse im Vergleich
+## Comparaison de la caisse d'assurance maladie Sodalis
 
-###### Lohnt sich ein Wechsel zur Sodalis Krankenversicherung? Das finden Sie mit unserem Vergleich heraus. Vergleichen Sie Leistungsangebot und Kosten mit unserem Prämien-Rechner und fordert Sie gleich ein unverbindliches Versicherungsangebot an.
+###### Vaut-il la peine de passer à l'assurance maladie Sodalis ? Découvrez-le grâce à notre comparaison. Comparez la gamme de services et les coûts avec notre calculateur de primes et demandez immédiatement une offre d'assurance sans engagement.

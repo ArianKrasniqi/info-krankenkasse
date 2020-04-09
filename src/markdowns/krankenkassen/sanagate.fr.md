@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Sanagate Krankenkasse"
+name: "La Caisse d'assurance maladie Sanagate"
 shortName: "Sanagate"
 location: "Postfach 3866, 6002 Luzern"
 insured: "73'415"
@@ -9,37 +9,37 @@ refundPeriod: "15"
 solvencyRate: "92%"
 administrativeExpenses: "68"
 color: "#1C1D6C"
-description: "Erst im Jahr 2009 entstanden, gehört Sanagate zu den jungen Krankenversicherern in der Schweiz. Die Krankenkasse aus Luzern setzt auf das Online-Geschäft und möchte vor allem jungen Versicherungsnehmern eine preisgünstige Grundversicherung und Zusatzversicherungen anbieten. Der Versicherer ist eine Tochtergesellschaft der CSS-Gruppe und zählt etwa 80'000 Versicherungsnehmer. Hier können Sie die Leistungen und Prämien der Krankenkasse vergleichen."
+description: "Créée en 2009 seulement, Sanagate fait partie des jeunes caisses d'assurance maladie en Suisse. La caisse maladie de Lucerne se focalise sur le commerce en ligne et souhaite proposer aux jeunes assurés en particulier une assurance de base et une assurance complémentaire à des prix avantageux. L'assureur est une filiale du Groupe CSS et compte environ 80 000 assurés. Vous pouvez comparer ici les prestations et les primes de la caisse d'assurance maladie."
 ---
 
-## Die Sanagate Grundversicherung
+## L'assurance de base Sanagate
 
-###### Die Grundversicherung deckt gesetzliche Pflichtleistungen bei Krankheit, Unfall und Mutterschaft ab. Im Standardmodell haben Sie freie Arztwahl. Die Prämie berechnet sich abhängig von Ihrem Wohnort und Ihrem Einkommen. Erhöhen Sie die Franchise, können Sie bis zu 43 Prozent Prämie sparen.
+###### L'assurance de base couvre les prestations obligatoires légales en cas de maladie, d'accident et de maternité. Dans le modèle standard, vous avez le libre choix du médecin. La prime dépend de votre lieu de résidence et de votre revenu. Si vous augmentez la franchise, vous pouvez économiser jusqu'à 43 % sur la prime.
 
-###### Günstigere Prämien ergeben sich auch, wenn Sie sich für ein alternatives Versicherungsmodell entscheiden. Die Hausarztversicherung der Sanagate gewährt 7 Prozent Prämienrabatt. Sie wählen einen Hausarzt aus einer Ärzteliste aus und suchen diesen im Krankheitsfall zuerst auf. Freie Arztwahl besteht für Augenärzte, Gynäkologen und Zahnärzte.
+###### Si vous optez pour un modèle d'assurance alternatif, vous bénéficiez également de primes moins élevées. L'assurance du médecin de famille de Sanagate offre un rabais de prime de 7 %. Vous choisissez un médecin de famille à partir d'une liste de médecins et vous le consultez d'abord en cas de maladie. Libre choix du médecin pour les ophtalmologistes, gynécologues et dentistes.
 
-###### Beim Telemedizin-Modell SanaCall wenden Sie sich im Krankheitsfall zunächst an das telemedizinische Zentrum Medgate. Bei Bedarf überweisen die Mitarbeiter Sie an einen Arzt oder ins Spital. Entscheiden Sie sich fürs Telemed-Modell, erhalten Sie bis zu 12 Prozent Prämienrabatt.
+###### Avec le modèle de télémédecine SanaCall, vous contactez d'abord le centre de télémédecine Medgate en cas de maladie. Si nécessaire, le personnel vous orientera vers un médecin ou un hôpital. Si vous optez pour le modèle Telemed, vous bénéficiez d'un rabais de prime allant jusqu'à 12 %.
 
-## Sanagate Zusatzversicherungen: Schliessen Sie Versicherungslücken
+## Assurance complémentaire Sanagate : Comblez les lacunes des assurances
 
-###### Mit einer freiwilligen Zusatzversicherung schliessen Sie Versicherungslücken. Die zusätzliche Ambulantversicherung bietet Sanagate in zwei Stufen an:
+###### Avec une assurance complémentaire facultative, vous comblez les lacunes de votre assurance. Sanagate propose l'assurance complémentaire ambulatoire en deux étapes:
 
-### Minima wendet sich an junge, budgetbewusste Versicherungsnehmer. Die Zusatzversicherung deckt nicht kassenpflichtige Medikamente, Transport- und Rettungskosten sowie Ultraschalluntersuchungen während der Schwangerschaft. Sie beteiligt sich an den Kosten für Hilfsmittel und bietet eine weltweite Deckung für medizinische Notfälle. Integriert sind zudem eine Ferien- und Reiseversicherung sowie eine Patienten- und Auslandsrechtsversicherung.
+### Minima s'adresse aux jeunes assurés soucieux de leur budget. L'assurance complémentaire couvre les médicaments non couverts par l'assurance maladie, les frais de transport et de sauvetage ainsi que les examens échographiques pendant la grossesse. Elle contribue au coût des aides médicales et couvre les urgences médicales dans le monde entier. En outre, les assurances vacances et voyage ainsi que les assurances des patients et du droit étranger sont incorporées.
 
-### Die Zusatzversicherung Optima ergänzt das Leistungsspektrum um eine Kostenbeteiligung für Brillen, Kontaktlinsen und Laserbehandlungen, deckt Zahnbehandlungen und Zahnstellungskorrekturen bei Kindern und beteiligt sich an den Kosten für eine Haushaltshilfe.
+### L'assurance complémentaire Optima complète la gamme des prestations par une participation aux frais pour les lunettes, les lentilles de contact et le traitement au laser, couvre les soins dentaires et les corrections de position des dents pour les enfants et contribue aux frais d'aide-ménagère.
 
-## Die Spitalversicherung in zwei Stufen
+## L'assurance hospitalisation en deux étapes
 
-###### Die Spitalzusatzversicherung der Sanagate wird ebenfalls in zwei Versicherungsstufen angeboten. Mit der Variante Minima haben Sie freie Arzt- und Spitalwahl in der gesamten Schweiz, können zwischen einer Unterbringung in der allgemeinen, halbprivaten oder privaten Abteilung wählen und erhalten Beiträge für Bade- und Erholungskuren. Die Spitalversicherung Optima wendet sich vor allem an Familien. Muss ein versichertes Kind ins Spital, beteiligt sich die Krankenversicherung an den Unterbringungskosten für eine Begleitperson.
+###### L'assurance complémentaire d'hospitalisation de Sanagate est également proposée en deux niveaux d'assurance. Avec l'option Minima, vous avez le libre choix du médecin et de l'hôpital dans toute la Suisse, vous pouvez choisir entre un hébergement en division commune, semi-privée ou privée et recevoir des contributions pour les cures balnéaires et de convalescence. L'assurance hospitalisation Optima est principalement destinée aux familles. Si un enfant assuré doit être hospitalisé, la caisse d'assurance maladie prend en charge les frais de séjour de la personne qui l'accompagne.
 
-## Die Alternativversicherung der Sanagate
+## L'assurance alternative de Sanagate
 
-###### Die Alternativversicherung deckt bis zu 80 Prozent der Kosten für Behandlungen im Bereich der Alternativmedizin. Maximal zahlt die Krankenversicherung 1'500 Schweizer Franken pro Jahr. Zuschüsse erhalten Sie für Behandlungsmethoden wie Homöopathie, Osteopathie, Chinesische Medizin, Ayurveda und Akupunktur.
+###### L'assurance alternative couvre jusqu'à 80 % des frais de traitement dans le domaine de la médecine alternative. L'assurance-maladie verse un montant maximal de 1500 francs suisses par an. Vous recevez des subventions pour des méthodes de traitement telles que l'homéopathie, l'ostéopathie, la médecine chinoise, l'Ayurveda et l'acupuncture.
 
-## Zusätzliche Zahnversicherung
+## Assurance dentaire complémentaire
 
-###### Die Zahnversicherung der Sanagate übernimmt ambulante Zahnbehandlungen, Zahnprothesen und Zahnstellungskorrekturen. Sie können aus sechs Leistungsstufen wählen. Die maximale Kostendeckung liegt bei 75 Prozent, höchstens 5'000 Schweizer Franken im Jahr, bei einer Franchise von 500 Franken pro Kalenderjahr. Für die Zahnversicherung gilt eine Karenzfrist von sechs bis zwölf Monaten.
+###### L'assurance dentaire de Sanagate couvre les traitements dentaires ambulatoires, les prothèses dentaires et les corrections de position des dents. Vous avez le choix entre six niveaux de prestations. La couverture maximale des coûts est de 75 pour cent, avec un maximum de 5000 francs suisses par an, avec une franchise de 500 francs par année civile. Un délai de carence de six à douze mois s'applique à l'assurance dentaire.
 
-## Sanagate Versicherunsgangebote im Vergleich
+## Comparaison des offres d'assurance Sanagate
 
-###### Suchen Sie nach einer günstigen Krankenversicherung, können Sie bei uns einfach und schnell verschiedene Versicherungsangebote vergleichen. So finden Sie heraus, ob die Sanagate das richtige Versicherungsmodell für Sie bereit hält. Wir beraten Sie gerne und helfen Ihnen bei der Wahl der passenden Krankenkasse.
+###### Si vous êtes à la recherche d'une assurance santé bon marché, vous pouvez facilement et rapidement comparer différentes offres d'assurance avec nous. Découvrez si Sanagate a le bon modèle d'assurance pour vous. Nous serons heureux de vous conseiller et de vous aider à choisir la bonne caisse d'assurance maladie.

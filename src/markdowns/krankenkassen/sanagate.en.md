@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Sanagate Krankenkasse"
+name: "Sanagate health insurance"
 shortName: "Sanagate"
 location: "Postfach 3866, 6002 Luzern"
 insured: "73'415"
@@ -9,37 +9,37 @@ refundPeriod: "15"
 solvencyRate: "92%"
 administrativeExpenses: "68"
 color: "#1C1D6C"
-description: "Erst im Jahr 2009 entstanden, gehört Sanagate zu den jungen Krankenversicherern in der Schweiz. Die Krankenkasse aus Luzern setzt auf das Online-Geschäft und möchte vor allem jungen Versicherungsnehmern eine preisgünstige Grundversicherung und Zusatzversicherungen anbieten. Der Versicherer ist eine Tochtergesellschaft der CSS-Gruppe und zählt etwa 80'000 Versicherungsnehmer. Hier können Sie die Leistungen und Prämien der Krankenkasse vergleichen."
+description: "Only established in 2009, Sanagate is one of the young health insurers in Switzerland. The health insurance company from Lucerne relies on online business and wants to offer young policyholders in particular a reasonably priced basic insurance and supplementary insurance. The insurer is a subsidiary of the CSS Group and has around 80,000 policyholders. Here you can compare the services and premiums of the health insurance company."
 ---
 
-## Die Sanagate Grundversicherung
+## The Sanagate basic insurance
 
-###### Die Grundversicherung deckt gesetzliche Pflichtleistungen bei Krankheit, Unfall und Mutterschaft ab. Im Standardmodell haben Sie freie Arztwahl. Die Prämie berechnet sich abhängig von Ihrem Wohnort und Ihrem Einkommen. Erhöhen Sie die Franchise, können Sie bis zu 43 Prozent Prämie sparen.
+###### The basic insurance covers statutory benefits in the event of illness, accident and maternity. In the standard model, you have a free choice of doctor. The premium depends on where you live and your income. If you increase the franchise, you can save up to 43 percent on the premium.
 
-###### Günstigere Prämien ergeben sich auch, wenn Sie sich für ein alternatives Versicherungsmodell entscheiden. Die Hausarztversicherung der Sanagate gewährt 7 Prozent Prämienrabatt. Sie wählen einen Hausarzt aus einer Ärzteliste aus und suchen diesen im Krankheitsfall zuerst auf. Freie Arztwahl besteht für Augenärzte, Gynäkologen und Zahnärzte.
+###### There are also cheaper premiums if you opt for an alternative insurance model. Sanagate's family doctor insurance offers a 7 percent premium discount. You select a family doctor from a list of doctors and visit him first in the event of illness. Ophthalmologists, gynaecologists and dentists have a free choice of doctor.
 
-###### Beim Telemedizin-Modell SanaCall wenden Sie sich im Krankheitsfall zunächst an das telemedizinische Zentrum Medgate. Bei Bedarf überweisen die Mitarbeiter Sie an einen Arzt oder ins Spital. Entscheiden Sie sich fürs Telemed-Modell, erhalten Sie bis zu 12 Prozent Prämienrabatt.
+###### With the SanaCall telemedicine model, you first contact the Medgate telemedicine centre if you are ill. If necessary, the staff will refer you to a doctor or hospital. If you opt for the Telemed model, you will receive a premium discount of up to 12 percent.
 
-## Sanagate Zusatzversicherungen: Schliessen Sie Versicherungslücken
+## Sanagate supplementary insurance: Close insurance gaps
 
-###### Mit einer freiwilligen Zusatzversicherung schliessen Sie Versicherungslücken. Die zusätzliche Ambulantversicherung bietet Sanagate in zwei Stufen an:
+###### With a voluntary supplementary insurance you close gaps in your insurance. Sanagate offers the additional out-patient insurance in two stages:
 
-### Minima wendet sich an junge, budgetbewusste Versicherungsnehmer. Die Zusatzversicherung deckt nicht kassenpflichtige Medikamente, Transport- und Rettungskosten sowie Ultraschalluntersuchungen während der Schwangerschaft. Sie beteiligt sich an den Kosten für Hilfsmittel und bietet eine weltweite Deckung für medizinische Notfälle. Integriert sind zudem eine Ferien- und Reiseversicherung sowie eine Patienten- und Auslandsrechtsversicherung.
+### Minima is aimed at young, budget-conscious policyholders. The supplementary insurance covers medicines not covered by health insurance, transport and rescue costs as well as ultrasound examinations during pregnancy. It contributes to the cost of medical aids and provides worldwide cover for medical emergencies. A holiday and travel insurance as well as a patient and foreign law insurance are also integrated.
 
-### Die Zusatzversicherung Optima ergänzt das Leistungsspektrum um eine Kostenbeteiligung für Brillen, Kontaktlinsen und Laserbehandlungen, deckt Zahnbehandlungen und Zahnstellungskorrekturen bei Kindern und beteiligt sich an den Kosten für eine Haushaltshilfe.
+### Optima supplementary insurance supplements the range of services with a cost sharing for glasses, contact lenses and laser treatment, covers dental treatment and tooth position corrections for children and contributes to the costs of domestic help.
 
-## Die Spitalversicherung in zwei Stufen
+## Hospital insurance in two stages
 
-###### Die Spitalzusatzversicherung der Sanagate wird ebenfalls in zwei Versicherungsstufen angeboten. Mit der Variante Minima haben Sie freie Arzt- und Spitalwahl in der gesamten Schweiz, können zwischen einer Unterbringung in der allgemeinen, halbprivaten oder privaten Abteilung wählen und erhalten Beiträge für Bade- und Erholungskuren. Die Spitalversicherung Optima wendet sich vor allem an Familien. Muss ein versichertes Kind ins Spital, beteiligt sich die Krankenversicherung an den Unterbringungskosten für eine Begleitperson.
+###### Sanagate's supplementary hospital insurance is also offered in two insurance levels. With the Minima option, you have a free choice of doctor and hospital throughout Switzerland, can choose between accommodation in a general, semi-private or private ward and receive contributions for bathing and recreational cures. Optima hospital insurance is aimed primarily at families. If an insured child has to go to hospital, the health insurance pays for the accommodation costs of an accompanying person.
 
-## Die Alternativversicherung der Sanagate
+## The Sanagate alternative insurance plan
 
-###### Die Alternativversicherung deckt bis zu 80 Prozent der Kosten für Behandlungen im Bereich der Alternativmedizin. Maximal zahlt die Krankenversicherung 1'500 Schweizer Franken pro Jahr. Zuschüsse erhalten Sie für Behandlungsmethoden wie Homöopathie, Osteopathie, Chinesische Medizin, Ayurveda und Akupunktur.
+###### The alternative insurance covers up to 80 percent of the costs of treatment in the field of alternative medicine. Health insurance pays a maximum of 1,500 Swiss francs per year. You receive subsidies for treatment methods such as homeopathy, osteopathy, Chinese medicine, Ayurveda and acupuncture.
 
-## Zusätzliche Zahnversicherung
+## Additional dental insurance
 
-###### Die Zahnversicherung der Sanagate übernimmt ambulante Zahnbehandlungen, Zahnprothesen und Zahnstellungskorrekturen. Sie können aus sechs Leistungsstufen wählen. Die maximale Kostendeckung liegt bei 75 Prozent, höchstens 5'000 Schweizer Franken im Jahr, bei einer Franchise von 500 Franken pro Kalenderjahr. Für die Zahnversicherung gilt eine Karenzfrist von sechs bis zwölf Monaten.
+###### Sanagate's dental insurance covers outpatient dental treatments, dentures and tooth position corrections. You can choose from six service levels. The maximum cost coverage is 75 percent, a maximum of 5,000 Swiss francs per year, with a franchise of 500 francs per calendar year. A waiting period of six to twelve months applies to dental insurance.
 
-## Sanagate Versicherunsgangebote im Vergleich
+## Sanagate insurance offers in comparison
 
-###### Suchen Sie nach einer günstigen Krankenversicherung, können Sie bei uns einfach und schnell verschiedene Versicherungsangebote vergleichen. So finden Sie heraus, ob die Sanagate das richtige Versicherungsmodell für Sie bereit hält. Wir beraten Sie gerne und helfen Ihnen bei der Wahl der passenden Krankenkasse.
+###### If you are looking for a cheap health insurance, you can easily and quickly compare different insurance offers with us. Find out whether Sanagate has the right insurance model for you. We will be happy to advise you and help you choose the right health insurance.

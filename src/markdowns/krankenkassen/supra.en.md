@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Supra Krankenkasse"
+name: "Supra health insurance"
 shortName: "Supra"
 location: "Groupe Mutuel, Rue des Cèdres 5, 1920 Martigny"
 insured: "78'725"
@@ -9,49 +9,47 @@ refundPeriod: "15"
 solvencyRate: "108%"
 administrativeExpenses: "213"
 color: "#ED1343"
-description: "Im Jahr 1846 wurde die Supra Caisse-maladie im Waadtland gegründet. Bis in die 1990er Jahre hinein war die in Lausanne ansässige Krankenkasse vor allem in der Westschweiz tätig. Heute gehört sie zur Groupe Mutuel und bietet die Grundversicherung sowie diverse Zusatzversicherungen in der gesamten Schweiz an. Unser Vergleich zeigt Ihnen, ob sich ein Wechsel zur Supra Krankenversicherung lohnt."
+description: "In 1846 the Supra Caisse-maladie was founded in Vaud. Until the 1990s, the Lausanne-based health insurance fund was mainly active in western Switzerland. Today it belongs to Groupe Mutuel and offers basic insurance as well as various supplementary insurances throughout Switzerland. Our comparison will show you whether it is worth switching to Supra health insurance."
 ---
 
-## Die diversen Modelle der Grundversicherung
+## The various basic insurance models
 
-###### Als Teil der Groupe Mutuel bietet die Supra Krankenkasse dieselbe Auswahl an Grundversicherungsmodellen an. Im Modell Standard (freie Arztwahl) wählen Versicherungsnehmer selbst, welchen Arzt sie im Krankheitsfall aufsuchen. Daneben stehen diverse alternative Versicherungsmodelle zur Wahl:
+###### As part of Groupe Mutuel, Supra health insurance offers the same selection of basic insurance models. In the Standard model (free choice of doctor), policyholders choose which doctor they visit in the event of illness. There are also various alternative insurance models to choose from:
 
-### PrimaCare (Hausarzt): Sie wenden sich zunächst an Ihren Hausarzt.
+### PrimaCare (family doctor): You first contact your family doctor.
 
-### SUPRACare: Hausarzt-Modell mit Tiers-garant-System in Apotheken. Steht anders als PrimaCare (Hausarzt) nur in ausgewählten Kantonen zur Verfügung.
+### SUPRACare: Family doctor model with animal guarantee system in pharmacies. Unlike PrimaCare (family doctor), only available in selected cantons.
 
-### SanaTel (Telmed): Sie rufen im Krankheitsfall eine telemedizinische Beratungsstelle an.
+### SanaTel (Telmed): They call a telemedical advice centre in the event of illness.
 
-### PrimaTel (Telmed): Sie wenden sich an eine telemedizinische Beratungshotline und legen zudem einen Hausarzt als weiteren Ansprechpartner fest.
+### PrimaTel (Telmed): You contact a telemedicine advice hotline and also appoint a family doctor as an additional contact person.
 
-### BasicPlus (Gruppenpraxis HMO), Pflegenetz Genf und Optimed: Sie wählen Ihren Arzt oder Ihre Gruppenpraxis (HMO) aus einer Liste von Partnerärzten aus.
+### BasicPlus (HMO group practice), Geneva care network and Optimed: You choose your doctor or group practice (HMO) from a list of partner doctors.
 
-### PrimaPharma: Ihr erster Ansprechpartner ist eine Partnerapotheke.
+### PrimaPharma: Your first contact is a partner pharmacy.
 
-## Prämien-Rabatte für alternative Versicherungsmodelle und höhere Franchisen
+## Premium discounts for alternative insurance models and higher franchises
 
-###### Entscheiden Sie sich für ein alternatives Versicherungsmodell, gewährt die Supra Krankenversicherung Ihnen lukrative Prämien-Rabatte. Mit dem Modell PrimaCare (Hausarzt) sparen Sie zum Beispiel elf Prozent, mit dem Modell SUPRACare sinken Ihre Prämien sogar um bis zu 20 Prozent.
+###### If you opt for an alternative insurance model, Supra Health Insurance will grant you lucrative premium discounts. With the PrimaCare (family doctor) model, for example, you save eleven percent, and with the SUPRACare model your premiums are even reduced by up to 20 percent.
 
-###### Prämien-Rabatte erhalten Sie ausserdem, wenn Sie Ihre Franchise heraufsetzen lassen. Für Erwachsene stehen Jahresfranchisen bis zu 2'500 Schweizer Franken zur Wahl, für Kinder lässt sich die Franchise bis auf 600 Franken im Jahr erhöhen.
+###### You also receive premium discounts if you have your franchise increased. For adults, annual franchises of up to 2,500 Swiss francs are available, for children the franchise can be increased to 600 francs per year.
 
-######
+## Voluntary supplementary insurance for more benefits
 
-## Freiwillige Zusatzversicherung für mehr Leistungen
+###### If you would like higher contributions for health prevention, alternative medicine or medical aids, you can choose from a range of supplementary insurances with Supra health insurance. The supplementary health insurance with bonus, for example, supplements the range of services offered by the basic insurance with higher contributions to various health services. If you do not claim any benefits for one year, you will receive premium discounts.
 
-###### Wünschen Sie sich höhere Beiträge für Gesundheitsprävention, Alternativmedizin oder medizinische Hilfsmittel, können Sie bei der Supra Krankenkasse aus einer Reihe von Zusatzversicherungen wählen. Die Krankenpflege-Zusatzversicherung mit Bonus ergänzt zum Beispiel das Leistungsangebot der Grundversicherung um höhere Beiträge zu diversen Gesundheitsleistungen. Nehmen Sie ein Jahr lang keine Leistungen in Anspruch, erhalten Sie Prämien-Rabatte.
+###### The Alterna supplementary insurance covers special treatments and medicines from the field of alternative medicine. Mundo covers treatment and patient transport costs abroad. The Global tariff combines the benefits of outpatient supplementary insurance with hospital insurance.
 
-###### Die Zusatzversicherung Alterna deckt speziell Behandlungen und Medikamente aus dem Bereich der Alternativmedizin. Mundo übernimmt Behandlungs- und Krankentransportkosten im Ausland. Der Tarif Global kombiniert die Leistungen einer ambulanten Zusatzversicherung mit einer Spitalversicherung.
+###### Supra health insurance also offers dental insurance: Dentair Plus reimburses up to 70 percent of dental treatment costs, up to a maximum of CHF 15,000 per calendar year.
 
-###### Auch eine Zahnversicherung bietet die Supra Krankenkasse an: Dentair Plus erstattet bis zu 70 Prozent der Zahnbehandlungskosten, bis zu einer maximalen Summe von 15'000 Schweizer Franken im Kalenderjahr.
+## Additional insurance for the hospital
 
-## Zusatzversicherung fürs Spital
+###### Supra's supplementary hospital insurance offers you free choice of hospital and doctor throughout Switzerland. Depending on the tariff you choose, you will be accommodated in the general ward, semi-private or private. With the H-Bonus hospital insurance, you decide flexibly before each hospital stay what comfort you want. The Hopital Senior tariff is available for policyholders aged 55 and over.
 
-###### Die Spitalzusatzversicherung der Supra bietet Ihnen freie Spital- und Arztwahl in der gesamten Schweiz. Abhängig vom gewählten Tarif werden Sie auf der allgemeinen Abteilung, halbprivat oder privat untergebracht. Mit der Spitalversicherung H-Bonus entscheiden Sie flexibel vor jedem Spitalaufenthalt, welchen Komfort Sie sich wünschen. Für Versicherungsnehmer ab 55 Jahren steht der Tarif Hopital Senior zur Wahl.
+## Family discount with Supra supplementary insurance
 
-## Familienrabatt in der Supra Zusatzversicherung
+###### If families take out the Global Classic tariff for their children as well, you will receive a family discount.
 
-###### Schliessen Familien den Tarif Global Classic auch für Ihre Kinder ab, erhalten Sie Familienrabatt.
+## Health insurances in comparison
 
-## Krankenversicherungen im Vergleich
-
-###### Machen Sie bei uns den Versicherungs-Vergleich und prüfen Sie, ob sich ein Wechsel zur Supra Krankenkasse lohnt. Unser Prämien-Rechner ermittelt in wenigen Minuten Ihr Sparpotenzial. Anschliessend fordern Sie direkt online Ihr unverbindliches Versicherungsangebot an.
+###### Make the insurance comparison with us and check whether it is worth switching to Supra health insurance. Our premium calculator calculates your savings potential in just a few minutes. Then request your non-binding insurance offer directly online.

@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Sansan"
+name: "Sansan Cassa malati"
 shortName: "Sansan"
 location: "Helsana-Gruppe, Postfach, 8081 Zürich"
 insured: ""
@@ -9,61 +9,61 @@ refundPeriod: "1"
 solvencyRate: "125%"
 administrativeExpenses: "162"
 color: "#BA0056"
-description: "Die Sansan Versicherungen AG aus Dübendorf wurde 2001als eigenständiges Tochterunternehmen der Helsana Versicherungsgruppe gegründet. Seit der Markenharmonisierung 2013 kommunizierte sie unter dem Auftritt des Mutterkonzerns. 2017 erfolgte die Zusammenlegung mit der Grundversicherungstochter Progrès. Das Kerngeschäft konzentriert sich auf die obligatorische Krankenpflegeversicherung. Daneben können Versicherungsnehmer auch diverse Zusatzversicherungen abschliessen."
+description: "La cassa malati Sansan Versicherungen AG di Dübendorf è stata fondata nel 2001 come filiale indipendente del gruppo assicurativo Helsana. Dopo l'armonizzazione del marchio nel 2013, ha comunicato sotto l'aspetto della società madre. Nel 2017 è avvenuta la fusione con la principale controllata assicurativa Progrès. Il core business si concentra sull'assicurazione sanitaria obbligatoria. Inoltre, gli assicurati possono anche sottoscrivere varie assicurazioni integrative."
 ---
 
-## Die obligatorische Grundversicherung der Sansan
+## L’assicurazione di base obbligatoria di Sansan
 
-###### Die Sansan Krankenkasse bietet dieselben Versicherungsmodelle wie die Helsana an. Die obligatorische Grundversicherung können Sie als Modell Standard (freie Arztwahl) oder als eines von drei alternativen Versicherungsmodellen abschliessen:
+###### La cassa malati Sana offre gli stessi modelli assicurativi della Helsana. L'assicurazione obbligatoria di base può essere stipulata come Standard (libera scelta del medico) o come uno dei tre modelli assicurativi alternativi:
 
-### BeneFit PLUS Hausarzt/ HMO: Im Krankheitsfall wenden Sie sich zunächst an Ihren Hausarzt oder eine Gruppenpraxis (HMO).
+### BeneFit PLUS medico di famiglia/HMO: in caso di malattia, contattare prima il medico di famiglia o uno studio medico collettivo (HMO).
 
-### BeneFit PLUS Telmed: Im Krankheitsfall rufen Sie ein kostenloses telemedizinisches Beratungszentrum an und erhalten einen individuellen Behandlungsplan.
+### BeneFit PLUS Telmed: in caso di malattia chiamare un centro di consulenza di telemedicina gratuito e ricevere un piano di trattamento individuale.
 
-### PREMED-24: Vor dem Arztbesuch wenden Sie sich ans telemedizinische Beratungszentrum und lassen sich unverbindlich beraten. Bei Bedarf suchen Sie anschliessend einen Arzt Ihrer Wahl auf.
+### PREMED-24: prima della visita dal medico, contattare il centro di consulenza telematica e ricevere consigli senza impegno. Se necessario, quindi visitare un medico di vostra scelta.
 
-## Prämien sparen durch alternative Versicherungsmodelle und höhere Franchisen
+## Risparmiare sui premi attraverso modelli assicurativi alternativi e franchigie più elevate
 
-###### Für die Wahl eines alternativen Versicherungsmodells erhalten Sie Rabatte zwischen 8 und 15 Prozent. Um Ihre Versicherungsprämie zu reduzieren, können Sie ausserdem freiwillig eine höhere Franchise bezahlen. Die maximale Jahresfranchise für Erwachsene beträgt 2'500 Schweizer Franken, für Kinder 600 Franken.
+###### Per la scelta di un modello assicurativo alternativo ricevi sconti tra l'8 e il 15 percento. Inoltre, per ridurre il premio assicurativo, è possibile pagare volontariamente un franchisee superiore. La franchigia annuale massima per gli adulti è di 2'500 franchi svizzeri, per i bambini 600 franchi.
 
-## Ambulante Zusatzversicherungen der Sansan
+## Assicurazioni Complementari di Sansan
 
-###### Eine Zusatzversicherung erweitert die Leistungen der obligatorischen Krankenpflegeversicherung. Die Sansan bietet eine ganze Reihe an Zusatzversicherungen für unterschiedliche Bedürfnisse an:
+###### Un'assicurazione complementare estende l'assicurazione sanitaria obbligatoria. Sansan offre un'intera gamma di assicurazioni complementari per diverse esigenze:
 
-### Top ist eine grundlegende Zusatzversicherung für ambulante Leistungen wie Brillen, Medikamente, Psychotherapien, Auslandsschutz und mehr.
+### Top è un'assicurazione complementare di base per servizi ambulatoriali come occhiali, farmaci, psicoterapie, protezione all'estero e altro ancora.
 
-### Sana bietet umfangreiche Erstattungen für Alternativmedizin, Prävention und Gesundheitsförderung.
+### Sana offre ampi rimborsi per medicina alternativa, prevenzione e promozione della salute.
 
-### Completa vereint den Leistungsumfang von Top und Sana und bietet teilweise höhere Kostenerstattungen.
+### Completa combina la portata dei servizi di Top e Sana e offre rimborsi parzialmente più elevati.
 
-### World ist eine Reiseversicherung für medizinische Notfälle im Ausland.
+### World è un'assicurazione di viaggio per le emergenze mediche all'estero.
 
-### Primeo bietet freie Arztwahl und mehr Komfort beim Spitalaufenthalt.
+### Primeo offre la libera scelta del medico e un maggiore comfort durante il ricovero.
 
-### Omnia bietet die wichtigsten Zusatzleistungen und sichert Ihnen die Aufnahme in eine Höherversicherung ohne weitere Gesundheitsprüfung.
+### Omnia offre i più importanti servizi aggiuntivi e garantisce l'ammissione a un'assicurazione superiore senza ulteriori controlli sanitari.
 
-## Vier Leistungsstufen der Spitalversicherung
+## Quattro livelli di servizi dell’assicurazione ospedaliera
 
-###### Neben den ambulanten Zusatzversicherungen können Sie bei der Sansan auch eine Spitalzusatzversicherung abschliessen. Die Spitalversicherung Hospital steht in vier Leistungsstufen zur Wahl:
+###### Oltre alle assicurazioni complenetari puoi anche sottoscrivere un'assicurazione complementare mbulatoriale presso Sansan. L’assicurazione ospedaliera Hospital è disponibile in quattro livelli di prestazione:
 
-### Eco: freie Spitalwahl und Unterbringung im Mehrbettzimmer auf der allgemeinen Abteilung 
+### Eco: libera scelta di ospedale e alloggio in camera condivisa in reparto generale 
 
-### Halbprivat: freie Spital- und Arztwahl sowie Unterbringung im Zwei-Bett-Zimmer auf der halbprivaten Abteilung 
+### Semi-privato: libera scelta di ospedale e medico, nonché alloggio in una camera a due letti in reparto semi-privato
 
-### Privat: freie freie Spital- und Arztwahl sowie Unterbringung im Einzelzimmer auf der privaten Abteilung 
+### Privato: libera scelta di ospedale e medico e sistemazione in camera singola nel reparto privato
 
-### Flex: flexible Abteilungswahl vor jedem Spitalaufenthalt bei freier Spitalwahl
+### Flex: scelta flessibile di ripartizione prima di ogni degenza ospedaliera con scelta ospedaliera gratuita
 
-###### Ergänzend können Sie sich für die Spitaltagegeldversicherung Hospital Extra entscheiden.
+###### Inoltre, è possibile optare per l'assicurazione giornaliera ospedaliera Hospital Extra.
 
-## Zahnversicherung DENTAPlus
+## Assicurazione dentale DENTAPlus
 
-###### DENTAPlus versichert Sie gegen hohe Zahnarztkosten. Die Versicherung übernimmt Zahnbehandlungen, Zahnfehlstellungskorrekturen und Dentalhygiene. Die Kostenerstattung richtet sich nach der Leistungsstufe. Maximal erhalten Sie 75 Prozent der Behandlungskosten ersetzt, bis zu einer Summe von 3'000 Franken im Kalenderjahr.
+###### DENTAPlus ti assicura alti costi dentistici. L'assicurazione copre trattamenti dentali, la correzione dentale ed igiene dentale. Il rimborso dipende dal livello di servizio. Riceverai un massimo del 75 percento delle spese di trattamento, fino a un totale di 3000 franchi per anno civile.
 
-## Familien profitieren von Rabatten
+## Le famiglie approfittano di sconti
 
-###### Versicherung Sie gleich mehrere Familienmitglieder in einer Zusatzversicherung der Sansan Krankenkasse, erhalten Sie einen lukrativen Familienrabatt. In den Krankenpflegezusatzversicherungen beträgt dieser 5 Prozent bei zwei versicherten Personen aus dem gleichen Haushalt, ab drei versicherten Personen sogar 10 Prozent.
+###### Se assicuri diversi membri della famiglia con un'assicurazione integrativa della cassa malati Sansan, riceverai uno sconto redditizio sulla famiglia. Nell'assicurazione sanitaria integrativa, questo è pari al 5 percento per due persone assicurate della stessa famiglia, per tre persone assicurate arriva anche al 10 percento.
 
-## Das Versicherungsangebot der Sansan Krankenkasse im Vergleich
+## Le offerte assicurative della cassa malati Sansan a confronto
 
-###### Vor dem Wechsel der Krankenversicherung lohnt sich der Vergleich. Unser Prämienrechner zeigt Ihnen, wie günstig Sie sich bei der Sansan versichern lassen können.
+###### Prima di effettuare un cambio dell'assicurazione sanitaria è bene effettuare un confronto. Il nostro calcolatore di premi ti mostra quanto puoi assicurarti a buon mercato con Sansan.

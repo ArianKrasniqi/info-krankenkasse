@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Sanitas Krankenkasse"
+name: "Sanitas Cassa malati"
 shortName: "Sanitas"
 location: "Jägergasse 3, Postfach 2010, 8021 Zürich"
 insured: "343'424"
@@ -9,45 +9,45 @@ refundPeriod: "5"
 solvencyRate: "118%"
 administrativeExpenses: "186"
 color: "#6BB023"
-description: "Die Sanitas Krankenkasse mit Sitz in Zürich zählt zu den grössten Krankenversicherern der Schweiz. Zu Beginn des Jahres 2019 hatten rund 835'000 Versicherungsnehmer dort eine Krankenversicherung abgeschlossen. Die Prämieneinnahmen belaufen sich auf 2'899 Milliarden Schweizer Franken. Neben verschiedenen Modellen der Grundversicherung bietet die Sanitas auch diverse Zusatzversicherungen und eine Zahnversicherung an. Vergleichen Sie Leistungen und Prämien und finden Sie eine Krankenversicherung, die zu Ihren Bedürfnissen passt."
+description: "Con sede a Zurigo, la cassa malati Sanitas è uno dei maggiori assicuratori sanitari in Svizzera. All'inizio del 2019, circa 835.000 assicurati vi avevano sottoscritto un'assicurazione sanitaria. La raccolta premi ammonta a 2.899 miliardi di franchi svizzeri. Oltre ai vari modelli di assicurazione di base, Sanitas offre anche varie assicurazioni complementari e un'assicurazione dentale. Confronta i vantaggi e i premi e trova un'assicurazione sanitaria adatta alle tue esigenze."
 ---
 
-## Die vier Modelle der Sanitas Grundversicherung
+## I quattro modelli dell’assicurazione di base Sanitas
 
-###### Sie haben die Auswahl aus vier Grundversicherungs-Modellen:
+###### C’è la possibilità di scegliere tra quattro modelli dell’assicurazione di base:
 
-## Im Standard-Modell haben Sie freie Arztwahl in der gesamten Schweiz. Abgedeckt sind die gesetzlichen Pflichtleistungen bei Krankheit, Mutterschaft und Unfall.
+### Nel modello standard, è possibile scegliere liberamente il medico in tutta la Svizzera. Sono coperte le prestazioni obbligatorie legali per malattia, maternità e infortunio.
 
-## Beim Hausarztmodell MedCare ist Ihr Hausarzt der erste Ansprechpartner für alle Behandlungen. Bei Bedarf überweist er sie weiter. Im Hausarztmodell erhalten Sie 7 Prozent Prämienrabatt.
+### Nel caso del medico di famiglia MedCare, il medico di famiglia è il primo contatto per tutti i trattamenti. Se necessario, li trasferirà ulteriormente. Nel modello medico di famiglia, ricevi uno sconto del 7% sul premio.
 
-## Beim HMO-Modell NetMed wenden Sie sich bei Behandlungsbedarf zunächst an Ihre Gruppenpraxis (HMO). Diese überweist Sie gegebenenfalls an einen Spezialisten aus dem Ärztenetzwerk. Mit diesem Modell erhalten Sie bis zu 10 Prozent Prämienrabatt.
+### Nel modello HMO NetMed, si contatta lo studio medico collettivo (HMO) per le esigenze di trattamento. Se necessario, questo ti trasferirà a uno specialista dalla rete medica. Con questo modello ottieni uno sconto del 10% sul premio.
 
-## Im Modell Telemedizin wenden Sie sich telefonisch oder über die Medgate-App an das Beratungszentrum Medgate. Bei Bedarf überweisen die Mitarbeiter Sie an einen Arzt oder ins Spital. Der Prämienrabatt im Telmed-Modell liegt bei bis zu 15 Prozent.
+### Nel modello di telemedicina, contattare via telefono o via app Medgate il centro di consulenza Medgate. Se necessario, il personale ti trasferirà in un medico o in ospedale. Lo sconto premium nel modello Telmed è fino al 15 percento.
 
-###### Die Prämienhöhe richtet sich auch nach Ihrem Wohnkanton. Eine günstige Grundversicherung bietet die Sanitas zum Beispiel in Niwalden, Zug, Appenzell und Innerrhoden. Die Prämie lässt sich senken, wenn Sie eine höhere Franchise wählen.
+###### L'importo del premio dipende anche dal cantone di residenza. La Sanitas offre ad esempio un'assicurazione di base economica a Niwalden, Zugo, Appenzello e Innerrhoden. Il premio può essere ridotto se scegli una franchigia più alta.
 
-## Bedarfsgerechte Zusatzversicherungen
+## Servizi delle assicurazioni Complentari
 
-###### Die Sanitas Zusatzversicherungen ergänzen das Leistungsspektrum der Grundversicherung und wenden sich an unterschiedliche Zielgruppen:
+###### Le assicurazioni complentare Sanitas completano la gamma di servizi dell'assicurazione di base e si rivolgono a diversi gruppi target:
 
-### Jump ist eine Zusatzversicherung für junge Erwachsene. Das Modell leistet Beiträge zur Alternativmedizin, Brillen und Kontaktlinsen, Massagen, Fitness- und Präventionsmassnahmen und deckt ambulante und Notfall-Behandlungen im Ausland ab.
+### Jump è un'assicurazione integrativa per giovani adulti. Il modello contribuisce alla medicina alternativa, agli occhiali e alle lenti contraccettive, ai massaggi, alle misure di fitness e preventive e copre i trattamenti ambulatoriali e di emergenza all'estero.
 
-### Classic ist eine umfassende Zusatzversicherung, die auch weitere Extras wie eine Zahnspange oder eine Psychotherapie abdeckt.
+### Classic è un'assicurazione integrativa completa, che copre anche altri extra come apparecchi dentali o psicoterapia.
 
-### Family ist die Zusatzversicherung für Familien. Alle Leistungen werden aus einem Leistungskonto gedeckt. Sie legen für jedes Familienmitglied ein individuelles Limit fest.
+### Family è l'assicurazione integrativa per le famiglie. Tutti i servizi sono coperti da un account di servizio. Tu imposti un limite individuale per ogni membro della famiglia.
 
-### Easy ist eine Zusatzversicherung für Reisen. Sie deckt ambulante und stationäre Notfallbehandlungen im Ausland sowie Transport- und Rettungskosten.
+### Easy è un'assicurazione integrativa per i viaggi. Copre le cure ambulatoriali e ospedaliere di emergenza all'estero, nonché i costi di trasporto e di salvataggio.
 
-### Mit Medical Private haben Sie weltweit freie Arztwahl und können in der Schweiz auch Mediziner aufsuchen, die nicht nach Krankenversicherungsgesetz abrechnen.
+### Con Medical Private, hai una libera scelta di medici in tutto il mondo e puoi anche visitare medici in Svizzera che non si accontentano della Legge sull'assicurazione sanitaria.
 
-## Sanitas Spitalzusatzversicherung
+## Assicurazione complentare ospedaliera Sanitas
 
-###### Die Grundversicherung deckt nur die Unterbringung in einem Spital im eigenen Wohnkanton in der allgemeinen Abteilung. Mit einer zusätzlichen Spitalversicherung sichern Sie sich mehr Wahlfreiheit. Mit Hospital Standard Liberty haben Sie zum Beispiel freie Arzt- und Spitalwahl in der allgemeinen Abteilung in der gesamten Schweiz. Sie werden im Mehrbettzimmer untergebracht. Hospital Extra Liberty und Hospital Top Liberty gewähren freie Spitalwahl in der halbprivaten bzw. privaten Abteilung und im Zwei-Bett- oder Ein-Bett-Zimmer.
+###### L'assicurazione di base copre solo l'alloggio in un ospedale nel proprio cantone di residenza nel dipartimento generale. Con un'assicurazione ospedaliera aggiuntiva, ottieni più libertà di scelta. Con Hospital Standard Liberty, ad esempio, puoi scegliere liberamente tra medico e ospedale nel reparto generale di tutta la Svizzera. Sarai alloggiato in una stanza condivisa. Hospital Extra Liberty e Hospital Top Liberty offrono la libera scelta dell'ospedale in reparto semi-privato o privato e nelle camere a due letti o un letto.
 
-## Dental: Die Zahnversicherung
+## Dental: l’assicurazione complementare dentale
 
-###### Die Zahnversicherung Dental deckt 80 Prozent aller zahnmedizinischen Behandlungskosten bis zu 5000 Schweizer Franken im Jahr. Lassen Sie Ihre Behandlungen bei swiss smile durchführen, erhalten Sie bis zu 50 Prozent Rabatt.
+###### L'assicurazione Dental copre l'80 percento di tutti i costi del trattamento dentale fino a 5.000 franchi svizzeri all'anno. Se effettui i tuoi trattamenti con swiss smile, riceverai uno sconto fino al 50%.
 
-## Versicherungsangebote im Vergleich
+## Offerte assicurative a confronto
 
-###### Die richtige Krankenversicherung zu finden, fällt gar nicht so leicht. Vergleichen Sie das Angebot der Sanitas Krankenkasse mit weiteren Versicherern und lassen Sie sich von uns kostenlos und unverbindlich beraten.
+###### Trovare l'assicurazione sanitaria giusta non è così facile. Confronta l'offerta della cassa malati Sanitas con altri assicuratori e lasciati consigliare gratuitamente e senza impegno.

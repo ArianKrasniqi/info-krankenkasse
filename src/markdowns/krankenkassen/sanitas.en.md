@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Sanitas Krankenkasse"
+name: "Sanitas health insurance"
 shortName: "Sanitas"
 location: "Jägergasse 3, Postfach 2010, 8021 Zürich"
 insured: "343'424"
@@ -9,45 +9,45 @@ refundPeriod: "5"
 solvencyRate: "118%"
 administrativeExpenses: "186"
 color: "#6BB023"
-description: "Die Sanitas Krankenkasse mit Sitz in Zürich zählt zu den grössten Krankenversicherern der Schweiz. Zu Beginn des Jahres 2019 hatten rund 835'000 Versicherungsnehmer dort eine Krankenversicherung abgeschlossen. Die Prämieneinnahmen belaufen sich auf 2'899 Milliarden Schweizer Franken. Neben verschiedenen Modellen der Grundversicherung bietet die Sanitas auch diverse Zusatzversicherungen und eine Zahnversicherung an. Vergleichen Sie Leistungen und Prämien und finden Sie eine Krankenversicherung, die zu Ihren Bedürfnissen passt."
+description: "Sanitas health insurance, based in Zurich, is one of the largest health insurers in Switzerland. At the beginning of 2019, around 835,000 policyholders had taken out health insurance there. Premium income amounts to 2,899 billion Swiss francs. In addition to various basic insurance models, Sanitas also offers various supplementary insurances and dental insurance. Compare benefits and premiums and find a health insurance policy that suits your needs."
 ---
 
-## Die vier Modelle der Sanitas Grundversicherung
+## The four models of Sanitas basic insurance
 
-###### Sie haben die Auswahl aus vier Grundversicherungs-Modellen:
+###### You can choose from four basic insurance models:
 
-## Im Standard-Modell haben Sie freie Arztwahl in der gesamten Schweiz. Abgedeckt sind die gesetzlichen Pflichtleistungen bei Krankheit, Mutterschaft und Unfall.
+### In the standard model, you have a free choice of doctor throughout Switzerland. It covers statutory benefits in the event of illness, maternity and accident.
 
-## Beim Hausarztmodell MedCare ist Ihr Hausarzt der erste Ansprechpartner für alle Behandlungen. Bei Bedarf überweist er sie weiter. Im Hausarztmodell erhalten Sie 7 Prozent Prämienrabatt.
+### With the MedCare family doctor model, your family doctor is the first point of contact for all treatments. He will refer you if necessary. In the family doctor model, you receive a 7 percent premium discount.
 
-## Beim HMO-Modell NetMed wenden Sie sich bei Behandlungsbedarf zunächst an Ihre Gruppenpraxis (HMO). Diese überweist Sie gegebenenfalls an einen Spezialisten aus dem Ärztenetzwerk. Mit diesem Modell erhalten Sie bis zu 10 Prozent Prämienrabatt.
+### With the HMO NetMed model, you first contact your group practice (HMO) if you need treatment. If necessary, your HMO will refer you to a specialist from the doctors' network. With this model, you receive up to 10 percent premium discount.
 
-## Im Modell Telemedizin wenden Sie sich telefonisch oder über die Medgate-App an das Beratungszentrum Medgate. Bei Bedarf überweisen die Mitarbeiter Sie an einen Arzt oder ins Spital. Der Prämienrabatt im Telmed-Modell liegt bei bis zu 15 Prozent.
+### In the telemedicine model, you can contact the Medgate Counselling Centre. If necessary, the staff will refer you to a doctor or hospital. The premium discount in the Telmed model is up to 15 percent.
 
-###### Die Prämienhöhe richtet sich auch nach Ihrem Wohnkanton. Eine günstige Grundversicherung bietet die Sanitas zum Beispiel in Niwalden, Zug, Appenzell und Innerrhoden. Die Prämie lässt sich senken, wenn Sie eine höhere Franchise wählen.
+###### The premium amount also depends on your canton of residence. Sanitas offers affordable basic insurance in Niwalden, Zug, Appenzell and Innerrhoden, for example. The premium can be reduced if you choose a higher deductible rate.
 
-## Bedarfsgerechte Zusatzversicherungen
+## Supplementary insurance tailored to your needs
 
-###### Die Sanitas Zusatzversicherungen ergänzen das Leistungsspektrum der Grundversicherung und wenden sich an unterschiedliche Zielgruppen:
+###### Sanitas supplementary insurance supplements the range of services offered by basic insurance and is aimed at different target groups:
 
-### Jump ist eine Zusatzversicherung für junge Erwachsene. Das Modell leistet Beiträge zur Alternativmedizin, Brillen und Kontaktlinsen, Massagen, Fitness- und Präventionsmassnahmen und deckt ambulante und Notfall-Behandlungen im Ausland ab.
+### Jump is a supplementary insurance for young adults. The model makes contributions to alternative medicine, glasses and contact lenses, massages, fitness and prevention measures and covers outpatient and emergency treatment abroad.
 
-### Classic ist eine umfassende Zusatzversicherung, die auch weitere Extras wie eine Zahnspange oder eine Psychotherapie abdeckt.
+### Classic is a comprehensive supplementary insurance that also covers other extras such as braces or psychotherapy.
 
-### Family ist die Zusatzversicherung für Familien. Alle Leistungen werden aus einem Leistungskonto gedeckt. Sie legen für jedes Familienmitglied ein individuelles Limit fest.
+### Family is the supplementary insurance for families. All benefits are covered from one benefit account. You set an individual limit for each family member.
 
-### Easy ist eine Zusatzversicherung für Reisen. Sie deckt ambulante und stationäre Notfallbehandlungen im Ausland sowie Transport- und Rettungskosten.
+### Easy is an additional travel insurance. It covers outpatient and inpatient emergency treatment abroad as well as transport and rescue costs.
 
-### Mit Medical Private haben Sie weltweit freie Arztwahl und können in der Schweiz auch Mediziner aufsuchen, die nicht nach Krankenversicherungsgesetz abrechnen.
+### With Medical Private, you can choose your doctor anywhere in the world and you can also visit doctors in Switzerland who do not charge according to the Health Insurance Act.
 
-## Sanitas Spitalzusatzversicherung
+## Sanitas supplementary hospital insurance
 
-###### Die Grundversicherung deckt nur die Unterbringung in einem Spital im eigenen Wohnkanton in der allgemeinen Abteilung. Mit einer zusätzlichen Spitalversicherung sichern Sie sich mehr Wahlfreiheit. Mit Hospital Standard Liberty haben Sie zum Beispiel freie Arzt- und Spitalwahl in der allgemeinen Abteilung in der gesamten Schweiz. Sie werden im Mehrbettzimmer untergebracht. Hospital Extra Liberty und Hospital Top Liberty gewähren freie Spitalwahl in der halbprivaten bzw. privaten Abteilung und im Zwei-Bett- oder Ein-Bett-Zimmer.
+###### The basic insurance only covers accommodation in a hospital in your own canton of residence in the general ward. With additional hospital insurance, you can be assured more freedom of choice. With Hospital Standard Liberty, for example, you have free choice of doctor and hospital in the general ward throughout Switzerland. You will be accommodated in a shared room. Hospital Extra Liberty and Hospital Top Liberty offer free hospital choice in semi-private or private wards and in double or single rooms.
 
-## Dental: Die Zahnversicherung
+## Dental: Dental insurance
 
-###### Die Zahnversicherung Dental deckt 80 Prozent aller zahnmedizinischen Behandlungskosten bis zu 5000 Schweizer Franken im Jahr. Lassen Sie Ihre Behandlungen bei swiss smile durchführen, erhalten Sie bis zu 50 Prozent Rabatt.
+###### Dental insurance covers 80 percent of all dental treatment costs up to 5,000 Swiss francs per year. If you have your treatments carried out by swiss smile, you will receive a discount of up to 50 percent.
 
-## Versicherungsangebote im Vergleich
+## Insurance offers in comparison
 
-###### Die richtige Krankenversicherung zu finden, fällt gar nicht so leicht. Vergleichen Sie das Angebot der Sanitas Krankenkasse mit weiteren Versicherern und lassen Sie sich von uns kostenlos und unverbindlich beraten.
+###### Finding the right health insurance is not so easy. Compare the Sanitas health insurance offer with other insurers and let us advise you free of charge and without obligation.

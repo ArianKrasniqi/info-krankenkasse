@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Vivacare"
+name: "Vivacare Cassa malati"
 shortName: "Vivacare"
 location: "Weltpoststrasse 19-21, Postfach 253, 3000 Bern 15"
 insured: "50'292"
@@ -9,45 +9,45 @@ refundPeriod: "10"
 solvencyRate: "267%"
 administrativeExpenses: "109"
 color: "#E2001A"
-description: "Die Vivacare gehört zur Visana Versicherungsgruppe. Ihren Hauptsitz hat die AG in Bern. Allein in der Grundversicherung zählt sie mehr als 45'000 Versicherungsnehmer. Sowohl in der obligatorischen Krankenpflegeversicherung als auch in der Zusatzversicherung stützt sich die Krankenkasse auf das Leistungsangebot der Visana und bietet vor allem für Familien attraktive Produkte an."
+description: "Vivacare appartiene al gruppo assicurativo Visana. La sua sede è a Berna. Solo nell'assicurazione di base conta oltre 45.000 assicurati. Sia nell'assicurazione sanitaria obbligatoria che in quella complementare, la compagnia di assicurazione sanitaria fa affidamento sulla gamma di servizi Visana e offre prodotti interessanti, specialmente per le famiglie."
 ---
 
-## Mehrere Modelle der Grundversicherung
+## Diversi modelli dell'assicurazione di base
 
-###### Die Vivacare Krankenkasse bietet mehrere Modelle der obligatorischen Krankenpflegeversicherung. Im Modell Standard (freie Arztwahl) entscheiden Sie selbst über den Arzt Ihres Vertrauens. Daneben stehen verschiedene alternative Versicherungsmodelle zur Wahl:
+###### L'assicurazione sanitaria Vivacare offre diversi modelli di assicurazione sanitaria obbligatoria. Nel modello standard (libera scelta del medico), decidi il medico di tua scelta. Sono inoltre disponibili vari modelli assicurativi alternativi:
 
-### Managed Care: Ihr erster Ansprechpartner ist Ihr Hausarzt oder eine Gruppenpraxis (HMO).
+### Managed Care: il primo punto di contatto è il medico di famiglia o uno studio medico di gruppo (HMO).
 
-### Med Direkt: Sie wenden sich im Krankheitsfall zunächst an Ihren Hausarzt.
+### Med Direkt: il primo punto di contatto in caso di malattia è il medico di famiglia.
 
-### Tel Doc: Sie wenden sich vor dem Arztbesuch an das telemedizinische Beratungszentrum Medi24 und erhalten einen verbindlichen Behandlungsplan.
+### Tel Doc: si contatta il centro di consulenza di telemedicina Medi24 prima della visita dal medico e si riceve un piano di trattamento vincolante.
 
-### Med Call: Sie wenden sich ans telemedizinische Beratungszentrum, der Behandlungsplan ist jedoch unverbindlich.
+### Med Call: si contatta il centro di consulenza di telemedicina, ma il piano di trattamento non è vincolante.
 
-### Tel Care: Dieser Telmed-Tarif steht nur in bestimmten Kantonen zur Verfügung.
+### Tel Care: questa tariffa Telmed è disponibile solo in alcuni cantoni.
 
-## So können Sie Ihre Versicherungsprämie senken
+## In questo modo puoi abbassare i tuoi premi assicurativi
 
-###### Die alternativen Versicherungsmodelle schränken zwar die Wahl des ersten Ansprechpartners im Krankheitsfall ein, dafür zahlen Sie aber auch um bis zu 16 Prozent geringere Prämien. Rabatte gewährt die Krankenversicherung ausserdem, wenn Sie Ihre Jahresfranchise erhöhen. Erwachsene können freiwillig eine Franchise von bis zu 2'500 Schweizer Franken im Jahr zahlen, für Kinder beträgt die maximale Jahresfranchise 600 Franken.
+###### Sebbene i modelli assicurativi alternativi limitino la scelta del primo referente in caso di malattia, si pagano anche premi inferiori fino al 16%. Gli sconti vengono concessi anche dall'assicurazione sanitaria se si aumenta la franchigia annuale. Gli adulti possono pagare volontariamente una franchigia fino a 2.500 franchi svizzeri all'anno; per i bambini, la franchigia massima annuale è di 600 franchi.
 
-## Zusatzversicherungen der Vivacare
+## Assicurazione complementare di Vivacare
 
-###### Mit einer freiwilligen Zusatzversicherung erhalten Sie Leistungen, die über den gesetzlichen Versicherungsschutz hinausgehen. Bei der Vivacare können Sie sich für folgende zusätzliche Modelle entscheiden:
+###### Con l'assicurazione complementare volontaria ricevi prestazioni che vanno oltre la copertura assicurativa legale. Con Vivacare puoi optare per i seguenti modelli complementari:
 
-### Ambulant: erstattet unter anderem zusätzliche Medikamente, Transportkosten und Leistungen bei Mutterschaft. Schliesst ausserdem die Reiseversicherung Vacanza mit ein.
+### Ambulatoriale: rimborsa tra l'altro, farmaci non a carico, costi di trasporto e prestazioni di maternità. Include anche l'assicurazione di viaggio Vacanza.
 
-### Komplementär: ersetzt rund 50 Behandlungsformen aus dem Bereich der Alternativmedizin.
+### Complementare: incude circa 50 forme di trattamento nel campo della medicina alternativa.
 
-### Zahnversicherung: erstattet die Kosten für Zahnbehandlungen, Kontrolle, Dentalhygiene und Kieferorthopädie in acht Leistungsstufen. Maximal erhalten Sie 75 Prozent, bis zu 1'800 Franken im Kalenderjahr, ersetzt.
+### Assicurazione dentale: rimborsa in otto livelli prestazionali i costi di trattamenti dentali, controlli, igiene dentale e dell'ortodonzia. Potrai ricevere un massimo fino al 75 percento, fino a 1.800 franchi nell'anno solare.
 
-## Gut versichert ins Spital
+## Ben assicurato in ospedale
 
-###### Die Vivacare Krankenkasse bietet auch eine Spitalzusatzversicherung an. Sie können aus vier Leistungsstufen wählen: Spital allgemein, halbprivat, privat und flex. Jede Spitalversicherung bietet Ihnen freie Spitalwahl in der gesamten Schweiz, in den Tarifen halbprivat, privat und flex können Sie auch den behandelnden Arzt frei wählen. Mit flex entscheiden Sie sich kurzfristig vor jedem Spitalaufenthalt für den gewünschten Komfort.
+###### La cassa malati La cassa malati vivacare offre anche un'assicurazione ospedaliera integrativa. Puoi scegliere tra quattro livelli di servizio: ospedale generale, semi-privato, privato e flessibile. Ogni assicurazione ospedaliera ti offre la libera scelta dell'ospedale in tutta la Svizzera, nelle tariffe semi-private, private e flex puoi anche scegliere liberamente il medico curante. Con Flex decidi il comfort desiderato in breve tempo prima di ogni degenza ospedaliera.
 
-## Krankenversicherung für Familien
+## Assicurazione sanitaria per famiglie
 
-###### Die Familienversicherung der Vivacare ist ein Komplettschutz für die ganze Familie. In der obligatorischen Krankenpflegeversicherung profitieren Sie von bis zu 78 Prozent Familienrabatt für das erste und zweite Kind. Für das dritte versicherte Kind gibt es sogar 90 Prozent Rabatt. In der Zusatzversicherung reduzieren sich die Prämien ab dem zweiten versicherten Kind um 50 Prozent. Die Reiseversicherung Vacanza ist inklusive, ebenso ein Gesundheitsrechtsschutz.
+###### L'assicurazione familiare di Vivacare è una protezione completa per tutta la famiglia. L'assicurazione sanitaria obbligatoria offre uno sconto fino al 78% sulla famiglia per il primo e il secondo figlio. C'è anche uno sconto del 90 percento per il terzo figlio assicurato. Nell'assicurazione complementare, i premi del secondo figlio assicurato sono ridotti del 50 percento. L'assicurazione di viaggio Vacanza è inclusa, così come una assicurazione di protezione giuridica della salute.
 
-## Das Versicherungsangebot der Vivacare im Vergleich
+## L'offerta assicurativa di Vivacare a confronto
 
-###### Passt das Leistungsangebot der Vivacare zu Ihren Bedürfnissen? Bei uns machen Sie den Vergleich und ermitteln mit dem Prämienrechner schnell und einfach Ihr Sparpotenzial. Bei Fragen beraten wir Sie auch gerne persönlich.
+###### La gamma di servizi Vivacare soddisfa le tue esigenze? Con noi effettui il confronto e determini con il calcolatore dei premi in modo facile e rapido il tuo potenziale di risparmio. In caso di domande, saremo lieti di consigliarti personalmente.

@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Visperterminen Krankenkasse"
+name: "Vita Surselva health insurance"
 shortName: "Visperterminen"
 location: "DLZ, 3932 Visperterminen"
 insured: ""
@@ -9,41 +9,35 @@ refundPeriod: "-"
 solvencyRate: "-"
 administrativeExpenses: "-"
 color: "#005484"
-description: "Die Krankenkasse Visperterminen ist ein regionaler Krankenversicherer für private Kunden in der Region Oberwallis. Als relativ kleine Krankenversicherung setzt das Unternehmen auf eine persönliche Beratung und enge Verbundenheit zur Region. Zum Angebot gehören neben der obligatorischen Grundversicherung auch diverse Zusatzversicherungen, darunter eine Produktlinie speziell für Nichtraucher."
+description: "The Vita Surselva health insurance fund is based in the town of Ilanz in the Surselva region, in the canton of Grisons. However, it is active throughout Switzerland. The health insurer was formed in 1991 through a merger of the Ruis health insurance fund and the ÖKK Group. Today, the company has around 5,000 policyholders, making it one of the smaller health insurance companies in Switzerland."
 ---
 
-## Drei Modelle der Grundversicherung
+## The range of basic insurance products
 
-###### Die Krankenkasse Visperterminen bietet drei Modelle der obligatorischen Krankenversicherung. In jedem Modell erhalten Sie dieselben, gesetzlich vorgeschriebenen Leistungen. Der Unterschied besteht lediglich darin, an welchen Arzt Sie sich im Krankheitsfall wenden können.
+###### Vita Surselva offers two models of compulsory basic insurance. In the Standard model (free choice of doctor), you are free to choose which doctor you visit in the event of illness. You can contact your family doctor, go to a group practice (HMO) or consult a specialist directly.
 
-### Medica Basis ist das Modell Standard (freie Arztwahl), in dem Sie selbst entscheiden, ob Sie im Krankheitsfall zunächst Ihren Hausarzt, eine Gruppenpraxis (HMO) oder einen Spezialisten aufsuchen.
+###### The family doctor model Sparmed offers the same services as the standard model, but restricts the choice of the first contact person to the family doctor. In return, the health insurance company grants you lucrative discounts. You choose your family doctor from a list of affiliated doctors.
 
-### Medicasa Hausarztmodell legt fest, dass Sie im Krankheitsfall zunächst Ihren Hausarzt konsultieren.
+## Save premiums with a higher franchise
 
-### Telmed Telemedizin sieht vor, dass Sie sich im Krankheitsfall zuerst an eine telemedizinische Beratungsstelle wenden, die einen individuellen Behandlungsplan festlegt.
+###### In addition to the choice of an alternative insurance model, there is also the option of reducing the insurance premium by means of a higher annual deductible. Adults can pay a voluntary deductible of up to 2,500 Swiss francs per year; children can pay an annual deductible of up to 600 Swiss francs. Vita Surselva does not offer a family discount.
 
-## So können Sie Ihre Prämien reduzieren
+## Supplementary insurance with Vita Surselva
 
-###### Für die Wahl eines alternativen Versicherungsmodells gewährt die KK Visperterminen lukrative Rabatte von bis zu 11 Prozent. Schliessen Sie eine höhere Franchise ab, können Sie Ihre Prämie ebenfalls reduzieren. Die maximale Jahresfranchise für Erwachsene beträgt 2'500 Schweizer Franken, für Kinder 600 Franken.
+###### A voluntary supplementary insurance expands the scope of benefits of the compulsory health insurance. With Vita Surselva, you can take out the supplementary insurance "General supplement" for outpatient treatment. This covers, among other things, preventive measures, visual aids and aids, alternative medicine, non-medical psychotherapeutic treatment, non-compulsory medication and emergency treatment abroad.
 
-## Nichtraucher-Versicherung der KK Visperterminen
+## In addition, the Surselva Cumpletta supplementary insurance with partially higher reimbursements is also available.
 
-###### Mit ihrer Zusatzversicherung möchte die KKV eine gesunde Lebensweise belohnen. Die Produktlinie Sanvita wendet sich daher speziell an Nichtraucher und bietet diesen besonders geringe Versicherungsprämien. Raucherbedingte Leiden werden in diesem Tarif nicht erstattet.
+###### Dental and orthodontic treatments are covered by Denta dental insurance. There are three benefit classes to choose from; the cost coverage is between 50 and 75 percent, with a maximum of 3,000 Swiss francs per calendar year.
 
-###### Zur Produktlinie gehören die ambulanten Zusatzversicherungen Sanvita plus eins und plus zwei. Sie unterscheiden sich in der Höhe der jeweiligen Erstattungen. Ausserdem können Sie eine Spitalzusatzversicherung in verschiedenen Leistungsstufen abschliessen. Je nach Leistungsstufe erstattet die Versicherung die Unterbringung auf der allgemeinen Abteilung, halbprivat oder privat. Alternativ steht die Spitalversicherung switch zur Wahl, bei der Sie jeweils kurz vor dem Aufenthalt im Spital entscheiden, wie Sie untergebracht werden möchten.
+## The hospital insurance of Vita Surselva
 
-## Ambulante Zusatzversicherung für Alternativmedizin
+###### With supplementary hospital insurance, you ensure more comfort and freedom of choice during your stay in hospital. The Surselva Kombi A tariff, for example, offers accommodation in a general ward in a Swiss hospital of your choice.
 
-###### Mit dem Tarif Activa bietet die KKV eine ambulante Zusatzversicherung für alle Versicherungsnehmer an, die insbesondere auf komplementärmedizinische Behandlungen Wert legen. Behandlungen aus dem Bereich der Alternativmedizin erstattet Activa zu 75 Prozent, bis zu 1'500 Schweizer Franken im Jahr. Darüber hinaus beteiligt sich die Versicherung an den Kosten für Sehhilfen, Haushaltshilfen, Präventionsmassnahmen sowie Notfallbehandlungen und Rettungen im Ausland.
+###### With the Activa product line tariffs, you can insure not only accommodation in a general ward but also a stay in a semi-private or private ward. The Activa switch tariff gives you the flexibility to choose the comfort you want before your stay in hospital.
 
-## Zahnpflegeversicherung Denta
+###### Sanvita hospital insurances are specially designed for non-smokers. The treatment of smoking-related illnesses is not covered, but non-smokers pay lower premiums. In this product line, too, you can choose from the performance classes general, semi-private, private and switch.
 
-###### Denta ist eine zusätzliche Zahnversicherung, mit der Sie sich vor hohen Zahnbehandlungskosten schützen. Je nach Leistungsklasse erstattet die Versicherung zwischen 50 bis 75 Prozent der Behandlungskosten, bis zu 1'000, 1'500 oder 3'000 Schweizer Franken im Kalenderjahr.
+## A comparison of Vita Surselva's insurance range
 
-## Familienrabatt in den Zusatzversicherungen
-
-###### Ist mindestens ein Elternteil in den ambulanten Produkten Sanvita oder Activa versichert, erhalten Kinder beim Abschluss der gleichen Versicherung einen Prämienrabatt von 20 Prozent.
-
-## Das Versicherungsangebot der KK Visperterminen im Vergleich
-
-###### Möchten Sie zur KK Visperterminen wechseln, machen Sie zunächst den Vergleich. Mit unserem Prämienrechner ermitteln Sie mit wenigen Klicks Ihr Sparpotenzial. Anschliessend können Sie direkt eine unverbindliche Offerte einholen.
+###### Before you change your health insurance, it is worth comparing the offers in detail. Use our premium calculator to find out how much you can save by switching to Vita Surselva. If you have any questions, we will be happy to advise you!

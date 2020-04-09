@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Swica Krankenkasse"
+name: "Swica Cassa malati"
 shortName: "Swica"
 location: "Römerstrasse 38, 8400 Winterthur"
 insured: "626'389"
@@ -9,41 +9,41 @@ refundPeriod: "2"
 solvencyRate: "133%"
 administrativeExpenses: "159"
 color: "#12AE9C"
-description: "Die Swica Holding ging im Jahr 1992 aus dem Zusammenschluss vier verschiedener Krankenkassen hervor. Das Unternehmen konzentriert sich auf die Bereiche Krankenversicherung und Unfallversicherung. Der Hauptsitz befindet sich in Winterthur. Zum Angebot gehören die obligatorische Grundversicherung sowie verschiedene Zusatzversicherungen, darunter eine Spitalversicherung, Zahnversicherung und Tagegeldversicherung. Mehr als 1,3 Millionen Privatpersonen haben eine Krankenversicherung bei der Swica abgeschlossen, die Prämieneinnahmen lagen im Jahr 2018 bei 4,6 Milliarden Schweizer Franken. Vergleichen Sie das Versicherungsangebot und finden Sie die Krankenkasse, die am besten zu Ihnen passt."
+description: "Swica Holding è nata nel 1992 dalla fusione di quattro diverse assicurazioni sanitarie. La compagnia si concentra sull'assicurazione sanitaria e l'assicurazione infortuni. La sede principale è a Winterthur. L'offerta comprende l'assicurazione obbligatoria di base e varie assicurazioni integrative, tra cui un'assicurazione ospedaliera, un'assicurazione dentale e un'assicurazione giornaliera. Oltre 1,3 milioni di privati hanno stipulato un'assicurazione sanitaria con Swica, con un reddito premi di 4,6 miliardi di franchi svizzeri nel 2018. Confronta l'offerta assicurativa e trova la cassa malati più adatta a te."
 ---
 
-## Swica Grundversicherung
+## Assicurazione di base Swica
 
-###### Bei der Swica Krankenkasse können Privatpersonen ihre obligatorische Krankenpflegeversicherung abschliessen. Die Swica Grundversicherung steht in zwei verschiedenen Tarifen zur Wahl: Beim Standard-Modell besteht für Versicherungsnehmer uneingeschränkt freie Arztwahl. Die Prämienhöhe richtet sich nach der Franchise.
+###### Alla cassa malati Swica, le persone hanno la possibilità di stipulare un'assicurazione sanitaria obbligatoria. L’assicurazione di base di Swica è disponibile in due diverse tariffe: nel modello Standard, gli assicurati hanno la libera scelta del medico e l’importo del premio dipende dalla franchigia.
 
-###### Mit den Favorit-Modellen können Sie Ihre Prämienbeiträge senken. Im Gegenzug geben die Modelle vor, an welchen Ansprechpartner Sie sich im Krankheitsfall zuerst wenden müssen:
+###### Con i modelli Favorit, possono abbassare i contributi dei premi. In cambio, i modelli specificano il contatto di quale persona è necessario contattare prima in caso di malattia:
 
-### Beim Modell FAVORIT CASA nehmen Sie im Behandlungsfall zunächst Kontakt zu Ihrem Hausarzt auf, der Sie gegebenenfalls zu einem Spezialisten überweist.
+### Nel caso del modello FAVORIT CASA, in caso di trattamento si contatta prima il medico di famiglia, che se necessario lo farà riferimento a uno specialista.
 
-### Beim Modell FAVORIT MEDICA können Sie Ihren Arzt aus einer Ärzteliste wählen.
+### Per il modello FAVORIT MEDICA, è possibile scegliere il proprio medico da un elenco di medici.
 
-### Beim Modell FAVORIT MEDPHARM ist Ihr erster Ansprechpartner eine Partnerapotheke oder santé24.
+### Per il modello FAVORIT MEDPHARM, il primo punto di contatto è una farmacia partner o santé24.
 
-### Wählen Sie den Tarif FAVORIT SANTE, wenden Sie sich zunächst an das Medbase Gesundheitszentrum oder eine Gruppenpraxis (HMO).
+### Se scegli la tariffa FAVORIT SANTE, contatti prima il centro medico Medbase o uno studio medico collettivo (HMO).
 
-### Das Telemedizin Modell FAVORIT TELMED sieht vor, dass Sie im Krankheitsfall Kontakt zur Hotline von santé24 aufnehmen. Die medizinischen Mitarbeiter überweisen Sie bei Bedarf an einen Arzt oder ins Spital.
+### Il modello di telemedicina FAVORIT TELMED consente in caso di malattia di contattare la linea telefonica di santé24. Il personale medico ti trasferirà, se necessario, a un medico o all'ospedale.
 
-## Swica Zusatzversicherungen
+## Assicurazioni complementari Swica
 
-###### Mit Zusatzversicherungen lässt sich die Grundversicherung um individuelle Leistungen ergänzen. Die Swica Krankenversicherung bietet gleich mehrere Zusatzversicherungen an, darunter zum Beispiel eine Spitalversicherung und eine Zahnversicherung. Die wichtigsten Tarife:
+###### L'assicurazione di base può essere integrata con singoli servizi delle assicurazioni complementari. L'assicurazione sanitaria Swica offre diverse assicurazioni integrative, tra cui, ad esempio, un'assicurazione ospedaliera e un'assicurazione dentale. Le tariffe più importanti:
 
-### COMPLETA TOP: Die Zusatzversicherung schliesst die Lücken der Grundversicherung. Sie erhalten einen umfassenden Versicherungsschutz bei Notfällen in der Schweiz und im Ausland, weltweite telefonische Gesundheitsberatung sowie Zuschüsse für Brillen, Kontaktlinsen und Zahnbehandlungen. Ausserdem deckt die Zusatzversicherung Behandlungen mit Alternativmedizin ab.
+### COMPLETA TOP: l'assicurazione integrativa colma le lacune dell'assicurazione di base. Riceverai una copertura assicurativa completa in caso di emergenza in Svizzera e all'estero, consulenza sanitaria telefonica in tutto il mondo e sussidi per occhiali, contatti e cure dentistiche. Inoltre, l'assicurazione integrativa copre i trattamenti di medicina alternativa.
 
-### COMPLETA PRAEVENTA ergänzt die Zusatzversicherung COMPLETA TOP durch Beiträge zur Gesundheitsförderung, etwa zu Impfungen, Bewegungsprogrammen und Präventionsmassnahmen.
+### COMPLETA PRAEVENTA completa l'assicurazione integrativa COMPLETA TOP con contributi alla promozione della salute, quali vaccinazioni, programmi di esercizi e misure preventive.
 
-### Mit OPTIMA erhalten Sie erweiterte Beiträge zu vielen Gesundheitsbereichen, ausserdem deckt die Zusatzversicherung ambulante Behandlungen weltweit ab.
+### Con OPTIMA ricevi contributi estesi a molte aree di assistenza sanitaria e l’assicurazione integrativa copre le cure ambulatoriali in tutto il mondo.
 
-### SUPPLEMENTA ergänzt COMPLETE TOP um höhere Zuschüsse für Brillen, Kontaktlinsen, medizinische Hilfsmittel und Krankentransporte in der Schweiz und im Ausland.
+### SUPPLEMENTA integra TOP COMPLETO con sussidi più elevati per occhiali, lenti di scia, aiuti medici e servizi di ambulanza in Svizzera e all'estero.
 
-### Die Zahnversicherung DENTA leistet Beiträge zu Kontrolluntersuchungen, Dentalhygiene und zahnärztlichen Behandlungen.
+### L'assicurazione dentale DENTA contribuisce a controlli, igiene dentale e trattamenti dentali.
 
-###### Zusätzlich haben Sie die Möglichkeit, eine HOSPITA Spitalzusatzversicherung abzuschliessen. Je nach Modell können sie zwischen der Unterbringung in der allgemeinen, halbprivaten oder privaten Spitalabteilung wählen und geniessen zusätzlichen Komfort.
+###### Inoltre hai la possibilità di completare un’assicurazione complementare ambulatoriale HOSPITA. A seconda del modello, è possibile scegliere tra un alloggio nel reparto ospedaliero generale, semi-privato o privato e godere di un ulteriore comfort.
 
-## Swica Versicherungsangebote vergleichen und Krankenkasse wechseln
+## Confrontare le offerte assicurative Swica e cambiare la cassa malati
 
-###### Die Leistungen der Grundversicherung sind gesetzlich vorgeschrieben und unterscheiden sich bei den einzelnen Krankenversicherern nicht. Anders sieht es bei den Zusatzversicherungen aus. Passt das Angebot der Swica Krankenversicherung zu Ihnen? Machen Sie den Online-Vergleich oder lassen Sie sich von uns kostenlos beraten.
+###### I servizi assicurativi di base sono stabiliti dalla legge e non differiscono tra i singoli assicuratori sanitari. La situazione è diversa per quanto riguarda le assicurazioni integrative. L'offerta di assicurazione sanitaria Swica fa al caso tuo? Effettua il confronto online o lasciati consigliare gratuitamente.

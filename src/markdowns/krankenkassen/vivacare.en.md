@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Vivacare"
+name: "Vivacare health insurance"
 shortName: "Vivacare"
 location: "Weltpoststrasse 19-21, Postfach 253, 3000 Bern 15"
 insured: "50'292"
@@ -9,45 +9,45 @@ refundPeriod: "10"
 solvencyRate: "267%"
 administrativeExpenses: "109"
 color: "#E2001A"
-description: "Die Vivacare gehört zur Visana Versicherungsgruppe. Ihren Hauptsitz hat die AG in Bern. Allein in der Grundversicherung zählt sie mehr als 45'000 Versicherungsnehmer. Sowohl in der obligatorischen Krankenpflegeversicherung als auch in der Zusatzversicherung stützt sich die Krankenkasse auf das Leistungsangebot der Visana und bietet vor allem für Familien attraktive Produkte an."
+description: "Vivacare belongs to the Visana Insurance Group. The AG has its headquarters in Bern. In basic insurance alone, it has more than 45,000 policyholders. Both in the compulsory health insurance and in the supplementary insurance, the health insurance fund relies on the services offered by Visana and offers attractive products, especially for families."
 ---
 
-## Mehrere Modelle der Grundversicherung
+## Three basic insurance models
 
-###### Die Vivacare Krankenkasse bietet mehrere Modelle der obligatorischen Krankenpflegeversicherung. Im Modell Standard (freie Arztwahl) entscheiden Sie selbst über den Arzt Ihres Vertrauens. Daneben stehen verschiedene alternative Versicherungsmodelle zur Wahl:
+###### Vivacare Krankenkasse offers several models of compulsory health insurance. In the Standard model (free choice of doctor), you decide which doctor you trust. There are also various alternative insurance models to choose from:
 
-### Managed Care: Ihr erster Ansprechpartner ist Ihr Hausarzt oder eine Gruppenpraxis (HMO).
+### Managed Care: Your first point of contact is your family doctor or a group practice (HMO).
 
-### Med Direkt: Sie wenden sich im Krankheitsfall zunächst an Ihren Hausarzt.
+### Med Direct: In the event of illness, you first contact your family doctor.
 
-### Tel Doc: Sie wenden sich vor dem Arztbesuch an das telemedizinische Beratungszentrum Medi24 und erhalten einen verbindlichen Behandlungsplan.
+### Tel Doc: Before you visit your doctor, you contact the Medi24 telemedical advice centre and receive a binding treatment plan.
 
-### Med Call: Sie wenden sich ans telemedizinische Beratungszentrum, der Behandlungsplan ist jedoch unverbindlich.
+### Med Call: You contact the telemedical advice centre, but the treatment plan is non-binding.
 
-### Tel Care: Dieser Telmed-Tarif steht nur in bestimmten Kantonen zur Verfügung.
+### Tel Care: This Telmed tariff is only available in certain cantons.
 
-## So können Sie Ihre Versicherungsprämie senken
+## This is how you can reduce your health insurance premium
 
-###### Die alternativen Versicherungsmodelle schränken zwar die Wahl des ersten Ansprechpartners im Krankheitsfall ein, dafür zahlen Sie aber auch um bis zu 16 Prozent geringere Prämien. Rabatte gewährt die Krankenversicherung ausserdem, wenn Sie Ihre Jahresfranchise erhöhen. Erwachsene können freiwillig eine Franchise von bis zu 2'500 Schweizer Franken im Jahr zahlen, für Kinder beträgt die maximale Jahresfranchise 600 Franken.
+###### The alternative insurance models restrict the choice of the first contact person in the event of illness, but you also pay up to 16 percent lower premiums. Health insurance also grants discounts if you increase your annual deductible. Adults can voluntarily pay a franchise of up to 2,500 Swiss francs per year; for children the maximum annual franchise is 600 francs.
 
-## Zusatzversicherungen der Vivacare
+## Supplementary insurance from Vivacare
 
-###### Mit einer freiwilligen Zusatzversicherung erhalten Sie Leistungen, die über den gesetzlichen Versicherungsschutz hinausgehen. Bei der Vivacare können Sie sich für folgende zusätzliche Modelle entscheiden:
+###### With a voluntary supplementary insurance, you receive benefits that go beyond the statutory insurance cover. With Vivacare, you can opt for the following additional models:
 
-### Ambulant: erstattet unter anderem zusätzliche Medikamente, Transportkosten und Leistungen bei Mutterschaft. Schliesst ausserdem die Reiseversicherung Vacanza mit ein.
+### Out-patient: reimburses additional medication, transport costs and maternity benefits. Also includes Vacanza travel insurance.
 
-### Komplementär: ersetzt rund 50 Behandlungsformen aus dem Bereich der Alternativmedizin.
+### Complementary: replaces around 50 forms of treatment in the field of alternative medicine.
 
-### Zahnversicherung: erstattet die Kosten für Zahnbehandlungen, Kontrolle, Dentalhygiene und Kieferorthopädie in acht Leistungsstufen. Maximal erhalten Sie 75 Prozent, bis zu 1'800 Franken im Kalenderjahr, ersetzt.
+### Dental insurance: reimburses the costs of dental treatment, check-ups, dental hygiene and orthodontics in eight benefit levels. The maximum reimbursement is 75 percent, up to CHF 1,800 per calendar year.
 
-## Gut versichert ins Spital
+## Well insured to the hospital
 
-###### Die Vivacare Krankenkasse bietet auch eine Spitalzusatzversicherung an. Sie können aus vier Leistungsstufen wählen: Spital allgemein, halbprivat, privat und flex. Jede Spitalversicherung bietet Ihnen freie Spitalwahl in der gesamten Schweiz, in den Tarifen halbprivat, privat und flex können Sie auch den behandelnden Arzt frei wählen. Mit flex entscheiden Sie sich kurzfristig vor jedem Spitalaufenthalt für den gewünschten Komfort.
+###### Vivacare Krankenkasse also offers supplementary hospital insurance. You can choose from four benefit levels: General hospital, semi-private, private and flex. Each hospital insurance offers you free choice of hospital throughout Switzerland, in the tariffs semi-private, private and flex you can also freely choose the doctor treating you. With flex, you can choose the desired comfort at short notice before each hospital stay.
 
-## Krankenversicherung für Familien
+## Health insurance for families
 
-###### Die Familienversicherung der Vivacare ist ein Komplettschutz für die ganze Familie. In der obligatorischen Krankenpflegeversicherung profitieren Sie von bis zu 78 Prozent Familienrabatt für das erste und zweite Kind. Für das dritte versicherte Kind gibt es sogar 90 Prozent Rabatt. In der Zusatzversicherung reduzieren sich die Prämien ab dem zweiten versicherten Kind um 50 Prozent. Die Reiseversicherung Vacanza ist inklusive, ebenso ein Gesundheitsrechtsschutz.
+###### Vivacare's family insurance is a complete cover for the whole family. In the compulsory health insurance, you benefit from up to 78 percent family discount for the first and second child. There is even a 90 percent discount for the third insured child. In supplementary insurance, premiums are reduced by 50 percent from the second insured child onwards. The Vacanza travel insurance is included, as is legal health insurance.
 
-## Das Versicherungsangebot der Vivacare im Vergleich
+## Vivacare's insurance offer in comparison
 
-###### Passt das Leistungsangebot der Vivacare zu Ihren Bedürfnissen? Bei uns machen Sie den Vergleich und ermitteln mit dem Prämienrechner schnell und einfach Ihr Sparpotenzial. Bei Fragen beraten wir Sie auch gerne persönlich.
+###### Does Vivacare's range of services meet your needs? With us, you make the comparison and determine your savings potential quickly and easily with the premium calculator. If you have any questions, we will be happy to advise you personally.

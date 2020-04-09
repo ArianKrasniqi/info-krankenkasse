@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Luzerner Hinterland Krankenkasse"
+name: "Caisse d’assurance maladie Luzerner Hinterland"
 shortName: "Luzerner Hinterland"
 location: "Luzernstrasse 19, 6144 Zell"
 insured: "23'163"
@@ -9,33 +9,33 @@ refundPeriod: "6"
 solvencyRate: "250%"
 administrativeExpenses: "79"
 color: "#FAB700"
-description: "Die Krankenkasse Luzerner Hinterland hat ihren Sitz in Zell und zählt rund 20'000 Mitglieder. Wie der Name andeutet, ist die Krankenversicherung stark in der Luzerner Landschaft verankert, ist insgesamt aber in zehn Kantonen tätig. Gegründet wurde sie bereits im Jahr 1905. Mehr über Leistungen und Prämien der traditionsreichen Krankenkasse erfahren Sie in unserem Versicherungs-Vergleich."
+description: "La caisse d'assurance maladie Luzerner Hinterland est basée à Zell et compte environ 20.000 membres. Comme son nom l'indique, l'assurance maladie est fortement ancrée dans le paysage de Lucerne, mais opère dans dix cantons au total. Vous trouverez de plus amples informations sur les prestations et les primes de l'assurance maladie traditionnelle dans notre comparatif d’assurances."
 ---
 
-## Die Grundversicherung der Luzerner Hinterland
+## L'assurance de base de Luzerner Hinterland
 
-###### Die Grundversicherung ist für jeden Einwohner der Schweiz obligatorisch, der Leistungsumfang ist gesetzlich vorgegeben. Der Leistungsumfang des traditionellen Modells ist daher von Krankenkasse zu Krankenkasse gleich, jedoch unterscheidet sich die Höhe der Prämien zum Teil deutlich. Darüber hinaus bieten die Versicherer unterschiedliche alternative Modelle, für die sie lukrative Prämien-Rabatte gewähren.
+###### L'assurance de base est obligatoire pour toute personne domiciliée en Suisse, l'étendue des prestations est fixée par la loi. L'étendue des prestations du modèle traditionnel est donc la même d'une caisse d'assurance maladie à l'autre, mais le niveau des primes varie considérablement dans certains cas. En outre, les assureurs proposent différents modèles alternatifs pour lesquels ils accordent des rabais de primes lucratifs.
 
-###### Bei der Krankenversicherung Luzerner Hinterland haben Sie die Auswahl zwischen dem Modell Standard (freie Arztwahl) und einem Hausarzt-Modell. Beim traditionellen Modell können Sie frei entscheiden, welchen Arzt Sie im Krankheitsfall aufsuchen, einen Hausarzt oder einen Spezialisten. Wählen Sie das Hausarzt-Modell, ist immer Ihr Hausarzt der erste Ansprechpartner.
+###### Avec l'assurance maladie Luzerner Hinterland, vous avez le choix entre le modèle Standard (libre choix du médecin) et un modèle médecin de famille. Avec le modèle traditionnel, vous êtes libre de choisir le médecin que vous consulterez en cas de maladie, un médecin de famille ou un spécialiste. Si vous choisissez le modèle du médecin de famille, votre médecin de famille est toujours le premier point de contact.
 
-## Prämien-Rabatte durch höhere Franchise
+## Réductions de prime grâce à des taux de franchise plus élevés
 
-###### Wer in der Grundversicherung Prämien sparen möchte, kann auch eine höhere Franchise vereinbaren. Für Erwachsene beträgt die maximale Jahresfranchise 2'500 Franken, für Kinder 600 Franken. Eine Änderung der Jahresfranchise können Sie jeweils bis zu 30. November beantragen.
+###### Si vous souhaitez économiser des primes sur votre assurance de base, vous pouvez également souscrire une franchise plus élevée. La franchise annuelle maximale est de 2500 francs pour les adultes et de 600 francs pour les enfants. Vous pouvez demander un changement de franchise annuelle jusqu'au 30 novembre.
 
-## Mehr Leistungen mit einer freiwilligen Zusatzversicherung
+## Plus d'avantages avec l'assurance complémentaire facultative
 
-###### Mit einer freiwilligen Zusatzversicherung können Sie Ihren Versicherungsschutz auf Ihre persönlichen Bedürfnisse abstimmen. Sie erhalten zum Beispiel höhere Beiträge zur Gesundheitsvorsorge oder zur Alternativmedizin oder mehr Komfort im Spital.
+###### Avec l'assurance complémentaire facultative, vous pouvez adapter votre couverture d'assurance à vos besoins personnels. Par exemple, vous recevrez des contributions plus élevées pour les soins de santé ou les médecines traditionnelles ou plus de confort à l'hôpital.
 
-###### Die Krankenpflege-Zusatzversicherung (ZEB) der Luzerner Hinterland ergänzt die Grundversicherung im ambulanten Bereich. Sie leistet höhere Erstattungen für Alternativmedizin, medizinische Hilfsmittel und Sehhilfen, Nichtpflichtmedikamente, Transportkosten und Zahnbehandlungen bei Kindern.
+###### L'assurance maladie complémentaire (ZEB) de Luzerner Hinterland complète l'assurance de base ambulatoire. Il couvre des remboursements plus élevés pour les médecines alternatives, les aides médicales et les aides visuelles, les médicaments en vente libre, les frais de transplantation et les traitements dentaires pour les enfants.
 
-###### Die Dentalversicherung deckt zahnärztliche Behandlungen für Erwachsene ab. Die Zahnversicherung der Luzerner Hinterland bietet verschiedene Leistungsstufen, die maximale Kostenübernahme liegt bei 75 Prozent, bis zu 5'000 Schweizer Franken im Kalenderjahr.
+###### L'assurance dentaire couvre les soins dentaires pour adultes. L'assurance dentaire de Luzerner Hinterland offre différents niveaux de prestations, la couverture maximale est de 75 pour cent, jusqu'à 5'000 francs suisses par année civile.
 
-###### Die Spitalversicherung Kombi lässt Sie Arzt und Spital in der gesamten Schweiz frei wählen. In der Tarifstufe 1 erhalten Sie Unterbringung im Mehrbettzimmer auf der allgemeinen Abteilung. Mit Tarifstufe 2 werden sie halbprivat im Zwei-Bett-Zimmer, mit Stufe 3 privat im Einzelzimmer untergebracht. Die Spitalzusatzversicherung Kombi Hotel erstattet allgemeine Leistungen im Ein- oder Zwei-Bett-Zimmer.
+###### L'assurance hospitalisation Kombi vous permet de choisir librement votre médecin et votre hôpital dans toute la Suisse. Au niveau tarifaire 1, vous êtes logé dans une chambre partagée en division commune. Avec le niveau tarifaire 2, vous serez logés en chambre à deux lits, avec le niveau 3 en chambre individuelle. L'assurance complémentaire d'hospitalisation Kombi Hotel rembourse les services généraux dans des chambres à 1 ou 2 lits.
 
-## Familienrabatt der Luzerner Hinterland
+## Réduction familiale de Luzerner Hinterland
 
-###### Familien mit mehr als zwei Kindern erhalten Rabatte, wenn sie ihren Nachwuchs ebenfalls bei der Krankenkasse Luzerner Hinterland versichern lassen. In der Grundversicherung gibt es Familienrabatt für das dritte Kind, die Prämie sinkt um 30 Prozent. Die Krankenpflege-Zusatzversicherung ist für das dritte Kind sogar gratis, bis das älteste Geschwisterkind das 15. Lebensjahr erreicht hat.
+###### Les familles ayant plus de deux enfants bénéficient d'une réduction si leurs enfants sont également assurés auprès de la caisse d'assurance maladie Luzerner Hinterland. Dans l'assurance de base, il y a une réduction familiale pour le troisième enfant, la prime diminue de 30 pour cent. L'assurance maladie complémentaire pour le troisième enfant est également gratuite jusqu'à ce que l'aîné atteigne l'âge de 15 ans.
 
-## Versicherungsangebote im Vergleich
+## Comparaison des offres d'assurance
 
-###### Stellen Sie das Angebot der Luzerner Hinterland anderen Krankenkassen im Vergleich gegenüber. Wie viel können Sie sparen, wenn Sie Ihre Krankenversicherung wechseln? Lohnt sich vielleicht schon der Wechsel in ein alternatives Versicherungsmodell? Welche Zusatzversicherung ist ideal für Sie? Mit unserem Prämien-Rechner findet Sie das in wenigen Minuten heraus. Anschliessend können Sie direkt ein unverbindliches Versicherungsangebot einholen - selbstverständlich komplett kostenlos.
+###### Comparer les offres de Luzerner Hinterland avec celles d'autres caisses maladie. Combien pouvez-vous économiser si vous changez d'assurance maladie ? Cela vaut-il peut-être la peine de passer à un modèle d'assurance alternatif ? Quelle assurance complémentaire vous convient le mieux ? Avec notre calculateur de prime, vous le saurez en quelques minutes. Dans ce cas, vous pouvez obtenir directement une offre d'assurance sans engagement, et ce sans aucun frais, bien entendu.

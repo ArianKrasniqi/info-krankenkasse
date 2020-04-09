@@ -1,7 +1,7 @@
 ---
 lang: "en"
 type: "krankenkasse"
-name: "Sana24 Krankenkasse"
+name: "Sana24 health insurance"
 shortName: "Sana24"
 location: "Weltpoststrasse 19, 3015 Bern"
 insured: "69'020"
@@ -9,35 +9,35 @@ refundPeriod: "5"
 solvencyRate: "291%"
 administrativeExpenses: "92"
 color: "#E2001A"
-description: "Die Sana24 Krankenkasse gehört zur Visana, einer der führenden Krankenversicherungen der Schweiz. Im Jahr 2018 zählte das Unternehmen mit Sitz in Bern mehr als 63'400 Versicherungsnehmer in der Grundversicherung. Daneben bietet die Krankenversicherung auch freiwillige Zusatzversicherungen an. Profitieren Sie jetzt von einem Vergleich der Prämien der Sana24 und finden Sie eine günstige Krankenkasse."
+description: "Sana24 health insurance belongs to Visana, one of the leading health insurance companies in Switzerland. In 2018, the Berne-based company had more than 63,400 policyholders in basic insurance. In addition, the health insurance also offers voluntary supplementary insurance. Profit now from a comparison of the premiums of Sana24 and find a favorable health insurance company."
 ---
 
-## Modelle der Grundversicherung
+## Models of basic insurance
 
-###### Die Leistungen der obligatorischen Grundversicherung sind vom Krankenversicherungsgesetz (KVG) vorgegeben und bei jeder Krankenkasse gleich. Abhängig von Krankenversicherung und Kanton unterscheiden sich jedoch die Prämien.
+###### The benefits of compulsory basic health insurance are specified by the Health Insurance Act (KVG) and are the same for all health insurance funds. However, the premiums differ depending on the health insurance and canton.
 
-###### Neben dem Modell Standard (freie Arztwahl) bietet die Sana24 fünf alternative Versicherungsmodelle an. Im traditionellen Modell können Sie Ihren Arzt im Krankheitsfall frei wählen, die anderen Modelle schränken die Wahl des ersten Ansprechpartners ein. Im Modellen Managed Care (Hausarzt) wenden Sie sich zunächst an Ihren Hausarzt oder eine Gruppenpraxis (HMO). Im Modell Med Direct (Hausarzt) ist Ihr Hausarzt der erste Ansprechpartner.
+###### In addition to the Standard model (free choice of doctor), Sana24 offers five alternative insurance models. In the traditional model, you can choose your doctor freely in the event of illness; the other models restrict the choice of the first contact person. In the Managed Care (family doctor) model, you first contact your family doctor or a group practice (HMO). In the Med Direct model (general practitioner), your general practitioner is the first point of contact.
 
-###### Darüber hinaus gibt es drei Telmed-Modelle: Im Modell TelDoc (Telmed) gibt die medizinische Beratungshotline einen verbindlichen Behandlungsplan vor. Im Modell Med Call (Telmed) entscheiden Sie selbst, ob Sie dem Behandlungsplan folgen oder nicht. Der Tarif TelCare (Telmed) steht nur in bestimmten Kantonen zur Verfügung.
+###### There are also three Telmed models: In the TelDoc (Telmed) model, the medical advice hotline prescribes a binding treatment plan. In the Med Call (Telmed) model, you decide for yourself whether you follow the treatment plan or not. The TelCare (Telmed) tariff is only available in certain cantons.
 
-## Prämien-Rabatte in der Grundversicherung
+## Premium discounts in basic insurance
 
-###### Für die Wahl eines alternativen Versicherungsmodells erhalten Sie Prämien-Rabatte von bis zu 17 Prozent. Ihre Prämien können Sie zudem reduzieren, wenn Sie sich für eine höhere Franchise entscheiden. Die reguläre Franchise für Erwachsene beträgt 300 Schweizer Franken pro Jahr, lässt sich aber bis auf 2'500 Franken heraufsetzen.
+###### When you choose an alternative insurance model, you receive premium discounts of up to 17 percent. You can also reduce your premiums by opting for a higher deductible. The regular franchise for adults is CHF 300 per year, but can be increased up to CHF 2,500.
 
-## Freiwillige Zusatzversicherung für ambulante Behandlungen und fürs Spital
+## Voluntary supplementary insurance for outpatient treatment and hospital treatment
 
-###### Mit einer freiwilligen Zusatzversicherung können Sie Ihren Versicherungsschutz gemäss Ihrer individuellen Bedürfnisse erweitern und erhalten zum Beispiel höhere Zuschüsse für Prävention, Hilfsmittel und Alternativmedizin. Sana24 Ambulant ist eine Zusatzversicherung für ambulante Behandlungen. Komplementär leistet Erstattungen für 50 Behandlungsmethoden der Alternativmedizin. Beide Zusatzversicherungen stehen in drei Leistungsstufen zur Wahl.
+###### With a voluntary supplementary insurance, you can extend your insurance cover according to your individual needs and receive, for example, higher subsidies for prevention, aids and alternative medicine. Sana24 Ambulant is a supplementary insurance policy for outpatient treatment. The complementary insurance provides reimbursement for 50 treatment methods in alternative medicine. Both supplementary insurances are available in three benefit levels.
 
-###### Mit einer Spitalzusatzversicherung sichern Sie sich mehr Komfort beim Aufenthalt im Spital. Die Spitalversicherung der Sana24 Krankenkasse gibt es in den Varianten allgemein, Flex, halbprivat und privat. Jedes Modell gewährt Ihnen freie Spitalwahl in der gesamten Schweiz, mit Flex, halbprivat und privat können Sie zudem Ihren behandelnden Arzt frei wählen.
+###### With supplementary hospital insurance, you are assured more comfort during your stay in hospital. Sana24 Krankenkasse hospital insurance is available in general, flex, semi-private and private versions. Each model gives you free hospital choice throughout Switzerland, with Flex, semi-private and private you can also choose your doctor.
 
-###### Die freiwillige Zahnversicherung schützt Sie vor hohen Zahnarztkosten. In drei Leistungsstufen erstattet sie bis zu 75 Prozent der Behandlungskosten, maximal 1'800 Franken im Jahr.
+###### The voluntary dental insurance protects you against high dentist costs. It reimburses up to 75 percent of treatment costs in three benefit levels, up to a maximum of CHF 1,800 per year.
 
-###### Die Zusatzversicherung Basic kombiniert die Modelle Ambulant II und Komplementär II mit einer Spitalversicherung nach Wahl und der Reiseversicherung Vacanza.
+###### The Basic supplementary insurance combines the Ambulant II and General II models with a hospital insurance of your choice and the Vacanza travel insurance.
 
-## Familienrabatt in der Grund- und Zusatzversicherung
+## Family discount in basic and supplementary insurance
 
-###### Für die genannten Zusatzversicherungen gewährt die Sana24 Krankenkasse einen Familienrabatt. Ab dem zweiten versicherten Kind unter 18 Jahren zahlen Haushalte nur 50 Prozent der eigentlichen Prämien. In der Grundversicherung betragen die Rabatte ab dem dritten versicherten Kind sogar bis zu 90 Prozent. Für mitversicherte Jugendliche zwischen 19 und 25 Jahren gibt es bis zu 27 Prozent Prämien-Nachlass.
+###### Sana24 Krankenkasse grants a family discount for the above-mentioned supplementary insurance policies. From the second insured child under the age of 18, households pay only 50 percent of the actual premiums. In basic health insurance, discounts are even up to 90 percent from the third insured child onwards. There is a discount of up to 27 percent on premiums for co-insured young people between the ages of 19 and 25.
 
-## Leistungen und Prämien im Vergleich
+## Comparison of benefits and premiums
 
-###### Möchten Sie herausfinden, wie viel Sie mit einem Wechsel zur Sana24 Krankenkasse tatsächlich sparen, machen Sie bei uns den Vergleich. Anschliessend können Sie gleich ein unverbindliches Versicherungsangebot anfordern.
+###### If you would like to find out how much you can actually save by switching to Sana24 health insurance, make a comparison with us. You can then request a non-binding insurance quote.

@@ -1,7 +1,7 @@
 ---
 lang: "it"
 type: "krankenkasse"
-name: "Sympany Krankenkasse"
+name: "Sympany Cassa malati"
 shortName: "Sympany"
 location: "Peter Merian-Weg 4, 4002 Basel"
 insured: "153'340"
@@ -9,41 +9,41 @@ refundPeriod: "7"
 solvencyRate: "181%"
 administrativeExpenses: "229"
 color: "#ED192E"
-description: "Die Sympany Krankenkasse existiert bereit seit 1914. Gegründet wurde der Versicherer unter dem Namen Öffentliche Krankenkasse (ÖKK) Basel. In Basel befindet sich auch der Hauptsitz. Heute besteht das Unternehmen aus fünf Versicherungsgesellschaften. Im Bereich der Krankenversicherung betreut der Versicherer 259'703 Privatkunden, allein 202'270 Personen haben eine Grundversicherung abgeschlossen. Im Jahr 2018 erzielte die Krankenkasse ein Prämienvolumen von 1'048 Millionen Schweizer Franken."
+description: "La cassa malati Sympany esiste già dal 1914, fondata con il nome di cassa pubblica malati (ÖKK) di Basilea, che è anche la sede principale. Oggi la compagnia è composta da cinque compagnie assicurative. Nel campo dell'assicurazione sanitaria, l'assicuratore serve 259'703 clienti privati, 202'270 persone hanno appena sottoscritto un'assicurazione di base. Nel 2018 la cassa malati ha generato un volume di premi pari a 1.048 milioni di franchi svizzeri."
 ---
 
-## Die Sympany Grundversicherung
+## L’assicurazione di base Sympany
 
-###### Die Sympany Krankenkasse bietet die obligatorische Schweizer Grundversicherung in verschiedenen Varianten an. Im Standard-Modell classic haben Sie freie Arztwahl in der gesamten Schweiz und erhalten alle gesetzlichen Pflichtleistungen. Die Grundversicherung classic schliesst zudem einige Behandlungsmethoden der Alternativmedizin sowie Notfall-Behandlungen im Ausland mit ein. Die Franchise beträgt mindestens 300 Schweizer Franken pro Jahr. Wählen Sie eine höhere Franchise, können Sie Ihre Versicherungsprämien senken.
+###### La cassa malati Sympany offre l'assicurazione svizzera obbligatoria di base in diverse varianti. Nel modello standard classico, hai una libera scelta del medico in tutta la Svizzera e ricevi tutti i servizi obbligatori previsti dalla legge. L'assicurazione di base classica comprende anche alcuni trattamenti di medicina alternativa e cure di emergenza all'estero. La franchigia è di almeno 300 franchi svizzeri l'anno. La scelta di una franchigia più elevata può ridurre i premi assicurativi.
 
-###### Eine Prämienersparnis bieten auch die alternativen Versicherungsmodelle der Grundversicherung. Je nach Modell zahlen Sie bis zu 18 Prozent weniger.
+###### I modelli assicurativi alternativi offerti dall’assicurazione di base offrono anche risparmi sui premi. A seconda del modello, paghi fino al 18 percento in meno.
 
-### casamed Hausarzt: Im Krankheitsfall besuchen Sie zunächst Ihren Hausarzt.
+### casamed medico di famiglia: in caso di malattia, il primo referente è il medico di famiglia.
 
-### casamed HMO: Ihr erster Ansprechpartner ist eine Gruppenpraxis (HMO).
+### casamed HMO: il tuo primo referente è uno studio medico collettivo (HMO).
 
-### callmed 24: Beim Telmed-Modell wenden Sie sich bei Gesundheitsfragen zunächst an eine kostenlose Beratungshotline.
+### ccallmed 24: Con il modello Telmed, ti rivolgi prima a una linea telefonica di consulenza gratuita per problemi di salute.
 
-### flexhelp24 Telemedizin-/ HMO-Modell: Sie wenden sich zunächst an ein telemedizinisches Beratungszentrum oder eine Gruppenpraxis (HMO).
+### Modello telemedicina flexhelp24-/HMO: ti rivolgi prima a un centro di consulenza di telemedicina o a uno studio medico collettivo (HMO).
 
-### casamed Pharm: Im Krankheitsfall suchen Sie zuerst eine Sympany Partnerapotheke auf und lassen sich dort beraten.
+### casamed Pharm: il primo luogo da visitare in caso di malattia dove ottenere dei consigli è una farmacia partner Sympany.
 
-###### Sympany Grenzgänger versichert Personen, die in der Schweiz arbeiten, aber im benachbarten Ausland leben.
+###### Sympany pendolari transfrontalieri assicura le persone che lavorano in Svizzera ma vivono nei paesi vicini.
 
-## Ambulante Zusatzversicherungen
+## Assicurazioni complementari - ambulatoriali
 
-###### Mit der ambulanten Zusatzversicherung Plus und Premium können Sie Ihren Versicherungsschutz abrunden. Die freiwilligen Zusatzversicherungen leisten Beiträge zu Vorsorgemassnahmen, zur Alternativmedizin und zu nichtkassenpflichtigen Medikamenten. Im Tarifmodell Premium erhalten Sie für viele Fälle doppelt so hohe Beiträge wie im Modell Plus.
+###### Puoi completare la tua copertura assicurativa con l'assicurazione complementare - ambulatoriale Plus e Premium. L'assicurazione complementare contribuisce a misure preventive, medicina alternativa e medicine non in contanti. Nel modello tariffario Premium, riceverai in molti casi il doppio rispetto al modello Plus.
 
-###### Die Sympany Zusatzversicherungen können Sie auch abschliessen, wenn Sie keine Grundversicherung der Krankenkasse gewählt haben.
+###### Puoi anche stipulare delle assicurazioni integrative Sympany se non hai scelto l’assicurazione di base della cassa malati.
 
-## Spitalzusatzversicherung Hospita
+## Assicurazione complementare - ambulatoriale Hospita
 
-###### Die Sympany Krankenversicherung bietet eine breite Auswahl an Spitalzusatzversicherungen an. Mit der Spitalversicherung Hospita allgemein haben Sie freie Spitalwahl in der ganzen Schweiz. Hospita halbprivat und Hospita flex mit halbprivat Option bieten freie Wahl des Spitals und Chefarztbehandlung sowie Unterbringung im Zweibettzimmer. Hospita privat, flex, flex mit privat Option und global gewähren zusätzlich Unterbringung im Einzelzimmer. Mit den flex-Tarifvarianten entscheiden Sie beim Eintritt ins Spital, in welcher Abteilung Sie untergebracht werden möchten.
+###### Sympany Health Insurance offre una vasta gamma di assicurazioni complementari ospedaliere. Con l'assicurazione ospedaliera Hospita generale, puoi scegliere liberamente l'ospedale in tutta la Svizzera. Hospita semi-privato e Hospita flex con opzione semi-privata offrono la libera scelta del trattamento ospedaliero e del medico principale, nonché la sistemazione in camere doppie. Hospita privat, flex, flex con opzione privata e concessione globale di alloggi aggiuntivi in una stanza singola. Con le opzioni di frequenza flessibile, quando si entra in ospedale, si decide in quale reparto si desidera essere ospitati.
 
-## Zahnversicherung dental
+## Assicurazione dentale Dental
 
-###### Die Zahnversicherung dental schützt vor Mehrkosten durch Zahnbehandlungen und Prophylaxe. Sie können aus drei Varianten wählen. Je nach Tarifmodell übernimmt die Zahnversicherung 50 bis 75 Prozent der Behandlungskosten bis zu einer Summe von 1000, 1500 oder 5000 Schweizer Franken im Kalenderjahr.
+###### L’assicurazione dentale Dental protegge da costi aggiuntivi attraverso trattamenti dentali e profilassi. Puoi scegliere tra tre varianti. A seconda del modello tariffario, l'assicurazione dentale copre dal 50 al 75 percento dei costi di trattamento fino a un importo di 1.000, 1.500 o 5.000 franchi svizzeri per anno civile.
 
-## Die Sympany Krankenversicherung im Vergleich
+## L’assicurazione Sympany a confronto
 
-###### Bevor Sie Ihre Krankenkasse wechseln, sollten Sie die einzelnen Versicherungsangebote aufmerksam vergleichen. Das Angebot der Grundversicherung ist zwar gesetzlich vorgeschrieben, die Prämien der Versicherer unterscheiden sich dennoch. Hinzu kommt das unterschiedliche Leistungsspektrum der Zusatzversicherungen. Wir zeigen Ihnen gerne, wie die Sympany im Vergleich abschneidet. Nehmen Sie Kontakt zu uns auf und lassen Sie sich kostenlos beraten.
+###### Prima di cambiare la cassa malati, è necessario confrontare attentamente le singole offerte assicurative. Sebbene l'offerta dell'assicurazione di base sia stabilita dalla legge, i premi degli assicuratori sono diversi. Inoltre, vi è una diversa gamma di servizi offerti dall'assicurazione integrativa. Vorremmo mostrarti come Sympany a confronto. Contattaci e lasciati consigliare gratuitamente.

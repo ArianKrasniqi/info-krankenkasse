@@ -1,7 +1,7 @@
 ---
 lang: "fr"
 type: "krankenkasse"
-name: "Vita Surselva"
+name: "Caisse d'assurance maladie Vita Surselva"
 shortName: "Vita Surselva"
 location: "Bahnhofstrasse 33, CH-7130 Ilanz"
 insured: ""
@@ -9,35 +9,35 @@ refundPeriod: "-"
 solvencyRate: "-"
 administrativeExpenses: "-"
 color: "#00539B"
-description: "Die Krankenkasse Vita Surselva hat ihren Sitz in der Stadt Ilanz in der Region Surselva, gelegen im Kanton Graubünden. Aktiv ist sie allerdings in der gesamten Schweiz. Entstanden ist der Krankenversicherer im Jahr 1991 durch eine Fusion der Krankenkasse Ruis und der ÖKK Group. Heute zählt das Unternehmen rund 5'000 Versicherungsnehmer und gehört damit zu den kleineren Krankenkassen in der Schweiz."
+description: "La caisse d'assurance maladie Vita Surselva est basée dans la ville d'Ilanz dans la région de Surselva, dans le canton des Grisons. Elle est cependant active dans toute la Suisse. L'assureur maladie a été fondé en 1991 de la fusion de la caisse maladie de Ruis et du groupe ÖKK. Aujourd'hui, l'entreprise compte environ 5000 assurés, ce qui en fait l'une des plus petites caisses maladie de Suisse."
 ---
 
-## Das Versicherungsangebot in der Grundversicherung
+## Les offres d’assurances dans d'assurance de base
 
-###### Die Vita Surselva bietet zwei Modelle der obligatorischen Grundversicherung an. Im Modell Standard (freie Arztwahl) steht es Ihnen frei, welchen Arzt Sie im Krankheitsfall aufsuchen. Sie können sich an Ihren Hausarzt wenden, eine Gruppenpraxis (HMO) aufsuchen oder direkt einen Spezialisten konsultieren.
+###### Vita Surselva propose deux modèles d'assurance de base obligatoire. Dans le modèle Standard (libre choix du médecin), vous êtes libre de choisir le médecin que vous consulterez en cas de maladie. Vous pouvez communiquer avec votre médecin de famille, vous rendre dans un cabinet de groupe ou consulter directement un spécialiste.
 
-###### Das Hausarztmodell Sparmed bietet dieselben Leistungen wie das Standard-Modell, schränkt die Wahl des ersten Ansprechpartners aber auf den Hausarzt ein. Dafür gewährt Ihnen die Krankenkasse lukrative Rabatte. Ihren Hausarzt wählen Sie dabei aus einer Liste angeschlossener Ärzte.
+###### Le modèle du médecin de famille Sparmed offre les mêmes services que le modèle standard, mais limite le choix du premier contact au médecin de famille. En contrepartie, la caisse maladie vous accorde des réductions avantageuses. Vous choisissez votre médecin de famille à partir d'une liste de médecins affiliés.
 
-## Prämien sparen durch eine höhere Franchise
+## Économiser des primes avec une franchise plus élevée
 
-###### Neben der Wahl des alternativen Versicherungsmodells besteht noch die Möglichkeit, die Versicherungsprämie durch eine höhere Jahresfranchise zu reduzieren. Erwachsene können eine freiwillige Franchise von bis zu 2'500 Schweizer Franken im Jahr zahlen, für Kinder stehen Jahresfranchisen von bis zu 600 Schweizer Franken. Einen Familienrabatt gibt es bei der Vita Surselva nicht.
+###### Outre le choix d'un modèle d'assurance alternatif, il est également possible de réduire la prime d'assurance au moyen d'une franchise annuelle plus élevée. Les adultes peuvent payer une franchise volontaire jusqu'à 2500 francs suisses par an ; les enfants peuvent payer une franchise annuelle jusqu'à 600 francs suisses. Il n'y a pas de réduction familiale chez Vita Surselva.
 
-## Zusatzversicherungen der Vita Surselva
+## Assurance complémentaire de Vita Surselva
 
-###### Eine freiwillige Zusatzversicherung erweitert den Leistungsumfang der obligatorischen Krankenpflegeversicherung. Bei der Vita Surselva können Sie für ambulante Behandlungen die Zusatzversicherung "Allgemeiner Zusatz" abschliessen. Diese beteiligt sich unter anderem an Präventivmassnahmen, Sehhilfen und Hilfsmitteln, Alternativmedizin, nicht-ärztlichen psychotherapeutischen Behandlungen, Nichtpflicht-Medikamenten und Notfallbehandlungen im Ausland.
+###### Une assurance complémentaire facultative élargit le champ des prestations de l'assurance maladie obligatoire. Avec Vita Surselva, vous pouvez souscrire l'assurance complémentaire " supplément général " pour les soins ambulatoires. Il s'agit, entre autres, des mesures préventives, des aides visuelles, de la médecine alternative, des traitements psychothérapeutiques non médicaux, des médicaments non-admis et des traitements d'urgence à l'étranger.
 
-## Darüber hinaus steht die Zusatzversicherung Surselva Cumpletta mit teilweise höheren Erstattungen zur Wahl.
+## En plus, l'assurance complémentaire Surselva Cumpletta avec des remboursements en partie plus élevés est disponible au choix
 
-###### Zahnärztliche und kieferorthopädische Behandlungen erstattet die Zahnversicherung Denta. Drei Leistungsklassen stehen zur Wahl, die Kostenübernahme beträgt zwischen 50 und 75 Prozent, maximal 3'000 Schweizer Franken im Kalenderjahr.
+###### Les traitements dentaires et orthodontiques sont couverts par l'assurance dentaire Denta. Vous avez le choix entre trois catégories de prestations ; la couverture des coûts se situe entre 50% et 75 %, avec un maximum de 3'000 CHF par an.
 
-## Die Spitalversicherung der Vita Surselva
+## L'assurance hospitalisation de Vita Surselva
 
-###### Mit einer Spitalzusatzversicherung sichern Sie sich mehr Komfort und Wahlfreiheit beim Aufenthalt im Spital. Der Tarif Surselva Kombi A bietet zum Beispiel die Unterbringung auf der allgemeinen Abteilung in einem Schweizer Spital Ihrer Wahl.
+###### Avec l'assurance complémentaire hospitalisation, vous bénéficiez d'un confort et d'une liberté de choix plus élevés pendant votre séjour à l'hôpital. Le tarif Surselva Kombi A, par exemple, vous permet d'être hébergé en division commune dans un hôpital suisse de votre choix.
 
-###### Mit den Tarifen der Produktlinie Activa können Sie neben der Unterbringung auf der allgemeinen Abteilung auch den Aufenthalt auf der halbprivaten und privaten Abteilung versichern. Der Tarif Activa switch lässt Sie den gewünschten Komfort vor dem Spitalaufenthalt flexibel wählen.
+###### Avec les tarifs de la gamme de produits Activa, vous pouvez assurer non seulement l'hébergement en division commune mais aussi un séjour en division semi-privée ou privée. Le tarif Activa switch vous permet de choisir de manière flexible le confort souhaité avant votre séjour à l'hôpital.
 
-###### Die Spitalversicherungen der Produktlinie Sanvita richten sich speziell an Nichtraucher. Die Behandlung von raucherbedingten Leiden wird nicht übernommen, dafür zahlen Nichtraucher geringere Prämien. Auch in dieser Produktlinie können Sie aus den Leistungsklassen allgemein, halbprivat, privat und switch wählen.
+###### Les assurances hospitalières Sanvita sont spécialement conçues pour les non-fumeurs. Le traitement des maladies liées au tabagisme n'est pas couvert, les non-fumeurs paient des primes moins élevées. Dans cette gamme de produits, vous pouvez également choisir parmi les classes de prestation général, semi-privé, privé et switch.
 
-## Das Versicherungsangebot der Vita Surselva im Vergleich
+## Comparaison de la gamme d'assurances de Vita Surselva
 
-###### Bevor Sie Ihre Krankenversicherung wechseln, lohnt sich ein ausführlicher Vergleich der Angebote. Mit unserem Prämienrechner finden Sie heraus, wie viel Sie mit einem Wechsel zur Vita Surselva sparen können. Bei Fragen beraten wir Sie gerne!
+###### Avant de changer d'assurance maladie, il vaut la peine de comparer les offres en détail. Utilisez notre calculateur de primes pour savoir combien vous pouvez économiser en passant à Vita Surselva. Si vous avez des questions, nous nous ferons un plaisir de vous conseiller!
