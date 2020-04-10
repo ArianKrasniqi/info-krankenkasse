@@ -31,7 +31,9 @@ const Languages = props => {
     }
 
     let newUrl = pieces.slice(3).join("/")
-    navigate(newUrl)
+
+    let pathname = window.location.pathname.split("/")
+    if (pathname.length > 2) navigate(newUrl)
   }
 
   return (

@@ -25,10 +25,6 @@ const Index = props => {
       <Cover></Cover>
 
       <Text type="title">{lang.title}</Text>
-      <button onClick={() => props.onChangeLanguage("de")}>Change to De</button>
-      <button onClick={() => props.onChangeLanguage("en")}>Change to En</button>
-      <button onClick={() => props.onChangeLanguage("fr")}>Change to Fr</button>
-      <button onClick={() => props.onChangeLanguage("it")}>Change to It</button>
       <Text type="paragraph">{lang.description[0]}</Text>
       <Text type="paragraph">{lang.description[1]}</Text>
 

@@ -63,7 +63,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
       let lang = ""
       if (slug.length === 2) lang = slug[1] + "/"
 
-      path = `${lang}${slug[0]}`
+      path = `${lang}krankenkasse/${slug[0]}`
       component = companyTemplate
     }
     createPage({

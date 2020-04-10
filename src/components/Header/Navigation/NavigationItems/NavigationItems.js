@@ -16,7 +16,7 @@ const navigationItems = () => (
       </Link>
     </li>
     <li>
-      <Link to="/krankenkasse-schweiz" className={classes.Link}>
+      <Link to="/krankenkasse" className={classes.Link}>
         Krankenkassen
       </Link>
     </li>
