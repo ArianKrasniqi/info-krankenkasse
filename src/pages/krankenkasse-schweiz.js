@@ -67,7 +67,7 @@ const KrankenkasseSchweiz = props => {
         <Text type="paragraph">{lang.description}</Text>
         <Compare />
 
-        <Lists data={list} slugs={slugs} />
+        <Lists data={list} slugs={slugs} prelink="" />
 
         <Text type="paragraph">{lang.content[0]}</Text>
         <Text type="paragraph">{lang.content[1]}</Text>

@@ -5,7 +5,6 @@ import { connect } from "react-redux"
 import Layout from "../components/Layout/Layout"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
-import * as actionTypes from "../store/actions"
 import * as content from "../content/templates/Glossar"
 
 const Glossar = props => {
@@ -63,7 +62,7 @@ const Glossar = props => {
     <Layout>
       <Text type="title">{lang.title}</Text>
       <Text type="paragraph">{lang.description}</Text>
-      <Lists data={list} slugs={slugs} />
+      <Lists data={list} slugs={slugs} prelink="glossar/" />
     </Layout>
   )
 }

@@ -14,6 +14,7 @@ const Lists = props => {
             letter={key}
             data={props.data[key]}
             slugs={props.slugs[key]}
+            prelink={props.prelink}
           />
         )
       })}

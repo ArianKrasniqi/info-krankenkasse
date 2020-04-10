@@ -40,17 +40,30 @@ module.exports.createPages = async ({ graphql, actions }) => {
   res.data.allMarkdownRemark.edges.forEach(edge => {
     let path = ""
     let component = ""
+
     if (edge.node.frontmatter.type === "info") {
-      path = `informationen/${edge.node.fields.slug}`
+      let slug = edge.node.fields.slug.split(".")
+      let lang = ""
+      if (slug.length === 2) lang = slug[1] + "/"
+
+      path = `${lang}informationen/${slug[0]}`
       component = informationTemplate
       if (edge.node.fields.slug.split(".")[0] === "glossar") {
         component = glossarTemplate
       }
     } else if (edge.node.frontmatter.type === "glossar") {
-      path = `${edge.node.fields.slug}`
+      let slug = edge.node.fields.slug.split(".")
+      let lang = ""
+      if (slug.length === 2) lang = slug[1] + "/"
+
+      path = `${lang}glossar/${slug[0]}`
       component = informationTemplate
     } else if (edge.node.frontmatter.type === "krankenkasse") {
-      path = `${edge.node.fields.slug}`
+      let slug = edge.node.fields.slug.split(".")
+      let lang = ""
+      if (slug.length === 2) lang = slug[1] + "/"
+
+      path = `${lang}${slug[0]}`
       component = companyTemplate
     }
     createPage({

@@ -42,6 +42,7 @@ const Informationen = props => {
       ? content.it
       : content.de
 
+  let prefix = props.lang === "de" ? "" : props.lang + "/"
   return (
     <Layout>
       <Text type="title">{lang.title}</Text>
@@ -50,7 +51,9 @@ const Informationen = props => {
           edge.node.frontmatter.lang === props.lang ? (
           <Card
             key={edge.node.frontmatter.title}
-            to={`/informationen/${edge.node.fields.slug}`}
+            to={`${prefix}/informationen/${
+              edge.node.fields.slug.split(".")[0]
+            }`}
             title={`${edge.node.frontmatter.title}`}
             // side={side}
             style={index === 0 ? { paddingTop: "10px" } : {}}
