@@ -47,6 +47,15 @@
   font-family: Montserrat, sans-serif;
 }
 
+.CompareSmallSubtitle {
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 15px;
+  font-family: Montserrat, sans-serif;
+}
+
 .formTitle {
   display: flex;
   justify-content: center;

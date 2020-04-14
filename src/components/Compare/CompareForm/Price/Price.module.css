@@ -1,0 +1,29 @@
+.Price {
+  cursor: pointer;
+  width: 48%;
+  margin-bottom: 16px;
+  border: 1px solid #979797;
+  opacity: 0.5;
+  border-radius: 6px;
+  text-align: center;
+  padding: 7px 0;
+  box-sizing: border-box;
+  transition: all 0.2s linear;
+}
+.Price span {
+  font-size: 19px;
+  font-weight: 700;
+}
+.Price:hover {
+  opacity: 0.8;
+}
+
+.Active {
+  background: #e61b1b;
+  color: #fff;
+  border: 1px solid #e61b1b;
+  opacity: 1;
+}
+.Active:hover {
+  opacity: 0.8;
+}

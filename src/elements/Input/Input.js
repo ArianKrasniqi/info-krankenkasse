@@ -54,6 +54,19 @@ const input = props => {
         />
       )
       break
+    case "textReadOnly":
+      input = (
+        <TextField
+          error={props.error}
+          id={props.id}
+          label={props.label}
+          key={props.id}
+          defaultValue={props.defaultValue}
+          helperText={props.helperText}
+          disabled
+        />
+      )
+      break
     case "numberInput":
       input = (
         <TextField
@@ -117,6 +130,41 @@ const input = props => {
             <MenuItem id="none" key="none" value="">
               <em>None</em>
             </MenuItem>
+            {options}
+          </Select>
+          <FormHelperText>{props.helperText}</FormHelperText>
+        </FormControl>
+      )
+      break
+
+    case "ageSelectInput":
+      if (props.options) {
+        options = props.options.map((option, index) => {
+          return (
+            <MenuItem
+              value={props.values[index]}
+              id={`${index}-${option}`}
+              key={`${index}-${option}`}
+            >
+              {option}
+            </MenuItem>
+          )
+        })
+      }
+
+      input = (
+        <FormControl className={classes.SelectInput} style={props.style}>
+          <InputLabel id="demo-simple-select-helper-label">
+            {props.label}
+          </InputLabel>
+          <Select
+            labelId="demo-simple-select-helper-label"
+            error={props.error}
+            id={props.id}
+            key={props.id}
+            value={props.defaultValue}
+            onChange={event => props.changed(event)}
+          >
             {options}
           </Select>
           <FormHelperText>{props.helperText}</FormHelperText>

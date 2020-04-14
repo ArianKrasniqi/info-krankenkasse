@@ -1,0 +1,28 @@
+.Franchise {
+  cursor: pointer;
+  width: 85px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 12px;
+  color: #000;
+  opacity: 0.5;
+  line-height: 40px;
+  border: 1px solid #979797;
+  text-align: center;
+  transition: all 0.2s linear;
+}
+.Franchise:hover {
+  opacity: 0.8;
+}
+
+.Active {
+  background: #e61b1b;
+  border: 1px solid #e61b1b;
+  color: #fff;
+  opacity: 1;
+  font-size: 16px;
+  font-weight: 700;
+}
+.Active:hover {
+  opacity: 0.8;
+}
