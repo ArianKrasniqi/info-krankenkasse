@@ -19,6 +19,7 @@ const input = props => {
           className={classes.inputText}
           error={props.error}
           id={props.id}
+          key={props.id}
           label={props.label}
           defaultValue={props.defaultValue}
           helperText={props.helperText}
@@ -68,15 +69,29 @@ const input = props => {
         />
       )
       break
-
+    case "numberInputStyle":
+      input = (
+        <TextField
+          type="number"
+          style={props.style}
+          error={props.error}
+          id={props.id}
+          label={props.label}
+          defaultValue={props.defaultValue}
+          helperText={props.helperText}
+          onChange={event => props.changed(event)}
+          onClick={event => props.changed(event)}
+        />
+      )
+      break
     case "selectInput":
       if (props.options) {
         options = props.options.map((option, index) => {
           return (
             <MenuItem
+              value={option}
               id={`${index}-${option}`}
               key={`${index}-${option}`}
-              value={option}
             >
               {option}
             </MenuItem>
@@ -94,7 +109,9 @@ const input = props => {
             error={props.error}
             id={props.id}
             key={props.id}
-            value={""}
+            value={props.defaultValue}
+            onChange={event => props.changed(event)}
+
             // onChange={handleChange}
           >
             <MenuItem id="none" key="none" value="">
@@ -182,12 +199,14 @@ const input = props => {
     default:
       input = (
         <TextField
-          id={props.id}
           error={props.error}
-          key={props.id}
+          id={props.id}
           label={props.label}
-          defaultValue=""
+          key={props.id}
+          defaultValue={props.defaultValue}
           helperText={props.helperText}
+          onChange={event => props.changed(event)}
+          onClick={event => props.changed(event)}
         />
       )
   }

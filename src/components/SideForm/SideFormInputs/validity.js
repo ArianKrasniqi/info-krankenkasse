@@ -1,3 +1,5 @@
+import places from "../../../assets/places"
+
 export const lengthError = (expression, minLength, label) => {
   const expLength = expression != undefined ? expression.trim().length : 0
   if (expLength === 0) {
@@ -61,4 +63,8 @@ export const selectError = (expression, label) => {
   } else {
     return " "
   }
+}
+
+export const checkPLZ = expression => {
+  return places.find(city => city.zipcode == expression)
 }

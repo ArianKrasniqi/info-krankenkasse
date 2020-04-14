@@ -12,7 +12,7 @@ const compareForm = () => (
     <Text type="formTitle">Krankenkassen Prämien 2020 vergleichen</Text>
     <div className={classes.FormInputs}>
       <CompareInputs />
-      <Button type="red"> Jetzt Prämie vergleichen </Button>
+      {/* <Button type="red"> Jetzt Prämie vergleichen </Button> */}
     </div>
   </div>
 )
