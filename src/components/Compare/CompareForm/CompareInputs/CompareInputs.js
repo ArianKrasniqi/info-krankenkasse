@@ -25,7 +25,7 @@ const CompareInputs = props => {
   const [prices, setPrices] = useState({})
   const [currentFranchises, setFranchises] = useState([])
   const [activeFranchise, setActiveFranchise] = useState("500")
-  const [activePriceGroup, setActivePriceGroup] = useState(null)
+  const [activePriceGroup, setActivePriceGroup] = useState("Hausarzt")
   const [activePrice, setActivePrice] = useState(null)
   const [maxPrices, setMaxPrices] = useState(null)
 
@@ -201,14 +201,6 @@ const CompareInputs = props => {
         <div className={potencialClasses}>
           <Text type="compareSmallSubtitle">Sparpotenzial</Text>
           <Text type="compareSmallSubtitle">
-            {console.log(
-              "maxPrices[activeFranchise]",
-              maxPrices[activeFranchise]
-            )}
-            {console.log(
-              "prices[activePriceGroup][activeFranchise]",
-              prices[activePriceGroup][activeFranchise]
-            )}
             {maxPrices !== null && activePriceGroup !== null
               ? (
                   (maxPrices[activeFranchise] -
