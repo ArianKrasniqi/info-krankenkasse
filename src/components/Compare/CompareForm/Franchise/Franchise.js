@@ -7,7 +7,12 @@ const Franchise = props => {
     ? [classes.Franchise, classes.Active].join(" ")
     : classes.Franchise
   return (
-    <div className={franchiseClasses} id={props.key} key={props.key}>
+    <div
+      className={franchiseClasses}
+      id={props.id}
+      key={props.id}
+      onClick={props.clicked}
+    >
       {props.children}
     </div>
   )

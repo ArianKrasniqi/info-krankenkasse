@@ -33,7 +33,11 @@ const text = props => {
       text = <p className={classes.CompareSubtitle}>{props.children}</p>
       break
     case "compareSmallSubtitle":
-      text = <p className={classes.CompareSmallSubtitle}>{props.children}</p>
+      text = (
+        <p className={classes.CompareSmallSubtitle} style={props.style}>
+          {props.children}
+        </p>
+      )
       break
     case "formTitle":
       text = (

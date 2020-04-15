@@ -24,6 +24,10 @@ const CompareInputs = props => {
   const [step, setStep] = useState(1)
   const [prices, setPrices] = useState({})
   const [currentFranchises, setFranchises] = useState([])
+  const [activeFranchise, setActiveFranchise] = useState("500")
+  const [activePriceGroup, setActivePriceGroup] = useState(null)
+  const [activePrice, setActivePrice] = useState(null)
+  const [maxPrices, setMaxPrices] = useState(null)
 
   const changeHelperText = ({
     validation,
@@ -112,14 +116,21 @@ const CompareInputs = props => {
 
     let cantonPrices = ""
     let franchises = []
+    let pricesGroups = []
+
     if (errors === 0) {
-      console.log(age)
-      console.log(canton)
+      // console.log(canton)
+
       cantonPrices = pricesData[canton.state_code][age]
+      console.log(cantonPrices)
+      setMaxPrices(cantonPrices["maxPrice"])
+
       franchises = cantonPrices["Standard"]
       franchises = Object.keys(franchises)
+
+      pricesGroups = Object.keys(cantonPrices)
+
       setFranchises(franchises)
-      console.log(franchises)
       setPrices(cantonPrices)
       setInputs(formModel2)
       setStep(2)
@@ -132,37 +143,88 @@ const CompareInputs = props => {
     step === 1
       ? [classes.Franchises, classes.Hide].join(" ")
       : classes.Franchises
+  const potencialClasses =
+    step === 1 ? [classes.Potencial, classes.Hide].join(" ") : classes.Potencial
+
+  const franchiseHandler = franchise => {
+    setActiveFranchise(franchise)
+  }
+  const priceGroupHandler = priceGroup => {
+    setActivePriceGroup(priceGroup)
+  }
 
   return (
     <React.Fragment>
       <form className={classes.Form}>
         <div className={PricesClasses}>
-          <Price price="270.00" active>
-            Hausarzt
-          </Price>
-          <Price price="270.00">Telmed</Price>
-          <Price price="270.00">HMO</Price>
-          <Price price="270.00">Standard</Price>
+          {Object.keys(prices).map(price => {
+            console.log(price)
+            let actPrice = 0
+            if (price === activePriceGroup) {
+              actPrice = prices[price][activeFranchise]
+            }
+            if (price === "maxPrice") return null
+            return (
+              <Price
+                price={prices[price][activeFranchise]}
+                key={price}
+                active={price === activePriceGroup}
+                clicked={() => {
+                  priceGroupHandler(price)
+                }}
+              >
+                {price}
+              </Price>
+            )
+          })}
         </div>
-        <Text type="compareSmallSubtitle">Franchise</Text>
+        <Text
+          type="compareSmallSubtitle"
+          style={step === 1 ? { display: "none" } : { display: "block" }}
+        >
+          Franchise
+        </Text>
         <div className={FranchiseClasses}>
           {currentFranchises.map((franchise, index) => {
-            console.log(franchise)
             return (
               <Franchise
-                key={`${franchise}-${index}`}
-                active={index === 4 ? true : false}
+                key={franchise}
+                id={franchise}
+                active={franchise === activeFranchise ? true : false}
+                clicked={() => franchiseHandler(franchise)}
               >
                 {franchise}
               </Franchise>
             )
           })}
-          {/*           
-          <Franchise>500</Franchise>
-          <Franchise>1000</Franchise>
-          <Franchise active>1500</Franchise>
-          <Franchise>2000</Franchise>
-          <Franchise>2500</Franchise> */}
+        </div>
+        <div className={potencialClasses}>
+          <Text type="compareSmallSubtitle">Sparpotenzial</Text>
+          <Text type="compareSmallSubtitle">
+            {console.log(
+              "maxPrices[activeFranchise]",
+              maxPrices[activeFranchise]
+            )}
+            {console.log(
+              "prices[activePriceGroup][activeFranchise]",
+              prices[activePriceGroup][activeFranchise]
+            )}
+            {maxPrices !== null && activePriceGroup !== null
+              ? (
+                  (maxPrices[activeFranchise] -
+                    prices[activePriceGroup][activeFranchise]) *
+                  12
+                ).toFixed(2)
+              : ""}
+            CHF / Jahre
+          </Text>
+          <Text type="compareSmallSubtitle">
+            Jetzt detailliertes Angebot anfordern
+          </Text>
+          <Text type="smallParagraph">
+            Sie erhalten eine unverbindliche und kostenlose detaillierte Offerte
+            mit den Prämien 2020
+          </Text>
         </div>
         {inputs.map(el => (
           <Input

@@ -7,7 +7,7 @@ const Price = props => {
     ? [classes.Price, classes.Active].join(" ")
     : classes.Price
   return (
-    <div className={priceClasses}>
+    <div className={priceClasses} onClick={props.clicked}>
       {props.children} <br /> ab <span> {props.price}CHF </span>
     </div>
   )
