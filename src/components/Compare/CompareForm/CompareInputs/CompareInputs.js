@@ -200,20 +200,26 @@ const CompareInputs = props => {
         </div>
         <div className={potencialClasses}>
           <Text type="compareSmallSubtitle">Sparpotenzial</Text>
-          <Text type="compareSmallSubtitle">
-            {maxPrices !== null && activePriceGroup !== null
-              ? (
-                  (maxPrices[activeFranchise] -
-                    prices[activePriceGroup][activeFranchise]) *
-                  12
-                ).toFixed(2)
-              : ""}
-            CHF / Jahre
+          <Text type="greenPrice">
+            <span>
+              {maxPrices !== null && activePriceGroup !== null
+                ? (
+                    (maxPrices[activeFranchise] -
+                      prices[activePriceGroup][activeFranchise]) *
+                    12
+                  ).toFixed(2)
+                : ""}{" "}
+              CHF
+            </span>
+            / Jahre
           </Text>
           <Text type="compareSmallSubtitle">
             Jetzt detailliertes Angebot anfordern
           </Text>
-          <Text type="smallParagraph">
+          <Text
+            type="smallParagraph"
+            style={{ fontSize: "13px", textAlign: "center" }}
+          >
             Sie erhalten eine unverbindliche und kostenlose detaillierte Offerte
             mit den Prämien 2020
           </Text>
@@ -226,6 +232,7 @@ const CompareInputs = props => {
             name={el.name}
             label={el.label}
             type={el.type}
+            half={el.half}
             defaultValue={el.defaultValue}
             helperText={el.helperText}
             options={el.options}

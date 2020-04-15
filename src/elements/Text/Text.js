@@ -57,6 +57,9 @@ const text = props => {
         </p>
       )
       break
+    case "greenPrice":
+      text = <p className={classes.GreenPrice}>{props.children}</p>
+      break
 
     default:
       text = <p className={classes.Paragraph}>{props.children}</p>

@@ -16,7 +16,11 @@ const input = props => {
     case "textInput":
       input = (
         <TextField
-          className={classes.inputText}
+          className={
+            props.half
+              ? [classes.inputText, classes.Half].join(" ")
+              : classes.inputText
+          }
           error={props.error}
           id={props.id}
           key={props.id}
@@ -228,7 +232,11 @@ const input = props => {
     case "datePicker":
       input = (
         <TextField
-          className={classes.inputText}
+          className={
+            props.half
+              ? [classes.inputText, classes.Half].join(" ")
+              : classes.inputText
+          }
           error={props.error}
           id={props.id}
           label={props.label}
