@@ -3,6 +3,7 @@ import React, { useState } from "react"
 import Header from "../Header/Header"
 import Footer from "../Footer/Footer"
 import Menu from "../Menu/Menu"
+import Modal from "../../elements/Modal/Modal"
 
 import classes from "./Layout.module.css"
 
@@ -11,6 +12,7 @@ const Layout = props => {
 
   return (
     <div className={classes.Layout}>
+      <Modal>AA</Modal>
       <Menu open={open}></Menu>
       <Header
         open={open}
