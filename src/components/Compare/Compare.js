@@ -1,23 +1,48 @@
-import React from "react"
+import React, { useState } from "react"
+import { connect } from "react-redux"
 
 import Text from "../../elements/Text/Text"
 import Button from "../../elements/Button/Button"
 import CompareForm from "./CompareForm/CompareForm"
+import * as actionTypes from "../../store/actions"
 
 import classes from "./Compare.module.css"
 
-const compare = () => (
-  <div className={classes.Compare}>
-    <div className={classes.Upper}>
-      <Text type="compareSubtitle">Krankenkassenvergleich 2020</Text>
-      <Button type="white">Jetzt vergleichen</Button>
-      <Text type="paragraph">
-        Möchten Sie Prämien einsparen? Hier finden Sie alle Prämien für den
-        Krankenkassen Wechsel
-      </Text>
-    </div>
-    <CompareForm />
-  </div>
-)
+const Compare = props => {
+  const [open, setOpen] = useState(false)
 
-export default compare
+  const openHandler = () => {
+    setOpen(!open)
+    props.onChangeStep(1)
+  }
+  return (
+    <div className={classes.Compare}>
+      <div className={classes.Upper}>
+        <Text type="compareSubtitle">Krankenkassenvergleich 2020</Text>
+        <Button type="white" clicked={openHandler}>
+          Jetzt vergleichen
+        </Button>
+        <Text type="paragraph">
+          Möchten Sie Prämien einsparen? Hier finden Sie alle Prämien für den
+          Krankenkassen Wechsel
+        </Text>
+      </div>
+      <CompareForm open={open} />
+    </div>
+  )
+}
+
+const mapStateToProps = state => {
+  return {
+    step: state.step,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeStep: step =>
+      dispatch({ type: actionTypes.CHANGE_STEP, step: step }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(Compare)

@@ -29,6 +29,9 @@ const text = props => {
         </p>
       )
       break
+    case "listItem":
+      text = <li className={[classes.Paragraph, classes.ListItem].join(" ")}>{props.children}</li>
+      break
     case "compareSubtitle":
       text = <p className={classes.CompareSubtitle}>{props.children}</p>
       break

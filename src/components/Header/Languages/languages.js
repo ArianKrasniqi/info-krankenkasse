@@ -38,8 +38,7 @@ const Languages = props => {
 
   return (
     <ul className={classes.Languages}>
-      <li>{props.lang}</li>
-      <li>
+      <li className={props.lang === "de" ? classes.Active : ""}>
         <Link
           onClick={event => {
             changeLanguageHandler(event, "de")
@@ -48,7 +47,7 @@ const Languages = props => {
           DE
         </Link>
       </li>
-      <li>
+      <li className={props.lang === "fr" ? classes.Active : ""}>
         <Link
           onClick={event => {
             changeLanguageHandler(event, "fr")
@@ -57,7 +56,7 @@ const Languages = props => {
           FR
         </Link>
       </li>
-      <li>
+      <li className={props.lang === "it" ? classes.Active : ""}>
         <Link
           onClick={event => {
             changeLanguageHandler(event, "it")
@@ -66,7 +65,7 @@ const Languages = props => {
           IT
         </Link>
       </li>
-      <li>
+      <li className={props.lang === "en" ? classes.Active : ""}>
         <Link
           onClick={event => {
             changeLanguageHandler(event, "en")

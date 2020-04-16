@@ -42,7 +42,9 @@ const Information = props => {
           )
         } else if (line.depth === 3) {
           return (
-            <li key={`${line.value.slice(0, 10)}-${index}`}>{line.value}</li>
+            <Text key={`${line.value.slice(0, 10)}-${index}`} type="listItem">
+              {line.value}
+            </Text>
           )
         } else if (line.depth === 1) {
           return line.value === "Form" ? (

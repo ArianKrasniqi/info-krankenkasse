@@ -9,7 +9,11 @@ const Button = props => {
       button = <button className={classes.Button}>{props.children}</button>
       break
     case "white":
-      button = <button className={classes.White}>{props.children}</button>
+      button = (
+        <button className={classes.White} onClick={props.clicked}>
+          {props.children}
+        </button>
+      )
       break
     case "red":
       button = (

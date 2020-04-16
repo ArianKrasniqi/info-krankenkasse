@@ -61,7 +61,9 @@ const Company = props => {
           )
         } else if (line.depth === 3) {
           return (
-            <li key={`${line.value.slice(0, 10)}-${index}`}>{line.value}</li>
+            <Text key={`${line.value.slice(0, 10)}-${index}`} type="listItem">
+              {line.value}
+            </Text>
           )
         }
         return null

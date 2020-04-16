@@ -22,6 +22,7 @@
 }
 
 .White {
+  cursor: pointer;
   border: 1px solid #d81f27;
   background: white;
   border-radius: 7px;
@@ -35,6 +36,7 @@
 }
 
 .Red {
+  cursor: pointer;
   background: #d81f27;
   border: none;
   border-radius: 7px;

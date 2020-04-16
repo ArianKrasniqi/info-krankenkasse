@@ -29,6 +29,10 @@
   font-weight: 300;
 }
 
+.ListItem {
+  margin-left: 10px;
+}
+
 .Subtitle {
   color: #000;
   font-weight: 700;

@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import { connect } from "react-redux"
 
 import Input from "../../../../elements/Input/Input"
 import formModel from "../../formModel"
@@ -8,6 +9,7 @@ import Franchise from "../Franchise/Franchise"
 import classes from "./CompareInputs.module.css"
 import Text from "../../../../elements/Text/Text"
 import pricesData from "../../../../assets/prices"
+import * as actionTypes from "../../../../store/actions"
 
 import {
   lengthError,
@@ -21,7 +23,6 @@ import {
 const CompareInputs = props => {
   const [inputs, setInputs] = useState(formModel)
   const [canton, setCanton] = useState("")
-  const [step, setStep] = useState(1)
   const [prices, setPrices] = useState({})
   const [currentFranchises, setFranchises] = useState([])
   const [activeFranchise, setActiveFranchise] = useState("500")
@@ -132,19 +133,22 @@ const CompareInputs = props => {
 
       setFranchises(franchises)
       setPrices(cantonPrices)
+
       setInputs(formModel2)
-      setStep(2)
+      props.onChangeStep(2)
     }
   }
 
   const PricesClasses =
-    step === 1 ? [classes.Prices, classes.Hide].join(" ") : classes.Prices
+    props.step === 1 ? [classes.Prices, classes.Hide].join(" ") : classes.Prices
   const FranchiseClasses =
-    step === 1
+    props.step === 1
       ? [classes.Franchises, classes.Hide].join(" ")
       : classes.Franchises
   const potencialClasses =
-    step === 1 ? [classes.Potencial, classes.Hide].join(" ") : classes.Potencial
+    props.step === 1
+      ? [classes.Potencial, classes.Hide].join(" ")
+      : classes.Potencial
 
   const franchiseHandler = franchise => {
     setActiveFranchise(franchise)
@@ -180,7 +184,7 @@ const CompareInputs = props => {
         </div>
         <Text
           type="compareSmallSubtitle"
-          style={step === 1 ? { display: "none" } : { display: "block" }}
+          style={props.step === 1 ? { display: "none" } : { display: "block" }}
         >
           Franchise
         </Text>
@@ -265,4 +269,17 @@ const CompareInputs = props => {
   )
 }
 
-export default CompareInputs
+const mapStateToProps = state => {
+  return {
+    step: state.step,
+  }
+}
+
+const mapDispatchToProps = dispatch => {
+  return {
+    onChangeStep: step =>
+      dispatch({ type: actionTypes.CHANGE_STEP, step: step }),
+  }
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(CompareInputs)
