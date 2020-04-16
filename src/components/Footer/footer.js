@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import classes from "./Footer.module.css"
 
-const footer = () => {
+const footer = props => {
   return (
     <footer className={classes.Footer}>
       <div>
@@ -33,17 +33,29 @@ const footer = () => {
 
           <ul>
             <li>
-              <a className={classes.Link} href="/">
+              <a
+                className={classes.Link}
+                href="/"
+                onClick={event => props.clicked(event, "impressum")}
+              >
                 Impressum
               </a>
             </li>
             <li>
-              <a className={classes.Link} href="/">
+              <a
+                className={classes.Link}
+                href="/"
+                onClick={event => props.clicked(event, "datenschutz")}
+              >
                 Datenschutz
               </a>
             </li>
             <li>
-              <a className={classes.Link} href="/">
+              <a
+                className={classes.Link}
+                href="/"
+                onClick={event => props.clicked(event, "rechtliches")}
+              >
                 Haftungsausschluss und Rechtliches
               </a>
             </li>

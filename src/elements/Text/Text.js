@@ -57,6 +57,12 @@ const text = props => {
         </p>
       )
       break
+    case "modalTitle":
+      text = <p className={classes.ModalTitle}>{props.children}</p>
+      break
+    case "modalDescription":
+      text = <p className={classes.ModalDescription}>{props.children}</p>
+      break
     case "greenPrice":
       text = <p className={classes.GreenPrice}>{props.children}</p>
       break
