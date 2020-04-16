@@ -26,13 +26,10 @@ const Praemienrechner = props => {
 
       <ul>
         {lang.content[3].map((text, index) => (
-          <li key={`${text.slice(0, 5)}-${index}`}>{text}</li>
+          <Text key={`${text.slice(0, 5)}-${index}`} type="listItem">
+            {text}
+          </Text>
         ))}
-        {/* <li>mit wenigen Klicks Sparpotenzial berechnen</li>
-        <li>Daten basieren auf den BAG-genehmigten Prämien</li>
-        <li>aktuelle Prämien von Krankenkassen an Ihrem Wohnkanton</li>
-        <li>unabhängig, kostenlos und unverbindlich</li>
-        <li>direkt Offerte anfordern</li> */}
       </ul>
 
       <Text type="paragraph">{lang.content[4]}</Text>

@@ -38,7 +38,10 @@ const card = props => {
           {props.title}
         </Link>
         <Text type="cardParagraph">{props.children}</Text>
-        <Button type="red">Weiterlesen</Button>
+        {/* <Button type="red">Weiterlesen</Button> */}
+        <Link to={props.to} type="redLink">
+          Weiterlesen
+        </Link>
       </div>
     </div>
   )

@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import { connect } from "react-redux"
 
+import Button from "../../../../elements/Button/Button"
 import Input from "../../../../elements/Input/Input"
 import formModel from "../../formModel"
 import formModel2 from "../../formModel2"
@@ -27,8 +28,13 @@ const CompareInputs = props => {
   const [currentFranchises, setFranchises] = useState([])
   const [activeFranchise, setActiveFranchise] = useState("500")
   const [activePriceGroup, setActivePriceGroup] = useState("Hausarzt")
-  const [activePrice, setActivePrice] = useState(null)
   const [maxPrices, setMaxPrices] = useState(null)
+
+  if (props.step === 1 && inputs !== formModel) {
+    setInputs(formModel)
+  } else if (props.step === 2 && inputs !== formModel2) {
+    setInputs(formModel2)
+  }
 
   const changeHelperText = ({
     validation,
@@ -119,7 +125,7 @@ const CompareInputs = props => {
     let franchises = []
     let pricesGroups = []
 
-    if (errors === 0) {
+    if (errors === 0 && props.step === 1) {
       // console.log(canton)
 
       cantonPrices = pricesData[canton.state_code][age]
@@ -136,6 +142,11 @@ const CompareInputs = props => {
 
       setInputs(formModel2)
       props.onChangeStep(2)
+    } else if (errors === 0 && props.step === 2) {
+      inputs.forEach(input => {
+        input.defaultValue = ""
+      })
+      props.changeOpen(false)
     }
   }
 
@@ -257,13 +268,22 @@ const CompareInputs = props => {
             }
           />
         ))}
-        <button
+        {/* <button
           onClick={event =>
             submitHandler(event, inputs[inputs.length - 1].defaultValue)
           }
         >
           Next Step
-        </button>
+        </button> */}
+
+        <Button
+          clicked={event =>
+            submitHandler(event, inputs[inputs.length - 1].defaultValue)
+          }
+          type="red"
+        >
+          Jetzt Prämie vergleichen{" "}
+        </Button>
       </form>
     </React.Fragment>
   )

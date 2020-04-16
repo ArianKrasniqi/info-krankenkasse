@@ -17,7 +17,11 @@ const Button = props => {
       break
     case "red":
       button = (
-        <button className={classes.Red} style={props.style}>
+        <button
+          className={classes.Red}
+          onClick={props.clicked}
+          style={props.style}
+        >
           {props.children}
         </button>
       )

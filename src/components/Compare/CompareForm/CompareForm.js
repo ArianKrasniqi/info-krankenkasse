@@ -14,7 +14,7 @@ const compareForm = props => (
     <div className={classes.Steps}></div>
     <Text type="formTitle">Krankenkassen Prämien 2020 vergleichen</Text>
     <div className={classes.FormInputs}>
-      <CompareInputs />
+      <CompareInputs changeOpen={value => props.changeOpen(value)} />
       {/* <Button type="red"> Jetzt Prämie vergleichen </Button> */}
     </div>
   </div>

@@ -13,6 +13,13 @@ const link = props => {
         </Link>
       )
       break
+    case "redLink":
+      link = (
+        <Link to={props.to} className={classes.RedLink}>
+          {props.children}
+        </Link>
+      )
+      break
     case "bottomLink":
       link = (
         <Link to={props.to} className={classes.BottomLink}>

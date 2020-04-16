@@ -10,6 +10,26 @@
   align-items: center;
 }
 
+.RedLink {
+  cursor: pointer;
+  background: #d81f27;
+  border: none;
+  border-radius: 7px;
+  font-size: 18px;
+  width: 282px;
+  height: 45px;
+  color: #fff;
+  font-weight: 400;
+  margin: 40px 0px;
+  margin-bottom: 0px;
+  width: 220px;
+  font-size: 16px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .BottomLink {
   position: absolute;
   bottom: 30px;

@@ -15,6 +15,11 @@ const Compare = props => {
     setOpen(!open)
     props.onChangeStep(1)
   }
+
+  const changeOpen = value => {
+    console.log("[changeOpen]...")
+    console.log(value)
+  }
   return (
     <div className={classes.Compare}>
       <div className={classes.Upper}>
@@ -27,7 +32,7 @@ const Compare = props => {
           Krankenkassen Wechsel
         </Text>
       </div>
-      <CompareForm open={open} />
+      <CompareForm open={open} changeOpen={value => setOpen(value)} />
     </div>
   )
 }
