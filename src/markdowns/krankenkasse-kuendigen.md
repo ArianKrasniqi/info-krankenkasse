@@ -1,41 +1,39 @@
 ---
 lang: "de"
 type: "info"
-title: "Krankenkasse kündigen"
+title: "Krankenversicherung kündigen"
 image: "Cancel"
 description: "Krankenkasse kündigen: Was müssen Sie beachten?
 Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attraktivere Leistungen, können Sie relativ unkompliziert zu einer anderen Krankenversicherung wechseln. Voraussetzung ist, dass Sie Ihre alte Krankenkasse kündigen. Damit die Kündigung rechtzeitig in Kraft tritt, müssen Sie die Kündigungsfrist beachten. Hier erfahren Sie, welche Kündigungsfristen gelten und welche weiteren Bedingung für eine Kündigung der Krankenkasse gelten."
 ---
 
-## Krankenkasse kündigen: Was müssen Sie beachten?
+## Kündigung – Was muss beachtet werden?
 
-###### Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attraktivere Leistungen, können Sie relativ unkompliziert zu einer anderen Krankenversicherung wechseln. Voraussetzung ist, dass Sie Ihre alte Krankenkasse kündigen. Damit die Kündigung rechtzeitig in Kraft tritt, müssen Sie die Kündigungsfrist beachten. Hier erfahren Sie, welche Kündigungsfristen gelten und welche weiteren Bedingung für eine Kündigung der Krankenkasse gelten.
+###### Sie möchten Ihre Krankenversicherung wechseln, weil Sie Ihre zu teuer finden? Oder weil ein anderer Versicherer attraktivere Leistungen anbieten kann? Der Krankenversicherungswechsel kann relativ schnell und unkompliziert stattfinden. Wichtig ist, dass Ihre alte Krankenversicherungspolice fristgerecht gekündigt wird. Hier erfahren Sie alle wichtigen Informationen wie zum Beispiel die Kündigungsfristen.
 
 # Form
 
-## Kündigung Krankenkasse: So kündigen Sie Ihre Grundversicherung
+## Kündigung der Krankenversicherung: so wird gekündigt
 
-###### Die Grundversicherung ist die obligatorische Krankenkasse in der Schweiz, die jeder Eidgenosse abgeschlossen haben muss. Eine Kündigung ihrer Krankenkasse erwägen viele Versicherungsnehmer, wenn ihr Anbieter eine Prämienerhöhung ankündigt. Die Kündigung hat stets auf dem Schriftweg zu erfolgen. Verschicken Sie Ihren Brief am besten per Einschreiben, damit er möglichst schnell bearbeitet werden kann.
+###### Bei der Grundversicherung handelt es sich um eine obligatorische Sozialversicherung in der Schweiz. Dementsprechend sind die Vorschriften für die Einhaltung der Versicherungspflicht äusserst streng. Aus diesem Grund muss die Kündigung immer schriftlich erfolgen. Damit Sie eine Sendungsnummer für die Verfolgung haben, empfehlen wir Ihnen die Kündigung eingeschrieben zu senden. So haben Sie den Beweis, dass Sie fristgerecht gekündigt haben. Die Kündigung kann auch persönlich am Schalter abgegeben werden.
 
-###### Ihr Kündigungsschreiben sollte folgende Daten enthalten:
+###### Ihr Kündigungsschreiben sollte folgende Angaben enthalten:
 
-### Vor- und Nachname
+### Ihre Angaben (Name, Vorname, Adresse, Geburtsdatum, Versicherungsnummer)
 
-### Geburtsdatum
+### per wann die Kündigung gelten soll, beispielsweise 31.12.2020
 
-### Ihre Anschrift
+### welche Krankenversicherung es betrifft
 
-### Ihre Versicherungsnummer
+## Die Kündigung kann gerne bei uns Online erstellt werden ¬– Hier kommen Sie zur Vorlage
 
-## Mit unserer kostenlose Vorlage können Sie Ihr Kündigungsschreiben schnell und einfach online erstellen.
+###### Wenn Sie Ihre Kündigung kündigen möchten, dürfen Sie keine offenen Rechnungen bei Ihrer Krankenversicherung haben. Die Kündigung wird erst akzeptiert, wenn der alte Versicherer der neuen Krankenversicherung bestätigt, dass Sie ab dem neuen Jahr bei ihnen versichert sind. Sie bleiben bei Ihrer alten Versicherung versichert, wenn Sie es verpassen, rechtzeitig eine neue obligatorische Krankenpflegeversicherung abzuschliessen.
 
-###### Möchten Sie Ihre Krankenkasse kündigen, dürfen keine Prämienzahlungen rückständig sein. Die Kündigung tritt erst in Kraft, wenn Sie Ihrem alten Versicherer eine Bestätigung über den neuen Versicherungsvertrag vorlegen. Verpassen Sie es, rechtzeitig eine neue obligatorische Krankenpflegeversicherung abzuschliessen, bleiben Sie bei Ihrer alten Krankenkasse versichert.
+## Welche Kündigungsfrist gilt für die obligatorische Krankenpflegeversicherung?
 
-## Welche Kündigungsfrist gilt für die obligatorische Krankenversicherung?
+###### In der Regel gibt es jedes Jahr Anpassungen der Versicherungsprämien. Die entsprechenden Krankenversicherungen müssen bis spätestens bis Ende Oktober die Prämien für das kommende Jahr veröffentlichen. Die Prämien werden mittels Versicherungspolice mitgeteilt, diese erhalten Sie per Post. Wenn Sie nicht zufrieden sind oder mit den neuen Konditionen nicht einverstanden sind, können Sie die die Grundversicherung kündigen. Der nächstmögliche Termin ist immer Ende Dezember. Dabei ist wichtig, dass die Kündigungsfrist von einem Monat beachtet wird. Das heisst, Das Kündigungsschreiben muss bis spätestens am 30. November bei der Versicherungsgesellschaft eingehen.
 
-###### Jedes Jahr passen die Schweizer Krankenkassen ihre Versicherunsgprämien an. Bis spätestens Ende Oktober muss Ihr Versicherer Ihnen mitteilen, wie sich die Prämie im kommenden Jahr verändert. Wurde eine Prämienerhöhung angekündigt, können Sie Ihre Grundversicherung zum 31. Dezember kündigen und zum 1. Januar des neuen Jahres zu einem anderen Anbieter wechseln. Das Kündigungsschreiben muss bis zum 30. November bei Ihrem alten Anbieter eingegangen sein.
-
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Schweizer Franken abgeschlossen, können Sie auch bis Ende Juni kündigen. In diesem Fall gilt eine Frist von drei Monaten. Ihre Kündigungsbrief muss dem Versicherer also spätestens am 31. März vorliegen, damit die Kündigung zum 30. Juni in Kraft tritt.
+###### Wenn Sie die ordentliche Krankenpflegeversicherung mit freier Arztwahl (Basis Modell) und eine Jahresfranchise über CHF 300.- haben, können Sie die Grundversicherung auch unterjährig kündigen. In dem Fall wird per 30. Juni gekündigt. Die Kündigung muss dem Vorversicherer bis spätestens 31. März vorliegen.
 
 ## Zusatzversicherung kündigen: Fristen und Termine
 

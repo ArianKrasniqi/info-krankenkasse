@@ -33,18 +33,16 @@ const Index = props => {
       <div className="SideFormAndContent">
         <SideForm />
 
-        <Text type="subtitle">{lang.subtitle}</Text>
-        <Text type="paragraph">{lang.content[0]}</Text>
-        <Text type="paragraph">{lang.content[1]}</Text>
-        <Text type="subtitle">{lang.subtitle2}</Text>
-        <Text type="paragraph">{lang.content2[0]}</Text>
-        <Text type="paragraph">{lang.content2[1]}</Text>
-        <Text type="subtitle">{lang.subtitle3}</Text>
-        <Text type="paragraph">{lang.content3[0]}</Text>
-        <Text type="paragraph">{lang.content3[1]}</Text>
+        {lang.others.map(content => {
+          if (Object.keys(content)[0] === "subtitle") {
+            return <Text type="subtitle">{content.subtitle}</Text>
+          } else if (Object.keys(content)[0] === "content") {
+            return <Text type="paragraph">{content.content}</Text>
+          } else if (Object.keys(content)[0] === "smallsubtitle") {
+            return <Text type="smallSubtitle">{content.smallsubtitle}</Text>
+          }
+        })}
       </div>
-      <Text type="subtitle">{lang.subtitle4}</Text>
-      <Text type="paragraph">{lang.content4}</Text>
 
       <ContactInfo />
     </Layout>

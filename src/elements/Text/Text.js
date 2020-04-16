@@ -11,6 +11,13 @@ const text = props => {
     case "subtitle":
       text = <p className={classes.Subtitle}>{props.children}</p>
       break
+    case "smallSubtitle":
+      text = (
+        <p className={[classes.Subtitle, classes.SmallSubtitle].join(" ")}>
+          {props.children}
+        </p>
+      )
+      break
     case "paragraph":
       text = <p className={classes.Paragraph}>{props.children}</p>
       break
@@ -30,7 +37,11 @@ const text = props => {
       )
       break
     case "listItem":
-      text = <li className={[classes.Paragraph, classes.ListItem].join(" ")}>{props.children}</li>
+      text = (
+        <li className={[classes.Paragraph, classes.ListItem].join(" ")}>
+          {props.children}
+        </li>
+      )
       break
     case "compareSubtitle":
       text = <p className={classes.CompareSubtitle}>{props.children}</p>
