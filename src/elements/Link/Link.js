@@ -34,6 +34,13 @@ const link = props => {
         </Link>
       )
       break
+    case "coverLink":
+      link = (
+        <Link to={props.to} className={classes.CoverLink}>
+          {props.children}
+        </Link>
+      )
+      break
 
     default:
       link = <Link to={props.to}>{props.children}</Link>

@@ -10,18 +10,18 @@
   box-shadow: 3px 5px 16px -13px rgba(0, 0, 0, 0.75);
 }
 
-.Buttons button:first-child {
+.Buttons a:first-child {
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
 }
 
-.Buttons button:last-child {
+.Buttons a:last-child {
   border-top-right-radius: 50px;
   border-bottom-right-radius: 50px;
 }
 
-.Buttons button:first-child:after,
-.Buttons button:last-child:after {
+.Buttons a:first-child:after,
+.Buttons a:last-child:after {
   content: "";
   height: 40px;
   margin-top: 10px;
@@ -34,7 +34,7 @@
   background-color: #00000050;
 }
 
-.Buttons button:last-child:after {
+.Buttons a:last-child:after {
   left: 66.6%;
 }
 
@@ -45,7 +45,7 @@
   display: none;
 }
 
-.MobileButtons button {
+.MobileButtons a {
   border: 1px solid #ececec;
   background: white;
   color: #5c5c5c;
