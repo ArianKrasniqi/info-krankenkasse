@@ -40,8 +40,10 @@ const input = props => {
           id={props.id}
           key={props.id}
           label={props.label}
-          defaultValue=""
+          defaultValue={props.defaultValue}
           helperText={props.helperText}
+          onChange={event => props.changed(event)}
+          onClick={event => props.changed(event)}
         />
       )
       break
@@ -221,7 +223,7 @@ const input = props => {
           id={props.id}
           key={props.id}
           label={props.label}
-          defaultValue=""
+          defaultValue={props.defaultValue}
           helperText={props.helperText}
           multiline
           rows="4"

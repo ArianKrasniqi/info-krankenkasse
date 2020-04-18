@@ -18,6 +18,7 @@ const Button = props => {
     case "red":
       button = (
         <button
+          type={props.element}
           className={classes.Red}
           onClick={props.clicked}
           style={props.style}

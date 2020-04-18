@@ -16,11 +16,15 @@ const contactForm = props => (
     }
     style={props.style}
   >
-    {props.type === "contact" ? <ContactInputs /> : <PregnancyInputs />}
+    {props.type === "contact" ? (
+      <ContactInputs btnText={props.btnText} />
+    ) : (
+      <PregnancyInputs btnText={props.btnText} />
+    )}
     <div className={classes.Bottom}>
-      <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
+      {/* <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
         {props.btnText ? props.btnText : "OFFERTE ANFORDERN"}
-      </Button>
+      </Button> */}
       <Text type="smallParagraph" style={{ width: "310px", fontSize: "0.6em" }}>
         Mit dem Abschicken des Formulars akzeptieren Sie die Nutzungsbedingungen
         und bestätigen diese gelesen zu haben.

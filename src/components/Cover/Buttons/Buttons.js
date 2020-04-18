@@ -1,6 +1,5 @@
 import React from "react"
 
-import Button from "../../../elements/Button/Button"
 import Link from "../../../elements/Link/Link"
 import classes from "./Buttons.module.css"
 

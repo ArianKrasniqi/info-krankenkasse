@@ -20,9 +20,9 @@ const compare = props => {
         <Text type="paragraph">Was ist Ihnen wichtig?</Text>
         <Inputs />
         <div className={classes.Bottom}>
-          <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
+          {/* <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
             OFFERTE ANFORDERN
-          </Button>
+          </Button> */}
           <Text
             type="smallParagraph"
             style={{ width: "310px", fontSize: "0.6em" }}
