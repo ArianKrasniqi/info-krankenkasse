@@ -9,7 +9,7 @@ refundPeriod: "19"
 solvencyRate: "219%"
 administrativeExpenses: "172"
 color: "#E41C3A"
-description: "The SLKK emerged from the Schweizerische Lehrerkrankenkasse. The company is promoting itself as "the sensible health insurance company" and would like to offer insurance solutions tailored to its needs. The headquarters of the health insurance company is located in Zurich. In 2018, around 21,1000 policyholders had taken out basic health insurance with the company. Our comparison shows whether a change to health insurance is worthwhile."
+description: "The SLKK emerged from the Schweizerische Lehrerkrankenkasse. The company is promoting itself as 'the sensible health insurance company' and would like to offer insurance solutions tailored to its needs. The headquarters of the health insurance company is located in Zurich. In 2018, around 21,1000 policyholders had taken out basic health insurance with the company. Our comparison shows whether a change to health insurance is worthwhile."
 ---
 
 ## The basic insurance of SLKK

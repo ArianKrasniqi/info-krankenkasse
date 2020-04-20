@@ -9,7 +9,7 @@ refundPeriod: "19"
 solvencyRate: "219%"
 administrativeExpenses: "172"
 color: "#E41C3A"
-description: "La SLKK deriva dall’assicurazione sanitaria per gli insegnati svizzer. La società si promuove come "la cassa malati ragionevole" e desidera fornire soluzioni assicurative basate sui bisogni. La sede principale dell'assicurazione sanitaria si trova a Zurigo, nel 2018 circa 21'1000 assicurati ad aver sottoscritto questa assicurazione. Il nostro confronto ti mostrerà se ti conviene effettuare un cambio della cassa malati."
+description: "La SLKK deriva dall’assicurazione sanitaria per gli insegnati svizzer. La società si promuove come 'la cassa malati ragionevole' e desidera fornire soluzioni assicurative basate sui bisogni. La sede principale dell'assicurazione sanitaria si trova a Zurigo, nel 2018 circa 21'1000 assicurati ad aver sottoscritto questa assicurazione. Il nostro confronto ti mostrerà se ti conviene effettuare un cambio della cassa malati."
 ---
 
 ## L’assicurazione di base di SLKK

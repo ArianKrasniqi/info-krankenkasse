@@ -9,7 +9,7 @@ refundPeriod: "19"
 solvencyRate: "219%"
 administrativeExpenses: "172"
 color: "#E41C3A"
-description: "Le SLKKK est issu de la Caisse d'assurance-maladie des enseignants suisses. L'entreprise se présente comme "la compagnie d'assurance maladie raisonnable" et souhaite proposer des solutions d’assurance répondant aux besoins. Le siège de la caisse d'assurance-maladie se trouve à Zurich et, en 2018, quelque 21'1000 assurés ont souscrit une assurance de base auprès de cette caisse. Notre comparaison montre s'il est avantageux de passer à cette caisse d'assurance maladie."
+description: "Le SLKKK est issu de la Caisse d'assurance-maladie des enseignants suisses. L'entreprise se présente comme 'la compagnie d'assurance maladie raisonnable' et souhaite proposer des solutions d’assurance répondant aux besoins. Le siège de la caisse d'assurance-maladie se trouve à Zurich et, en 2018, quelque 21'1000 assurés ont souscrit une assurance de base auprès de cette caisse. Notre comparaison montre s'il est avantageux de passer à cette caisse d'assurance maladie."
 ---
 
 ## L'assurance de base de SLKK
