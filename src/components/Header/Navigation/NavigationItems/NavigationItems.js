@@ -4,7 +4,8 @@ import { Link } from "gatsby"
 import classes from "./NavigationItems.module.css"
 
 const NavigationItems = props => {
-  const pathname = window.location.pathname
+  const pathname =
+    typeof window !== `undefined` ? window.location.pathname : null
   return (
     <ul className={classes.Nav}>
       <li>
