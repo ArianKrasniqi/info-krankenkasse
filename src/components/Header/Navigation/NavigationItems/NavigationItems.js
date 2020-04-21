@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link } from "gatsby"
 
 import classes from "./NavigationItems.module.css"
@@ -6,10 +6,12 @@ import classes from "./NavigationItems.module.css"
 const NavigationItems = props => {
   const pathname =
     typeof window !== `undefined` ? window.location.pathname : null
+
   return (
     <ul className={classes.Nav}>
       <li>
         <Link
+          onMouseLeave={props.handleLeave}
           to="/"
           className={
             pathname === "/"
@@ -22,6 +24,7 @@ const NavigationItems = props => {
       </li>
       <li>
         <Link
+          onMouseEnter={props.handleHover}
           to="/informationen"
           className={
             pathname === "/informationen"
@@ -34,6 +37,7 @@ const NavigationItems = props => {
       </li>
       <li>
         <Link
+          onMouseLeave={props.handleLeave}
           to="/krankenkasse"
           className={
             pathname === "/krankenkasse"
@@ -46,6 +50,7 @@ const NavigationItems = props => {
       </li>
       <li>
         <Link
+          onMouseLeave={props.handleLeave}
           to="/praemienrechner"
           className={
             pathname === "/praemienrechner"
@@ -58,6 +63,7 @@ const NavigationItems = props => {
       </li>
       <li>
         <Link
+          onMouseEnter={props.handleHover}
           to="/kontakt"
           className={
             pathname === "/kontakt"

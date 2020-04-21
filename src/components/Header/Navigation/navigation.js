@@ -7,7 +7,10 @@ const navigation = props => {
   return (
     <div>
       <MenuIcon open={props.open} menuClicked={props.menuClicked} />
-      <NavigationItems />
+      <NavigationItems
+        handleHover={props.handleHover}
+        handleLeave={props.handleLeave}
+      />
     </div>
   )
 }

@@ -1,0 +1,57 @@
+.SubMenu {
+  background: white;
+  border-bottom: 1px solid #ececec;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  transition: all 0.5s ease-out;
+  position: fixed;
+}
+
+.Content {
+  max-width: 1200px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.Content ul {
+  margin: 0;
+  padding: 10px 0px;
+}
+
+.Informationen {
+  padding-left: 135px !important;
+}
+
+.Contact {
+  padding-left: 345px !important;
+}
+
+.SubMenu div li,
+.SubMenu div a {
+  padding: 6px 0px;
+  font-weight: 300;
+  font-size: 15px;
+  cursor: pointer;
+  color: #2c2c2c !important;
+  text-decoration: none;
+  list-style: none;
+}
+
+@media (max-width: 1280px) {
+  .Content {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .Informationen {
+    padding-left: 115px !important;
+  }
+
+  .Contact {
+    padding-left: 285px !important;
+  }
+}
