@@ -1,12 +1,12 @@
 export const de = {
   title: "Kontakt",
   description:
-    "Haben Sie noch Fragen zur Krankenversicherung? Wünschen Sie eine weitergehende Beratung zur Grundversicherung oder suchen Sie nach Zusatzversicherungen, die zu Ihren Bedürfnissen passen? Wir beraten Sie gerne kostenlos und unverbindlich. Füllen Sie einfach das unten stehende Kontaktformular aus und wir werden uns umgehend bei Ihnen melden.",
+    "Haben Sie noch Fragen zur Krankenversicherung der zum Vertragsabschluss? Wünschen Sie eine persönliche Beratung oder suchen Sie nach Zusatzversicherungen, die zu Ihren Bedürfnissen passen? Dann füllen Sie einfach das untenstehende Kontaktformular aus. Wir werden umgehend mit Ihnen Kontakt aufnehmen und Sie persönlich beraten!",
   content: [
-    "Unser Prämienrechner erlaubt einen umfassenden Versicherungsvergleich und Sie können sofort eine unverbindliche Offerte einholen. Manchmal bleiben aber noch Fragen offen, die sich am besten im persönlichen Kontakt klären lassen. Wir stehen Ihnen gerne zur Verfügung.",
-    "Damit wir direkt Kontakt zu Ihnen aufnehmen können, bitten wir Sie, alle persönlichen Angaben im Kontaktformular korrekt und vollständig auszufüllen. Für genaue Auskünfte geben Sie bitte auch Ihre aktuelle Krankenkasse an. Beschreiben Sie Ihr Anliegen so konkret und detailliert wie möglich. So können wir gezielt auf Ihre persönlichen Bedürfnisse eingehen und Ihnen eine individuell abgestimmte Empfehlung aussprechen.",
-    "Je nach Auslastung erhalten Sie innerhalb weniger Stunden eine Antwort. Holen Sie gleich Auskünfte zu Ihrer Krankenkasse ein und erfahren Sie, wie Sie Prämien sparen können. Informieren Sie sich über alternative Modelle der Grundversicherung und sinnvolle Zusatzversicherungen. Wir helfen Ihnen, den optimalen Versicherungsschutz zu finden.",
-    "Alternativ zum Kontaktformular erreichen Sie uns auch über die E-Mailadresse info(at)krankenkassenadmin.ch. Vergessen Sie nicht, Ihre Kontaktdaten und Ihre Telefonnummer anzugeben, damit wir uns direkt bei Ihnen melden können.",
+    "Unser Prämienrechner erlaubt einen umfassenden Versicherungsvergleich. Manchmal bleiben aber noch Fragen oder Anliegen offen, die sich am besten in einer persönlichen Beratung klären lassen. Wir stehen Ihnen gerne zur Verfügung.",
+    "Wenn Sie eine Beratung wünschen, bitten wir Sie, alle persönlichen Angaben im Kontaktformular korrekt und vollständig auszufüllen. Wir nehmen gerne mit Ihnen Kontakt auf. Für genauere Auskünfte geben Sie bitte auch Ihre aktuelle Krankenversicherung an. Sie können auch Ihr Anliegen konkret und detailliert notieren. So können wir gezielt auf Ihre Anfrage Bezug nehmen und auf Ihre persönlichen Bedürfnisse eingehen. Ausserdem können wir Ihnen eine individuell abgestimmte Empfehlung aussprechen.",
+    "Wir garantieren Ihnen eine Rückmeldung innerhalb von 24 Stunden. Sie können gleich Auskünfte zu Ihrer Krankenversicherung einholen und erfahren, wie Sie Prämien sparen können. Zudem können Sie sich über alternative Modelle der Grundversicherung und passende Zusatzversicherungen informieren. Wir unterstützen Sie beim Suchen der optimale Versicherungsdeckung.",
+    "Sie erreichen uns auch über die E-Mail-Adresse kontakt@info-krankenkasse.ch. Auch in dem Fall ist es wichtig, dass Sie uns Ihre Personalien mitteilen. Nur so können wir direkt auf Ihr Anliegen Bezug nehmen. Wir bedanken uns bereits im Voraus für Ihr Interesse.",
   ],
 }
 export const en = {

@@ -3,29 +3,29 @@ import React from "react"
 import Link from "../../../elements/Link/Link"
 import classes from "./Buttons.module.css"
 
-const buttons = () => (
+const buttons = props => (
   <div>
     <div className={classes.Buttons}>
       <Link to="/praemienrechner" type="coverLink">
-        Prämien 2020 vergleichen
+        {props.texts[0]}
       </Link>
       <Link to="/informationen/krankenkasse-wechseln" type="coverLink">
-        Krankenkasse wechseln
+        {props.texts[1]}
       </Link>
       <Link to="/informationen/krankenkasse-kuendigen" type="coverLink">
-        Krankenkasse kündigen
+        {props.texts[2]}
       </Link>
     </div>
 
     <div className={classes.MobileButtons}>
       <Link to="/praemienrechner" type="coverLink">
-        Prämien 2020 vergleichen
+        {props.texts[0]}
       </Link>
       <Link to="/informationen/krankenkasse-wechseln" type="coverLink">
-        Krankenkasse wechseln
+        {props.texts[1]}
       </Link>
       <Link to="/informationen/krankenkasse-kuendigen" type="coverLink">
-        Krankenkasse kündigen
+        {props.texts[2]}
       </Link>
     </div>
   </div>

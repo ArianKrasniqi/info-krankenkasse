@@ -62,6 +62,17 @@ const Glossar = props => {
     <Layout>
       <Text type="title">{lang.title}</Text>
       <Text type="paragraph">{lang.description}</Text>
+      {lang.others
+        ? lang.others.map(content => {
+            if (Object.keys(content)[0] === "subtitle") {
+              return <Text type="subtitle">{content.subtitle}</Text>
+            } else if (Object.keys(content)[0] === "content") {
+              return <Text type="paragraph">{content.content}</Text>
+            } else if (Object.keys(content)[0] === "smallsubtitle") {
+              return <Text type="smallSubtitle">{content.smallsubtitle}</Text>
+            }
+          })
+        : null}
       <Lists data={list} slugs={slugs} prelink="glossar/" />
     </Layout>
   )

@@ -1,44 +1,46 @@
 ---
 lang: "de"
 type: "info"
-title: "Krankenkasse wechseln"
+title: "Krankenversicherung wechseln"
 image: "Change"
-description: "So einfach können Sie Ihre Krankenkasse wechseln
-Spätestens, wenn der Versicherer die monatlichen Prämien erhöht, möchten viele Versicherungsnehmer ihre Krankenkasse wechseln. Durch einen Wechsel der Krankenversicherung lassen sich mehrere Hundert bis Tausend Schweizer Franken pro Jahr sparen. Für den Wechsel der Grundversicherung und der Zusatzversicherung gelten dabei unterschiedliche Bedingungen. Wollen Sie Ihre Krankenversicherung wechseln, erfahren Sie hier, was Sie dabei beachten müssen."
+description: "So einfach können Sie Ihre Krankenversicherung wechseln
+Spätestens wenn der Versicherer die Monatsprämien für das nächste Jahr erhöht, möchten viele Versicherungsnehmer ihre Krankenversicherung wechseln. Mit einem Wechsel der Krankenversicherung haben Sie grosses Sparpotenzial. Für den Wechsel der Grund- und Zusatzversicherungen gelten dabei unterschiedliche Bedingungen. Wenn Sie Ihre Krankenversicherung wechseln möchten, erfahren Sie hier, was zu beachten ist."
 ---
 
-## So einfach können Sie Ihre Krankenkasse wechseln
+## So einfach können Sie Ihre Krankenversicherung wechseln
 
-###### Spätestens, wenn der Versicherer die monatlichen Prämien erhöht, möchten viele Versicherungsnehmer ihre Krankenkasse wechseln. Durch einen Wechsel der Krankenversicherung lassen sich mehrere Hundert bis Tausend Schweizer Franken pro Jahr sparen. Für den Wechsel der Grundversicherung und der Zusatzversicherung gelten dabei unterschiedliche Bedingungen. Wollen Sie Ihre Krankenversicherung wechseln, erfahren Sie hier, was Sie dabei beachten müssen.
+###### Spätestens wenn der Versicherer die Monatsprämien für das nächste Jahr erhöht, möchten viele Versicherungsnehmer ihre Krankenversicherung wechseln. Mit einem Wechsel der Krankenversicherung haben Sie grosses Sparpotenzial. Für den Wechsel der Grund- und Zusatzversicherungen gelten dabei unterschiedliche Bedingungen. Wenn Sie Ihre Krankenversicherung wechseln möchten, erfahren Sie hier, was zu beachten ist.
 
 # Form
 
 ## Krankenversicherung wechseln: So gehen Sie vor
 
-###### Jeweils im Herbst genehmigt das Bundesamt für Gesundheit (BAG) die Krankenkassenprämien für das kommende Jahr. Die Krankenkassen müssen ihre Versicherungsnehmer spätestens bis zum 31. Oktober schriftlich über die neuen monatlichen Prämien informieren. Haben Sie dieses Informationsschreiben erhalten, dürfen Sie bis zum Jahresende Ihre Grundversicherung wechseln.
+###### Die Prämien für das kommende Jahr werden jeweils im Herbst vom Bundesamt für Gesundheit (BAG) kontrolliert und genehmigt. Die Krankenversicherungen haben allen Versicherungsnehmer bis spätestens Ende Oktober die neuen Prämien mitzuteilen. Diese Information erfolgt mit der Versicherungspolice für das nächste Jahr. Mit dieser Mitteilung haben die Versicherungsnehmer automatisch ein Kündigungsrecht. Die Kündigung muss bis spätestens 30. November beim Versicherer eintreffen, damit die Kündigung per Ende Jahr gültig ist.
 
-###### Bevor Sie Ihre Krankenkasse wechseln, sollten Sie zunächst einen Krankenkassenvergleich durchführen. Auf diese Weise finden Sie den günstigsten Versicherer für Ihre Ansprüche. Prüfen Sie beim Versicherunsgvergleich auch, ob sich ein Wechsel zu einem alternativen Versicherungsmodell lohnt. Sparpotenzial ergibt sich zudem, wenn Sie eine höhere Jahresfranchise festlegen.
+###### Bevor die Krankenversicherung gewechselt wird, empfehlen wir einen Vergleich der Prämien und der Kundenzufriedenheit durchzuführen. Auf diese Weise finden die Sie den günstigsten Versicherer für Ihre Ansprüche. Es kann ebenfalls überprüft werden, ob sich ein Wechsel zu einem alternativen Versicherungsmodell lohnt. Das Sparpotenzial erhöht sich, wenn eine höhere Jahresfranchise gewählt wird.
 
-###### Nach dem Krankenversicherunsgvergleich fordern Sie eine Offerte einer oder mehrerer Krankenkassen an. Die Versicherer schicken Ihnen die Offerte zu. Sie wählen Ihr bevorzugtes Angebot aus und melden sich mit dem beigefügten Formular bei der neuen Krankenkasse an.
+###### Nach dem Krankenversicherungsvergleich können Sie gerne eine oder mehrere Offerten anfordern. Die Versicherer senden Ihnen die Offerten zum Vergleich zu. Somit können Sie in Ruhe die Angebote überprüfen und das bevorzugte Angebot auswählen. Sobald die Entscheidung getroffen wurde, können Sie alle Antragsblätter ausfüllen und die Anmeldung bei der neuen Krankenversicherung vornehmen.
 
-###### Anschliessend müssen Sie noch Ihre alte Krankenversicherung kündigen. Dabei gibt es unterschiedliche Kündigungsfristen zu beachten.
+###### Zum Schluss muss unbedingt die alte Krankenversicherung gekündigt werden. Dabei gibt es verschiedene Kündigungsfristen zu beachten.
 
-## Krankenkasse wechseln: Bis wann müssen Sie Ihre Grundversicherung kündigen?
+## Krankenversicherung wechseln: Bis wann muss die Grundversicherung gekündigt werden?
 
-###### Möchten Sie nach einer angekündigten Prämienerhöhung die Krankenversicherung wechseln, geht das zum Ende des Jahres. Die Kündigung der Grundversicherung muss spätestens am 30. November beim Versicherer eingegangen sein. Massgeblich ist nicht das Datum des Poststempels, sondern das Datum, zu dem das Kündigungsschreiben der Versicherung tatsächlich vorliegt. Die Kündigung tritt dann zum 31. Dezember in Kraft.
+###### Wenn sie die Grundversicherung nach einer angekündigten Prämienerhöhung kündigen möchten, ist der nächstmögliche Termin immer Ende Jahr. Die Kündigung muss jedoch bereits spätestens am 30. November bei der alten Krankenversicherung eintreffen. Das Datum des Poststempels ist hier nicht massgebend. Massgebend ist das Datum, an welchem das Kündigungsschreiben der Versicherung vorliegt. Die Kündigung tritt dementsprechend per 31. Dezember in Kraft.
 
-###### Erhöht Ihre Krankenkasse die Prämie bereits zur Mitte des Jahres, müssen Sie bis Ende April darüber informiert werden. Sie haben dann bis zum 31. Mai Zeit, Ihre Versicherung zu kündigen und können zum 1. Juli zu einer anderen Krankenkasse wechseln.
+###### In der Regel werden die Prämienerhöhungen für das nächste Jahr bereits im Oktober mitgeteilt. Es kann aber auch vorkommen, dass die Krankenversicherung die Prämie bereits per Mitte Jahr erhöhen muss. In diesem seltenen Fall besteht eine Informationspflicht bis Ende April. Ab diesem Zeitpunkt besteht wiederum ein Kündigungsrecht von einem Monat. Somit kann die Grundversicherung dementsprechend bis Ende Mai gekündigt werden. Die Kündigung tritt dann per 30. Juni in Kraft. Der Wechsel zu einem anderen Krankenversicherung kann somit per 1. Juli vorgenommen werden.
 
-## Krankenkassen wechseln: Termin für Grundversicherungen mit ordentlicher Franchise
+## Krankenversicherung wechseln: Termin für Grundversicherungen mit ordentlicher Franchise
 
-###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von 300 Franken im Monat abgeschlossen, gilt ein zusätzlicher Kündigungstermin Mitte des Jahres. Die Kündigung tritt dann zum 30. Juni in Kraft. Dabei gilt eine Kündigungsfrist von drei Monaten. Das bedeutet, Ihr Kündigungsschreiben muss spätestens am 31. März bei der Krankenversicherung eingegangen sein.
+###### Haben Sie eine Grundversicherung mit einer ordentlichen Franchise von CHF 300.¬- und mit dem Basis-Modell mit freier Arztwahl abgeschlossen, gilt ein zusätzlicher Kündigungstermin Mitte des Jahres. Die Kündigung tritt dann zum 30. Juni in Kraft. Dabei gilt eine Kündigungsfrist von drei Monaten. Ihr Kündigungsschreiben muss dementsprechend spätestens am 31. März bei der Krankenversicherung eingegangen sein.
 
-## Krankenkasse wechseln: Frist für die Kündigung der Zusatzversicherung
+## Krankenversicherung wechseln: Kündigungsfrist in den Zusatzversicherungen
 
-###### Ihre Grundversicherung und Zusatzversicherung können Sie unabhängig voneinander wechseln. Sie können also Ihre Grundversicherung behalten und lediglich zu einer Zusatzversicherung eines anderen Anbieters wechseln. Die Kündigungsfristen für die Zusatzversicherung legt jede Krankenkasse individuell fest. Lesen Sie sich daher die Versicherungsbedingungen aufmerksam durch und halten Sie sich an den dort angegebenen Kündigungstermin.
+###### Die Zusatzversicherung ist unabhängig von der Grundversicherung. Sie müssen nicht bei derselben Krankenversicherung abgeschlossen werden. Die Grundversicherung kann bei einer Krankenversicherung beibehalten werden und die Zusatzversicherung lediglich bei einer anderen abgeschlossen werden.
 
-###### Erhöht Ihr Krankenversicherer die Prämie für die Zusatzversicherung, dürfen Sie mit einer Frist von einem Monat kündigen und zu einem anderen Anbieter wechseln.
+###### Die Kündigungsfristen für die Zusatzversicherung legt jede Krankenversicherung individuell fest. Deshalb ist es sehr wichtig die allgemeinen Versicherungsbedingungen aufmerksam durchzulesen, damit die Kündigungsfrist nicht verpasst wird. Vor allem bei den Krankenversicherungen Assura und Groupe Mutuel und deren Unterkassen muss speziell auf die Kündigungsfrist geachtet werden.
+
+###### Sollte der Versicherer die Prämien der Zusatzversicherungen erhöhen, besteht für alle Versicherungsnehmer ein Kündigungsrecht. Die Kündigungsfrist ist in dem Fall 1 Monat.
 
 ## Angebote vergleichen und Krankenversicherung wechseln
 
-###### Möchten Sie Ihre Krankenkasse wechseln, machen Sie bei uns den kostenlosen Krankenkassenvergleich und fordern direkt eine Offerte Ihres bevorzugten Anbieters an. Wünschen Sie eine weitergehende Beratung, nehmen Sie gerne Kontakt zu uns auf.
+###### Wenn Sie einen Wechsel der Krankenversicherung in Betracht ziehen, helfen wir Ihnen gerne mit unserem Krankenversicherungsvergleich. Die Offerte Ihres bevorzugten Anbieters können Sie hier direkt anfordern. Wir beraten Sie auch gerne – In dem Fall können Sie gerne mit uns Kontakt aufnehmen.

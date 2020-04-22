@@ -1,23 +1,23 @@
 export const de = {
-  title: "Prämienrechner: Krankenkasse vergleichen und wechseln",
+  title: "Prämienrechner: Krankenversicherung vergleichen und wechseln",
   description:
-    "Zahlen Sie eventuell zu viel für Ihre Krankenkasse? In der Grundversicherung bieten alle Schweizer Krankenversicherer dieselbe Leistung. Die Höhe der Prämien unterscheidet sich aber zum Teil enorm. Mit unserem Prämienrechner ermitteln Sie Ihr Sparpotenzial. Unkompliziert und mit wenigen Klicks können Sie mehrere Hundert Franken im Jahr sparen.",
+    "Sind Ihre Monatsprämien eventuell zu hoch? In der Grundversicherung bieten alle Schweizer Krankenversicherer dieselben Leistungen an, da diese gesetzlich vorgeschrieben sind. Die Höhe der Prämie unterscheidet sich zum Teil jedoch enorm. Mit unserem Prämienrechner ermitteln Sie Ihr Sparpotenzial in kurzen Augenblicken. Ganz unkompliziert können Sie mehrere Franken pro Jahr sparen.",
   content: [
-    "Prämienrechner nutzen und das Sparpotenzial für die Krankenkasse berechnen",
-    "Unser Prämienrechner nutzt die vom Bundesamt für Gesundheit (BAG) genehmigten Prämien. Auf diese Weise erhalten Sie stets aktuelle Daten. Anders als beim Priminfo-Rechner des BAG können Sie über unseren Prämienrechner allerdings direkt eine unverbindliche Offerte anfordern. Das spart Zeit beim Krankenkassen-Vergleich.",
-    "Ihre Vorteile mit dem Krankenkassen-Prämienrechner:",
+    "Prämienrechner nutzen und das Sparpotenzial berechnen",
+    "Unser Prämienrechner nutzt die vom Bundesamt für Gesundheit (BAG) genehmigten und veröffentlichten Prämien. Auf diese Weise haben wir immer die aktuellen Daten. Anders als beim Rechner Priminfo des BAG können Sie über unseren Prämienrechner allerdings direkt eine Offerte anfordern. Dieser Dienstleistung ist kostenlos und unverbindlich.",
+    "Ihre Vorteile mit dem Prämienrechner der Krankenversicherungen:",
     [
-      "mit wenigen Klicks Sparpotenzial berechnen",
-      "Daten basieren auf den BAG-genehmigten Prämien",
-      "aktuelle Prämien von Krankenkassen an Ihrem Wohnkanton",
+      "Sparpotenzial im Schnelltempo berechnen",
+      "die Daten basieren auf die vom BAG genehmigten Prämien",
+      "Aktuelle Prämien von Krankenversicherungen in Ihrem Wohnkanton",
       "unabhängig, kostenlos und unverbindlich",
-      "direkt Offerte anfordern",
+      "die Offerte kann direkt angefordert werden",
     ],
-    "Günstige Krankenkasse finden: So funktioniert der Prämienrechner",
-    "Möchten Sie herausfinden, wie günstig Ihre Krankenkasse im Vergleich mit anderen Versicherern ist? Oder tragen Sie sich bereits mit dem Gedanken, Ihre Krankenkasse zu wechseln? Dann suchen Sie mit unserem Prämienrechner zielgerichtet nach dem günstigsten Angebot.",
-    "Wählen Sie zunächst Ihre aktuelle Krankenkasse aus und geben Sie Ihre Postleitzahl sowie Ihre Altersgruppe in den Prämienrechner ein. Durch die Angabe Ihres Wohnorts berücksichtigt der Prämienrechner nur Krankenversicherer, die auch in Ihrem Kanton vertreten sind.",
-    "Im nächsten Schritt können Sie die Prämienbeiträge für verschiedene Versicherungsmodelle vergleichen. So sehen Sie sofort, wie sich die Wahl eines anderen Grundversicherungs-Modells auf Ihre Prämie auswirkt. Über die Auswahl der Jahresfranchise können Sie die Prämie der Krankenkasse weiterhin beeinflussen. Der Prämienrechner zeigt Ihnen zudem, wie viel Sie durch die Wahl einer anderen Krankenkasse insgesamt sparen können.",
-    "Anschliessend können Sie direkt eine detaillierte Offerte anfordern. Geben Sie einfach an, welche Kriterien Ihnen bei der Auswahl Ihrer Krankenkasse besonders wichtig sind. Suchen Sie vor allem nach günstigen Prämien? Möchten Sie auch eine Zusatzversicherung abschliessen? Wünschen Sie freie Arztwahl oder eine Krankenkasse mit Familienrabatt? Haben Sie Ihre Auswahl getroffen, tragen Sie noch Ihre persönlichen Daten ein und schicken das Formular ab. Sie erhalten ein unverbindliches Angebot mit den vom BAG genehmigten Prämien 2020.",
+    "Die kostengünstigste Krankenversicherung finden: so funktioniert der Prämienrechner",
+    "Sie möchten herausfinden, wie günstig Ihre Krankenversicherung im Vergleich zu den anderen Krankenversicherungen ist? Oder ziehen Sie einen Wechsel der Versicherung bereits in Betracht? Mit unserem Prämienrechner können Sie zielgerichtet nach dem günstigsten und besten Angebot suchen.",
+    "Wählen Sie zunächst Ihre aktuelle Krankenversicherung aus, geben Sie Ihre Postleitzahl und Ihr Geburtsdatum an. Durch die Angabe Ihres Wohnorts berücksichtigt der Prämienrechner nur Krankenversicherer, die in Ihrem Kanton aktiv sind.",
+    "Im nächsten Schritt können Sie die Prämien für die verschiedene Versicherungsmodelle vergleichen. Wie sich die Wahl des Grundversicherungsmodells auf die Prämien auswirkt, wird sofort ersichtlich. Die Monatsprämie kann auch durch die Wahl der Jahresfranchise beeinflusst werden. Je höher die Jahresfranchise, desto tiefer die Monatsprämie. Der Prämienrechner macht somit eine ganze Zusammenfassung. Er zeigt Ihnen, wie viele Schweizer Franken durch die Wahl der Krankenversicherung jährlich eingespart werden können.",
+    "Anschliessend können Sie direkt eine detaillierte Offerte anfordern. Am besten geben Sie direkt an, welche Konditionen Ihnen bei der Auswahl Ihrer Krankenversicherung besonders wichtig sind. Wünschen sie vor allem günstige Prämien? Möchten Sie ebenfalls eine Zusatzversicherung abschliessen? Ist die Freie Arztwahl ein Muss für Sie? Spielt die Kundenzufriedenheit eine wichtige Rolle für Sie? Sobald Sie Ihre Entscheidung getroffen haben, können Sie Ihre Personalien und die Adresse eintragen. Das Formular können Sie anschliessend Online einreichen. Sobald wir die passende Offerte für Sie haben, senden wir Ihnen diese gerne zu.",
   ],
 }
 export const en = {

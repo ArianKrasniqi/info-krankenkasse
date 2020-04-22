@@ -35,14 +35,14 @@ Finden Sie Ihre Krankenkasse zu teuer oder bietet ein anderer Versicherer attrak
 
 ###### Wenn Sie die ordentliche Krankenpflegeversicherung mit freier Arztwahl (Basis Modell) und eine Jahresfranchise über CHF 300.- haben, können Sie die Grundversicherung auch unterjährig kündigen. In dem Fall wird per 30. Juni gekündigt. Die Kündigung muss dem Vorversicherer bis spätestens 31. März vorliegen.
 
-## Zusatzversicherung kündigen: Fristen und Termine
+## Welche Kündigungsfristen gelten in den Zusatzversicherungen?
 
-###### Ihre Zusatzversicherungen können Sie unabhängig von Ihrer Grundversicherung kündigen. In der Regel gilt eine dreimonatige Frist zum Jahresende. Sie müssen Ihre Kündigung also bis zum 30. September einreichen, damit die Kündigung zum 31. Dezember gültig wird. Die Versicherer können die Kündigungsfristen für die Zusatzversicherung jedoch individuell festlegen. Bei einigen Versicherern gilt eine Frist von sechs statt drei Monaten. Die konkreten Fristen entnehmen Sie Ihrem Versicherungsvertrag.
+###### Die Zusatzversicherungen können unabhängig von der Grundversicherung gekündigt werden. Grundsätzlich gilt eine dreimonatige Frist zum Jahresende. Das Kündigungsschreiben muss somit bis am 30. September bei der Krankenversicherung eintreffen, damit die Kündigung per 31. Dezember gilt. Die Kündigungsfristen können von den Krankenversicherungen frei festgelegt werden. Bei einigen Versicherern gilt eine Kündigungsfrist von sechs statt drei Monaten. Die konkreten Fristen entnehmen Sie Ihrem Versicherungsvertrag.
 
-###### Erhöht Ihr Versicherer die Prämien für Ihre Zusatzversicherungen, gilt eine verkürzte Kündigungsfrist von einem Monat.
+###### Wenn sich die Prämien von den Zusatzversicherungen für das kommende Jahr ändern, gilt eine verkürzte Kündigungsfrist von einem Monat nach Mitteilung der neuen Prämien ¬¬– In dem Fall gilt die neue Kündigungsfrist, 30. November.
 
-###### Beachten Sie, dass für freiwillige Zusatzversicherungen eventuell eine Gesundheitsprüfung nötig ist. Unter Umständen können Sie Ihre bevorzugte Versicherung nicht abschliessen. Kündigen Sie Ihre alte Zusatzversicherung daher erst, wenn wirklich sicher ist, dass Sie in der neuen Versicherung aufgenommen werden.
+###### Wichtig zu beachten ist, dass jeder Versicherungsnehmer einige Gesundheitsfragen wahrheitsgetreu beantworten muss, damit eine allfällige Aufnahme in die Zusatzversicherungen geprüft werden kann. Es kann somit vorkommen, dass Sie Ihre bevorzugte Versicherung nicht abschliessen können. Aus diesem Grund empfehlen wir Ihnen, die alte Versicherung erst zu kündigen, wenn Sie eine Aufnahmebestätigung vom neuen Versicherer erhalten.
 
-## Alte Krankenkasse kündigen und günstigeren Anbieter finden
+## Die alte Krankenversicherung kündigen und günstigere Lösungen finden
 
-###### Wir unterstützen Sie beim Krankenkassenwechsel. Bevor Sie Ihre Krankenkasse kündigen, machen Sie bei uns den Krankenkassenvergleich. Holen Sie anschliessend direkt eine Offerte Ihres bevorzugten Anbieters ein. Haben Sie weitere Fragen, beraten wir Sie unverbindlich und kostenlos.
+###### Wir unterstützen Sie gerne bei Versicherungswechsel. Bevor Sie Ihre Krankenversicherung kündigen, können Sie gerne bei uns den Vergleich vornehmen. Anschliessend erhalten Sie direkt die gewünschte Offerte. Bei weiteren Fragen unterstützen wir Sie gerne unverbindlich und kostenlos.

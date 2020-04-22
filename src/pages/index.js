@@ -22,7 +22,7 @@ const Index = props => {
       : content.de
   return (
     <Layout>
-      <Cover></Cover>
+      <Cover texts={lang.coverButton}></Cover>
 
       <Text type="title">{lang.title}</Text>
       <Text type="paragraph">{lang.description[0]}</Text>
