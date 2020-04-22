@@ -29,6 +29,7 @@ const Inputs = props => {
     minLength,
     label,
     element,
+    name,
   }) => {
     event.persist()
 
@@ -60,7 +61,7 @@ const Inputs = props => {
     newInputs[index].helperText = error
     newInputs[index].error = error === " " ? false : true
 
-    if (label === "PLZ") {
+    if (name === "plz") {
       if (!newInputs[index].error) {
         const result = checkPLZ(value)
         if (result !== undefined) {
@@ -141,7 +142,7 @@ const Inputs = props => {
           id={el.id}
           key={el.id}
           name={el.name}
-          label={el.label}
+          label={el.label[props.lang] ? el.label[props.lang] : el.label}
           type={el.type}
           half={el.half}
           defaultValue={el.defaultValue}
@@ -157,8 +158,9 @@ const Inputs = props => {
                 validation: el.validation,
                 id: el.id,
                 minLength: el.minLength,
-                label: el.label,
+                label: el.label[props.lang],
                 element: el.element,
+                name: el.name,
               }
             )
           }

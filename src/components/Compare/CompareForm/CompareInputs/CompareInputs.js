@@ -43,10 +43,12 @@ const CompareInputs = props => {
     minLength,
     label,
     element,
+    name,
   }) => {
     event.persist()
 
     const newInputs = [...inputs]
+    console.log(newInputs)
     const value = event.target.value
 
     const index = inputs.findIndex(input => {
@@ -74,7 +76,7 @@ const CompareInputs = props => {
     newInputs[index].helperText = error
     newInputs[index].error = error === " " ? false : true
 
-    if (label === "PLZ") {
+    if (name === "plz") {
       if (!newInputs[index].error) {
         const result = checkPLZ(value)
         if (result !== undefined) {
@@ -174,11 +176,19 @@ const CompareInputs = props => {
         <div className={PricesClasses}>
           {Object.keys(prices).map(price => {
             console.log(price)
-            let actPrice = 0
-            if (price === activePriceGroup) {
-              actPrice = prices[price][activeFranchise]
+            let text = ""
+            if (price === "Hausarzt") {
+              text = props.content.hausarzt
+            } else if (price === "Telmed") {
+              text = props.content.telmed
+            } else if (price === "HMO") {
+              text = props.content.hmo
+            } else if (price === "Standard") {
+              text = props.content.standard
             }
+
             if (price === "maxPrice") return null
+
             return (
               <Price
                 price={prices[price][activeFranchise]}
@@ -187,8 +197,9 @@ const CompareInputs = props => {
                 clicked={() => {
                   priceGroupHandler(price)
                 }}
+                content={props.content.from}
               >
-                {price}
+                {text}
               </Price>
             )
           })}
@@ -197,7 +208,7 @@ const CompareInputs = props => {
           type="compareSmallSubtitle"
           style={props.step === 1 ? { display: "none" } : { display: "block" }}
         >
-          Franchise
+          {props.content.franchise}
         </Text>
         <div className={FranchiseClasses}>
           {currentFranchises.map((franchise, index) => {
@@ -214,7 +225,7 @@ const CompareInputs = props => {
           })}
         </div>
         <div className={potencialClasses}>
-          <Text type="compareSmallSubtitle">Sparpotenzial</Text>
+          <Text type="compareSmallSubtitle">{props.content.potencial}</Text>
           <Text type="greenPrice">
             <span>
               {maxPrices !== null && activePriceGroup !== null
@@ -226,17 +237,14 @@ const CompareInputs = props => {
                 : ""}{" "}
               CHF
             </span>
-            / Jahre
+            / {props.content.year}
           </Text>
-          <Text type="compareSmallSubtitle">
-            Jetzt detailliertes Angebot anfordern
-          </Text>
+          <Text type="compareSmallSubtitle">{props.content.quote}</Text>
           <Text
             type="smallParagraph"
             style={{ fontSize: "13px", textAlign: "center" }}
           >
-            Sie erhalten eine unverbindliche und kostenlose detaillierte Offerte
-            mit den Prämien 2020
+            {props.content.smallDescription}
           </Text>
         </div>
         {inputs.map(el => (
@@ -245,12 +253,14 @@ const CompareInputs = props => {
             id={el.id}
             key={el.id}
             name={el.name}
-            label={el.label}
+            label={el.label[props.lang] ? el.label[props.lang] : el.label}
             type={el.type}
             half={el.half}
             defaultValue={el.defaultValue}
             helperText={el.helperText}
-            options={el.options}
+            options={
+              el.name === "ageGroup" ? el.options[props.lang] : el.options
+            }
             values={el.values}
             style={{ width: "30%" }}
             changed={event =>
@@ -261,20 +271,14 @@ const CompareInputs = props => {
                   validation: el.validation,
                   id: el.id,
                   minLength: el.minLength,
-                  label: el.label,
+                  label: el.label[props.lang],
                   element: el.element,
+                  name: el.name,
                 }
               )
             }
           />
         ))}
-        {/* <button
-          onClick={event =>
-            submitHandler(event, inputs[inputs.length - 1].defaultValue)
-          }
-        >
-          Next Step
-        </button> */}
 
         <Button
           clicked={event =>
@@ -282,7 +286,7 @@ const CompareInputs = props => {
           }
           type="red"
         >
-          Jetzt Prämie vergleichen{" "}
+          {props.content.cardButton}
         </Button>
       </form>
     </React.Fragment>
@@ -291,6 +295,7 @@ const CompareInputs = props => {
 
 const mapStateToProps = state => {
   return {
+    lang: state.lang,
     step: state.step,
   }
 }

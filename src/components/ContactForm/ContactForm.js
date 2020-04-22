@@ -1,36 +1,52 @@
 import React from "react"
+import { connect } from "react-redux"
 
 import PregnancyInputs from "./PregnancyInputs/Inputs"
 import ContactInputs from "./ContactInputs/Inputs"
-import Button from "../../elements/Button/Button"
 import Text from "../../elements/Text/Text"
+import * as content from "../../content/elements/contactforms"
 
 import classes from "./ContactForm.module.css"
 
-const contactForm = props => (
-  <div
-    className={
-      props.type === "contact"
-        ? [classes.Form, classes.Full].join(" ")
-        : classes.Form
-    }
-    style={props.style}
-  >
-    {props.type === "contact" ? (
-      <ContactInputs btnText={props.btnText} />
-    ) : (
-      <PregnancyInputs btnText={props.btnText} />
-    )}
-    <div className={classes.Bottom}>
-      {/* <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
-        {props.btnText ? props.btnText : "OFFERTE ANFORDERN"}
-      </Button> */}
-      <Text type="smallParagraph" style={{ width: "310px", fontSize: "0.6em" }}>
-        Mit dem Abschicken des Formulars akzeptieren Sie die Nutzungsbedingungen
-        und bestätigen diese gelesen zu haben.
-      </Text>
+const ContactForm = props => {
+  let lang =
+    props.lang === "en"
+      ? content.en
+      : props.lang === "fr"
+      ? content.fr
+      : props.lang === "it"
+      ? content.it
+      : content.de
+  return (
+    <div
+      className={
+        props.type === "contact"
+          ? [classes.Form, classes.Full].join(" ")
+          : classes.Form
+      }
+      style={props.style}
+    >
+      {props.type === "contact" ? (
+        <ContactInputs btnText={lang.contactBtn} lang={props.lang} />
+      ) : (
+        <PregnancyInputs btnText={lang.preContactBtn} lang={props.lang} />
+      )}
+      <div className={classes.Bottom}>
+        <Text
+          type="smallParagraph"
+          style={{ width: "310px", fontSize: "0.6em" }}
+        >
+          {lang.smallText}
+        </Text>
+      </div>
     </div>
-  </div>
-)
+  )
+}
 
-export default contactForm
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
+
+export default connect(mapStateToProps)(ContactForm)

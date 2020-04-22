@@ -72,7 +72,7 @@ const KrankenkasseSchweiz = props => {
         <Text type="paragraph">{lang.content[0]}</Text>
         <Text type="paragraph">{lang.content[1]}</Text>
         <Text type="paragraph">{lang.content[2]}</Text>
-        <ContactInfo />
+        <ContactInfo lang={props.lang} />
       </div>
     </Layout>
   )

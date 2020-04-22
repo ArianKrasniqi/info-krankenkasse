@@ -30,16 +30,12 @@ const Kontakt = props => {
           <Text type="paragraph">{lang.content[3]}</Text>
         </div>
         <RightCards>
-          <RightCard title="Prämienvergleich" buttonText="JETZT VERGLEICHEN">
-            Jetzt kostenlos Prämien vergleichen
+          <RightCard title={lang.card1.title} buttonText={lang.card1.btnText}>
+            {lang.card1.description}
           </RightCard>
 
-          <RightCard
-            title="Krankenkassen Beratung"
-            buttonText="BERATUNG ANFORDERN"
-          >
-            Sie wünschen sich eine Krankenkasse, die Ihren Bedürfnissen
-            entspricht? Wir Beraten Sie gerne. Komplet kostenlos.
+          <RightCard title={lang.card2.title} buttonText={lang.card2.btnText}>
+            {lang.card2.description}
           </RightCard>
         </RightCards>
       </div>

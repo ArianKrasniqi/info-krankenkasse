@@ -4,16 +4,16 @@ import Link from "../../../elements/Link/Link"
 
 import classes from "./Links.module.css"
 
-const cantonInfo = () => (
+const cantonInfo = props => (
   <div className={classes.Links}>
     <Link type="whiteLink" to="/praemienrechner">
-      Prämien 2020 vergleichen
+      {props.text[0]}
     </Link>
     <Link type="whiteLink" to="/praemienrechner">
-      Prämien 2020 vergleichen
+      {props.text[1]}
     </Link>
     <Link type="whiteLink" to="/praemienrechner">
-      Prämien 2020 vergleichen
+      {props.text[2]}
     </Link>
   </div>
 )

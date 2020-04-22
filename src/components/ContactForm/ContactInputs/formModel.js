@@ -2,7 +2,7 @@ const registrationModel = [
   {
     element: "text",
     name: "vorname",
-    label: "Vorname",
+    label: { de: "Vorname", en: "First Name", fr: "Prénom", it: "Nome" },
     type: "textInput",
     half: true,
     defaultValue: "",
@@ -15,7 +15,7 @@ const registrationModel = [
   {
     element: "text",
     name: "nachname",
-    label: "Nachname",
+    label: { de: "Nachname", en: "Last Name", fr: "Nom", it: "Cognome" },
     type: "textInput",
     half: true,
     defaultValue: "",
@@ -28,7 +28,7 @@ const registrationModel = [
   {
     element: "text",
     name: "strasse",
-    label: "Strasse",
+    label: { de: "Strasse", en: "Street/No.", fr: "Rue/No", it: "Via/N." },
     type: "textInput",
     half: true,
     defaultValue: "",
@@ -41,7 +41,12 @@ const registrationModel = [
   {
     element: "number",
     name: "plz",
-    label: "PLZ",
+    label: {
+      de: "PLZ",
+      en: "Postcode",
+      fr: "NPA",
+      it: "NPA",
+    },
     type: "numberInputStyle",
     style: { width: "22.5%" },
     id: "postalcode-compare",
@@ -55,7 +60,12 @@ const registrationModel = [
   {
     element: "text",
     name: "ort",
-    label: "Ort",
+    label: {
+      de: "Ort",
+      en: "Town",
+      fr: "Localité",
+      it: "Località",
+    },
     type: "textReadOnly",
     id: "place-compare",
     defaultValue: "",
@@ -68,7 +78,7 @@ const registrationModel = [
   {
     element: "number",
     name: "telefon",
-    label: "Telefon",
+    label: { de: "Telefon", en: "Phone", fr: "Téléphone", it: "Telefono" },
     type: "textInput",
     half: true,
     id: "phone-index",
@@ -82,7 +92,7 @@ const registrationModel = [
   {
     element: "email",
     name: "email",
-    label: "E-Mail",
+    label: { de: "E-Mail", en: "E-Mail", fr: "E-Mail", it: "E-Mail" },
     type: "textInput",
     half: true,
     id: "email-index",
@@ -95,7 +105,12 @@ const registrationModel = [
   {
     element: "text",
     name: "geburtsdatum",
-    label: "Geburtsdatum",
+    label: {
+      de: "Geburtsdatum",
+      en: "Date of birth",
+      fr: "Date de naissance",
+      it: "Data di nascita",
+    },
     type: "datePicker",
     half: true,
     id: "bdate-index",
@@ -108,7 +123,12 @@ const registrationModel = [
   {
     element: "select",
     name: "persons",
-    label: "Anzahl Personen im Haushalt",
+    label: {
+      de: "Anzahl Personen im Haushalt",
+      en: "Number of persons in household",
+      fr: "Nombre de personnes dans le ménage",
+      it: "Numero di persone in famiglia",
+    },
     type: "selectInput",
     style: { width: "48%" },
     id: "persons-index",
@@ -122,7 +142,12 @@ const registrationModel = [
   {
     element: "select",
     name: "insurance",
-    label: "Aktuelle Krankenkasse",
+    label: {
+      de: "Aktuelle Krankenkasse",
+      en: "Current health insurance",
+      fr: "Caisse d'assurance maladie actuelle",
+      it: "Assicurazione sanitaria corrente",
+    },
     type: "inputFullWidth",
     id: "contactform-index",
     defaultValue: "",
@@ -188,7 +213,12 @@ const registrationModel = [
   {
     element: "textarea",
     name: "teaxtarea-index",
-    label: "Nachricht",
+    label: {
+      de: "Nachricht",
+      en: "Message",
+      fr: "Ma requête",
+      it: "La mia richiesta",
+    },
     type: "textarea",
     style: { width: "100%" },
     id: "nachricht-index",

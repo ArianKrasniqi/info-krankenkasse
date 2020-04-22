@@ -26,6 +26,7 @@ const Inputs = props => {
     minLength,
     label,
     element,
+    name,
   }) => {
     event.persist()
 
@@ -57,7 +58,7 @@ const Inputs = props => {
     newInputs[index].helperText = error
     newInputs[index].error = error === " " ? false : true
 
-    if (label === "PLZ") {
+    if (name === "plz") {
       if (!newInputs[index].error) {
         const result = checkPLZ(value)
         if (result !== undefined) {
@@ -120,7 +121,7 @@ const Inputs = props => {
           id={el.id}
           key={el.id}
           name={el.name}
-          label={el.label}
+          label={el.label[props.lang] ? el.label[props.lang] : el.label}
           type={el.type}
           half={el.half}
           defaultValue={el.defaultValue}
@@ -136,70 +137,14 @@ const Inputs = props => {
                 validation: el.validation,
                 id: el.id,
                 minLength: el.minLength,
-                label: el.label,
+                label: el.label[props.lang],
                 element: el.element,
+                name: el.name,
               }
             )
           }
         />
       ))}
-
-      {/* <Input
-      type="textInputHalf"
-      id="contactform-name"
-      helperText=" "
-      label="Vorname Baby"
-    />
-    <Input
-      type="textInputHalf"
-      id="contactform-lastname"
-      helperText=" "
-      label="Nachname Baby"
-    />
-    <Input
-      type="textInputHalf"
-      id="contactform-street"
-      helperText=" "
-      label="Strasse"
-    />
-    <Input
-      type="textInputQuarter"
-      id="contactform-postal"
-      helperText="Some important helper text"
-      label="PLZ"
-    />
-    <Input
-      type="textInputQuarter"
-      id="contactform-location"
-      helperText=" "
-      label="Ort"
-    />
-    <Input
-      type="textInputHalf"
-      id="contactform-tel"
-      helperText=" "
-      label="Telefon"
-    />
-    <Input
-      type="textInputHalf"
-      id="contactform-email"
-      helperText=" "
-      label="E-Mail"
-    />
-    <Input
-      type="textInputHalf"
-      id="contactform-appointment"
-      helperText=" "
-      label="Voraussichtlicher geburtstermin"
-    />
-    <Input
-      style={{ width: "48%" }}
-      type="selectInput"
-      id="contactform-persons"
-      label="Anzahl Personen im Haushalt"
-      helperText=" "
-      options={[1, 2, 3, 4, 5, 6, 7, 8, 9]}
-    /> */}
 
       <Button
         type="red"

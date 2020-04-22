@@ -2,7 +2,12 @@ const registrationModel = [
   {
     element: "text",
     name: "vorname",
-    label: "Vorname Baby",
+    label: {
+      de: "Vorname Baby",
+      en: "First Name",
+      fr: "Prénom",
+      it: "Nome",
+    },
     type: "textInputHalf",
     half: true,
     defaultValue: "",
@@ -16,7 +21,12 @@ const registrationModel = [
   {
     element: "text",
     name: "nachname",
-    label: "Nachname Baby",
+    label: {
+      de: "Nachname Baby",
+      en: "Last Name",
+      fr: "Nom",
+      it: "Cognome",
+    },
     type: "textInputHalf",
     half: true,
     defaultValue: "",
@@ -30,7 +40,12 @@ const registrationModel = [
   {
     element: "text",
     name: "strasse",
-    label: "Strasse",
+    label: {
+      de: "Strasse",
+      en: "Street/No.",
+      fr: "Rue/No",
+      it: "Via/N.",
+    },
     type: "textInputHalf",
     half: true,
     defaultValue: "",
@@ -44,7 +59,12 @@ const registrationModel = [
   {
     element: "number",
     name: "plz",
-    label: "PLZ",
+    label: {
+      de: "PLZ",
+      en: "Postcode",
+      fr: "NPA",
+      it: "NPA",
+    },
     type: "numberInputStyle",
     style: { width: "22.5%" },
     id: "contactform-postal",
@@ -58,7 +78,12 @@ const registrationModel = [
   {
     element: "text",
     name: "ort",
-    label: "Ort",
+    label: {
+      de: "Ort",
+      en: "Town",
+      fr: "Localité",
+      it: "Località",
+    },
     type: "textReadOnly",
     id: "place-compare",
     defaultValue: "",
@@ -71,7 +96,12 @@ const registrationModel = [
   {
     element: "number",
     name: "telefon",
-    label: "Telefon",
+    label: {
+      de: "Telefon",
+      en: "Phone",
+      fr: "Téléphone",
+      it: "Telefono",
+    },
     type: "textInputHalf",
     half: true,
     id: "contactform-tel",
@@ -85,7 +115,12 @@ const registrationModel = [
   {
     element: "email",
     name: "email",
-    label: "E-Mail",
+    label: {
+      de: "E-Mail",
+      en: "E-Mail",
+      fr: "E-Mail",
+      it: "E-Mail",
+    },
     type: "textInputHalf",
     half: true,
     id: "contactform-email",
@@ -98,7 +133,12 @@ const registrationModel = [
   {
     element: "text",
     name: "geburtsdatum",
-    label: "Voraussichtlicher geburtstermin",
+    label: {
+      de: "Voraussichtlicher geburtstermin",
+      en: "Expected date of birth",
+      fr: "Date d’accouchement prévue",
+      it: "Data prevista per il parto",
+    },
     type: "datePicker",
     half: true,
     id: "contactform-appointment",
@@ -111,7 +151,12 @@ const registrationModel = [
   {
     element: "select",
     name: "persons",
-    label: "Anzahl Personen im Haushalt",
+    label: {
+      de: "Anzahl Personen im Haushalt",
+      en: "Numbers of persons in household",
+      fr: "Nombre de personnes dans le ménage",
+      it: "Numero di persone in famiglia",
+    },
     type: "selectInput",
     style: { width: "48%" },
     id: "persons-index",

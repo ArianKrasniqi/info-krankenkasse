@@ -2,7 +2,7 @@ const registrationModel = [
   {
     element: "text",
     name: "vorname",
-    label: "Vorname",
+    label: { de: "Vorname", en: "First Name", fr: "Prénom", it: "Nome" },
     type: "textInput",
     defaultValue: "",
     id: "name-index",
@@ -14,7 +14,7 @@ const registrationModel = [
   {
     element: "text",
     name: "nachname",
-    label: "Nachname",
+    label: { de: "Nachname", en: "Last Name", fr: "Nom", it: "Cognome" },
     type: "textInput",
     defaultValue: "",
     id: "lastname-index",
@@ -27,7 +27,7 @@ const registrationModel = [
   {
     element: "text",
     name: "strasse",
-    label: "Strasse",
+    label: { de: "Strasse", en: "Street/No.", fr: "Rue/No", it: "Via/N." },
     type: "textInput",
     defaultValue: "",
     id: "street-index",
@@ -66,7 +66,7 @@ const registrationModel = [
   {
     element: "number",
     name: "telefon",
-    label: "Telefon",
+    label: { de: "Telefon", en: "Phone", fr: "Téléphone", it: "Telefono" },
     type: "textInput",
     id: "phone-index",
     defaultValue: "",
@@ -79,7 +79,7 @@ const registrationModel = [
   {
     element: "email",
     name: "email",
-    label: "E-Mail",
+    label: { de: "E-Mail", en: "E-Mail", fr: "E-Mail", it: "E-Mail" },
     type: "textInput",
     id: "email-index",
     defaultValue: "",
@@ -91,7 +91,12 @@ const registrationModel = [
   {
     element: "text",
     name: "geburtsdatum",
-    label: "Geburtsdatum",
+    label: {
+      de: "Geburtsdatum",
+      en: "Date of birth",
+      fr: "Date de naissance",
+      it: "Data di nascita",
+    },
     type: "datePicker",
     id: "bdate-index",
     defaultValue: "",
@@ -103,7 +108,12 @@ const registrationModel = [
   {
     element: "select",
     name: "persons",
-    label: "Anzahl Personen im Haushalt",
+    label: {
+      de: "Anzahl Personen im Haushalt",
+      en: "Number of persons in household",
+      fr: "Nombre de personnes dans le ménage",
+      it: "Numero di persone in famiglia",
+    },
     type: "inputFullWidth",
     id: "persons-index",
     defaultValue: "",
@@ -116,7 +126,12 @@ const registrationModel = [
   {
     element: "select",
     name: "insurance",
-    label: "Aktuelle Krankenkasse",
+    label: {
+      de: "Aktuelle Krankenkasse",
+      en: "Current health insurance",
+      fr: "Caisse d'assurance maladie actuelle",
+      it: "Assicurazione sanitaria corrente",
+    },
     type: "inputFullWidth",
     id: "insurance-index",
     defaultValue: "",

@@ -8,7 +8,7 @@ const Price = props => {
     : classes.Price
   return (
     <div className={priceClasses} onClick={props.clicked}>
-      {props.children} <br /> ab <span> {props.price}CHF </span>
+      {props.children} <br /> {props.content} <span> {props.price}CHF </span>
     </div>
   )
 }

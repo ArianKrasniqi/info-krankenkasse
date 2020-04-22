@@ -8,6 +8,17 @@ export const de = {
     "Wir garantieren Ihnen eine Rückmeldung innerhalb von 24 Stunden. Sie können gleich Auskünfte zu Ihrer Krankenversicherung einholen und erfahren, wie Sie Prämien sparen können. Zudem können Sie sich über alternative Modelle der Grundversicherung und passende Zusatzversicherungen informieren. Wir unterstützen Sie beim Suchen der optimale Versicherungsdeckung.",
     "Sie erreichen uns auch über die E-Mail-Adresse kontakt@info-krankenkasse.ch. Auch in dem Fall ist es wichtig, dass Sie uns Ihre Personalien mitteilen. Nur so können wir direkt auf Ihr Anliegen Bezug nehmen. Wir bedanken uns bereits im Voraus für Ihr Interesse.",
   ],
+  card1: {
+    title: "Prämienvergleich",
+    description: "Jetzt kostenlos Prämien vergleichen",
+    btnText: "JETZT VERGLEICHEN",
+  },
+  card2: {
+    title: "Krankenkassen Beratung",
+    description:
+      "Sie wünschen sich eine Krankenkasse, die Ihren Bedürfnissen entspricht? Wir Beraten Sie gerne. Komplet kostenlos.",
+    btnText: "BERATUNG ANFORDERN",
+  },
 }
 export const en = {
   title: "Contact",
@@ -19,6 +30,17 @@ export const en = {
     "Depending on the workload, you will receive an answer within a few hours. Get information about your health insurance company now and find out how you can save premiums. Find out about alternative models of basic insurance and useful supplementary insurance. We will help you find the best insurance cover.",
     "As an alternative to the contact form, you can also reach us via the e-mail address info(at)krankenkassenadmin.ch. Don't forget to include your contact details and telephone number so that we can contact you directly.",
   ],
+  card1: {
+    title: "Premium comparison",
+    description: "Compare premiums now for free",
+    btnText: "COMPARE NOW",
+  },
+  card2: {
+    title: "Health insurance companies consultation",
+    description:
+      "Are you looking for a health insurance company that meets your needs? We will be happy to advise you. Completely free of charge",
+    btnText: "REQUEST ADVICE",
+  },
 }
 export const fr = {
   title: "Contact",
@@ -30,6 +52,17 @@ export const fr = {
     "En fonction de la charge de travail, vous recevrez une réponse en quelques heures. Renseignez-vous dès maintenant sur votre caisse d'assurance maladie et découvrez comment vous pouvez économiser des primes. Renseignez-vous sur les modèles alternatifs d'assurance de base et les assurances complémentaires utiles. Nous pouvons vous aider à trouver la meilleure couverture d'assurance pour vous.",
     "En plus du formulaire de contact, vous pouvez également nous contacter via l'adresse e-mail info(at)krankenkassenadmin.ch. N'oubliez pas d'indiquer vos coordonnées et votre numéro de téléphone afin que nous puissions vous contacter directement.",
   ],
+  card1: {
+    title: "Comparaison des primes",
+    description: "Comparez les primes maintenant gratuitement",
+    btnText: "COMPARER MAINTENANT",
+  },
+  card2: {
+    title: "Caisses d'assurance maladie Conseil",
+    description:
+      "Vous êtes à la recherche d'une caisse d'assurance maladie qui répond à vos besoins ? Nous nous ferons un plaisir de vous conseiller. Totalement gratuit.",
+    btnText: "DEMANDER CONSEIL",
+  },
 }
 export const it = {
   title: "Contatto",
@@ -41,4 +74,15 @@ export const it = {
     "A seconda del carico di lavoro, riceverai una risposta entro poche ore. Ottieni informazioni sulla tua assicurazione sanitaria e scopri come risparmiare premi. Scopri i modelli alternativi di assicurazione di base e utili assicurazioni complementari. Ti aiutiamo a trovare la copertura assicurativa ottimale.",
     "In alternativa al modulo di contatto, puoi anche contattarci tramite l'indirizzo e-mail info(c)krankenkassenadmin.ch. Non dimenticare di includere i dettagli di contatto e il numero di telefono in modo che possiamo contattarti direttamente.",
   ],
+  card1: {
+    title: "Confronto dei premi",
+    description: "Confronta adesso i premi gratuitamente",
+    btnText: "CONFRONTARE ADESSO",
+  },
+  card2: {
+    title: "Casse malati Consulenza",
+    description:
+      "Vuoi un'assicurazione sanitaria che soddisfi le tue esigenze? Vi consigliamo volentieri. Completamente gratuito.",
+    btnText: "RICHIEDERE CONSULENZA",
+  },
 }

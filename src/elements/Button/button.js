@@ -29,7 +29,11 @@ const Button = props => {
       break
     case "redFullWidth":
       button = (
-        <button className={[classes.Red, classes.RedFullWidth].join(" ")}>
+        <button
+          type={props.element}
+          className={[classes.Red, classes.RedFullWidth].join(" ")}
+          onClick={props.clicked}
+        >
           {props.children}
         </button>
       )

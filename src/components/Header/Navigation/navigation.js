@@ -10,6 +10,7 @@ const navigation = props => {
       <NavigationItems
         handleHover={props.handleHover}
         handleLeave={props.handleLeave}
+        content={props.content}
       />
     </div>
   )

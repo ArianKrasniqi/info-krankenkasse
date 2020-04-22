@@ -5,6 +5,7 @@ import Text from "../../elements/Text/Text"
 import Button from "../../elements/Button/Button"
 import CompareForm from "./CompareForm/CompareForm"
 import * as actionTypes from "../../store/actions"
+import * as content from "../../content/elements/compare"
 
 import classes from "./Compare.module.css"
 
@@ -16,29 +17,36 @@ const Compare = props => {
     props.onChangeStep(1)
   }
 
-  const changeOpen = value => {
-    console.log("[changeOpen]...")
-    console.log(value)
-  }
+  let lang =
+    props.lang === "en"
+      ? content.en
+      : props.lang === "fr"
+      ? content.fr
+      : props.lang === "it"
+      ? content.it
+      : content.de
+
   return (
     <div className={classes.Compare}>
       <div className={classes.Upper}>
-        <Text type="compareSubtitle">Krankenkassenvergleich 2020</Text>
+        <Text type="compareSubtitle">{lang.title}</Text>
         <Button type="white" clicked={openHandler}>
-          Jetzt vergleichen
+          {lang.button}
         </Button>
-        <Text type="paragraph">
-          Möchten Sie Prämien einsparen? Hier finden Sie alle Prämien für den
-          Krankenkassen Wechsel
-        </Text>
+        <Text type="paragraph">{lang.description}</Text>
       </div>
-      <CompareForm open={open} changeOpen={value => setOpen(value)} />
+      <CompareForm
+        content={lang}
+        open={open}
+        changeOpen={value => setOpen(value)}
+      />
     </div>
   )
 }
 
 const mapStateToProps = state => {
   return {
+    lang: state.lang,
     step: state.step,
   }
 }

@@ -1,5 +1,6 @@
 import React, { useState } from "react"
 
+import Button from "../../../elements/Button/Button"
 import formModel from "../formModel"
 import Input from "../../../elements/Input/Input"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
@@ -13,7 +14,7 @@ import {
   selectError,
 } from "./validity"
 
-const SideFormInputs = () => {
+const SideFormInputs = props => {
   const [inputs, setInputs] = useState(formModel)
 
   const changeHelperText = ({
@@ -71,7 +72,7 @@ const SideFormInputs = () => {
             validation: input.validation,
             id: input.id,
             minLength: input.minLength,
-            label: input.label,
+            label: input.label[props.lang],
             element: input.element,
           }
         )
@@ -100,7 +101,7 @@ const SideFormInputs = () => {
           id={el.id}
           key={el.id}
           name={el.name}
-          label={el.label}
+          label={el.label[props.lang] ? el.label[props.lang] : el.label}
           type={el.type}
           defaultValue={el.defaultValue}
           helperText={el.helperText}
@@ -113,16 +114,20 @@ const SideFormInputs = () => {
                 validation: el.validation,
                 id: el.id,
                 minLength: el.minLength,
-                label: el.label,
+                label: el.label[props.lang],
                 element: el.element,
               }
             )
           }
         />
       ))}
-      <button type="submit" onClick={event => submitHandler(event)}>
-        Submit
-      </button>
+      <Button
+        element="submit"
+        type="redFullWidth"
+        clicked={event => submitHandler(event)}
+      >
+        {props.btnText}
+      </Button>
     </form>
   )
 }

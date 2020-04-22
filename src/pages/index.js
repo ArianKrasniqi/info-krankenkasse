@@ -44,7 +44,7 @@ const Index = props => {
         })}
       </div>
 
-      <ContactInfo />
+      <ContactInfo lang={props.lang} />
     </Layout>
   )
 }

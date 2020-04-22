@@ -19,7 +19,7 @@ const NavigationItems = props => {
               : classes.Link
           }
         >
-          Startseite
+          {props.content.homepage}
         </Link>
       </li>
       <li>
@@ -32,7 +32,7 @@ const NavigationItems = props => {
               : classes.Link
           }
         >
-          Informationen
+          {props.content.informations}
         </Link>
       </li>
       <li>
@@ -45,7 +45,7 @@ const NavigationItems = props => {
               : classes.Link
           }
         >
-          Krankenkassen
+          {props.content.krankenkasse}
         </Link>
       </li>
       <li>
@@ -58,7 +58,7 @@ const NavigationItems = props => {
               : classes.Link
           }
         >
-          Prämienrechner
+          {props.content.premium}
         </Link>
       </li>
       <li>
@@ -71,7 +71,7 @@ const NavigationItems = props => {
               : classes.Link
           }
         >
-          Kontakt
+          {props.content.contact}
         </Link>
       </li>
     </ul>

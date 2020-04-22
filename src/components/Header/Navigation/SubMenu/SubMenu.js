@@ -18,40 +18,40 @@ const SubMenu2 = props => {
         <ul class={classes.Informationen}>
           <li>
             <Link to="/informationen/krankenkasse-kuendigen">
-              Krankenkasse kündigen
+              {props.content.subpages[0]}
             </Link>
           </li>
           <li>
             <Link to="/informationen/krankenkasse-vergleichen">
-              Krankenkasse vergleichen
+              {props.content.subpages[1]}
             </Link>
           </li>
           <li>
             <Link to="/informationen/krankenkasse-wechseln">
-              Krankenkasse wechseln
+              {props.content.subpages[2]}
             </Link>
           </li>
           <li>
             <Link to="/informationen/zusatzversicherungen">
-              Zusatzversicherungen
+              {props.content.subpages[3]}
             </Link>
           </li>
           <li>
-            <Link to="/informationen/glossar">Glossar</Link>
+            <Link to="/informationen/glossar">{props.content.subpages[4]}</Link>
           </li>
           <li>
             <Link to="/informationen/vorgeburtliche-anmeldung">
-              Vorgeburtliche anmeldung
+              {props.content.subpages[5]}
             </Link>
           </li>
         </ul>
 
         <ul class={classes.Contact}>
           <li>
-            <Link to="/kontakt">Kontaktformular</Link>
+            <Link to="/kontakt">{props.content.subpages[6]}</Link>
           </li>
           <li>
-            <Link to="/beratung-anfordern">Krankenkassen Beratung</Link>
+            <Link to="/beratung-anfordern">{props.content.subpages[7]}</Link>
           </li>
         </ul>
       </div>

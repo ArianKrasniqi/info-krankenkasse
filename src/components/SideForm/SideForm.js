@@ -1,27 +1,40 @@
 import React from "react"
+import { connect } from "react-redux"
 
 import Text from "../../elements/Text/Text"
 import Button from "../../elements/Button/Button"
 import SideFormInputs from "./SideFormInputs/SideFormInputs"
+import * as content from "../../content/elements/sideform"
 
 import classes from "./SideForm.module.css"
 
-const sideForm = () => (
-  <div className={classes.SideForm}>
-    <Text type="sideformSubtitle">Rückruf anfordern</Text>
-    <Text type="paragraph">
-      Hinterlassen Sie einfach Ihre Angaben und wir rufen Sie zurück.
-    </Text>
+const SideForm = props => {
+  let lang =
+    props.lang === "en"
+      ? content.en
+      : props.lang === "fr"
+      ? content.fr
+      : props.lang === "it"
+      ? content.it
+      : content.de
 
-    <div className={classes.Inputs}>
-      <SideFormInputs />
-      <Button type="redFullWidth">Jetzt Prämie vergleichen</Button>
-      <Text type="smallParagraph">
-        Mit dem Abschicken des Formulars akzeptieren Sie die Nutzungsbedingungen
-        und bestätigen diese gelesen zu haben.
-      </Text>
+  return (
+    <div className={classes.SideForm}>
+      <Text type="sideformSubtitle">{lang.title}</Text>
+      <Text type="paragraph">{lang.description}</Text>
+
+      <div className={classes.Inputs}>
+        <SideFormInputs lang={props.lang} btnText={lang.button} />
+        {/* <Button type="redFullWidth">{lang.button}</Button> */}
+        <Text type="smallParagraph">{lang.smallText}</Text>
+      </div>
     </div>
-  </div>
-)
+  )
+}
+const mapStateToProps = state => {
+  return {
+    lang: state.lang,
+  }
+}
 
-export default sideForm
+export default connect(mapStateToProps)(SideForm)

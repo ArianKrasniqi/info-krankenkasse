@@ -40,7 +40,7 @@ const card = props => {
         <Text type="cardParagraph">{props.children}</Text>
         {/* <Button type="red">Weiterlesen</Button> */}
         <Link to={props.to} type="redLink">
-          Weiterlesen
+          {props.btnText}
         </Link>
       </div>
     </div>

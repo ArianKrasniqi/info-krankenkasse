@@ -55,9 +55,9 @@ const Informationen = props => {
               edge.node.fields.slug.split(".")[0]
             }`}
             title={`${edge.node.frontmatter.title}`}
-            // side={side}
             style={index === 0 ? { paddingTop: "10px" } : {}}
             image={edge.node.frontmatter.image}
+            btnText={lang.button}
           >
             {edge.node.frontmatter.description}
           </Card>

@@ -2,7 +2,12 @@ const registrationModel = [
   {
     element: "select",
     name: "insurance",
-    label: "Aktuelle Krankenkasse",
+    label: {
+      de: "Aktuelle Krankenkasse",
+      en: "Current health insurance",
+      fr: "Caisse d'assurance maladie actuelle",
+      it: "Assicurazione sanitaria attuale",
+    },
     type: "inputFullWidth",
     id: "insurance-compare",
     defaultValue: "",
@@ -68,7 +73,7 @@ const registrationModel = [
   {
     element: "number",
     name: "plz",
-    label: "PLZ",
+    label: { de: "PLZ", en: "Postcode", fr: "NPA", it: "NPA" },
     type: "numberInputStyle",
     id: "postalcode-compare",
     defaultValue: "",
@@ -81,7 +86,7 @@ const registrationModel = [
   {
     element: "text",
     name: "ort",
-    label: "Ort",
+    label: { de: "Ort", en: "Town", fr: "Località", it: "Località" },
     type: "textReadOnly",
     id: "place-compare",
     defaultValue: "",
@@ -94,14 +99,24 @@ const registrationModel = [
   {
     element: "select",
     name: "ageGroup",
-    label: "Altersgruppe",
+    label: {
+      de: "Altersgruppe",
+      en: "Age Group",
+      fr: "Tranche d'âge",
+      it: "Fascia di età",
+    },
     type: "ageSelectInput",
     id: "age-compare",
     defaultValue: "ERWACHSENE",
     helperText: " ",
     validation: "selectError",
     error: false,
-    options: ["0-18 Jahre", "19-25 Jahre", "ab 25 Jahre"],
+    options: {
+      de: ["0-18 Jahre", "19-25 Jahre", "ab 25 Jahre"],
+      en: ["0-18 Years", "19-25 Years", "from 25 Years"],
+      fr: ["0-18 Années", "19-25 Années", "A partir de 26 ans"],
+      it: ["0-18 Anni", "19-25 Anni", "da 25 Anni"],
+    },
     values: ["KINDER", "JUGENDLICHE", "ERWACHSENE"],
   },
 ]
