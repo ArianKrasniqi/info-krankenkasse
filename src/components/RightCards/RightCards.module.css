@@ -6,7 +6,7 @@
   position: -webkit-sticky;
   position: sticky;
   top: 5%;
-  padding-top: 50px;
+  padding-top: 10px;
 }
 
 @media (max-width: 992px) {
