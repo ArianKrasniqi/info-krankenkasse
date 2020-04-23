@@ -17,7 +17,7 @@ import {
 
 const Inputs = props => {
   const [inputs, setInputs] = useState(formModel)
-  const [canton, setCanton] = useState("")
+  // const [canton, setCanton] = useState("")
 
   const changeHelperText = ({
     validation,
@@ -66,9 +66,9 @@ const Inputs = props => {
           newInputs[index + 1].defaultValue = result.place
           newInputs[index + 1].error = false
           newInputs[index + 1].helperText = " "
-          setCanton(result)
+          // setCanton(result)
         } else {
-          setCanton("")
+          // setCanton("")
           newInputs[index + 1].label = "Ort nicht gefunden"
           newInputs[index + 1].defaultValue = ""
           newInputs[index].helperText = "Ort nicht gefunden"
@@ -87,8 +87,7 @@ const Inputs = props => {
     event.preventDefault()
 
     let errors = 0
-    console.log("Inside")
-    inputs.map(input => {
+    inputs.forEach(input => {
       if (input.defaultValue === "") {
         errors++
         changeHelperText(

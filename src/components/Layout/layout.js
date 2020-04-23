@@ -35,9 +35,11 @@ const Layout = props => {
                 return (
                   <Text type="modalDescription">{content.description}</Text>
                 )
+              } else {
+                return null
               }
             })
-          : ""}
+          : null}
       </Modal>
       <Menu open={open}></Menu>
       <Header

@@ -8,6 +8,8 @@ const SubMenu = props => {
     <div
       className={classes.SubMenu}
       onMouseLeave={props.handleLeave}
+      role="button"
+      tabIndex={0}
       style={
         props.show
           ? { transform: "translateY(0px)", opacity: "1" }

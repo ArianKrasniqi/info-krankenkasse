@@ -1,7 +1,7 @@
 import places from "../../../assets/places"
 
 export const lengthError = (expression, minLength, label) => {
-  const expLength = expression != undefined ? expression.trim().length : 0
+  const expLength = expression !== undefined ? expression.trim().length : 0
   if (expLength === 0) {
     return `Bitte ${label} angeben`
   } else if (expLength > minLength && label === "PLZ") {
@@ -16,7 +16,7 @@ export const lengthError = (expression, minLength, label) => {
 }
 
 export const phoneError = (expression, minLength, label) => {
-  const expLength = expression != undefined ? expression.trim().length : 0
+  const expLength = expression !== undefined ? expression.trim().length : 0
   const isNum = /^\d+$/.test(expression)
   if (expLength === 0) {
     return `Bitte ${label} angeben`
@@ -30,7 +30,7 @@ export const phoneError = (expression, minLength, label) => {
 }
 
 export const emailError = expression => {
-  const expLength = expression != undefined ? expression.trim().length : 0
+  const expLength = expression !== undefined ? expression.trim().length : 0
   const regex = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
   if (expLength === 0) {
     return `Bitte Email angeben`
@@ -66,5 +66,5 @@ export const selectError = (expression, label) => {
 }
 
 export const checkPLZ = expression => {
-  return places.find(city => city.zipcode == expression)
+  return places.find(city => city.zipcode === expression)
 }

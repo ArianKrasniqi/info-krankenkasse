@@ -8,10 +8,13 @@ const Franchise = props => {
     : classes.Franchise
   return (
     <div
+      role="button"
+      tabIndex={0}
       className={franchiseClasses}
       id={props.id}
       key={props.id}
       onClick={props.clicked}
+      onKeyDown={props.clicked}
     >
       {props.children}
     </div>

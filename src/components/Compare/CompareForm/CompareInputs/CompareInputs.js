@@ -106,7 +106,7 @@ const CompareInputs = props => {
 
     let errors = 0
 
-    inputs.map((input, index) => {
+    inputs.forEach((input, index) => {
       if (input.defaultValue === "") {
         errors++
         changeHelperText(
@@ -125,7 +125,6 @@ const CompareInputs = props => {
 
     let cantonPrices = ""
     let franchises = []
-    let pricesGroups = []
 
     if (errors === 0 && props.step === 1) {
       // console.log(canton)
@@ -136,8 +135,6 @@ const CompareInputs = props => {
 
       franchises = cantonPrices["Standard"]
       franchises = Object.keys(franchises)
-
-      pricesGroups = Object.keys(cantonPrices)
 
       setFranchises(franchises)
       setPrices(cantonPrices)

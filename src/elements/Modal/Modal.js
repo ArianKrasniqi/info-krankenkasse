@@ -14,7 +14,13 @@ const Modal = props => (
         opacity: props.show ? "1" : "0",
       }}
     >
-      <div className={classes.Close} onClick={props.clicked}>
+      <div
+        className={classes.Close}
+        role="button"
+        tabIndex={0}
+        onKeyDown={props.clicked}
+        onClick={props.clicked}
+      >
         <CloseRoundedIcon style={{ fontSize: 30 }} />
       </div>
       {props.children}

@@ -53,7 +53,7 @@ const SideFormInputs = props => {
 
     newInputs[index].defaultValue = value
     newInputs[index].helperText = error
-    newInputs[index].error = error == " " ? false : true
+    newInputs[index].error = error === " " ? false : true
     setInputs([...newInputs])
   }
 
@@ -62,7 +62,7 @@ const SideFormInputs = props => {
 
     let errors = 0
 
-    inputs.map((input, index) => {
+    inputs.forEach((input, index) => {
       if (input.defaultValue === "") {
         errors++
         changeHelperText(

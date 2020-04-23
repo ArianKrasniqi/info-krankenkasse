@@ -13,6 +13,7 @@ const MenuIcon = props => {
       role="button"
       tabIndex="0"
       onClick={props.menuClicked}
+      onKeyDown={props.menuClicked}
     >
       <div className={classes.HamMenu}>
         <div className={classes.Bar}></div>

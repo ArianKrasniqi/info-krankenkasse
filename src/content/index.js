@@ -56,7 +56,6 @@ export const de = {
       content:
         "Für einen Krankenversicherungsvergleich sind wir gerne für Sie da.",
     },
-    ,
     { subtitle: "Kündigungsfrist" },
     {
       content:
@@ -92,18 +91,18 @@ export const en = {
       content:
         "The so-called basic insurance covers basic medical care in the event of illness. In the event of illness, accident or maternity, the health insurance covers the costs of necessary treatment and medication. Patients first pay in advance and are then reimbursed for the costs of health insurance benefits.",
     },
-    ,
+
     { subtitle: "Same performance, different premiums" },
     {
       content:
         "The KVG regulates which benefits are covered by the basic insurance. The amount of premiums, on the other hand, is determined by each health insurance fund itself. The level of contributions depends on many different factors and varies, for example, depending on the canton and premium region. Age, income and marital status also influence the premium level. Every autumn, the health insurance funds set the premiums for the coming year. The Federal Office of Public Health (FOPH) must confirm the premiums and publish the new contributions by 24 September. At the beginning of 2020, health insurance premiums rose once again. On average, every insured person pays 1.2 percent more for the average premium.",
     },
-    ,
+
     {
       subtitle:
         "Is the change of health insurance worth it? Make the health insurance comparison!",
     },
-    ,
+
     {
       content:
         "Premiums are expected to rise again in the coming year. By the end of October, your health insurance company must inform you of the new premium amount. By then at the latest, it will be worth making a health insurance comparison and looking for a cheaper health insurance. With a health insurance company change to a cheaper provider you can save several hundred or even thousand Swiss francs - with the same service.",
@@ -112,7 +111,7 @@ export const en = {
       content:
         "If your health insurance company has announced a premium increase, you can cancel until 30 November of the year. The notice will then take effect on 31 December and your new health insurance contract will apply from 1 January. Use our health insurance comparison to find out whether the change is worthwhile for you.",
     },
-    ,
+
     { subtitle: "Voluntary supplementary insurance" },
     {
       content:
@@ -143,7 +142,6 @@ export const fr = {
       content:
         "L'assurance dite de base couvre les soins médicaux de base en cas de maladie. En cas de maladie, d'accident ou de maternité, l'assurance maladie prend en charge les frais de traitement et de médicaments nécessaires. Les patients doivent d'abord payer à l'avance et sont ensuite remboursés pour les coûts des prestations de la caisse d'assurance maladie.",
     },
-    ,
     { subtitle: "Même prestation, primes différentes" },
     {
       content:
@@ -153,7 +151,6 @@ export const fr = {
       content:
         "Chaque automne, les caisses d'assurance maladie fixent les primes pour l'année à venir. L'Office fédéral de la santé publique (OFSP) doit confirmer les primes et publier les nouvelles contributions avant le 24 septembre. Début 2020, les primes de caisses d'assurance maladie ont de nouveau augmenté. En moyenne, chaque personne assurée paie 1,2 % de plus pour la prime moyenne.",
     },
-    ,
     {
       subtitle:
         "Le changement de caisse d'assurance maladie en vaut-il la peine ? Faites la comparaison des caisses d'assurance maladie!",
@@ -166,7 +163,6 @@ export const fr = {
       content:
         "Si votre caisse d'assurance maladie a annoncé une augmentation de prime, vous pouvez résilier jusqu'au 30 novembre de l'année en cours. La résiliation prendra effet le 31 décembre et votre nouveau contrat de caisse d'assurance maladie sera applicable à partir du 1er janvier. Utilisez notre comparatif des caisses d'assurance maladie pour savoir si le changement en vaut la peine pour vous.",
     },
-    ,
     { subtitle: "Assurance complémentaire facultative" },
     {
       content:
@@ -197,7 +193,7 @@ export const it = {
       content:
         "La cosiddetta assicurazione di base copre le cure mediche di base in caso di malattia. In caso di malattia, infortunio o maternità, la compagnia di assicurazione sanitaria copre i costi delle cure e dei medicinali necessari. I pazienti anticipano il pagamento e in seguito vengono rimborsati per le prestazioni pagate dall'assicurazione.",
     },
-    ,
+
     { subtitle: "Stesse prestazioni, premi diversi" },
     {
       content:
@@ -207,7 +203,7 @@ export const it = {
       content:
         "Ogni anno in autunno, i fondi dell'assicurazione sanitaria stabiliscono i premi per l'anno successivo. L'Ufficio federale della sanità pubblica (UFSP) deve confermare i premi e pubblicare i nuovi contributi fino al 24 settembre. All'inizio del 2020, i premi dell'assicurazione sanitaria sono nuovamente aumentati. In media, ogni assicurato paga l'1,2 percento in più per il premio medio.",
     },
-    ,
+
     {
       subtitle:
         "Vale la pena cambiare l'assicurazione sanitaria? Fai il confronto con l'assicurazione sanitaria!",
@@ -220,10 +216,9 @@ export const it = {
       content:
         "Se la tua compagnia di assicurazione sanitaria ha annunciato un aumento dei premi, puoi annullarla fino al 30 novembre dell'anno. La disdetta è valida dal 31 dicembre, e dal 1° gennaio entra in vigore il nuovo contratto di assicurazione sanitaria. Con il nostro confronto delle assicurazioni sanitarie, potrai scoprire se il cambiamento può esserti utile.",
     },
-    ,
+
     {
-      subtitle:
-        "L’assicurazione volontaria integrativa",
+      subtitle: "L’assicurazione volontaria integrativa",
     },
     {
       content:

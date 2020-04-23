@@ -70,6 +70,8 @@ const Glossar = props => {
               return <Text type="paragraph">{content.content}</Text>
             } else if (Object.keys(content)[0] === "smallsubtitle") {
               return <Text type="smallSubtitle">{content.smallsubtitle}</Text>
+            } else {
+              return null
             }
           })
         : null}
