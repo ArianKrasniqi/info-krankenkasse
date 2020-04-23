@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import classes from "./Link.module.css"
 
-const Link = props => {
+const LinkComp = props => {
   let link = ""
   switch (props.type) {
     case "whiteLink":
@@ -49,4 +49,4 @@ const Link = props => {
   return link
 }
 
-export default Link
+export default LinkComp
