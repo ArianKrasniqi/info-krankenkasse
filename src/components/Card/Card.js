@@ -2,7 +2,6 @@ import React from "react"
 
 import Link from "../../elements/Link/Link"
 import Text from "../../elements/Text/Text"
-import Button from "../../elements/Button/Button"
 import CancelImg from "../../assets/cancel.jpg"
 import CompareImg from "../../assets/compare.jpg"
 import ChangeImg from "../../assets/change.jpg"
@@ -12,7 +11,7 @@ import PregnancyImg from "../../assets/pregnancy.jpg"
 
 import classes from "./Card.module.css"
 
-const card = props => {
+const Card = props => {
   let image = CancelImg
   if (props.image === "Compare") {
     image = CompareImg
@@ -38,7 +37,6 @@ const card = props => {
           {props.title}
         </Link>
         <Text type="cardParagraph">{props.children}</Text>
-        {/* <Button type="red">Weiterlesen</Button> */}
         <Link to={props.to} type="redLink">
           {props.btnText}
         </Link>
@@ -47,4 +45,4 @@ const card = props => {
   )
 }
 
-export default card
+export default Card

@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import classes from "./Footer.module.css"
 
-const footer = props => {
+const Footer = props => {
   return (
     <footer className={classes.Footer}>
       <div>
@@ -69,4 +69,4 @@ const footer = props => {
   )
 }
 
-export default footer
+export default Footer

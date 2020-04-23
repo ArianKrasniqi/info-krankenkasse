@@ -2,7 +2,7 @@ import React from "react"
 
 import classes from "./InfoRow.module.css"
 
-const infoRow = props => (
+const InfoRow = props => (
   <div className={classes.Row}>
     <div>
       {props.children}
@@ -12,4 +12,4 @@ const infoRow = props => (
   </div>
 )
 
-export default infoRow
+export default InfoRow

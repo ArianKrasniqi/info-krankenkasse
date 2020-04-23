@@ -9,7 +9,7 @@ import Select from "@material-ui/core/Select"
 
 import classes from "./Input.module.css"
 
-const input = props => {
+const Input = props => {
   let input = ""
   let options = ""
   switch (props.type) {
@@ -272,4 +272,4 @@ const input = props => {
   return input
 }
 
-export default input
+export default Input

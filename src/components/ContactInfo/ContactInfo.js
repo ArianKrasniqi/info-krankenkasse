@@ -7,7 +7,7 @@ import * as content from "../../content/elements/contactinfo"
 
 import classes from "./ContactInfo.module.css"
 
-const cantonInfo = props => {
+const CantonInfo = props => {
   let lang =
     props.lang === "en"
       ? content.en
@@ -29,4 +29,4 @@ const cantonInfo = props => {
   )
 }
 
-export default cantonInfo
+export default CantonInfo

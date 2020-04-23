@@ -2,7 +2,7 @@ import React from "react"
 
 import classes from "./Text.module.css"
 
-const text = props => {
+const Text = props => {
   let text = ""
   switch (props.type) {
     case "title":
@@ -88,4 +88,4 @@ const text = props => {
   return text
 }
 
-export default text
+export default Text

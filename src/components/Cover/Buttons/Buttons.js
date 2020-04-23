@@ -3,7 +3,7 @@ import React from "react"
 import Link from "../../../elements/Link/Link"
 import classes from "./Buttons.module.css"
 
-const buttons = props => (
+const Buttons = props => (
   <div>
     <div className={classes.Buttons}>
       <Link to="/praemienrechner" type="coverLink">
@@ -31,4 +31,4 @@ const buttons = props => (
   </div>
 )
 
-export default buttons
+export default Buttons

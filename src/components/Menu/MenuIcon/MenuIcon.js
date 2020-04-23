@@ -2,7 +2,7 @@ import React from "react"
 
 import classes from "./MenuIcon.module.css"
 
-const menuIcon = props => {
+const MenuIcon = props => {
   return (
     <div
       className={
@@ -21,4 +21,4 @@ const menuIcon = props => {
   )
 }
 
-export default menuIcon
+export default MenuIcon

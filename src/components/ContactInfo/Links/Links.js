@@ -4,7 +4,7 @@ import Link from "../../../elements/Link/Link"
 
 import classes from "./Links.module.css"
 
-const cantonInfo = props => (
+const Links = props => (
   <div className={classes.Links}>
     <Link type="whiteLink" to="/praemienrechner">
       {props.text[0]}
@@ -18,4 +18,4 @@ const cantonInfo = props => (
   </div>
 )
 
-export default cantonInfo
+export default Links

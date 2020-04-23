@@ -9,7 +9,7 @@ import TrendingUpIcon from "@material-ui/icons/TrendingUp"
 import LocalAtmIcon from "@material-ui/icons/LocalAtm"
 import classes from "./informationCard.module.css"
 
-const informationCard = props => {
+const InformationCard = props => {
   let location = props.location.split(", ")
   console.log(location)
   return (
@@ -62,4 +62,4 @@ const informationCard = props => {
   )
 }
 
-export default informationCard
+export default InformationCard

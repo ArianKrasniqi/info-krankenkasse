@@ -2,12 +2,11 @@ import React from "react"
 
 import InformationCard from "./InformationCard/InformationCard"
 import Inputs from "./Inputs/Inputs"
-import Button from "../../elements/Button/Button"
 import Text from "../../elements/Text/Text"
 
 import classes from "./ContactCompany.module.css"
 
-const compare = props => {
+const ContactCompany = props => {
   let location = props.location.split(", ")
   console.log(location)
   return (
@@ -45,4 +44,4 @@ const compare = props => {
   )
 }
 
-export default compare
+export default ContactCompany

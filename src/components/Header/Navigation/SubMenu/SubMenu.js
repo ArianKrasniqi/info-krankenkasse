@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import classes from "./SubMenu.module.css"
 
-const SubMenu2 = props => {
+const SubMenu = props => {
   return (
     <div
       className={classes.SubMenu}
@@ -59,4 +59,4 @@ const SubMenu2 = props => {
   )
 }
 
-export default SubMenu2
+export default SubMenu
