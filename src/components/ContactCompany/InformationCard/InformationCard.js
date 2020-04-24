@@ -7,9 +7,9 @@ import SupervisorAccountIcon from "@material-ui/icons/SupervisorAccount"
 import PaymentIcon from "@material-ui/icons/Payment"
 import TrendingUpIcon from "@material-ui/icons/TrendingUp"
 import LocalAtmIcon from "@material-ui/icons/LocalAtm"
-import classes from "./informationCard.module.css"
+import classes from "./InformationCard.module.css"
 
-const InformationCard = props => {
+const InformationCard = (props) => {
   let location = props.location.split(", ")
   console.log(location)
   return (
@@ -22,7 +22,7 @@ const InformationCard = props => {
 
       <InfoRow
         title="Standort"
-        description={location.map(row => {
+        description={location.map((row) => {
           return (
             <span key={row}>
               {row}

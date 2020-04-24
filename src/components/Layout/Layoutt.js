@@ -1,16 +1,16 @@
 import React, { useState } from "react"
 
-import Header from "../Header/Header"
-import Footer from "../Footer/Footer"
+import Header from "../Header/Headerr"
+import Footer from "../Footer/Footerr"
 import Menu from "../Menu/Menu"
 import Modal from "../../elements/Modal/Modal"
 import Text from "../../elements/Text/Text"
 import * as modalContent from "../../content/modals/modals"
 
-import classes from "./Layout.module.css"
+import classes from "./Layoutt.module.css"
 
 //Uppercase
-const Layout = props => {
+const Layout = (props) => {
   const [open, setOpen] = useState(false)
   const [show, setShow] = useState(false)
   const [modal, setModal] = useState("")
@@ -29,7 +29,7 @@ const Layout = props => {
     <div className={classes.Layout}>
       <Modal show={show} clicked={closeModalHandler}>
         {modalContent[modal] !== undefined
-          ? modalContent[modal].map(content => {
+          ? modalContent[modal].map((content) => {
               if (Object.keys(content)[0] === "title") {
                 return <Text type="modalTitle">{content.title}</Text>
               } else if (Object.keys(content)[0] === "description") {
