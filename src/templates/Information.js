@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Text from "../elements/Text/Text"
 import Compare from "../components/Compare/Compare"
 import ContactForm from "../components/ContactForm/ContactForm"
@@ -22,7 +22,7 @@ export const query = graphql`
   }
 `
 
-const Information = props => {
+const Information = (props) => {
   return (
     <Layout>
       <Text type="title">{props.data.markdownRemark.frontmatter.title}</Text>
@@ -60,15 +60,15 @@ const Information = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }
 }
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    onChangeLanguage: lang =>
+    onChangeLanguage: (lang) =>
       dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
   }
 }

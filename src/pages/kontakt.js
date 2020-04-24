@@ -1,14 +1,14 @@
 import React from "react"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Text from "../elements/Text/Text"
 import ContactForm from "../components/ContactForm/ContactForm"
 import RightCards from "../components/RightCards/RightCards"
 import RightCard from "../elements/RightCard/RightCard"
 import * as content from "../content/kontakt"
 
-const Kontakt = props => {
+const Kontakt = (props) => {
   let lang =
     props.lang === "en"
       ? content.en
@@ -43,7 +43,7 @@ const Kontakt = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }

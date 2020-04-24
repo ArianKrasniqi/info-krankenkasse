@@ -2,14 +2,14 @@ import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Card from "../components/Card/Card"
 import Text from "../elements/Text/Text"
 import * as actionTypes from "../store/actions"
 
 import * as content from "../content/informationen"
 
-const Informationen = props => {
+const Informationen = (props) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -67,15 +67,15 @@ const Informationen = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }
 }
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    onChangeLanguage: lang =>
+    onChangeLanguage: (lang) =>
       dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
   }
 }

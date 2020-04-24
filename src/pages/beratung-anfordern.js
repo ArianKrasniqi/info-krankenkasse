@@ -1,12 +1,12 @@
 import React from "react"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Text from "../elements/Text/Text"
 import ContactForm from "../components/ContactForm/ContactForm"
 import * as content from "../content/beratung-anfordern"
 
-const BeratungAnfordern = props => {
+const BeratungAnfordern = (props) => {
   let lang =
     props.lang === "en"
       ? content.en
@@ -38,7 +38,7 @@ const BeratungAnfordern = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }

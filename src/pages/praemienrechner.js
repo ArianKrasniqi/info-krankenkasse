@@ -1,12 +1,12 @@
 import React from "react"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Text from "../elements/Text/Text"
 import Compare from "../components/Compare/Compare"
 import * as content from "../content/praemienrechner"
 
-const Praemienrechner = props => {
+const Praemienrechner = (props) => {
   let lang =
     props.lang === "en"
       ? content.en
@@ -41,7 +41,7 @@ const Praemienrechner = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }

@@ -2,14 +2,14 @@ import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Compare from "../components/Compare/Compare"
 import ContactInfo from "../components/ContactInfo/ContactInfo"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
 import * as content from "../content/krankenkasse-schweiz"
 
-const KrankenkasseSchweiz = props => {
+const KrankenkasseSchweiz = (props) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -78,7 +78,7 @@ const KrankenkasseSchweiz = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }

@@ -2,12 +2,12 @@ import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import { connect } from "react-redux"
 
-import Layout from "../components/Layout/Layout"
+import Layout from "../components/Layout/Layoutt"
 import Lists from "../components/Lists/Lists"
 import Text from "../elements/Text/Text"
 import * as content from "../content/templates/Glossar"
 
-const Glossar = props => {
+const Glossar = (props) => {
   const data = useStaticQuery(
     graphql`
       query {
@@ -63,7 +63,7 @@ const Glossar = props => {
       <Text type="title">{lang.title}</Text>
       <Text type="paragraph">{lang.description}</Text>
       {lang.others
-        ? lang.others.map(content => {
+        ? lang.others.map((content) => {
             if (Object.keys(content)[0] === "subtitle") {
               return <Text type="subtitle">{content.subtitle}</Text>
             } else if (Object.keys(content)[0] === "content") {
@@ -80,7 +80,7 @@ const Glossar = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }
