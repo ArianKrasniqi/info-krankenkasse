@@ -9,6 +9,7 @@ import * as modalContent from "../../content/modals/modals"
 
 import classes from "./Layout.module.css"
 
+//Uppercase
 const Layout = props => {
   const [open, setOpen] = useState(false)
   const [show, setShow] = useState(false)
