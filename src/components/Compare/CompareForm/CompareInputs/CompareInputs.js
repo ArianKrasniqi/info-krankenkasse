@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { connect } from "react-redux"
 
-import Button from "../../../../elements/Button/Button"
+import Button from "../../../../elements/Button/Buttonn"
 import Input from "../../../../elements/Input/Input"
 import formModel from "../../formModel"
 import formModel2 from "../../formModel2"
@@ -21,7 +21,7 @@ import {
   checkPLZ,
 } from "../../../SideForm/SideFormInputs/validity"
 
-const CompareInputs = props => {
+const CompareInputs = (props) => {
   const [inputs, setInputs] = useState(formModel)
   const [canton, setCanton] = useState("")
   const [prices, setPrices] = useState({})
@@ -51,7 +51,7 @@ const CompareInputs = props => {
     console.log(newInputs)
     const value = event.target.value
 
-    const index = inputs.findIndex(input => {
+    const index = inputs.findIndex((input) => {
       return input.id === id
     })
 
@@ -142,7 +142,7 @@ const CompareInputs = props => {
       setInputs(formModel2)
       props.onChangeStep(2)
     } else if (errors === 0 && props.step === 2) {
-      inputs.forEach(input => {
+      inputs.forEach((input) => {
         input.defaultValue = ""
       })
       props.changeOpen(false)
@@ -160,10 +160,10 @@ const CompareInputs = props => {
       ? [classes.Potencial, classes.Hide].join(" ")
       : classes.Potencial
 
-  const franchiseHandler = franchise => {
+  const franchiseHandler = (franchise) => {
     setActiveFranchise(franchise)
   }
-  const priceGroupHandler = priceGroup => {
+  const priceGroupHandler = (priceGroup) => {
     setActivePriceGroup(priceGroup)
   }
 
@@ -171,7 +171,7 @@ const CompareInputs = props => {
     <React.Fragment>
       <form className={classes.Form}>
         <div className={PricesClasses}>
-          {Object.keys(prices).map(price => {
+          {Object.keys(prices).map((price) => {
             console.log(price)
             let text = ""
             if (price === "Hausarzt") {
@@ -244,7 +244,7 @@ const CompareInputs = props => {
             {props.content.smallDescription}
           </Text>
         </div>
-        {inputs.map(el => (
+        {inputs.map((el) => (
           <Input
             error={el.error}
             id={el.id}
@@ -260,7 +260,7 @@ const CompareInputs = props => {
             }
             values={el.values}
             style={{ width: "30%" }}
-            changed={event =>
+            changed={(event) =>
               changeHelperText(
                 // specify keys: event, validation, id, minLength, label, element
                 {
@@ -278,7 +278,7 @@ const CompareInputs = props => {
         ))}
 
         <Button
-          clicked={event =>
+          clicked={(event) =>
             submitHandler(event, inputs[inputs.length - 1].defaultValue)
           }
           type="red"
@@ -290,16 +290,16 @@ const CompareInputs = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
     step: state.step,
   }
 }
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    onChangeStep: step =>
+    onChangeStep: (step) =>
       dispatch({ type: actionTypes.CHANGE_STEP, step: step }),
   }
 }

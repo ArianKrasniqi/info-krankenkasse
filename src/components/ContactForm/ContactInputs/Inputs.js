@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 
 import Input from "../../../elements/Input/Input"
-import Button from "../../../elements/Button/Button"
+import Button from "../../../elements/Button/Buttonn"
 import formModel from "./formModel"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
 import Radio from "@material-ui/core/Radio"
@@ -18,7 +18,7 @@ import {
   checkPLZ,
 } from "../../SideForm/SideFormInputs/validity"
 
-const Inputs = props => {
+const Inputs = (props) => {
   const [inputs, setInputs] = useState(formModel)
   // const [canton, setCanton] = useState("")
 
@@ -36,7 +36,7 @@ const Inputs = props => {
     const newInputs = [...inputs]
     const value = event.target.value
 
-    const index = inputs.findIndex(input => {
+    const index = inputs.findIndex((input) => {
       return input.id === id
     })
 
@@ -86,12 +86,12 @@ const Inputs = props => {
     setInputs([...newInputs])
   }
 
-  const submitHandler = event => {
+  const submitHandler = (event) => {
     event.preventDefault()
 
     let errors = 0
     console.log("Inside")
-    inputs.forEach(input => {
+    inputs.forEach((input) => {
       if (input.defaultValue === "") {
         errors++
         changeHelperText(
@@ -110,7 +110,7 @@ const Inputs = props => {
 
     if (errors <= 1) {
       alert("You did!")
-      inputs.forEach(input => {
+      inputs.forEach((input) => {
         input.defaultValue = ""
       })
     }
@@ -136,7 +136,7 @@ const Inputs = props => {
         />
       </RadioGroup>
 
-      {inputs.map(el => (
+      {inputs.map((el) => (
         <Input
           error={el.error}
           id={el.id}
@@ -150,7 +150,7 @@ const Inputs = props => {
           options={el.options}
           values={el.values}
           style={el.style}
-          changed={event =>
+          changed={(event) =>
             changeHelperText(
               // specify keys: event, validation, id, minLength, label, element
               {
@@ -170,7 +170,7 @@ const Inputs = props => {
       <Button
         type="red"
         element="submit"
-        clicked={event => submitHandler(event)}
+        clicked={(event) => submitHandler(event)}
         style={{ width: "310px", marginRight: "0px" }}
       >
         {props.btnText ? props.btnText : "OFFERTE ANFORDERN"}

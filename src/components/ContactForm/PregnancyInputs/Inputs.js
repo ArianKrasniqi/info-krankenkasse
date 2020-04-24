@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 
 import Input from "../../../elements/Input/Input"
-import Button from "../../../elements/Button/Button"
+import Button from "../../../elements/Button/Buttonn"
 import formModel from "./formModel"
 
 import classes from "./Inputs.module.css"

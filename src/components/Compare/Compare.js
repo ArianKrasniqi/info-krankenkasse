@@ -2,14 +2,14 @@ import React, { useState } from "react"
 import { connect } from "react-redux"
 
 import Text from "../../elements/Text/Text"
-import Button from "../../elements/Button/Button"
+import Button from "../../elements/Button/Buttonn"
 import CompareForm from "./CompareForm/CompareForm"
 import * as actionTypes from "../../store/actions"
 import * as content from "../../content/elements/compare"
 
 import classes from "./Compare.module.css"
 
-const Compare = props => {
+const Compare = (props) => {
   const [open, setOpen] = useState(false)
 
   const openHandler = () => {
@@ -38,22 +38,22 @@ const Compare = props => {
       <CompareForm
         content={lang}
         open={open}
-        changeOpen={value => setOpen(value)}
+        changeOpen={(value) => setOpen(value)}
       />
     </div>
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
     step: state.step,
   }
 }
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    onChangeStep: step =>
+    onChangeStep: (step) =>
       dispatch({ type: actionTypes.CHANGE_STEP, step: step }),
   }
 }
