@@ -3,10 +3,10 @@ import { Link } from "gatsby"
 import { connect } from "react-redux"
 import { navigate } from "gatsby"
 
-import classes from "./Languages.module.css"
+import classes from "./languages.module.css"
 import * as actionTypes from "../../../store/actions"
 
-const Languages = props => {
+const Languages = (props) => {
   const changeLanguageHandler = (event, lang) => {
     event.preventDefault()
     const url = typeof window !== "undefined" ? window.location.href : ""
@@ -41,7 +41,7 @@ const Languages = props => {
     <ul className={classes.Languages}>
       <li className={props.lang === "de" ? classes.Active : ""}>
         <Link
-          onClick={event => {
+          onClick={(event) => {
             changeLanguageHandler(event, "de")
           }}
         >
@@ -50,7 +50,7 @@ const Languages = props => {
       </li>
       <li className={props.lang === "fr" ? classes.Active : ""}>
         <Link
-          onClick={event => {
+          onClick={(event) => {
             changeLanguageHandler(event, "fr")
           }}
         >
@@ -59,7 +59,7 @@ const Languages = props => {
       </li>
       <li className={props.lang === "it" ? classes.Active : ""}>
         <Link
-          onClick={event => {
+          onClick={(event) => {
             changeLanguageHandler(event, "it")
           }}
         >
@@ -68,7 +68,7 @@ const Languages = props => {
       </li>
       <li className={props.lang === "en" ? classes.Active : ""}>
         <Link
-          onClick={event => {
+          onClick={(event) => {
             changeLanguageHandler(event, "en")
           }}
         >
@@ -79,15 +79,15 @@ const Languages = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }
 }
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    onChangeLanguage: lang =>
+    onChangeLanguage: (lang) =>
       dispatch({ type: actionTypes.CHANGE_LANG, langPrefix: lang }),
   }
 }
