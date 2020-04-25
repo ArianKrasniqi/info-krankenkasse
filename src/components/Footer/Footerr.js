@@ -1,9 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import classes from "./Footer.module.css"
+import classes from "./footer.module.css"
 
-const Footer = props => {
+const Footer = (props) => {
   return (
     <footer className={classes.Footer}>
       <div>
@@ -36,7 +36,7 @@ const Footer = props => {
               <a
                 className={classes.Link}
                 href="/"
-                onClick={event => props.clicked(event, "impressum")}
+                onClick={(event) => props.clicked(event, "impressum")}
               >
                 Impressum
               </a>
@@ -45,7 +45,7 @@ const Footer = props => {
               <a
                 className={classes.Link}
                 href="/"
-                onClick={event => props.clicked(event, "datenschutz")}
+                onClick={(event) => props.clicked(event, "datenschutz")}
               >
                 Datenschutz
               </a>
@@ -54,7 +54,7 @@ const Footer = props => {
               <a
                 className={classes.Link}
                 href="/"
-                onClick={event => props.clicked(event, "rechtliches")}
+                onClick={(event) => props.clicked(event, "rechtliches")}
               >
                 Haftungsausschluss und Rechtliches
               </a>

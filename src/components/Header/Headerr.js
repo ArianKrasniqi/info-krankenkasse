@@ -1,14 +1,14 @@
 import React, { useState } from "react"
 import { connect } from "react-redux"
 
-import Navigation from "./Navigation/Navigation"
-import Languages from "./Languages/Languages"
+import Navigation from "./Navigation/navigation"
+import Languages from "./Languages/languages"
 import SubMenu from "./Navigation/SubMenu/SubMenu"
 import * as content from "../../content/elements/navigation"
 
-import classes from "./Header.module.css"
+import classes from "./header.module.css"
 
-const Header = props => {
+const Header = (props) => {
   let lang =
     props.lang === "en"
       ? content.en
@@ -50,7 +50,7 @@ const Header = props => {
     </div>
   )
 }
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }
