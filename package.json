@@ -20,7 +20,7 @@
     "axios": "^0.19.2",
     "gatsby": "^2.19.7",
     "gatsby-plugin-material-ui": "^2.1.6",
-    "gatsby-source-filesystem": "^2.2.4",
+    "gatsby-source-filesystem": "^2.3.0",
     "gatsby-transformer-remark": "^2.7.1",
     "react": "^16.13.1",
     "react-dom": "^16.12.0",
