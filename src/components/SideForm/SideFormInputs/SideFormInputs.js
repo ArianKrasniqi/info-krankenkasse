@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import axios from "axios"
 
 import Button from "../../../elements/Button/Buttonn"
 import formModel from "../formModel"
@@ -81,26 +82,26 @@ const SideFormInputs = (props) => {
 
     if (errors === 0) {
       alert("You did!")
-      // fetch(`http://formsubmit.allpartner.ch/`, {
-      //   username: inputs[0].defaultValue,
-      // })
-      //   .then((response) => response.json()) // parse JSON from request
-      //   .then((resultData) => {
-      //     console.log(resultData)
-      //   }) // set data for the number of stars
 
-      fetch("https://formsubmit.allpartner.ch/", {
-        method: "POST",
-        headers: {
-          "Content-Type": "text/plain",
-        },
-        body: JSON.stringify({ username: inputs[0].defaultValue }),
+      axios({
+        method: "post",
+        url: "https://getform.io/f/eafcc5a5-3606-4dda-90d3-c319b7ad728d",
+        data: new FormData({
+          vorname: inputs[0].defaultValue,
+          lastname: inputs[1].defaultValue,
+        }),
       })
-        .then(function (response) {
-          return console.log(response.text())
+        .then((r) => {
+          handleServerResponse(true, "Thanks!", {
+            vorname: inputs[0].defaultValue,
+            lastname: inputs[1].defaultValue,
+          })
         })
-        .then((result) => {
-          console.log(result)
+        .catch((r) => {
+          handleServerResponse(false, r.response.data.error, {
+            vorname: inputs[0].defaultValue,
+            lastname: inputs[1].defaultValue,
+          })
         })
     }
   }
