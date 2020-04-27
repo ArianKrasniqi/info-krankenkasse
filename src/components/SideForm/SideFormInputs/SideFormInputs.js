@@ -14,7 +14,7 @@ import {
   selectError,
 } from "./validity"
 
-const SideFormInputs = props => {
+const SideFormInputs = (props) => {
   const [inputs, setInputs] = useState(formModel)
 
   const changeHelperText = ({
@@ -30,7 +30,7 @@ const SideFormInputs = props => {
     const newInputs = [...inputs]
     const value = event.target.value
 
-    const index = inputs.findIndex(input => {
+    const index = inputs.findIndex((input) => {
       return input.id === id
     })
 
@@ -57,7 +57,7 @@ const SideFormInputs = props => {
     setInputs([...newInputs])
   }
 
-  const submitHandler = event => {
+  const submitHandler = (event) => {
     event.preventDefault()
 
     let errors = 0
@@ -81,11 +81,21 @@ const SideFormInputs = props => {
 
     if (errors === 0) {
       alert("You did!")
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: {
+          "form-name": "sideform",
+          vorname: inputs[0].defaultValue,
+        },
+      })
+        .then(() => alert("Success!"))
+        .catch((error) => alert(error))
     }
   }
 
   return (
-    <form>
+    <form name="sideform" netlify>
       <FormControlLabel
         control={<Checkbox checked={true} name="Male" size="small" />}
         label="Herr"
@@ -95,7 +105,7 @@ const SideFormInputs = props => {
         label="Frau"
       />
 
-      {inputs.map(el => (
+      {inputs.map((el) => (
         <Input
           error={el.error}
           id={el.id}
@@ -106,7 +116,7 @@ const SideFormInputs = props => {
           defaultValue={el.defaultValue}
           helperText={el.helperText}
           options={el.options}
-          changed={event =>
+          changed={(event) =>
             changeHelperText(
               // specify keys: event, validation, id, minLength, label, element
               {
@@ -124,7 +134,7 @@ const SideFormInputs = props => {
       <Button
         element="submit"
         type="redFullWidth"
-        clicked={event => submitHandler(event)}
+        clicked={(event) => submitHandler(event)}
       >
         {props.btnText}
       </Button>
