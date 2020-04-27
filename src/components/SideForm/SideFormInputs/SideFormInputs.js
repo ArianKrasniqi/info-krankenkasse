@@ -81,11 +81,27 @@ const SideFormInputs = (props) => {
 
     if (errors === 0) {
       alert("You did!")
-      fetch(`http://formsubmit.allpartner.ch/`, {username: inputs[0].defaultValue})
-      .then(response => response.json()) // parse JSON from request
-      .then(resultData => {
-        console.log(resultData)
-      }) // set data for the number of stars
+      // fetch(`http://formsubmit.allpartner.ch/`, {
+      //   username: inputs[0].defaultValue,
+      // })
+      //   .then((response) => response.json()) // parse JSON from request
+      //   .then((resultData) => {
+      //     console.log(resultData)
+      //   }) // set data for the number of stars
+
+      fetch("http://formsubmit.allpartner.ch/", {
+        method: "POST",
+        headers: {
+          "Content-Type": "text/plain",
+        },
+        body: JSON.stringify({ username: inputs[0].defaultValue }),
+      })
+        .then(function (response) {
+          return console.log(response.text())
+        })
+        .then((result) => {
+          console.log(result)
+        })
     }
   }
 
