@@ -89,7 +89,7 @@ const SideFormInputs = (props) => {
       //     console.log(resultData)
       //   }) // set data for the number of stars
 
-      fetch("http://formsubmit.allpartner.ch/", {
+      fetch("https://formsubmit.allpartner.ch/", {
         method: "POST",
         headers: {
           "Content-Type": "text/plain",
