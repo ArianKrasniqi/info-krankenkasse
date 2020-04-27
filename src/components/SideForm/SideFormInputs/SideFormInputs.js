@@ -81,21 +81,16 @@ const SideFormInputs = (props) => {
 
     if (errors === 0) {
       alert("You did!")
-      fetch("/", {
-        method: "POST",
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: {
-          "form-name": "sideform",
-          vorname: inputs[0].defaultValue,
-        },
-      })
-        .then(() => alert("Success!"))
-        .catch((error) => alert(error))
+      fetch(`http://formsubmit.allpartner.ch/`, {username: inputs[0].defaultValue})
+      .then(response => response.json()) // parse JSON from request
+      .then(resultData => {
+        console.log(resultData)
+      }) // set data for the number of stars
     }
   }
 
   return (
-    <form name="sideform" netlify>
+    <form name="sideform" data-netlify="true" method="POST">
       <FormControlLabel
         control={<Checkbox checked={true} name="Male" size="small" />}
         label="Herr"
