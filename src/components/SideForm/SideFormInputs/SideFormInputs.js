@@ -87,27 +87,24 @@ const SideFormInputs = (props) => {
         method: "post",
         url: "https://getform.io/f/eafcc5a5-3606-4dda-90d3-c319b7ad728d",
         data: new FormData({
-          vorname: inputs[0].defaultValue,
-          lastname: inputs[1].defaultValue,
+          form: document.getElementById("sideform"),
         }),
       })
         .then((r) => {
           handleServerResponse(true, "Thanks!", {
-            vorname: inputs[0].defaultValue,
-            lastname: inputs[1].defaultValue,
+            form: document.getElementById("sideform"),
           })
         })
         .catch((r) => {
           handleServerResponse(false, r.response.data.error, {
-            vorname: inputs[0].defaultValue,
-            lastname: inputs[1].defaultValue,
+            form: document.getElementById("sideform"),
           })
         })
     }
   }
 
   return (
-    <form name="sideform" data-netlify="true" method="POST">
+    <form id="sideform" name="sideform" data-netlify="true" method="POST">
       <FormControlLabel
         control={<Checkbox checked={true} name="Male" size="small" />}
         label="Herr"
