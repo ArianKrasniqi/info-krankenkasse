@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:500&display=swap");
+
 .Price {
   cursor: pointer;
   width: 48%;
@@ -9,6 +11,8 @@
   padding: 7px 0;
   box-sizing: border-box;
   transition: all 0.2s linear;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
 }
 .Price span {
   font-size: 19px;

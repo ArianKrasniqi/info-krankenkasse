@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:500&display=swap");
+
 .Button:focus,
 .White:focus,
 .Red:focus,
@@ -13,6 +15,8 @@
   background: #f6f6f6;
   font-size: 18px;
   font-family: inherit;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
 }
 
 .Button:hover {
@@ -32,6 +36,8 @@
   font-weight: 400;
   float: right;
   margin-top: -36.5px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
 }
 
 .Red {

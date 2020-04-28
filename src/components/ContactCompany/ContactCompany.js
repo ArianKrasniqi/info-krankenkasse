@@ -6,7 +6,7 @@ import Text from "../../elements/Text/Text"
 
 import classes from "./ContactCompany.module.css"
 
-const ContactCompany = props => {
+const ContactCompany = (props) => {
   let location = props.location.split(", ")
   console.log(location)
   return (
@@ -17,7 +17,7 @@ const ContactCompany = props => {
           bestellen:
         </h3>
         <Text type="paragraph">Was ist Ihnen wichtig?</Text>
-        <Inputs />
+        <Inputs name={props.name} />
         <div className={classes.Bottom}>
           {/* <Button type="red" style={{ width: "310px", marginRight: "0px" }}>
             OFFERTE ANFORDERN

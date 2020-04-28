@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import axios from "axios"
 
 import Input from "../../../elements/Input/Input"
 import Button from "../../../elements/Button/Buttonn"
@@ -15,7 +16,7 @@ import {
   checkPLZ,
 } from "../../SideForm/SideFormInputs/validity"
 
-const Inputs = props => {
+const Inputs = (props) => {
   const [inputs, setInputs] = useState(formModel)
   // const [canton, setCanton] = useState("")
 
@@ -33,7 +34,7 @@ const Inputs = props => {
     const newInputs = [...inputs]
     const value = event.target.value
 
-    const index = inputs.findIndex(input => {
+    const index = inputs.findIndex((input) => {
       return input.id === id
     })
 
@@ -83,11 +84,11 @@ const Inputs = props => {
     setInputs([...newInputs])
   }
 
-  const submitHandler = event => {
+  const submitHandler = (event) => {
     event.preventDefault()
 
     let errors = 0
-    inputs.forEach(input => {
+    inputs.forEach((input) => {
       if (input.defaultValue === "") {
         errors++
         changeHelperText(
@@ -106,7 +107,38 @@ const Inputs = props => {
 
     if (errors <= 1) {
       alert("You did!")
-      inputs.forEach(input => {
+
+      var formData = new FormData()
+
+      formData.append("Type", "Vorgeburtliche anmeldung")
+      formData.append("vorname", inputs[0].defaultValue)
+      formData.append("nachname", inputs[1].defaultValue)
+      formData.append("strasse", inputs[2].defaultValue)
+      formData.append("PLZ", inputs[3].defaultValue)
+      formData.append("Ort", inputs[4].defaultValue)
+      formData.append("Telefon", inputs[5].defaultValue)
+      formData.append("E-Mail", inputs[6].defaultValue)
+      formData.append(
+        "Geburtsdatum",
+        "Voraussichtlicher geburtstermin" + inputs[7].defaultValue
+      )
+      formData.append("Anzahl Personen im Haushalt", inputs[8].defaultValue)
+      formData.append("Aktuelle Krankenkasse", "")
+      formData.append("Nachricht", "")
+
+      axios({
+        method: "post",
+        url: "https://getform.io/f/84e5f7b4-ac9c-41e8-b869-9c725d5df8f8",
+        data: formData,
+      })
+        .then((r) => {
+          console.log(r)
+        })
+        .catch((r) => {
+          console.log(r)
+        })
+
+      inputs.forEach((input) => {
         input.defaultValue = ""
       })
     }
@@ -114,7 +146,7 @@ const Inputs = props => {
 
   return (
     <div className={classes.Inputs}>
-      {inputs.map(el => (
+      {inputs.map((el) => (
         <Input
           error={el.error}
           id={el.id}
@@ -128,7 +160,7 @@ const Inputs = props => {
           options={el.options}
           values={el.values}
           style={el.style}
-          changed={event =>
+          changed={(event) =>
             changeHelperText(
               // specify keys: event, validation, id, minLength, label, element
               {
@@ -148,7 +180,7 @@ const Inputs = props => {
       <Button
         type="red"
         element="submit"
-        clicked={event => submitHandler(event)}
+        clicked={(event) => submitHandler(event)}
         style={{ width: "310px", marginRight: "0px" }}
       >
         {props.btnText ? props.btnText : "OFFERTE ANFORDERN"}

@@ -1,12 +1,14 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:300, 400&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Rajdhani:400,600,700&display=swap");
 
 .Title {
-  font-size: 28px;
+  font-size: 30px;
   line-height: 38px;
-  font-weight: 500;
+  font-weight: 600;
   margin-top: 0px;
-  margin-bottom: 40px;
-  font-family: inherit;
+  margin-bottom: 20px;
+  color: #1e1e1e;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .Paragraph {
@@ -25,8 +27,8 @@
 
 .SmallParagraph {
   font-size: 15px;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 300;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 400;
 }
 
 .ListItem {
@@ -39,31 +41,33 @@
   font-size: 24px;
   line-height: 1.4;
   margin-top: 40px;
-  font-family: Montserrat, sans-serif;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .SmallSubtitle {
   font-weight: 500;
-  font-size: 18px;
+  font-size: 20px;
   margin-top: 30px;
+  font-weight: 600;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .CompareSubtitle {
   color: #d81f27;
   font-weight: 700;
   font-size: 22px;
-  line-height: 30px;
+  line-height: 26px;
   margin-bottom: 20px;
-  font-family: Montserrat, sans-serif;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .CompareSmallSubtitle {
   width: 100%;
   text-align: center;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 20px;
   margin-bottom: 15px;
-  font-family: Montserrat, sans-serif;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .formTitle {

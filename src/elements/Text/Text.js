@@ -2,11 +2,15 @@ import React from "react"
 
 import classes from "./Text.module.css"
 
-const Text = props => {
+const Text = (props) => {
   let text = ""
   switch (props.type) {
     case "title":
-      text = <h1 className={classes.Title}>{props.children}</h1>
+      text = (
+        <h1 className={classes.Title} style={props.style}>
+          {props.children}
+        </h1>
+      )
       break
     case "subtitle":
       text = <p className={classes.Subtitle}>{props.children}</p>

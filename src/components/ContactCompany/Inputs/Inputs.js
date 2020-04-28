@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import axios from "axios"
 
 import Input from "../../../elements/Input/Input"
 import Button from "../../../elements/Button/Buttonn"
@@ -110,6 +111,34 @@ const Inputs = (props) => {
 
     if (errors <= 1) {
       alert("You did!")
+
+      var formData = new FormData()
+
+      formData.append("Type", "Für " + props.name)
+      formData.append("vorname", inputs[0].defaultValue)
+      formData.append("nachname", inputs[1].defaultValue)
+      formData.append("strasse", inputs[2].defaultValue)
+      formData.append("PLZ", inputs[3].defaultValue)
+      formData.append("Ort", inputs[4].defaultValue)
+      formData.append("Telefon", inputs[5].defaultValue)
+      formData.append("E-Mail", inputs[6].defaultValue)
+      formData.append("Geburtsdatum", inputs[7].defaultValue)
+      formData.append("Anzahl Personen im Haushalt", inputs[8].defaultValue)
+      formData.append("Aktuelle Krankenkasse", inputs[9].defaultValue)
+      formData.append("Nachricht", inputs[10].defaultValue)
+
+      axios({
+        method: "post",
+        url: "https://getform.io/f/84e5f7b4-ac9c-41e8-b869-9c725d5df8f8",
+        data: formData,
+      })
+        .then((r) => {
+          console.log(r)
+        })
+        .catch((r) => {
+          console.log(r)
+        })
+
       inputs.forEach((input) => {
         input.defaultValue = ""
       })

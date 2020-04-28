@@ -45,7 +45,9 @@ const Informationen = (props) => {
   let prefix = props.lang === "de" ? "" : props.lang + "/"
   return (
     <Layout>
-      <Text type="title">{lang.title}</Text>
+      <Text type="title" style={{ marginBottom: "0px" }}>
+        {lang.title}
+      </Text>
       {data.allMarkdownRemark.edges.map((edge, index) => {
         return edge.node.frontmatter.type === "info" &&
           edge.node.frontmatter.lang === props.lang ? (
