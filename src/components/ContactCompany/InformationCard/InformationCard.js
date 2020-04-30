@@ -11,10 +11,11 @@ import classes from "./InformationCard.module.css"
 
 const InformationCard = (props) => {
   let location = props.location.split(", ")
-  console.log(location)
   return (
     <div className={classes.Information}>
-      <h3>{props.shortname} Kontakt & Adresse</h3>
+      <h3 style={{ color: `${props.color}` }}>
+        {props.shortname} Kontakt & Adresse
+      </h3>
 
       <InfoRow title={props.name}>
         <BusinessIcon />

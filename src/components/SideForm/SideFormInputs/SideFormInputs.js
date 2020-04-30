@@ -5,7 +5,8 @@ import Button from "../../../elements/Button/Buttonn"
 import formModel from "../formModel"
 import Input from "../../../elements/Input/Input"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
-import Checkbox from "@material-ui/core/Checkbox"
+import Radio from "@material-ui/core/Radio"
+import RadioGroup from "@material-ui/core/RadioGroup"
 
 import {
   lengthError,
@@ -17,6 +18,7 @@ import {
 
 const SideFormInputs = (props) => {
   const [inputs, setInputs] = useState(formModel)
+  const [value, setValue] = React.useState("female")
 
   const changeHelperText = ({
     validation,
@@ -90,9 +92,10 @@ const SideFormInputs = (props) => {
       console.log(inputs[2].defaultValue)
 
       formData.append("Type", "SideForm")
-      formData.append("vorname", inputs[0].defaultValue)
-      formData.append("nachname", inputs[1].defaultValue)
-      formData.append("strasse", inputs[2].defaultValue)
+      formData.append("Geschlecht", value)
+      formData.append("Vorname", inputs[0].defaultValue)
+      formData.append("Nachname", inputs[1].defaultValue)
+      formData.append("Strasse", inputs[2].defaultValue)
       formData.append("PLZ", inputs[3].defaultValue)
       formData.append("Ort", inputs[4].defaultValue)
       formData.append("Telefon", inputs[5].defaultValue)
@@ -120,16 +123,30 @@ const SideFormInputs = (props) => {
     }
   }
 
+  const checkHandler = (event) => {
+    setValue(event.target.value)
+  }
+
   return (
     <form id="sideform" name="sideform" data-netlify="true" method="POST">
-      <FormControlLabel
-        control={<Checkbox checked={true} name="Male" size="small" />}
-        label="Herr"
-      />
-      <FormControlLabel
-        control={<Checkbox checked={true} name="Female" size="small" />}
-        label="Frau"
-      />
+      <RadioGroup
+        aria-label="gender"
+        name="gender"
+        value={value}
+        onChange={checkHandler}
+        style={{ display: "flex", flexDirection: "row" }}
+      >
+        <FormControlLabel
+          value="male"
+          control={<Radio size="small" color="default" />}
+          label="Herr"
+        />
+        <FormControlLabel
+          value="female"
+          control={<Radio size="small" color="default" />}
+          label="Frau"
+        />
+      </RadioGroup>
 
       {inputs.map((el) => (
         <Input

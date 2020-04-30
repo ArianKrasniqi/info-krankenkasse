@@ -28,11 +28,13 @@ export const query = graphql`
   }
 `
 
-const Company = props => {
+const Company = (props) => {
   const frontmatter = props.data.markdownRemark.frontmatter
   return (
     <Layout>
-      <Text type="title">{frontmatter.name}</Text>
+      <Text type="title" style={{ color: `${frontmatter.color}` }}>
+        {frontmatter.name}
+      </Text>
 
       <Text type="paragraph">{frontmatter.description}</Text>
 
@@ -41,6 +43,7 @@ const Company = props => {
         shortname={frontmatter.shortName}
         location={frontmatter.location}
         insured={frontmatter.insured}
+        color={frontmatter.color}
         refundPeriod={frontmatter.refundPeriod}
         solvencyRate={frontmatter.solvencyRate}
         administrativeExpenses={frontmatter.administrativeExpenses}

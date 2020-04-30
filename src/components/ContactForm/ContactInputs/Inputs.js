@@ -21,7 +21,7 @@ import {
 
 const Inputs = (props) => {
   const [inputs, setInputs] = useState(formModel)
-  // const [canton, setCanton] = useState("")
+  const [value, setValue] = React.useState("female")
 
   const changeHelperText = ({
     validation,
@@ -115,9 +115,10 @@ const Inputs = (props) => {
       var formData = new FormData()
 
       formData.append("Type", "SideForm")
-      formData.append("vorname", inputs[0].defaultValue)
-      formData.append("nachname", inputs[1].defaultValue)
-      formData.append("strasse", inputs[2].defaultValue)
+      formData.append("Geschlecht", value)
+      formData.append("Vorname", inputs[0].defaultValue)
+      formData.append("Nachname", inputs[1].defaultValue)
+      formData.append("Strasse", inputs[2].defaultValue)
       formData.append("PLZ", inputs[3].defaultValue)
       formData.append("Ort", inputs[4].defaultValue)
       formData.append("Telefon", inputs[5].defaultValue)
@@ -145,26 +146,30 @@ const Inputs = (props) => {
     }
   }
 
+  const checkHandler = (event) => {
+    setValue(event.target.value)
+  }
+
   return (
     <form className={classes.Inputs}>
       <RadioGroup
-        className={classes.Radios}
         aria-label="gender"
-        name="gender1"
-        value="female"
+        name="gender"
+        value={value}
+        onChange={checkHandler}
+        style={{ display: "flex", flexDirection: "row", width: "100%" }}
       >
         <FormControlLabel
-          value="female"
-          control={<Radio size="small" />}
-          label="Female"
+          value="male"
+          control={<Radio size="small" color="default" />}
+          label="Herr"
         />
         <FormControlLabel
-          value="male"
-          control={<Radio size="small" />}
-          label="Male"
+          value="female"
+          control={<Radio size="small" color="default" />}
+          label="Frau"
         />
       </RadioGroup>
-
       {inputs.map((el) => (
         <Input
           error={el.error}
