@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import axios from "axios"
 import { connect } from "react-redux"
 
 import Button from "../../../../elements/Button/Buttonn"
@@ -29,6 +30,7 @@ const CompareInputs = (props) => {
   const [activeFranchise, setActiveFranchise] = useState("500")
   const [activePriceGroup, setActivePriceGroup] = useState("Hausarzt")
   const [maxPrices, setMaxPrices] = useState(null)
+  const [krankenkasse, setKrankenkasse] = useState("")
 
   if (props.step === 1 && inputs !== formModel) {
     setInputs(formModel)
@@ -138,13 +140,61 @@ const CompareInputs = (props) => {
 
       setFranchises(franchises)
       setPrices(cantonPrices)
-
       setInputs(formModel2)
+      setKrankenkasse(inputs[0].defaultValue)
+
       props.onChangeStep(2)
     } else if (errors === 0 && props.step === 2) {
+      let sparpotential =
+        maxPrices !== null && activePriceGroup !== null
+          ? (
+              (maxPrices[activeFranchise] -
+                prices[activePriceGroup][activeFranchise]) *
+              12
+            ).toFixed(2)
+          : ""
+
+      let formData = new FormData()
+
+      formData.append("Type", "Compare")
+      // formData.append("Geschlecht", value)
+
+      formData.append("Krankenkasse", activePriceGroup)
+      formData.append(
+        "Krankenkasse Premie",
+        prices[activePriceGroup][activeFranchise]
+      )
+      formData.append("Franchise", activeFranchise)
+      formData.append("Sparpotential", sparpotential)
+
+      formData.append("Vorname", inputs[0].defaultValue)
+      formData.append("Nachname", inputs[1].defaultValue)
+      formData.append("Strasse", inputs[2].defaultValue)
+      formData.append("PLZ", canton.zipcode)
+      formData.append("Ort", canton.place)
+      formData.append("Telefon", inputs[3].defaultValue)
+      formData.append("E-Mail", inputs[4].defaultValue)
+      formData.append("Geburtsdatum", inputs[5].defaultValue)
+      formData.append("Anzahl Personen im Haushalt", inputs[6].defaultValue)
+      formData.append("Aktuelle Krankenkasse", krankenkasse)
+
+      // SideForm Url
+      axios({
+        method: "post",
+        url: "https://getform.io/f/4b978560-bef5-4494-a35a-d3bdc51ddc61",
+        data: formData,
+      })
+        .then((r) => {
+          console.log(r)
+        })
+        .catch((r) => {
+          console.log(r)
+        })
+
       inputs.forEach((input) => {
         input.defaultValue = ""
       })
+
       props.changeOpen(false)
     }
   }
@@ -172,7 +222,6 @@ const CompareInputs = (props) => {
       <form className={classes.Form}>
         <div className={PricesClasses}>
           {Object.keys(prices).map((price) => {
-            console.log(price)
             let text = ""
             if (price === "Hausarzt") {
               text = props.content.hausarzt

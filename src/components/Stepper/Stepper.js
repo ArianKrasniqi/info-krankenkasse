@@ -4,25 +4,20 @@ import classes from "./Stepper.module.css"
 
 const Stepper = (props) => (
   <div
-    class={
-      props.step === 1
-        ? classes.Container
-        : [classes.Container, classes.ContainerAnime].join(" ")
-    }
+    class={[
+      classes.Container,
+      props.step === 1 ? "" : classes.ContainerAnime,
+    ].join(" ")}
   >
     <div
-      class={
-        props.step === 1
-          ? classes.Circle
-          : [classes.Circle, classes.CircleAnime].join(" ")
-      }
+      class={[classes.Circle, props.step === 1 ? "" : classes.CircleAnime].join(
+        " "
+      )}
     >
       <span
-        class={
-          props.step === 1
-            ? classes.One
-            : [classes.One, classes.OneAnime].join(" ")
-        }
+        class={[classes.One, props.step === 1 ? "" : classes.OneAnime].join(
+          " "
+        )}
       >
         1
       </span>
@@ -34,6 +29,14 @@ const Stepper = (props) => (
         2
       </span>
     </div>
+    <span
+      class={[
+        classes.StaticTwo,
+        props.step === 1 ? "" : classes.StaticTwoAnime,
+      ].join(" ")}
+    >
+      2
+    </span>
   </div>
 )
 

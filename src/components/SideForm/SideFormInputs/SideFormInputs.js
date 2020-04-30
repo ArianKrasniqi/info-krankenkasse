@@ -87,10 +87,6 @@ const SideFormInputs = (props) => {
 
       var formData = new FormData()
 
-      console.log(inputs[0].defaultValue)
-      console.log(inputs[1].defaultValue)
-      console.log(inputs[2].defaultValue)
-
       formData.append("Type", "SideForm")
       formData.append("Geschlecht", value)
       formData.append("Vorname", inputs[0].defaultValue)
