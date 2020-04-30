@@ -9,11 +9,10 @@
 }
 
 .Steps {
-  border: 1px solid blue;
   margin: 20px auto;
   margin-top: 0px;
-  height: 70px;
-  width: 140px;
+  height: auto;
+  width: fit-content;
 }
 
 .FormInputs {
