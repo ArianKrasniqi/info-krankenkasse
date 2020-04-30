@@ -1,7 +1,7 @@
 .Container {
   background: #cbcbcb;
-  width: 140px;
-  height: 50px;
+  width: 110px;
+  height: 40px;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -9,13 +9,13 @@
 }
 
 .ContainerAnime {
-  animation: color 1s 1.5s ease forwards;
+  animation: color 0.7s 0.5s ease forwards;
 }
 
 .Circle {
   background: #fff;
-  width: 54px;
-  height: 54px;
+  width: 44px;
+  height: 44px;
   font-family: "Alfa Slab One", cursive;
   font-size: 18px;
   color: #cbcbcb;
@@ -27,8 +27,8 @@
 }
 
 .CircleAnime {
-  animation: fadeout 1s ease-in-out forwards, move 1.4s 1s ease-in-out forwards,
-    fadein 1s 2.4s ease-in-out forwards;
+  animation: fadeout 0.5s ease-in-out forwards,
+    move 0.7s 0.5s ease-in-out forwards, fadein 0.5s 1.2s ease-in-out forwards;
 }
 
 .One {
@@ -47,40 +47,40 @@
 
 @keyframes fadeout {
   0% {
-    width: 54px;
-    height: 54px;
+    width: 44px;
+    height: 44px;
     font-size: 18px;
     box-shadow: 6px 10px 20px 0px rgba(0, 0, 0, 0.6);
   }
   60% {
-    width: 44px;
-    height: 44px;
+    width: 34px;
+    height: 34px;
     font-size: 16.5px;
     box-shadow: 6px 10px 20px 0px rgba(0, 0, 0, 0.4);
   }
   100% {
-    width: 48px;
-    height: 48px;
+    width: 38px;
+    height: 38px;
     font-size: 17px;
     box-shadow: 6px 10px 20px 0px rgba(0, 0, 0, 0.5);
   }
 }
 @keyframes fadein {
   0% {
-    width: 48px;
-    height: 48px;
+    width: 38px;
+    height: 38px;
     font-size: 17px;
     box-shadow: 6px 10px 20px 0px rgba(0, 0, 0, 0.5);
   }
   60% {
-    width: 56px;
-    height: 56px;
+    width: 46px;
+    height: 46px;
     font-size: 18.2px;
     box-shadow: 6px 10px 20px 0px rgba(0, 0, 0, 0.65);
   }
   100% {
-    width: 54px;
-    height: 54px;
+    width: 44px;
+    height: 44px;
     font-size: 18px;
     box-shadow: 6px 10px 20px 0px rgba(0, 0, 0, 0.6);
   }
@@ -90,10 +90,10 @@
     transform: translateX(0px);
   }
   60% {
-    transform: translateX(94px);
+    transform: translateX(70px);
   }
   100% {
-    transform: translateX(86px);
+    transform: translateX(66px);
   }
 }
 
@@ -102,7 +102,7 @@
     background: #cbcbcb;
   }
   100% {
-    background: #55d681;
+    background: #e61b1b;
   }
 }
 
