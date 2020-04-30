@@ -10,11 +10,13 @@ const ContactCompany = (props) => {
   return (
     <div className={classes.Container}>
       <div className={classes.Form}>
-        <h3>
+        <h3 style={{ color: `${props.color}` }}>
           Jetzt Information und Offerte für die passende Krankenversicherung
           bestellen:
         </h3>
-        <Text type="paragraph">Was ist Ihnen wichtig?</Text>
+        <Text type="paragraph" style={{ color: `${props.color}` }}>
+          Was ist Ihnen wichtig?
+        </Text>
         <Inputs name={props.name} color={props.color} />
         <div className={classes.Bottom}>
           <Text

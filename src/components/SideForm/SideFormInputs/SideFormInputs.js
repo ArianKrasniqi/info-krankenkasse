@@ -103,11 +103,11 @@ const SideFormInputs = (props) => {
       formData.append("Geburtsdatum", inputs[7].defaultValue)
       formData.append("Anzahl Personen im Haushalt", inputs[8].defaultValue)
       formData.append("Aktuelle Krankenkasse", inputs[9].defaultValue)
-      formData.append("Nachricht", "")
 
+      // SideForm Url
       axios({
         method: "post",
-        url: "https://getform.io/f/84e5f7b4-ac9c-41e8-b869-9c725d5df8f8",
+        url: "https://getform.io/f/bd2103e6-ff4d-4b2e-a17b-433c230d8f41",
         data: formData,
       })
         .then((r) => {

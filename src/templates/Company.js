@@ -58,7 +58,11 @@ const Company = (props) => {
           )
         } else if (line.depth === 2) {
           return (
-            <Text type="subtitle" key={`${line.value.slice(0, 10)}-${index}`}>
+            <Text
+              type="subtitle"
+              style={{ color: `${frontmatter.color}` }}
+              key={`${line.value.slice(0, 10)}-${index}`}
+            >
               {line.value}
             </Text>
           )

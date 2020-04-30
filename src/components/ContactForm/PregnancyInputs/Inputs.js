@@ -122,17 +122,15 @@ const Inputs = (props) => {
       formData.append("Ort", inputs[4].defaultValue)
       formData.append("Telefon", inputs[5].defaultValue)
       formData.append("E-Mail", inputs[6].defaultValue)
-      formData.append(
-        "Geburtsdatum",
-        "Voraussichtlicher geburtstermin" + inputs[7].defaultValue
-      )
+      formData.append("Geburtsdatum", "Geburtstermin" + inputs[7].defaultValue)
       formData.append("Anzahl Personen im Haushalt", inputs[8].defaultValue)
       formData.append("Aktuelle Krankenkasse", "")
-      formData.append("Nachricht", "")
+      formData.append("Nachricht", inputs[10].defaultValue)
 
+      // ContactFormURL
       axios({
         method: "post",
-        url: "https://getform.io/f/84e5f7b4-ac9c-41e8-b869-9c725d5df8f8",
+        url: "https://getform.io/f/16d014b0-7892-4850-a172-c60e7400627e",
         data: formData,
       })
         .then((r) => {
