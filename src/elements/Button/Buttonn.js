@@ -38,6 +38,13 @@ const Button = (props) => {
         </button>
       )
       break
+    case "redMsg":
+      button = (
+        <button className={classes.Msg} onClick={props.clicked}>
+          {props.children}
+        </button>
+      )
+      break
 
     default:
       button = <button>{props.children}</button>

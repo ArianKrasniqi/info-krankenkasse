@@ -83,7 +83,8 @@ const SideFormInputs = (props) => {
     })
 
     if (errors === 0) {
-      alert("You did!")
+      props.afterSubmitHandler()
+      props.spinnerHandler(true)
 
       var formData = new FormData()
 
@@ -107,7 +108,8 @@ const SideFormInputs = (props) => {
         data: formData,
       })
         .then((r) => {
-          console.log(r)
+          props.spinnerHandler(false)
+          props.msgHandler(true)
         })
         .catch((r) => {
           console.log(r)
@@ -123,8 +125,8 @@ const SideFormInputs = (props) => {
     setValue(event.target.value)
   }
 
-  return (
-    <form id="sideform" name="sideform" data-netlify="true" method="POST">
+  return props.show ? (
+    <form id="sideform" name="sideform">
       <RadioGroup
         aria-label="gender"
         name="gender"
@@ -178,7 +180,7 @@ const SideFormInputs = (props) => {
         {props.btnText}
       </Button>
     </form>
-  )
+  ) : null
 }
 
 export default SideFormInputs

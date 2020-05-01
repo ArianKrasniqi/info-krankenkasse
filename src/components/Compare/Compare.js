@@ -37,6 +37,7 @@ const Compare = (props) => {
       </div>
       <CompareForm
         step={props.step}
+        lang={props.lang}
         content={lang}
         open={open}
         changeOpen={(value) => setOpen(value)}

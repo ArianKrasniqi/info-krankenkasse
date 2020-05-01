@@ -144,7 +144,14 @@ const CompareInputs = (props) => {
       setKrankenkasse(inputs[0].defaultValue)
 
       props.onChangeStep(2)
+
+      inputs.forEach((input) => {
+        input.defaultValue = ""
+      })
     } else if (errors === 0 && props.step === 2) {
+      props.afterSubmitHandler()
+      props.spinnerHandler(true)
+
       let sparpotential =
         maxPrices !== null && activePriceGroup !== null
           ? (
@@ -186,6 +193,8 @@ const CompareInputs = (props) => {
       })
         .then((r) => {
           console.log(r)
+          props.spinnerHandler(false)
+          props.msgHandler(true)
         })
         .catch((r) => {
           console.log(r)
@@ -195,7 +204,7 @@ const CompareInputs = (props) => {
         input.defaultValue = ""
       })
 
-      props.changeOpen(false)
+      // props.changeOpen(false)
     }
   }
 

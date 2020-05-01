@@ -61,3 +61,12 @@
   width: 100%;
   margin: 20px 0px 10px 0px;
 }
+
+.Msg {
+  cursor: pointer;
+  background: #d81f27;
+  border: none;
+  color: #fff;
+  height: 40px;
+  width: 160px;
+}
