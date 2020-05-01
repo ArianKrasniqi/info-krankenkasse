@@ -109,7 +109,8 @@ const Inputs = (props) => {
     })
 
     if (errors <= 1) {
-      alert("You did!")
+      props.afterSubmitHandler()
+      props.spinnerHandler(true)
 
       var formData = new FormData()
 
@@ -135,6 +136,8 @@ const Inputs = (props) => {
       })
         .then((r) => {
           console.log(r)
+          props.spinnerHandler(false)
+          props.msgHandler(true)
         })
         .catch((r) => {
           console.log(r)

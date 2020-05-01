@@ -8,7 +8,7 @@ import * as content from "../../content/elements/contactforms"
 
 import classes from "./ContactForm.module.css"
 
-const ContactForm = props => {
+const ContactForm = (props) => {
   let lang =
     props.lang === "en"
       ? content.en
@@ -17,7 +17,7 @@ const ContactForm = props => {
       : props.lang === "it"
       ? content.it
       : content.de
-  return (
+  return props.show ? (
     <div
       className={
         props.type === "contact"
@@ -27,9 +27,21 @@ const ContactForm = props => {
       style={props.style}
     >
       {props.type === "contact" ? (
-        <ContactInputs btnText={lang.contactBtn} lang={props.lang} />
+        <ContactInputs
+          btnText={lang.contactBtn}
+          lang={props.lang}
+          afterSubmitHandler={props.afterSubmitHandler}
+          spinnerHandler={props.spinnerHandler}
+          msgHandler={props.msgHandler}
+        />
       ) : (
-        <PregnancyInputs btnText={lang.preContactBtn} lang={props.lang} />
+        <PregnancyInputs
+          btnText={lang.preContactBtn}
+          lang={props.lang}
+          afterSubmitHandler={props.afterSubmitHandler}
+          spinnerHandler={props.spinnerHandler}
+          msgHandler={props.msgHandler}
+        />
       )}
       <div className={classes.Bottom}>
         <Text
@@ -40,10 +52,10 @@ const ContactForm = props => {
         </Text>
       </div>
     </div>
-  )
+  ) : null
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }

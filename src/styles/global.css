@@ -14,6 +14,13 @@ body {
   width: 70%;
 }
 
+.ContactContainer {
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 @media (max-width: 1200px) {
   .ContactLeft {
     width: 65%;

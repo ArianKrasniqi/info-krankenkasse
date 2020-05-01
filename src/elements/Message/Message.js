@@ -21,7 +21,7 @@ const Message = (props) => {
     </Button>
   )
 
-  if (!props.btnShow) {
+  if (props.btnShow === false) {
     button = null
   }
 
@@ -29,8 +29,8 @@ const Message = (props) => {
     <div className={classes.Message}>
       <Text type="paragraph">{lang.title}</Text>
       <Text type="title">{lang.bigTitle}</Text>
-      <Text type="smallParagraph">{lang.text}</Text>
       {button}
+      <Text type="smallParagraph">{lang.text}</Text>
     </div>
   ) : null
 }

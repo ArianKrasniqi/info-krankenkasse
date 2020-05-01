@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { graphql } from "gatsby"
 import { connect } from "react-redux"
 
@@ -6,6 +6,8 @@ import Layout from "../components/Layout/Layoutt"
 import Text from "../elements/Text/Text"
 import Compare from "../components/Compare/Compare"
 import ContactForm from "../components/ContactForm/ContactForm"
+import Message from "../elements/Message/Message"
+import Spinner from "../elements/Spinner/Spinner"
 import * as actionTypes from "../store/actions"
 
 export const query = graphql`
@@ -23,6 +25,22 @@ export const query = graphql`
 `
 
 const Information = (props) => {
+  const [show, setShow] = useState(true)
+  const [spinner, setSpinner] = useState(false)
+  const [msg, setMsg] = useState(false)
+
+  const afterSubmitHandler = () => {
+    setShow(false)
+  }
+  const spinnerHandler = (value) => {
+    setSpinner(value)
+  }
+  const msgHandler = (value) => {
+    setMsg(value)
+    if (!value) {
+      setShow(true)
+    }
+  }
   return (
     <Layout>
       <Text type="title">{props.data.markdownRemark.frontmatter.title}</Text>
@@ -50,7 +68,18 @@ const Information = (props) => {
           return line.value === "Form" ? (
             <Compare key={`${line.value}-${index}`} />
           ) : line.value === "Form2" ? (
-            <ContactForm key={`${line.value}-${index}`} />
+            <div>
+              <ContactForm
+                key={`${line.value}-${index}`}
+                show={true}
+                show={show}
+                afterSubmitHandler={afterSubmitHandler}
+                spinnerHandler={spinnerHandler}
+                msgHandler={msgHandler}
+              />
+              <Message show={msg} lang={props.lang} msgHandler={msgHandler} />
+              <Spinner show={spinner} />
+            </div>
           ) : null
         } else {
           return null
