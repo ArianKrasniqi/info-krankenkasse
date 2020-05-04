@@ -12,6 +12,8 @@ import * as content from "../content/index"
 import * as actionTypes from "../store/actions"
 
 const Index = (props) => {
+  console.log("window.innerWidth")
+  console.log(window.innerWidth)
   let lang =
     props.lang === "en"
       ? content.en
@@ -24,7 +26,14 @@ const Index = (props) => {
     <Layout>
       <Cover texts={lang.coverButton}></Cover>
 
-      <Text type="title" class="IndexTitle">
+      <Text
+        type="title"
+        style={
+          typeof window !== "undefined" && window.innerWidth < 500
+            ? { fontSize: "27px" }
+            : null
+        }
+      >
         {lang.title}
       </Text>
       <Text type="paragraph">{lang.description[0]}</Text>
