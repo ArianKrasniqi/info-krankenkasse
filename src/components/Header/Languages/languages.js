@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import { connect } from "react-redux"
 import { navigate } from "gatsby"
 
@@ -40,40 +39,44 @@ const Languages = (props) => {
   return (
     <ul className={classes.Languages}>
       <li className={props.lang === "de" ? classes.Active : ""}>
-        <Link
+        <a
+          href="/"
           onClick={(event) => {
             changeLanguageHandler(event, "de")
           }}
         >
           DE
-        </Link>
+        </a>
       </li>
       <li className={props.lang === "fr" ? classes.Active : ""}>
-        <Link
+        <a
+          href="/"
           onClick={(event) => {
             changeLanguageHandler(event, "fr")
           }}
         >
           FR
-        </Link>
+        </a>
       </li>
       <li className={props.lang === "it" ? classes.Active : ""}>
-        <Link
+        <a
+          href="/"
           onClick={(event) => {
             changeLanguageHandler(event, "it")
           }}
         >
           IT
-        </Link>
+        </a>
       </li>
       <li className={props.lang === "en" ? classes.Active : ""}>
-        <Link
+        <a
+          href="/"
           onClick={(event) => {
             changeLanguageHandler(event, "en")
           }}
         >
           EN
-        </Link>
+        </a>
       </li>
     </ul>
   )

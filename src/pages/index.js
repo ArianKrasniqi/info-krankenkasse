@@ -12,8 +12,6 @@ import * as content from "../content/index"
 import * as actionTypes from "../store/actions"
 
 const Index = (props) => {
-  console.log("window.innerWidth")
-  console.log(window.innerWidth)
   let lang =
     props.lang === "en"
       ? content.en
@@ -44,13 +42,25 @@ const Index = (props) => {
       <div className="SideFormAndContent">
         <SideForm />
 
-        {lang.others.map((content) => {
+        {lang.others.map((content, index) => {
           if (Object.keys(content)[0] === "subtitle") {
-            return <Text type="subtitle">{content.subtitle}</Text>
+            return (
+              <Text type="subtitle" key={`subtitle-${index}`}>
+                {content.subtitle}
+              </Text>
+            )
           } else if (Object.keys(content)[0] === "content") {
-            return <Text type="paragraph">{content.content}</Text>
+            return (
+              <Text type="paragraph" key={`paragraph-${index}`}>
+                {content.content}
+              </Text>
+            )
           } else if (Object.keys(content)[0] === "smallsubtitle") {
-            return <Text type="smallSubtitle">{content.smallsubtitle}</Text>
+            return (
+              <Text type="smallSubtitle" key={`smallSubtitle-${index}`}>
+                {content.smallsubtitle}
+              </Text>
+            )
           } else {
             return null
           }

@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import classes from "./SubMenu.module.css"
 
-const SubMenu = props => {
+const SubMenu = (props) => {
   return (
     <div
       className={classes.SubMenu}
@@ -16,8 +16,8 @@ const SubMenu = props => {
           : { transform: "translateY(-100vh)", opacity: "0" }
       }
     >
-      <div class={classes.Content}>
-        <ul class={classes.Informationen}>
+      <div className={classes.Content}>
+        <ul className={classes.Informationen}>
           <li>
             <Link to="/informationen/krankenkasse-kuendigen">
               {props.content.subpages[0]}
@@ -48,7 +48,7 @@ const SubMenu = props => {
           </li>
         </ul>
 
-        <ul class={classes.Contact}>
+        <ul className={classes.Contact}>
           <li>
             <Link to="/kontakt">{props.content.subpages[6]}</Link>
           </li>
