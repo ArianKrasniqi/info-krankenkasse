@@ -46,7 +46,6 @@ const ContactCompany = (props) => {
               name={props.name}
               color={props.color}
               show={show}
-              show={show}
               afterSubmitHandler={afterSubmitHandler}
               spinnerHandler={spinnerHandler}
               msgHandler={msgHandler}

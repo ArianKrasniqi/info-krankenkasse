@@ -42,3 +42,9 @@ body {
     flex-direction: column;
   }
 }
+
+@media (max-width: 600px) {
+  .IndexTitle {
+    font-size: 28px;
+  }
+}

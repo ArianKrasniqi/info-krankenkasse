@@ -71,7 +71,6 @@ const Information = (props) => {
             <div class="ContactContainer">
               <ContactForm
                 key={`${line.value}-${index}`}
-                show={true}
                 show={show}
                 afterSubmitHandler={afterSubmitHandler}
                 spinnerHandler={spinnerHandler}

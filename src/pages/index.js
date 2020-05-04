@@ -24,7 +24,9 @@ const Index = (props) => {
     <Layout>
       <Cover texts={lang.coverButton}></Cover>
 
-      <Text type="title">{lang.title}</Text>
+      <Text type="title" class="IndexTitle">
+        {lang.title}
+      </Text>
       <Text type="paragraph">{lang.description[0]}</Text>
       <Text type="paragraph">{lang.description[1]}</Text>
 
