@@ -68,7 +68,7 @@ const Information = (props) => {
           return line.value === "Form" ? (
             <Compare key={`${line.value}-${index}`} />
           ) : line.value === "Form2" ? (
-            <div>
+            <div class="ContactContainer">
               <ContactForm
                 key={`${line.value}-${index}`}
                 show={true}

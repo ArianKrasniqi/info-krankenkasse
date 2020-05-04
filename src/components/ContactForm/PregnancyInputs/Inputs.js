@@ -125,8 +125,8 @@ const Inputs = (props) => {
       formData.append("E-Mail", inputs[6].defaultValue)
       formData.append("Geburtsdatum", "Geburtstermin" + inputs[7].defaultValue)
       formData.append("Anzahl Personen im Haushalt", inputs[8].defaultValue)
-      formData.append("Aktuelle Krankenkasse", "")
-      formData.append("Nachricht", inputs[10].defaultValue)
+      formData.append("Aktuelle Krankenkasse", "Keine")
+      formData.append("Nachricht", " ")
 
       // ContactFormURL
       axios({
