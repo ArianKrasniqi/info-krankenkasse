@@ -23,7 +23,11 @@ const Text = (props) => {
       )
       break
     case "paragraph":
-      text = <p className={classes.Paragraph}>{props.children}</p>
+      text = (
+        <p className={classes.Paragraph} style={props.style}>
+          {props.children}
+        </p>
+      )
       break
     case "cardParagraph":
       let children = props.children
@@ -48,7 +52,11 @@ const Text = (props) => {
       )
       break
     case "compareSubtitle":
-      text = <p className={classes.CompareSubtitle}>{props.children}</p>
+      text = (
+        <p className={[classes.CompareSubtitle, "RedLetters"].join(" ")}>
+          {props.children}
+        </p>
+      )
       break
     case "compareSmallSubtitle":
       text = (

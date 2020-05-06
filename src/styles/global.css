@@ -5,6 +5,18 @@ body {
   margin: 0;
 }
 
+.RedLetters {
+  color: #d21e27;
+}
+
+.RedBorder {
+  border: 1px solid #d21e27;
+}
+
+.RedBack {
+  background: #d21e27;
+}
+
 .Contact {
   display: flex;
   justify-content: space-between;

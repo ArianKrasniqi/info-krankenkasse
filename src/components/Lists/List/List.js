@@ -4,7 +4,7 @@ import { connect } from "react-redux"
 
 import classes from "./List.module.css"
 
-const List = props => {
+const List = (props) => {
   let lang = props.lang === "de" ? "" : props.lang + "/"
   return (
     <div className={classes.List}>
@@ -15,7 +15,12 @@ const List = props => {
           slug = slug[0]
           return (
             <li key={`${data}-${index}`}>
-              <Link to={`${lang}${props.prelink}${slug}`}>{data}</Link>
+              <Link
+                className="RedLetters"
+                to={`${lang}${props.prelink}${slug}`}
+              >
+                {data}
+              </Link>
             </li>
           )
         })}
@@ -24,7 +29,7 @@ const List = props => {
   )
 }
 
-const mapStateToProps = state => {
+const mapStateToProps = (state) => {
   return {
     lang: state.lang,
   }

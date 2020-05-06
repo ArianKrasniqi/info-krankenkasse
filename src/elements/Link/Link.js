@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 import classes from "./Link.module.css"
 
-const LinkComp = props => {
+const LinkComp = (props) => {
   let link = ""
   switch (props.type) {
     case "whiteLink":
@@ -15,7 +15,7 @@ const LinkComp = props => {
       break
     case "redLink":
       link = (
-        <Link to={props.to} className={classes.RedLink}>
+        <Link to={props.to} className={[classes.RedLink, "RedBack"].join(" ")}>
           {props.children}
         </Link>
       )

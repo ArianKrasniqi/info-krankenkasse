@@ -10,7 +10,10 @@ const Button = (props) => {
       break
     case "white":
       button = (
-        <button className={classes.White} onClick={props.clicked}>
+        <button
+          className={[classes.White, "RedBorder RedLetters"].join(" ")}
+          onClick={props.clicked}
+        >
           {props.children}
         </button>
       )
@@ -19,7 +22,7 @@ const Button = (props) => {
       button = (
         <button
           type={props.element}
-          className={classes.Red}
+          className={[classes.Red, "RedBack"].join(" ")}
           onClick={props.clicked}
           style={props.style}
         >
@@ -31,8 +34,9 @@ const Button = (props) => {
       button = (
         <button
           type={props.element}
-          className={[classes.Red, classes.RedFullWidth].join(" ")}
+          className={[classes.Red, classes.RedFullWidth, "RedBack"].join(" ")}
           onClick={props.clicked}
+          style={props.style}
         >
           {props.children}
         </button>
@@ -40,7 +44,10 @@ const Button = (props) => {
       break
     case "redMsg":
       button = (
-        <button className={classes.Msg} onClick={props.clicked}>
+        <button
+          className={[classes.Msg, "RedBack"].join(" ")}
+          onClick={props.clicked}
+        >
           {props.children}
         </button>
       )
