@@ -4,6 +4,8 @@ import { Link } from "gatsby"
 import classes from "./footer.module.css"
 
 const Footer = (props) => {
+  let date = new Date()
+  let year = date.getFullYear()
   return (
     <footer className={classes.Footer}>
       <div>
@@ -62,7 +64,7 @@ const Footer = (props) => {
           </ul>
         </nav>
         <p className={classes.Copyright}>
-          Copyright © 2020 krankenkassenadmin.ch
+          Copyright © {year} info-krankenkasse.ch
         </p>
       </div>
     </footer>
