@@ -104,7 +104,7 @@ const SideFormInputs = (props) => {
       // SideForm Url
       axios({
         method: "post",
-        url: "https://getform.io/f/bd2103e6-ff4d-4b2e-a17b-433c230d8f41",
+        url: "https://getform.io/f/6a52466b-340f-4cb3-b7bb-d59adc39155e",
         data: formData,
       })
         .then((r) => {

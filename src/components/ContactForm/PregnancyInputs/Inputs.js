@@ -131,7 +131,7 @@ const Inputs = (props) => {
       // ContactFormURL
       axios({
         method: "post",
-        url: "https://getform.io/f/16d014b0-7892-4850-a172-c60e7400627e",
+        url: "https://getform.io/f/6f319910-acb1-4e40-b37f-db76289baf0f",
         data: formData,
       })
         .then((r) => {

@@ -188,7 +188,7 @@ const CompareInputs = (props) => {
       // SideForm Url
       axios({
         method: "post",
-        url: "https://getform.io/f/4b978560-bef5-4494-a35a-d3bdc51ddc61",
+        url: "https://getform.io/f/22eac913-eb56-49d1-b25a-0a7bfabdf728",
         data: formData,
       })
         .then((r) => {

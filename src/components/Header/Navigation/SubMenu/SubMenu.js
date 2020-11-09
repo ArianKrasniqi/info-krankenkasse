@@ -13,7 +13,7 @@ const SubMenu = (props) => {
       style={
         props.show
           ? { transform: "translateY(0px)", opacity: "1" }
-          : { transform: "translateY(-100vh)", opacity: "0" }
+          : { transform: "translateY(-110vh)", opacity: "0" }
       }
     >
       <div className={classes.Content}>
